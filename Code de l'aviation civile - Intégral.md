@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1978-04-06
+Version Consolidée au 1979-01-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -11243,6 +11243,25 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+
+
+###### Article D121-31 bis
+
+Le ministre chargé de l'aviation civile peut suspendre l'immatriculation d'un aéronef qui, en vertu d'accords internationaux
+destinés à faciliter l'exploitation internationale de certains aéronefs, doit être immatriculé temporairement dans un autre
+pays, sous réserve que cet aéronef ne soit grevé d'aucune hypothèque ou privilège.
+
+Les modalités de cette suspension sont arrêtées par le ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Créé par_:
+
+  - Décret n°79-26 1979-01-11 art. 1 JORF 12 janvier 1979
 
 
 ###### Article D121-32
