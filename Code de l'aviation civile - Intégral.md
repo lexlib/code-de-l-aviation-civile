@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-02-15
+Version Consolidée au 1973-03-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -64,7 +64,7 @@ Version Consolidée au 1973-02-15
       - [TITRE III : CIRCULATION DES AERONEFS. (art. R131-1 à R134-3)](#61)
         - [CHAPITRE Ier : DROIT DE CIRCULATION. (art. R131-1 à R131-3)](#62)
         - [CHAPITRE II : ATTERRISSAGE. (art. R132-1 à R132-3)](#63)
-        - [CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS. (art. R133-2)](#64)
+        - [CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS. (art. R133-2 à R133-10)](#64)
         - [CHAPITRE IV : REDEVANCES. (art. R134-1 à R134-3)](#65)
       - [TITRE IV : DOMMAGES ET RESPONSABILITES. (art. R141-1 à R142-1)](#66)
         - [CHAPITRE Ier : RESPONSABILITE DES EQUIPAGES ET DES EXPLOITANTS. (art. R141-1 à R141-2)](#67)
@@ -5404,6 +5404,168 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 23 décembre 1980 - art. 1 (Ab)
   - TXT_SOURCE: Arrêté du 23 décembre 1980 - art. 2 (Ab)
   - TXT_SOURCE: Arrêté du 23 décembre 1980 - art. 3 (Ab)
+
+
+###### Article R133-4
+
+Les frais entraînés par les vérifications nécessaires à la délivrance et au maintien en état de validité des certificats et
+laissez-passer mentionnés aux articles R. 133-1 et R. 133-2 sont à la charge du postulant dans les conditions fixées par un
+décret pris sur le rapport du ministre chargé de l'aviation civile et du ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 16 octobre 1987
+  - TXT_SOURCE: Arrêté du 16 octobre 1987 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°73-256 1973-03-06 art. 3 JORF 10 mars 1973
+
+_Abrogé par_:
+
+  - Décret n°2005-1680 du 28 décembre 2005 - art. 3 () JORF 29 décembre 2005
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. D133-1 (V)
+  - Code de l'aviation civile - art. R133-5 (M)
+  - Code de l'aviation civile - art. R330-12 (M)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R133-1 (M)
+  - Code de l'aviation civile - art. R133-2 (V)
+
+
+###### Article R133-6
+
+Sauf autorisation spéciale, est interdit le transport par aéronefs des explosifs, armes et munitions de guerre, pigeons
+voyageurs, objets de correspondance compris dans le monopole postal.
+
+Le transport et l'usage des appareils photographiques peuvent être interdits par arrêté ministériel.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 28
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+
+
+###### Article R133-7
+
+Aucun appareil radiotélégraphique ou radiotéléphonique ne peut être installé à bord d'un aéronef sans autorisation spéciale.
+
+Les aéronefs affectés à un service public de transport de voyageurs doivent être munis d'un dispositif de
+radiotélécommunication dans les conditions qui sont déterminées par décret.
+
+Dans tous les cas, les hommes de l'équipage affectés au service des radiotélécommunications doivent être munis d'une licence
+spéciale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 29
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+
+
+###### Article R133-8
+
+Tout aéronef qui atterrit ou décolle est soumis au contrôle et à la surveillance des autorités administratives quel que soit
+le lieu ou s'effectue le décollage ou l'atterrissage.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 30
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+
+_Abrogé par_:
+
+  - Décret n°2006-1544 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006
+
+
+###### Article R133-9
+
+Tout aéronef en circulation en quelque lieu qu'il se trouve doit se soumettre aux injonctions des services de police et de
+douane, sous quelque forme que ces injonctions lui soient données.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 31
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R133-5 (M)
+
+_Modifié par_:
+
+  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+
+
+###### Article R133-10
+
+Les aéronefs évoluant exclusivement dans les aérodromes et dans les régions agréées par l'autorité administrative comme
+champs d'expérience ne sont pas soumis aux dispositions des articles R. 133-1 à R. 133-7 tant que les évolutions ne donnent
+pas lieu à un spectacle public. Ils ne peuvent toutefois transporter des passagers que s'ils sont munis du certificat de
+navigabilité.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 32
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Arrêté du 30 juillet 1975 - art. 3 (Ab)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R133-1 (V)
+
+_Modifié par_:
+
+  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
 
 
 #### CHAPITRE IV : REDEVANCES.<a id=65></a>
