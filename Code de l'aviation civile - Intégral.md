@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1970-01-05
+Version Consolidée au 1970-10-02
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -53,7 +53,7 @@ Version Consolidée au 1970-01-05
         - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. R122-1 à R122-3)](#50)
         - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. R123-1 à R123-9)](#51)
       - [TITRE III : CIRCULATION DES AERONEFS. (art. R131-1 à R133-2)](#52)
-        - [CHAPITRE Ier : DROIT DE CIRCULATION. (art. R131-1 à R131-2)](#53)
+        - [CHAPITRE Ier : DROIT DE CIRCULATION. (art. R131-1 à R131-3)](#53)
         - [CHAPITRE II : ATTERRISSAGE. (art. R132-1 à R132-3)](#54)
         - [CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS. (art. R133-2)](#55)
       - [TITRE IV : DOMMAGES ET RESPONSABILITES. (art. R141-1 à R142-1)](#56)
@@ -4251,6 +4251,37 @@ _Codifié par_:
 _Cité par_:
 
   - Code de l'aviation civile - art. R151-1 (V)
+
+
+###### Article R131-3
+
+Les évolutions des aéronefs constituant des spectacles publics ne peuvent avoir lieu qu'avec autorisation donnée par le
+préfet, après avis du maire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 22 al. 1
+  - Loi n°1924-05-31 art. 23, al. 1
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Arrêté du 4 avril 1996 - art. 1 (V)
+  - Arrêté du 30 juin 2003 - art. 4 (V)
+  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+  - Arrêté du 29 juillet 2015 (V)
+  - Code de l'aviation civile - art. D233-8 (V)
+  - Code de l'aviation civile - art. R151-1 (V)
+  - Code de l'environnement - art. R414-19 (V)
+
+_Modifié par_:
+
+  - Décret n°70-891 1970-09-25 art. 1 JORF 2 octobre 1970
 
 
 #### CHAPITRE II : ATTERRISSAGE.<a id=54></a>
