@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1976-12-29
+Version Consolidée au 1977-10-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -181,7 +181,7 @@ Version Consolidée au 1976-12-29
     - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D321-2)](#178)
       - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#179)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#180)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D424-6)](#181)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-11)](#181)
       - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#182)
       - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-6)](#183)
         - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#184)
@@ -194,9 +194,11 @@ Version Consolidée au 1976-12-29
           - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#191)
         - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-6)](#192)
           - [Section 2 : Conseil médical (art. D424-2 à D424-6)](#193)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#194)
-      - [Section 1 : Avions photographes. (art. D611-1)](#195)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#196)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-11)](#194)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-11)](#195)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#196)
+      - [Section 1 : Avions photographes. (art. D611-1)](#197)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#198)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -14837,9 +14839,252 @@ _Cite_:
   - Code de l'aviation civile - art. D424-2 (M)
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=194></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=194></a>
 
-### Section 1 : Avions photographes.<a id=195></a>
+#### CHAPITRE V : DISCIPLINE.<a id=195></a>
+
+###### Article D435-1
+
+Les navigants non professionnels de l'aéronautique civile à l'encontre desquels auront été relevées les infractions aux lois
+et règlements concernant l'aviation civile sont passibles de sanctions disciplinaires dans les conditions prévues aux
+articles ci-après.
+
+Ces derniers ne sont toutefois pas applicables aux navigants non professionnels mentionnés à l'article R. 425-4 qui sont
+soumis aux dispositions des articles R. 425-4 à R. 425-19 relatives au régime disciplinaire des personnels navigants
+professionnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Cité par_:
+
+  - Arrêté du 4 avril 1996 - art. 23 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R425-10 (V)
+  - Code de l'aviation civile - art. R425-11 (V)
+  - Code de l'aviation civile - art. R425-12 (M)
+  - Code de l'aviation civile - art. R425-13 (M)
+  - Code de l'aviation civile - art. R425-14 (V)
+  - Code de l'aviation civile - art. R425-15 (M)
+  - Code de l'aviation civile - art. R425-16 (Ab)
+  - Code de l'aviation civile - art. R425-17 (V)
+  - Code de l'aviation civile - art. R425-18 (M)
+  - Code de l'aviation civile - art. R425-19 (V)
+  - Code de l'aviation civile - art. R425-4 (M)
+  - Code de l'aviation civile - art. R425-5 (V)
+  - Code de l'aviation civile - art. R425-6 (V)
+  - Code de l'aviation civile - art. R425-7 (V)
+  - Code de l'aviation civile - art. R425-8 (M)
+  - Code de l'aviation civile - art. R425-9 (M)
+
+_Créé par_:
+
+  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
+
+
+###### Article D435-2
+
+Les sanctions disciplinaires qui peuvent être prononcées à l'encontre des navigants non professionnels sont :
+
+L'avertissement ;
+
+Le retrait temporaire, avec ou sans sursis, des licences ou qualifications ou des cartes de stagiaires ;
+
+Le retrait définitif des mêmes titres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. D435-6 (Ab)
+
+_Créé par_:
+
+  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
+
+
+###### Article D435-5
+
+Lorsque les fautes reprochées à une personne traduite devant la commission de discipline ont été commises à l'occasion d'une
+activité de largage de parachutistes ou de remorquage de planeurs, un représentant de la fédération française de
+parachutistes ou de la fédération française de vol à voile siège à la commission avec voix consultative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Créé par_:
+
+  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
+
+
+###### Article D435-6
+
+Les membres des commissions de discipline sont désignés pour deux ans. Leur mandat est renouvelable. Des membres suppléants
+peuvent être désignés en même temps et dans les mêmes formes que les membres titulaires. Le suppléant du président est
+désigné par les autorités mentionnées à l'article D. 435-3.
+
+Les personnes ayant encouru une condamnation figurant à l'extrait n° 2 du casier judiciaire ou l'une des sanctions prévues à
+l'article D. 435-2 ne peuvent être membres d'une commission de discipline.
+
+Cessent de faire partie d'une commission de discipline les membres qui viennent à perdre la qualité en vertu de laquelle ils
+ont été désignés, qui se démettent de leurs fonctions ou qui sont déclarés démissionnaires pour absence non justifiée à deux
+séances consécutives. Tout membre dont le mandat est interrompu est remplacé selon les formes prévues à l'article D. 435-4 et
+pour la durée restant à courir jusqu'à l'expiration de son mandat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D435-2 (M)
+  - Code de l'aviation civile - art. D435-3 (M)
+  - Code de l'aviation civile - art. D435-4 (M)
+
+_Créé par_:
+
+  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
+
+
+###### Article D435-7
+
+La commission de discipline est saisie par l'autorité auprès de laquelle elle a été instituée.
+
+Le président de la commission notifie à la personne traduite devant elle les poursuites dont elle est l'objet, lui fait
+connaître les griefs articulés à son encontre et l'invite à présenter ses observations par écrit dans un délai qu'il fixe et
+qui ne peut être inférieur à dix jours à compter de la date à laquelle l'intéressé a reçu notification des poursuites.
+
+Il choisit un rapporteur sur une liste nominative établie par l'autorité auprès de laquelle la commission est instituée et
+convoque les membres de la commission ainsi que l'intéressé, qui peut se faire assister ou représenter par une personne de
+son choix.
+
+La commission de discipline ne peut siéger valablement que si quatre au moins de ses membres sont présents. En cas de partage
+égal des voix, la voix du président est prépondérante.
+
+Les réunions de la commission ne sont pas publiques. La commission délibère hors de la présence de l'intéressé ou de son
+représentant. Le rapporteur assiste aux délibérations mais ne prend pas part au vote.
+
+Les délibérations sont secrètes. Il est mis fin par le ministre chargé de l'aviation civile aux fonctions des membres et des
+rapporteurs qui auraient violé le secret des délibérations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Créé par_:
+
+  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
+
+
+###### Article D435-8
+
+Les avis des commissions de discipline sont transmis dans un délai maximum de trois mois à compter de la date à laquelle
+elles ont été saisies à l'autorité compétente désignée à l'article D. 435-3.
+
+Dans le cas où le délai ne peut être respecté, le président de la commission doit solliciter de cette autorité un délai
+supplémentaire.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+discipline des personnels navigants non professionnels).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
+
+_Codifié par_:
+
+  - Décret n°67-335 du 30 mars 1967
+
+_Abrogé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 2
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D435-3
+
+
+###### Article D435-9
+
+L'autorité qui prononce la sanction notifie celle-ci au navigant qui en est l'objet et la communique aux autorités et
+associations aéronautiques intéressées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Créé par_:
+
+  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
+
+
+###### Article D435-10
+
+En cas de faute grave l'autorité compétente pour prononcer la sanction peut, s'il y a urgence, procéder, pour une durée
+maximum de deux mois, au retrait provisoire des licences ou qualifications ou des cartes de stagiaires après avis du
+président de la commission de discipline compétente ou, en son absence, de son suppléant.
+
+Elle rend compte immédiatement au ministre chargé de l'aviation civile de cette décision et saisit sans délai la commission
+de discipline qui doit émettre son avis dans les deux mois.
+
+**Nota:**
+
+: L'article D. 435-11 qui terminait le chapitre a été abrogé par le décret n° 79-445 du 1er juin 1979 (art. 3).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Créé par_:
+
+  - Décret n°77-1140 1977-10-05 art. 1 JORF 12 octobre 1977
+
+
+###### Article D435-11
+
+En cas de poursuite devant les tribunaux répressifs à l'occasion des faits qui ont justifié la mise en oeuvre de la procédure
+disciplinaire, celle-ci est suspendue de plein droit. Toutefois les dispositions de l'alinéa 1er de l'article D. 435-10
+demeurent applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°77-1140 du 5 octobre 1977, art 1 v. init.
+
+_Abrogé par_:
+
+  - Décret n°79-445 du 1 juin 1979, art 1 v. init.
+
+
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=196></a>
+
+### Section 1 : Avions photographes.<a id=197></a>
 
 ###### Article D611-1
 
@@ -14864,7 +15109,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=196></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=198></a>
 
 ###### Article D611-2
 
