@@ -1,13 +1,13 @@
 # Code de l'aviation civile  
-Version Consolidée au 1986-03-20
+Version Consolidée au 1987-06-20
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-17)](#2)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. L110-1 à L110-2)](#3)
-      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS (art. L121-1 à L123-1)](#4)
+      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS (art. L121-1 à L123-3)](#4)
         - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. L121-1 à L121-11)](#5)
         - [CHAPITRE II : HYPOTHEQUES ET PRIVILEGES SUR LES AERONEFS. (art. L122-1 à L122-18)](#6)
-        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. L123-1)](#7)
+        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. L123-1 à L123-3)](#7)
       - [TITRE III : CIRCULATION DES AERONEFS (art. L131-1 à L132-1)](#8)
         - [CHAPITRE Ier : DROIT DE CIRCULATION (art. L131-1 à L131-3)](#9)
         - [CHAPITRE II : ATTERRISSAGE. (art. L132-1)](#10)
@@ -1318,6 +1318,59 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code des transports - art. L6123-3 (V)
+
+
+###### Article L123-2
+
+Sans préjudice des procédures spéciales prévues par le présent code, les aéronefs français et étrangers, affectés à un
+service d'Etat ou à des transports publics, ne peuvent faire l'objet d'une ordonnance de saisie conservatoire que si la
+créance porte sur les sommes dues par le propriétaire à raison de l'acquisition de ces aéronefs ou de contrats de formation
+ou de maintenance liés à leur exploitation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 16
+  - Loi n°1924-05-31 art. 18
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6123-1 (V)
+
+
+###### Article L123-3
+
+En outre, l'autorité publique a le droit de retenir tout aéronef français ou étranger qui ne remplit pas les conditions
+prévues par le présent livre pour se livrer à la circulation aérienne ou dont le pilote a commis une infraction au sens du
+présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6231-1 (V)
 
 
 ### TITRE III : CIRCULATION DES AERONEFS<a id=8></a>
