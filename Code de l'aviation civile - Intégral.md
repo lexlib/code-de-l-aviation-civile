@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2004-07-10
+Version Consolidée au 2004-07-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -57,7 +57,7 @@ Version Consolidée au 2004-07-10
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. L410-1 à L410-6)](#54)
       - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. L421-1 à L427-3)](#55)
         - [CHAPITRE Ier : REGLES GENERALES. (art. L421-1 à L421-9)](#56)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. L422-1 à L422-4)](#57)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. L422-1 à L422-6)](#57)
         - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. L423-1 à L423-6)](#58)
         - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. L424-1 à L424-7)](#59)
         - [CHAPITRE VI : RETRAITES. (art. L426-1 à L426-5)](#60)
@@ -6552,6 +6552,72 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code des transports - art. L6522-4 (V)
+
+
+###### Article L422-5
+
+La durée annuelle du temps de service des salariés qui exercent l'une des fonctions énumérées à l'article L. 421-1 ne peut
+excéder 2 000 heures, dans lesquelles le temps de vol est limité à 900 heures.
+
+Pour l'application du présent article :
+
+- le temps de service comprend au moins la somme des temps de vol, des temps consacrés aux activités connexes au vol et de
+certaines fractions, déterminées par décret pris après consultation des organisations d'employeurs et de salariés
+intéressées, du temps pendant lequel le salarié est présent sur le site de travail et susceptible à tout moment d'être appelé
+pour accomplir un vol ou une tâche relevant de son contrat de travail ;
+
+- le temps de vol est le temps qui s'écoule entre l'heure à laquelle l'aéronef quitte son lieu de stationnement en vue de
+décoller jusqu'à celle à laquelle il s'arrête au lieu de stationnement désigné, une fois que tous les moteurs sont éteints.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30
+
+_Créé par_:
+
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 16 () JORF 14 juillet 2004
+
+_Cité par_:
+
+  - Décret n°2007-1546 du 30 octobre 2007 - art. 1 (V)
+  - Code de l'aviation civile - art. L422-6 (VT)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L421-1 (V)
+
+
+###### Article L422-6
+
+Outre les périodes de congé légal définies par les articles L. 223-2 à L. 223-17 du code du travail, les salariés mentionnés
+à l'article L. 422-5 doivent bénéficier d'au moins 7 jours par mois et d'au moins 96 jours par année civile libres de tout
+service et de toute astreinte. Ces jours, notifiés à l'avance, peuvent comprendre les périodes de repos et tout ou partie des
+temps d'arrêt déterminés par la loi ou le règlement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Créé par_:
+
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 16 () JORF 14 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6525-4 (V)
+
+_Cite_:
+
+  - Code du travail
+  - Code de l'aviation civile - art. L422-5
 
 
 #### CHAPITRE III : CONTRAT DE TRAVAIL.<a id=58></a>
