@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1986-02-28
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-17)](#2)
@@ -20563,6 +20563,42 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°72-444 1972-05-26 art. 1 JORF 1er juin 1972
+
+
+###### Article D424-3
+
+Le conseil médical de l'aéronautique civile comprend :
+
+- un président et un vice-président, docteurs en médecine ;
+
+- huit membres docteurs en médecine, désignés : quatre sur proposition des principales compagnies aériennes françaises, deux
+sur proposition du ministre de la défense, un sur proposition du président d'Aéroports de Paris et un sur proposition du
+ministre de la santé. Exception faite pour ce dernier, les médecins sont désignés en fonction de leur compétence en médecine
+aéronautique ;
+
+- neuf membres choisis parmi des docteurs en médecine particulièrement qualifiés dans une des disciplines essentielles de la
+médecine aéronautique.
+
+Le président, le vice-président et les autres membres du conseil médical sont nommés pour trois ans, par mandats
+renouvelables, par arrêté du ministre chargé de l'aviation civile.
+
+Tout membre du conseil dont le mandat est interrompu est remplacé jusqu'à expiration dudit mandat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°55-1348 1955-10-05 art. 3
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°72-444 1972-05-26 art. 2 JORF 1er juin 1972
+  - Décret n°78-513 1978-04-04 art. 1 JORF 6 avril 1978
+  - Décret n°86-276 1986-02-24 art. 1 JORF 28 février 1986
 
 
 ###### Article D424-4
