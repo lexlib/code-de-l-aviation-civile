@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1977-10-12
+Version Consolidée au 1978-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -25,8 +25,8 @@ Version Consolidée au 1977-10-12
         - [CHAPITRE Ier : DISPOSITIONS GÉNÉRALES. (art. L251-1 à L251-6)](#22)
       - [TITRE VI : AÉROPORT DE BÂLE-MULHOUSE. (art. L260-1)](#23)
       - [TITRE VII : AEROPORTS D'INTERET GENERAL SITUES HORS DU TERRITOIRE DE LA FRANCE MÉTROPOLITAINE. (art. L270-1)](#24)
-      - [TITRE VIII : DISPOSITIONS PENALES (art. L281-2 à L282-17)](#25)
-        - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. L281-2 à L281-4)](#26)
+      - [TITRE VIII : DISPOSITIONS PENALES (art. L281-1 à L282-17)](#25)
+        - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. L281-1 à L281-4)](#26)
         - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. L282-1 à L282-17)](#27)
           - [Section 1 : Répression des crimes et délits. (art. L282-1 à L282-4)](#28)
           - [Section 2 : Police de la conservation. (art. L282-5 à L282-6)](#29)
@@ -71,7 +71,7 @@ Version Consolidée au 1977-10-12
         - [CHAPITRE II : ASSISTANCE, SAUVETAGE, DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS OU D'INCIDENTS. (art. R142-1)](#68)
     - [LIVRE II : AERODROMES. (art. R211-1 à R260-1)](#69)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. R211-1 à R213-9)](#70)
-        - [CHAPITRE Ier : DEFINITIONS, REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. R211-1 à R211-2)](#71)
+        - [CHAPITRE Ier : DEFINITIONS, REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. R211-1 à R211-3)](#71)
         - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R213-1 à R213-9)](#72)
           - [Section 1 : Champ d'application et compétence (art. R213-1)](#73)
           - [Section 3 : Police de l'exploitation (art. R213-2 à R213-9)](#74)
@@ -1954,6 +1954,29 @@ _Cite_:
   - Code de l'aviation civile - art. L150-7 (V)
 
 
+###### Article L150-9
+
+Tous jets volontaires et inutiles d'objets susceptibles de causer des dommages aux personnes et aux biens de la surface sont
+interdits à bord des aéronefs en évolution et seront punis d'une amende de 1 800 F à 20 000 F [*(1)*] et d'une peine de six
+jours à deux mois de prison ou de l'une de ces deux peines seulement, même si ces jets n'ont causé aucun dommage et sans
+préjudice des peines plus fortes qui pourraient être encourues en cas de délit ou de crime.
+
+**Nota:**
+
+[*(1) Taux résultant de la loi n° 77-1968 du 30 décembre 1977 (art. 16).*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 53
+  - Loi n°1924-05-31 art. 71
+
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30
+
+
 ###### Article L150-10
 
 En cas d'accident causé par un aéronef aux personnes de la surface, l'article L. 2 du code de la route, qui prévoit et
@@ -2575,6 +2598,37 @@ _Codifié par_:
 ### TITRE VIII : DISPOSITIONS PENALES<a id=25></a>
 
 #### CHAPITRE Ier : SERVITUDES AERONAUTIQUES.<a id=26></a>
+
+###### Article L281-1
+
+Les infractions aux dispositions réglementaires concernant les servitudes aéronautiques de dégagement et de balisage
+instituées dans l'intérêt de la circulation aérienne sont punies d'une amende de 500 F à 20 000 F [*(1)*].
+
+En cas de récidive, les infractions sont punies d' une amende de 1 000 F à 40 000 F [*(1)*] et d'un emprisonnement de dix
+jours à trois mois ou de l'une de ces deux peines seulement.
+
+**Nota:**
+
+[*(1) Taux résultant de la loi n° 77-1468 du 30 décembre 1977 (art. 16)*].
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 59-62 1959-01-03 art. 1
+
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. L281-2 (VT)
+  - Code de l'aviation civile - art. L281-4 (VT)
+  - Code de l'aviation civile - art. R281-3 (V)
+  - Code de l'urbanisme - art. II (M)
+  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+
 
 ###### Article L281-2
 
@@ -5902,6 +5956,27 @@ _Nouveaux textes_:
 
   - Code de l'aviation civile - art. R211-2-2 (V)
   - Code de l'aviation civile - art. R211-2-2 (VT)
+
+
+###### Article R211-3
+
+Les travaux de création ou d'extension d'infrastructure dont le coût total est supérieur au montant fixé au C de l'article 3
+du décret n° 77-1141 du 12 octobre 1977 donnent lieu à l'établissement préalable de l'étude d'impact définie à l'article 2 du
+même décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°77-1141 1977-10-12 art. 14-I JORF 13 octobre 1977 en vigueur le 1er janvier 1978
+
+_Cite_:
+
+  - Décret n°77-1141 1977-10-12 art. 3
 
 
 #### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=72></a>
