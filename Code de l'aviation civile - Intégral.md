@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-02-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -106,183 +106,182 @@ Version Consolidée au 2003-12-31
         - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. Annexe art. R216-1 à R216-16)](#103)
         - [CHAPITRE VII : SANCTIONS ADMINISTRATIVES (art. R217-1 à R217-5)](#104)
       - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R221-1 à R227-6)](#105)
-        - [CHAPITRE Ier : CREATION ET OUVERTURE. (art. R221-1 à R221-11)](#106)
+        - [CHAPITRE Ier : CREATION ET OUVERTURE. (art. R221-1 à R221-12)](#106)
           - [Section 1 : Dispositions générales. (art. R221-1 à R221-3)](#107)
           - [Section 2 : Création et gestion des aérodromes. (art. R221-4 à R221-11)](#108)
-        - [CHAPITRE 1er : CRÉATION ET OUVERTURE (art. R221-12)](#109)
-          - [Section 3 : Coordination des aérodromes. (art. R221-12)](#110)
-        - [CHAPITRE II : CLASSIFICATION. (art. R222-1 à R222-8)](#111)
-        - [CHAPITRE III : EXPLOITATION. (art. R223-1 à R223-6)](#112)
-        - [CHAPITRE IV : REDEVANCES. (art. R224-1 à R224-6)](#113)
-        - [CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE. (art. R225-1 à R225-5)](#114)
-        - [CHAPITRE VI : SANCTIONS ADMINISTRATIVES. (art. R226-1 à R226-6)](#115)
-        - [CHAPITRE VII : ENVIRONNEMENT DES AERODROMES. (art. R227-1 à R227-6)](#116)
-      - [TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R231-1 à R232-2)](#117)
-        - [CHAPITRE Ier : DEFINITIONS. (art. R231-1)](#118)
-        - [CHAPITRE II : AERODROMES A USAGE RESTREINT. (art. R232-1 à R232-2)](#119)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. R241-1 à R245-2)](#120)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. R241-1 à R241-3)](#121)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. R242-1 à R242-3)](#122)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. R243-1 à R243-3)](#123)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. R244-1)](#124)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. R245-1 à R245-2)](#125)
-      - [TITRE V : AEROPORTS DE PARIS. (art. R252-1 à R254-2)](#126)
-        - [CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE (art. R252-1 à R252-21)](#127)
-          - [Section 1 : Administration et gestion. (art. R252-1 à R252-20)](#128)
-            - [Paragraphe 1 : Conseil d'administration. (art. R252-2 à R252-15)](#129)
-            - [Paragraphe 2 : Directeur général. (art. R252-16 à R252-20)](#130)
-          - [Section 2 : Contrôle. (art. R252-21)](#131)
-        - [CHAPITRE III : RÉGIME FINANCIER (art. R253-3 à R253-6)](#132)
-        - [CHAPITRE IV : DISPOSITIONS DIVERSES. (art. R254-1 à R254-2)](#133)
-      - [TITRE V : AÉROPORT DE PARIS (art. R252-12 à R253-2)](#134)
-        - [CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE (art. R252-12 à R252-18)](#135)
-          - [Section 1 : Administration et gestion (art. R252-12 à R252-18)](#136)
-            - [Paragraphe 1 : Conseil d'administration. (art. R252-12)](#137)
-            - [Paragraphe 2 : Directeur général. (art. R252-18)](#138)
-        - [CHAPITRE III : RÉGIME FINANCIER (art. R253-1 à R253-2)](#139)
-      - [TITRE VI : AEROPORT DE BALE-MULHOUSE. (art. R260-1 à R260-2)](#140)
-      - [TITRE VIII : DISPOSITIONS PENALES (art. R281-1 à R282-8)](#141)
-        - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. R281-1 à R281-3)](#142)
-        - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R282-1 à R282-8)](#143)
-    - [LIVRE III : TRANSPORT AERIEN (art. R321-1 à R360-5)](#144)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-2)](#145)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1 à R321-13)](#146)
-        - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-2)](#147)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-1 à R330-22)](#148)
-      - [TITRE IV : SOCIETE AIR FRANCE. (art. R342-1 à R342-2)](#149)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. R342-1 à R342-2)](#150)
-      - [TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES (art. R351-1 à R351-2)](#151)
-        - [Section 1 : Transports sanitaires. (art. R351-1)](#152)
-        - [Section 2 : Transports par moyens militaires. (art. R351-2)](#153)
-      - [TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE. (art. R360-1 à R360-5)](#154)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. R421-1 à R433-1)](#155)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#156)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#157)
-          - [Section 1 : Catégories. (art. R421-1 à R421-6)](#158)
-          - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-17)](#159)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#160)
-        - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-6)](#161)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. R424-1 à R424-7)](#162)
-        - [CHAPITRE V : DISCIPLINE. (art. R425-1 à R425-19)](#163)
-        - [CHAPITRE VI : RETRAITES. (art. R426-1 à R426-28)](#164)
-          - [Section 1 : Définitions. (art. R426-5)](#165)
-          - [Section 2 : Cotisations. (art. R426-6 à R426-10)](#166)
-          - [Section 3 : Constitution du droit à pension. (art. R426-11 à R426-15-4)](#167)
-          - [Section 4 : Calcul de la pension. (art. R426-16-1 à R426-18-1)](#168)
-          - [Section 5 : Pension de réversion. (art. R426-19 à R426-23)](#169)
-          - [Section 6 : Dispositions diverses. (art. R426-24 à R426-27-1)](#170)
-          - [Section 7 : Dispositions transitoires. (art. R426-28)](#171)
-        - [CHAPITRE VII : DISPOSITIONS PENALES. (art. R427-1)](#172)
-        - [CHAPITRE VIII : DISPOSITIONS COMMUNES. (art. R428-1)](#173)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. R433-1)](#174)
-        - [CHAPITRE III : REDEVANCES. (art. R433-1)](#175)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#176)
-      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#177)
-        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#178)
-        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#179)
-    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-2)](#180)
-    - [LIVRE VII : ENQUÊTE TECHNIQUE RELATIVE AUX ACCIDENTS OU INCIDENTS (art. R711-1 à R741-1)](#181)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R711-1 à R711-10)](#182)
-      - [TITRE II : DÉCOUVERTE D'ÉPAVES ET DÉCLARATIONS D'ACCIDENTS OU D'INCIDENTS (art. R722-1 à R722-5)](#183)
-      - [TITRE III : RAPPORTS D'ENQUÊTE ET RECOMMANDATIONS DE SÉCURITÉ. (art. R731-1 à R731-3)](#184)
-      - [TITRE IV : DISPOSITIONS PÉNALES (art. R741-1)](#185)
-  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#186)
-    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-20)](#187)
-      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#188)
-        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-36)](#189)
-        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#190)
-        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#191)
-      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-1 à D133-20)](#192)
-        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-1 à D131-15)](#193)
-          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-1 à D131-14)](#194)
-            - [Paragraphe 1 : Définition des types de circulation aérienne. (art. D131-1 à D131-6)](#195)
-            - [Paragraphe 2 : Règles de l'air (art. D131-7 à D131-10)](#196)
-              - [Attributions et rôles des services civils et des organismes militaires de la circulation aérienne. (art. D131-7 à D131-10)](#197)
-            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#198)
-          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#199)
-        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-12)](#200)
-          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#201)
-          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#202)
-          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6)](#203)
-          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#204)
-        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#205)
-          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#206)
-            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-5)](#207)
-            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#208)
-          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#209)
-          - [Section 3 : Radiocommunications intéressant la circulation des aéronefs. (art. D133-19 à D133-19-10)](#210)
-          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#211)
-    - [LIVRE II : AERODROMES. (art. D211-1 à D252-1)](#212)
-      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#213)
-        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#214)
-        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#215)
-        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-1-12)](#216)
-          - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-12)](#217)
-            - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#218)
-            - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#219)
-              - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#220)
-              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#221)
-              - [3. Règles d'intervention (art. D213-1-9)](#222)
-            - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#223)
-        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#224)
-      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D224-1)](#225)
-        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#226)
-        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#227)
-        - [CHAPITRE IV : REDEVANCES. (art. D224-1)](#228)
-      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#229)
-        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#230)
-        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#231)
-        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#232)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#233)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#234)
-          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#235)
-          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#236)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#237)
-          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#238)
-          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#239)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#240)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#241)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#242)
-      - [TITRE V : AEROPORTS DE PARIS (art. D251-1 à D252-1)](#243)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251-1 à D251-2)](#244)
-          - [Section 1 : Aérodromes constituant Aéroports de Paris. (art. D251-1 à D251-2)](#245)
-        - [CHAPITRE II : REGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE (art. D252-1)](#246)
-    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#247)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#248)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#249)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#250)
-        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#251)
-      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#252)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#253)
-      - [TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE. (art. D370-1 à D370-11)](#254)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#255)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#256)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#257)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#258)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#259)
-          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#260)
-          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#261)
-          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#262)
-          - [Section 4 : Période de transition (art. D422-14)](#263)
-          - [Section 5 : Mesures de contrôle (art. D422-15)](#264)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#265)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#266)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#267)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#268)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#269)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#270)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#271)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#272)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#273)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#274)
-      - [Section 1 : Avions photographes. (art. D611-1)](#275)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#276)
-  - [Annexes (art. Annexe I : Appendice A à Annexe III)](#277)
-    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#278)
-      - [REGLES DE l'AIR (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#279)
-    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#280)
-      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#281)
-    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#282)
+          - [Section 3 : Coordination des aérodromes. (art. R221-12)](#109)
+        - [CHAPITRE II : CLASSIFICATION. (art. R222-1 à R222-8)](#110)
+        - [CHAPITRE III : EXPLOITATION. (art. R223-1 à R223-6)](#111)
+        - [CHAPITRE IV : REDEVANCES. (art. R224-1 à R224-6)](#112)
+        - [CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE. (art. R225-1 à R225-5)](#113)
+        - [CHAPITRE VI : SANCTIONS ADMINISTRATIVES. (art. R226-1 à R226-6)](#114)
+        - [CHAPITRE VII : ENVIRONNEMENT DES AERODROMES. (art. R227-1 à R227-6)](#115)
+      - [TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R231-1 à R232-2)](#116)
+        - [CHAPITRE Ier : DEFINITIONS. (art. R231-1)](#117)
+        - [CHAPITRE II : AERODROMES A USAGE RESTREINT. (art. R232-1 à R232-2)](#118)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. R241-1 à R245-2)](#119)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. R241-1 à R241-3)](#120)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. R242-1 à R242-3)](#121)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. R243-1 à R243-3)](#122)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. R244-1)](#123)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. R245-1 à R245-2)](#124)
+      - [TITRE V : AEROPORTS DE PARIS. (art. R252-1 à R254-2)](#125)
+        - [CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE (art. R252-1 à R252-21)](#126)
+          - [Section 1 : Administration et gestion. (art. R252-1 à R252-20)](#127)
+            - [Paragraphe 1 : Conseil d'administration. (art. R252-2 à R252-15)](#128)
+            - [Paragraphe 2 : Directeur général. (art. R252-16 à R252-20)](#129)
+          - [Section 2 : Contrôle. (art. R252-21)](#130)
+        - [CHAPITRE III : RÉGIME FINANCIER (art. R253-3 à R253-6)](#131)
+        - [CHAPITRE IV : DISPOSITIONS DIVERSES. (art. R254-1 à R254-2)](#132)
+      - [TITRE V : AÉROPORT DE PARIS (art. R252-12 à R253-2)](#133)
+        - [CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE (art. R252-12 à R252-18)](#134)
+          - [Section 1 : Administration et gestion (art. R252-12 à R252-18)](#135)
+            - [Paragraphe 1 : Conseil d'administration. (art. R252-12)](#136)
+            - [Paragraphe 2 : Directeur général. (art. R252-18)](#137)
+        - [CHAPITRE III : RÉGIME FINANCIER (art. R253-1 à R253-2)](#138)
+      - [TITRE VI : AEROPORT DE BALE-MULHOUSE. (art. R260-1 à R260-2)](#139)
+      - [TITRE VIII : DISPOSITIONS PENALES (art. R281-1 à R282-8)](#140)
+        - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. R281-1 à R281-3)](#141)
+        - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R282-1 à R282-8)](#142)
+    - [LIVRE III : TRANSPORT AERIEN (art. R321-1 à R360-5)](#143)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-2)](#144)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1 à R321-13)](#145)
+        - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-2)](#146)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-1 à R330-22)](#147)
+      - [TITRE IV : SOCIETE AIR FRANCE. (art. R342-1 à R342-2)](#148)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. R342-1 à R342-2)](#149)
+      - [TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES (art. R351-1 à R351-2)](#150)
+        - [Section 1 : Transports sanitaires. (art. R351-1)](#151)
+        - [Section 2 : Transports par moyens militaires. (art. R351-2)](#152)
+      - [TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE. (art. R360-1 à R360-5)](#153)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. R421-1 à R433-1)](#154)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#155)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#156)
+          - [Section 1 : Catégories. (art. R421-1 à R421-6)](#157)
+          - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-17)](#158)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#159)
+        - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-6)](#160)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. R424-1 à R424-7)](#161)
+        - [CHAPITRE V : DISCIPLINE. (art. R425-1 à R425-19)](#162)
+        - [CHAPITRE VI : RETRAITES. (art. R426-1 à R426-28)](#163)
+          - [Section 1 : Définitions. (art. R426-5)](#164)
+          - [Section 2 : Cotisations. (art. R426-6 à R426-10)](#165)
+          - [Section 3 : Constitution du droit à pension. (art. R426-11 à R426-15-4)](#166)
+          - [Section 4 : Calcul de la pension. (art. R426-16-1 à R426-18-1)](#167)
+          - [Section 5 : Pension de réversion. (art. R426-19 à R426-23)](#168)
+          - [Section 6 : Dispositions diverses. (art. R426-24 à R426-27-1)](#169)
+          - [Section 7 : Dispositions transitoires. (art. R426-28)](#170)
+        - [CHAPITRE VII : DISPOSITIONS PENALES. (art. R427-1)](#171)
+        - [CHAPITRE VIII : DISPOSITIONS COMMUNES. (art. R428-1)](#172)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. R433-1)](#173)
+        - [CHAPITRE III : REDEVANCES. (art. R433-1)](#174)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#175)
+      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#176)
+        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#177)
+        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#178)
+    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-2)](#179)
+    - [LIVRE VII : ENQUÊTE TECHNIQUE RELATIVE AUX ACCIDENTS OU INCIDENTS (art. R711-1 à R741-1)](#180)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R711-1 à R711-10)](#181)
+      - [TITRE II : DÉCOUVERTE D'ÉPAVES ET DÉCLARATIONS D'ACCIDENTS OU D'INCIDENTS (art. R722-1 à R722-5)](#182)
+      - [TITRE III : RAPPORTS D'ENQUÊTE ET RECOMMANDATIONS DE SÉCURITÉ. (art. R731-1 à R731-3)](#183)
+      - [TITRE IV : DISPOSITIONS PÉNALES (art. R741-1)](#184)
+  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#185)
+    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-20)](#186)
+      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#187)
+        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-36)](#188)
+        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#189)
+        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#190)
+      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-1 à D133-20)](#191)
+        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-1 à D131-15)](#192)
+          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-1 à D131-14)](#193)
+            - [Paragraphe 1 : Définition des types de circulation aérienne. (art. D131-1 à D131-6)](#194)
+            - [Paragraphe 2 : Règles de l'air (art. D131-7 à D131-10)](#195)
+              - [Attributions et rôles des services civils et des organismes militaires de la circulation aérienne. (art. D131-7 à D131-10)](#196)
+            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#197)
+          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#198)
+        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-12)](#199)
+          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#200)
+          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#201)
+          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6)](#202)
+          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#203)
+        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#204)
+          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#205)
+            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-5)](#206)
+            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#207)
+          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#208)
+          - [Section 3 : Radiocommunications intéressant la circulation des aéronefs. (art. D133-19 à D133-19-10)](#209)
+          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#210)
+    - [LIVRE II : AERODROMES. (art. D211-1 à D252-1)](#211)
+      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#212)
+        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#213)
+        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#214)
+        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-1-12)](#215)
+          - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-12)](#216)
+            - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#217)
+            - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#218)
+              - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#219)
+              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#220)
+              - [3. Règles d'intervention (art. D213-1-9)](#221)
+            - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#222)
+        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#223)
+      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D224-1)](#224)
+        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#225)
+        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#226)
+        - [CHAPITRE IV : REDEVANCES. (art. D224-1)](#227)
+      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#228)
+        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#229)
+        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#230)
+        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#231)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#232)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#233)
+          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#234)
+          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#235)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#236)
+          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#237)
+          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#238)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#239)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#240)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#241)
+      - [TITRE V : AEROPORTS DE PARIS (art. D251-1 à D252-1)](#242)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251-1 à D251-2)](#243)
+          - [Section 1 : Aérodromes constituant Aéroports de Paris. (art. D251-1 à D251-2)](#244)
+        - [CHAPITRE II : REGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE (art. D252-1)](#245)
+    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#246)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#247)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#248)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#249)
+        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#250)
+      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#251)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#252)
+      - [TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE. (art. D370-1 à D370-11)](#253)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#254)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#255)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#256)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#257)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#258)
+          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#259)
+          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#260)
+          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#261)
+          - [Section 4 : Période de transition (art. D422-14)](#262)
+          - [Section 5 : Mesures de contrôle (art. D422-15)](#263)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#264)
+          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#265)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#266)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#267)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#268)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#269)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#270)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#271)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#272)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#273)
+      - [Section 1 : Avions photographes. (art. D611-1)](#274)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#275)
+  - [Annexes (art. Annexe I : Appendice A à Annexe III)](#276)
+    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#277)
+      - [REGLES DE l'AIR (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#278)
+    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#279)
+      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#280)
+    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#281)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -10045,7 +10044,7 @@ _Cite_:
 ###### Article R151-5
 
 La commission prévue par l'article L. 150-13 est délivrée par le ministre chargé de l'aviation civile ou, pour le personnel
-placé sous son autorité, par le ministre chargé des armées.
+placé sous son autorité, par le ministre de la défense. 
 
 Elle mentionne l'objet du commissionnement et la circonscription géographique dans laquelle l'agent commissionné a vocation,
 en raison de son affectation, à constater les infractions.
@@ -10056,23 +10055,19 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-_Modifié par_:
-
-  - Décret n°99-281 du 12 avril 1999 - art. 1 () JORF 14 avril 1999
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°99-281 du 12 avril 1999 - art. 2 (V)
-
 _Cité par_:
 
   - Décret n°2000-1114 du 16 novembre 2000 - art. 1 (V)
   - Décret n°2018-568 du 2 juillet 2018 (V)
   - Code de l'aviation civile - art. R151-6 (VD)
 
+_Modifié par_:
+
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
 _Cite_:
 
-  - Code de l'aviation civile - art. L150-13 (M)
+  - Code de l'aviation civile - art. L150-13 (Ab)
 
 
 ###### Article R151-6
@@ -10320,7 +10315,7 @@ nommés par arrêté du ministre chargé de l'aviation civile :
 
 - quatre membres représentant l'Etat : un membre de l'inspection générale de l'aviation civile et de la météorologie, un
 représentant du ministre chargé de l'aviation civile, un membre de la gendarmerie des transports aériens désigné sur
-proposition du ministre chargé des armées et un représentant du ministre chargé de l'économie et des finances désigné sur
+proposition du ministre de la défense et un représentant du ministre chargé de l'économie et des finances désigné sur
 proposition de celui-ci ;
 
 - une personnalité qualifiée choisie en raison de ses compétences dans le domaine de l'aviation civile.
@@ -10334,13 +10329,9 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-_Créé par_:
-
-  - Décret n°99-475 du 4 juin 1999 - art. 2 () JORF 9 juin 1999
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cité par_:
 
@@ -13379,9 +13370,7 @@ _Cite_:
   - Code de l'aviation civile - art. L221-1 (VT)
 
 
-#### CHAPITRE 1er : CRÉATION ET OUVERTURE<a id=109></a>
-
-##### Section 3 : Coordination des aérodromes.<a id=110></a>
+##### Section 3 : Coordination des aérodromes.<a id=109></a>
 
 ###### Article R221-12
 
@@ -13393,8 +13382,8 @@ affectataire.
 
 S'il y a lieu de coordonner, en application de l'article 3 du règlement susmentionné, un aérodrome ouvert à la circulation
 aérienne publique dont le ministère de la défense est affectataire principal ou secondaire, celui-ci ne peut être
-qu'entièrement coordonné. La décision de qualification est prise par arrêté conjoint du ministre chargé des armées et du
-ministre chargé de l'aviation civile.
+qu'entièrement coordonné. La décision de qualification est prise par arrêté conjoint du ministre de la défense et du ministre
+chargé de l'aviation civile.
 
 Lorsqu'un aérodrome est qualifié d'aéroport entièrement coordonné, l'arrêté prévu aux alinéas précédents précise la capacité
 disponible pour l'attribution des créneaux horaires sur cet aérodrome. Cette capacité est déterminée conformément aux
@@ -13421,13 +13410,9 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°99-475 1999-06-04 art. 5 *champ d'application*
-
-_Créé par_:
-
-  - Décret n°99-475 du 4 juin 1999 - art. 3 () JORF 9 juin 1999
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cité par_:
 
@@ -13444,7 +13429,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R227-15 (V)
 
 
-#### CHAPITRE II : CLASSIFICATION.<a id=111></a>
+#### CHAPITRE II : CLASSIFICATION.<a id=110></a>
 
 ###### Article R222-1
 
@@ -13627,7 +13612,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### CHAPITRE III : EXPLOITATION.<a id=112></a>
+#### CHAPITRE III : EXPLOITATION.<a id=111></a>
 
 ###### Article R223-1
 
@@ -13784,7 +13769,7 @@ _Cite_:
   - Code de l'aviation civile - art. R224-1 (V)
 
 
-#### CHAPITRE IV : REDEVANCES.<a id=113></a>
+#### CHAPITRE IV : REDEVANCES.<a id=112></a>
 
 ###### Article R224-1
 
@@ -14132,7 +14117,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R260-1 (V)
 
 
-#### CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE.<a id=114></a>
+#### CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE.<a id=113></a>
 
 ###### Article R225-1
 
@@ -14248,7 +14233,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R225-4 (V)
 
 
-#### CHAPITRE VI : SANCTIONS ADMINISTRATIVES.<a id=115></a>
+#### CHAPITRE VI : SANCTIONS ADMINISTRATIVES.<a id=114></a>
 
 ###### Article R226-1
 
@@ -14472,7 +14457,7 @@ _Cite_:
   - Code de l'aviation civile - art. R226-5 (V)
 
 
-#### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.<a id=116></a>
+#### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.<a id=115></a>
 
 ###### Article R227-1
 
@@ -14690,9 +14675,9 @@ _Créé par_:
   - SPEC_APPLI: Décret n°2000-126 du 16 février 2000 - art. 5 (V)
 
 
-### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=117></a>
+### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=116></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=118></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=117></a>
 
 ###### Article R231-1
 
@@ -14717,7 +14702,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-1 (V)
 
 
-#### CHAPITRE II : AERODROMES A USAGE RESTREINT.<a id=119></a>
+#### CHAPITRE II : AERODROMES A USAGE RESTREINT.<a id=118></a>
 
 ###### Article R232-1
 
@@ -14771,9 +14756,9 @@ _Anciens textes_:
   - Code de l'aviation civile - art. R232-1 (T)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=120></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=119></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=121></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=120></a>
 
 ###### Article R241-1
 
@@ -14882,7 +14867,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R242-1 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=122></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=121></a>
 
 ###### Article R242-1
 
@@ -15023,7 +15008,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R244-1 (V)
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=123></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=122></a>
 
 ###### Article R243-1
 
@@ -15144,13 +15129,13 @@ _Cite_:
   - Code de l'aviation civile - art. R243-1
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=124></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=123></a>
 
 ###### Article R244-1
 
 A l'extérieur des zones grevées de servitudes de dégagement en application du présent titre, l'établissement de certaines
 installations qui, en raison de leur hauteur, pourraient constituer des obstacles à la navigation aérienne est soumis à une
-autorisation spéciale du ministre chargé de l'aviation civile et du ministre chargé des armées.
+autorisation spéciale du ministre chargé de l'aviation civile et du ministre de la défense.
 
 Des arrêtés ministériels déterminent les installations soumises à autorisation ainsi que la liste des pièces qui doivent être
 annexées à la demande d'autorisation.
@@ -15196,7 +15181,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°97-503 du 21 mai 1997 - art. 32 () JORF 22 mai 1997
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cite_:
 
@@ -15204,8 +15189,12 @@ _Cite_:
   - Code de l'aviation civile - art. R242-3 (M)
   - Loi n°1906-06-15
 
+_Nouveaux textes_:
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=125></a>
+  - Code des transports - art. L6352-1 (V)
+
+
+#### CHAPITRE V : TERRAINS RESERVES.<a id=124></a>
 
 ###### Article R245-1
 
@@ -15262,11 +15251,11 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-### TITRE V : AEROPORTS DE PARIS.<a id=126></a>
+### TITRE V : AEROPORTS DE PARIS.<a id=125></a>
 
-#### CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE<a id=127></a>
+#### CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE<a id=126></a>
 
-##### Section 1 : Administration et gestion.<a id=128></a>
+##### Section 1 : Administration et gestion.<a id=127></a>
 
 ###### Article R252-1
 
@@ -15292,7 +15281,7 @@ _Abrogé par_:
   - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
-##### Paragraphe 1 : Conseil d'administration.<a id=129></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=128></a>
 
 ###### Article R252-2
 
@@ -15748,7 +15737,7 @@ _Abrogé par_:
   - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
-##### Paragraphe 2 : Directeur général.<a id=130></a>
+##### Paragraphe 2 : Directeur général.<a id=129></a>
 
 ###### Article R252-16
 
@@ -15881,7 +15870,7 @@ _Abrogé par_:
   - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
-##### Section 2 : Contrôle.<a id=131></a>
+##### Section 2 : Contrôle.<a id=130></a>
 
 ###### Article R252-21
 
@@ -15920,7 +15909,7 @@ _Abrogé par_:
   - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
-#### CHAPITRE III : RÉGIME FINANCIER<a id=132></a>
+#### CHAPITRE III : RÉGIME FINANCIER<a id=131></a>
 
 ###### Article R253-3
 
@@ -16039,7 +16028,7 @@ _Abrogé par_:
   - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
-#### CHAPITRE IV : DISPOSITIONS DIVERSES.<a id=133></a>
+#### CHAPITRE IV : DISPOSITIONS DIVERSES.<a id=132></a>
 
 ###### Article R254-1
 
@@ -16091,13 +16080,13 @@ _Abrogé par_:
   - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
-### TITRE V : AÉROPORT DE PARIS<a id=134></a>
+### TITRE V : AÉROPORT DE PARIS<a id=133></a>
 
-#### CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE<a id=135></a>
+#### CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE<a id=134></a>
 
-##### Section 1 : Administration et gestion<a id=136></a>
+##### Section 1 : Administration et gestion<a id=135></a>
 
-##### Paragraphe 1 : Conseil d'administration.<a id=137></a>
+##### Paragraphe 1 : Conseil d'administration.<a id=136></a>
 
 ###### Article R252-12
 
@@ -16151,7 +16140,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R253-1 (Ab)
 
 
-##### Paragraphe 2 : Directeur général.<a id=138></a>
+##### Paragraphe 2 : Directeur général.<a id=137></a>
 
 ###### Article R252-18
 
@@ -16203,7 +16192,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R252-12-4 (Ab)
 
 
-#### CHAPITRE III : RÉGIME FINANCIER<a id=139></a>
+#### CHAPITRE III : RÉGIME FINANCIER<a id=138></a>
 
 ###### Article R253-1
 
@@ -16262,7 +16251,7 @@ _Modifié par_:
   - Décret n°99-408 du 21 mai 1999 - art. 6 () JORF 26 mai 1999
 
 
-### TITRE VI : AEROPORT DE BALE-MULHOUSE.<a id=140></a>
+### TITRE VI : AEROPORT DE BALE-MULHOUSE.<a id=139></a>
 
 ###### Article R260-1
 
@@ -16307,9 +16296,9 @@ _Créé par_:
   - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
 
 
-### TITRE VIII : DISPOSITIONS PENALES<a id=141></a>
+### TITRE VIII : DISPOSITIONS PENALES<a id=140></a>
 
-#### CHAPITRE Ier : SERVITUDES AERONAUTIQUES.<a id=142></a>
+#### CHAPITRE Ier : SERVITUDES AERONAUTIQUES.<a id=141></a>
 
 ###### Article R281-1
 
@@ -16395,7 +16384,7 @@ _Cite_:
   - Code de l'aviation civile - art. L281-1 (M)
 
 
-#### CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=143></a>
+#### CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=142></a>
 
 ###### Article R282-1
 
@@ -16636,11 +16625,11 @@ _Cite_:
   - Code de l'aviation civile - art. L282-8
 
 
-## LIVRE III : TRANSPORT AERIEN<a id=144></a>
+## LIVRE III : TRANSPORT AERIEN<a id=143></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=145></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=144></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES.<a id=146></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES.<a id=145></a>
 
 ###### Article R321-1
 
@@ -17259,7 +17248,7 @@ _Cite_:
   - Code de l'aviation civile - art. R321-9
 
 
-#### CHAPITRE II : TRANSPORT DE PERSONNES.<a id=147></a>
+#### CHAPITRE II : TRANSPORT DE PERSONNES.<a id=146></a>
 
 ###### Article R322-1
 
@@ -17302,7 +17291,7 @@ _Cite_:
   - Code de l'aviation civile - art. R321-1 (V)
 
 
-### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.<a id=148></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.<a id=147></a>
 
 ###### Article R330-1
 
@@ -18316,9 +18305,9 @@ _Cite_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-### TITRE IV : SOCIETE AIR FRANCE.<a id=149></a>
+### TITRE IV : SOCIETE AIR FRANCE.<a id=148></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=150></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=149></a>
 
 ###### Article R342-1
 
@@ -18401,9 +18390,9 @@ _Cite_:
   - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 14
 
 
-### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES<a id=151></a>
+### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES<a id=150></a>
 
-#### Section 1 : Transports sanitaires.<a id=152></a>
+#### Section 1 : Transports sanitaires.<a id=151></a>
 
 ###### Article R351-1
 
@@ -18446,7 +18435,7 @@ _Créé par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 5 () JORF 21 novembre 1980
 
 
-#### Section 2 : Transports par moyens militaires.<a id=153></a>
+#### Section 2 : Transports par moyens militaires.<a id=152></a>
 
 ###### Article R351-2
 
@@ -18490,7 +18479,7 @@ _Cité par_:
   - Arrêté du 29 octobre 2012 - art. 4 (V)
 
 
-### TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE.<a id=154></a>
+### TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE.<a id=153></a>
 
 ###### Article R360-1
 
@@ -18671,13 +18660,13 @@ _Cite_:
   - Code de l'aviation civile - art. L360-4 (M)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=155></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=154></a>
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=156></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=155></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=157></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=156></a>
 
-##### Section 1 : Catégories.<a id=158></a>
+##### Section 1 : Catégories.<a id=157></a>
 
 ###### Article R421-1
 
@@ -18920,7 +18909,7 @@ _Abrogé par_:
 
 La définition des qualifications professionnelles spéciales, les conditions de leur obtention et de leur renouvellement ainsi
 que les programmes et règlements des examens correspondants sont fixés, après avis du conseil du personnel navigant, par
-arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé des armées.
+arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la défense.
 
 Toufefois, en ce qui concerne les qualifications de type d'aéronef, leur définition et les conditions de leur obtention sont
 seules fixées ainsi qu'il est dit à l'alinéa précédent. Les programmes d'instruction au sol et en vol correspondant à ces
@@ -18934,14 +18923,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-397 1984-05-25 art. 1 JORF 27 mai 1984
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2005-1175 du 13 septembre 2005 - art. 2 () JORF 18 septembre 2005
 
 _Cité par_:
 
   - Code de l'aviation civile - art. R421-7 (M)
 
 
-##### Section 2 : Conseil du personnel navigant professionnel.<a id=159></a>
+##### Section 2 : Conseil du personnel navigant professionnel.<a id=158></a>
 
 ###### Article R421-7
 
@@ -19218,7 +19211,7 @@ _Modifié par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE.<a id=160></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE.<a id=159></a>
 
 ###### Article R422-1
 
@@ -19267,7 +19260,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### CHAPITRE III : CONTRAT DE TRAVAIL.<a id=161></a>
+#### CHAPITRE III : CONTRAT DE TRAVAIL.<a id=160></a>
 
 ###### Article R423-1
 
@@ -19421,7 +19414,7 @@ _Cite_:
   - Code de l'aviation civile - art. L424-6 (V)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=162></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=161></a>
 
 ###### Article R424-1
 
@@ -19628,7 +19621,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### CHAPITRE V : DISCIPLINE.<a id=163></a>
+#### CHAPITRE V : DISCIPLINE.<a id=162></a>
 
 ###### Article R425-1
 
@@ -19638,7 +19631,7 @@ soit au sol, soit en vol. Il en est de même pour toute infraction aux règlemen
 
 Ce rapport, établi en trois exemplaires, est adressé :
 
-- aux représentants qualifiés du ministre chargé des armées ;
+- aux représentants qualifiés du ministre de la défense ;
 
 - à la direction de l'entreprise intéressée ;
 
@@ -19655,14 +19648,9 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-1043 2001-11-08 art. 6, art. 7 : champ d'application
-  - SPEC_APPLI: Décret n°2001-1043 du 8 novembre 2001 - art. 6 (V)
-
 _Modifié par_:
 
-  - Décret n°2001-1043 du 8 novembre 2001 - art. 2 () JORF 11 novembre 2001
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 
 ###### Article R425-2
@@ -20052,7 +20040,7 @@ _Cite_:
 
 ###### Article R425-15
 
-Le secrétariat de la section des essais et réceptions est assuré par le personnel du ministre chargé des armées. Celui de la
+Le secrétariat de la section des essais et réceptions est assuré par le personnel du ministre de la défense. Celui de la
 section du transport et du travail aériens est assuré par le personnel de la direction générale de l'aviation civile. Celui
 du conseil siégant en séance plénière est assuré par le secrétariat de la section dont le président préside le conseil.
 
@@ -20063,6 +20051,10 @@ Le secrétariat assiste aux séances et aux délibérations. Il est tenu au secr
 _Codifié par_:
 
   - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cité par_:
 
@@ -20167,7 +20159,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D435-1 (M)
 
 
-#### CHAPITRE VI : RETRAITES.<a id=164></a>
+#### CHAPITRE VI : RETRAITES.<a id=163></a>
 
 ###### Article R426-1
 
@@ -20335,7 +20327,7 @@ _Nouveaux textes_:
   - Code des transports - art. L6527-8 (V)
 
 
-##### Section 1 : Définitions.<a id=165></a>
+##### Section 1 : Définitions.<a id=164></a>
 
 ###### Article R426-5
 
@@ -20475,7 +20467,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-8 (M)
 
 
-##### Section 2 : Cotisations.<a id=166></a>
+##### Section 2 : Cotisations.<a id=165></a>
 
 ###### Article R426-6
 
@@ -20669,7 +20661,7 @@ _Cite_:
   - Code de l'aviation civile - art. R426-5 (M)
 
 
-##### Section 3 : Constitution du droit à pension.<a id=167></a>
+##### Section 3 : Constitution du droit à pension.<a id=166></a>
 
 ###### Article R426-11
 
@@ -21242,7 +21234,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 
-##### Section 4 : Calcul de la pension.<a id=168></a>
+##### Section 4 : Calcul de la pension.<a id=167></a>
 
 ###### Article R426-16-1
 
@@ -21483,7 +21475,7 @@ _Abrogé par_:
   - Décret n°2011-1500 du 10 novembre 2011 - art. 25
 
 
-##### Section 5 : Pension de réversion.<a id=169></a>
+##### Section 5 : Pension de réversion.<a id=168></a>
 
 ###### Article R426-19
 
@@ -21686,7 +21678,7 @@ _Abrogé par_:
   - Décret n°2011-1500 du 10 novembre 2011 - art. 25
 
 
-##### Section 6 : Dispositions diverses.<a id=170></a>
+##### Section 6 : Dispositions diverses.<a id=169></a>
 
 ###### Article R426-24
 
@@ -21891,7 +21883,7 @@ _Cite_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-##### Section 7 : Dispositions transitoires.<a id=171></a>
+##### Section 7 : Dispositions transitoires.<a id=170></a>
 
 ###### Article R426-28
 
@@ -21918,7 +21910,7 @@ _Cite_:
   - Code de l'aviation civile - art. R426-6 (V)
 
 
-#### CHAPITRE VII : DISPOSITIONS PENALES.<a id=172></a>
+#### CHAPITRE VII : DISPOSITIONS PENALES.<a id=171></a>
 
 ###### Article R427-1
 
@@ -21954,7 +21946,7 @@ _Cite_:
   - Code du travail - art. L212-2 (M)
 
 
-#### CHAPITRE VIII : DISPOSITIONS COMMUNES.<a id=173></a>
+#### CHAPITRE VIII : DISPOSITIONS COMMUNES.<a id=172></a>
 
 ###### Article R428-1
 
@@ -21988,9 +21980,9 @@ _Cité par_:
   - Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=174></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=173></a>
 
-#### CHAPITRE III : REDEVANCES.<a id=175></a>
+#### CHAPITRE III : REDEVANCES.<a id=174></a>
 
 ###### Article R433-1
 
@@ -22017,11 +22009,11 @@ _Abrogé par_:
   - Décret n°2005-1680 du 28 décembre 2005 - art. 3 () JORF 29 décembre 2005
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=176></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=175></a>
 
-### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=177></a>
+### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=176></a>
 
-#### Section 1 : Organisation et fonctionnement.<a id=178></a>
+#### Section 1 : Organisation et fonctionnement.<a id=177></a>
 
 ###### Article R530-1
 
@@ -22137,7 +22129,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### Section 2 : Attribution et paiement des indemnités.<a id=179></a>
+#### Section 2 : Attribution et paiement des indemnités.<a id=178></a>
 
 ###### Article R530-5
 
@@ -22337,7 +22329,7 @@ _Modifié par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES.<a id=180></a>
+## LIVRE VI : DISPOSITIONS DIVERSES.<a id=179></a>
 
 ###### Article R611-1
 
@@ -22403,9 +22395,9 @@ _Anciens textes_:
   - Loi n°48-1992 1948-12-31 art. 8
 
 
-## LIVRE VII : ENQUÊTE TECHNIQUE RELATIVE AUX ACCIDENTS OU INCIDENTS<a id=181></a>
+## LIVRE VII : ENQUÊTE TECHNIQUE RELATIVE AUX ACCIDENTS OU INCIDENTS<a id=180></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=182></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=181></a>
 
 ###### Article R711-1
 
@@ -22728,7 +22720,7 @@ _Cite_:
   - Code de l'aviation civile - art. L711-2 (M)
 
 
-### TITRE II : DÉCOUVERTE D'ÉPAVES ET DÉCLARATIONS D'ACCIDENTS OU D'INCIDENTS<a id=183></a>
+### TITRE II : DÉCOUVERTE D'ÉPAVES ET DÉCLARATIONS D'ACCIDENTS OU D'INCIDENTS<a id=182></a>
 
 ###### Article R722-1
 
@@ -22893,7 +22885,7 @@ _Cite_:
   - Code de l'aviation civile - art. R722-2 (M)
 
 
-### TITRE III : RAPPORTS D'ENQUÊTE ET RECOMMANDATIONS DE SÉCURITÉ.<a id=184></a>
+### TITRE III : RAPPORTS D'ENQUÊTE ET RECOMMANDATIONS DE SÉCURITÉ.<a id=183></a>
 
 ###### Article R731-1
 
@@ -22981,7 +22973,7 @@ _Créé par_:
   - Décret n°2001-1043 du 8 novembre 2001 - art. 1 () JORF 11 novembre 2001
 
 
-### TITRE IV : DISPOSITIONS PÉNALES<a id=185></a>
+### TITRE IV : DISPOSITIONS PÉNALES<a id=184></a>
 
 ###### Article R741-1
 
@@ -23010,13 +23002,13 @@ _Cite_:
   - Code de l'aviation civile - art. R722-1 (M)
 
 
-# Partie réglementaire - Décrets simples<a id=186></a>
+# Partie réglementaire - Décrets simples<a id=185></a>
 
-## LIVRE Ier : AERONEFS.<a id=187></a>
+## LIVRE Ier : AERONEFS.<a id=186></a>
 
-### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=188></a>
+### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=187></a>
 
-#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=189></a>
+#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=188></a>
 
 ###### Article D121-1
 
@@ -23961,7 +23953,7 @@ _Abrogé par_:
   - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 
-#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=190></a>
+#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=189></a>
 
 ###### Article D122-1
 
@@ -24179,7 +24171,7 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 2 JORF 5 mars 1971
 
 
-#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=191></a>
+#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=190></a>
 
 ###### Article D123-1
 
@@ -24216,13 +24208,13 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 3 JORF 5 mars 1971
 
 
-### TITRE III : CIRCULATION DES AERONEFS.<a id=192></a>
+### TITRE III : CIRCULATION DES AERONEFS.<a id=191></a>
 
-#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=193></a>
+#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=192></a>
 
-##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=194></a>
+##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=193></a>
 
-##### Paragraphe 1 : Définition des types de circulation aérienne.<a id=195></a>
+##### Paragraphe 1 : Définition des types de circulation aérienne.<a id=194></a>
 
 ###### Article D131-1
 
@@ -24231,7 +24223,7 @@ La circulation aérienne comprend :
 - la circulation aérienne générale, qui relève de la compétence du ministre chargé de l'aviation civile ;
 
 - la circulation aérienne militaire comprenant elle-même la circulation opérationnelle militaire et la circulation d'essais
-et de réception, qui relève de la compétence du ministre chargé des armées.
+et de réception, qui relève de la compétence du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -24267,7 +24259,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 
 ###### Article D131-2
@@ -24442,8 +24434,8 @@ _Abrogé par_:
 
 ###### Article D131-6
 
-Dans le cadre fixé par l'article D. 131-5, le ministre chargé de l'aviation civile et le ministre chargé des armées
-établissent la réglementation propre à la circulation aérienne qui relève de leurs compétences respectives.
+Dans le cadre fixé par l'article D. 131-5, le ministre chargé de l'aviation civile et le ministre de la défense établissent
+la réglementation propre à la circulation aérienne qui relève de leurs compétences respectives.
 
 **Liens relatifs à cet article**
 
@@ -24454,20 +24446,19 @@ _Codifié par_:
 **Liens**:
 
   - TXT_SOURCE: Décret n°95-421 du 20 avril 1995 - art. 2 (V)
-  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
 
 _Modifié par_:
 
-  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cite_:
 
   - Code de l'aviation civile - art. D131-5 (Ab)
 
 
-##### Paragraphe 2 : Règles de l'air<a id=196></a>
+##### Paragraphe 2 : Règles de l'air<a id=195></a>
 
-##### Attributions et rôles des services civils et des organismes militaires de la circulation aérienne.<a id=197></a>
+##### Attributions et rôles des services civils et des organismes militaires de la circulation aérienne.<a id=196></a>
 
 ###### Article D131-7
 
@@ -24543,8 +24534,7 @@ générale.
 
 Ces services sont rendus, en ce qui concerne la circulation aérienne générale, pour le compte du ministre chargé de
 l'aviation civile en application de l'article D. 131-2 de la présente section, et, en ce qui concerne la circulation aérienne
-militaire, pour le compte du ministre chargé des armées, en application des articles D. 131-3 et D. 131-4 de la présente
-section.
+militaire, pour le compte du ministre de la défense, en application des articles D. 131-3 et D. 131-4 de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -24570,7 +24560,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°85-806 1985-07-25 art. 1 JORF 31 juillet 1985
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cite_:
 
@@ -24581,11 +24571,11 @@ _Cite_:
 
 ###### Article D131-10
 
-Le ministre chargé de l'aviation civile assure en accord avec le ministre chargé des armées et aprés avis du directeur de
+Le ministre chargé de l'aviation civile assure en accord avec le ministre de la défense et après avis du directeur de
 l'espace aérien, la mise à jour et la publication des annexes I et II au présent chapitre ainsi que la publication de tous
 les rectificatifs, additifs et textes d'application nécessaire.
 
-Le ministre chargé des armées assure en accord avec le ministre chargé de l'aviation civile et, dans la limite de ses
+Le ministre de la défense assure en accord avec le ministre chargé de l'aviation civile et, dans la limite de ses
 attributions, aprés avis du délégué à l'espace aérien, la mise à jour et la publication de l'annexe III au présent chapitre
 ainsi que la publication de tous rectificatifs, additifs et textes d'application nécessaires.
 
@@ -24615,14 +24605,13 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 7 (Ab)
   - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 8 (Ab)
   - TXT_SOURCE: Arrêté du 15 mars 1991 - art. 9 (Ab)
-  - SPEC_APPLI: Décret n°95-1024 du 18 septembre 1995 - art. 2 (V)
 
 _Modifié par_:
 
-  - Décret n°95-1024 du 18 septembre 1995 - art. 1 () JORF 19 septembre 1995
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 
-##### Paragraphe 3 : Météorologie.<a id=198></a>
+##### Paragraphe 3 : Météorologie.<a id=197></a>
 
 ###### Article D131-11
 
@@ -24692,7 +24681,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Aéronefs étrangers.<a id=199></a>
+##### Section 2 : Aéronefs étrangers.<a id=198></a>
 
 ###### Article D131-15
 
@@ -24716,9 +24705,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : ATTERRISSAGE.<a id=200></a>
+#### CHAPITRE II : ATTERRISSAGE.<a id=199></a>
 
-##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=201></a>
+##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=200></a>
 
 ###### Article D132-1
 
@@ -24781,7 +24770,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=202></a>
+##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=201></a>
 
 ###### Article D132-4
 
@@ -24837,7 +24826,7 @@ _Cite_:
   - Code de l'aviation civile - art. D132-4 (V)
 
 
-##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=203></a>
+##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=202></a>
 
 ###### Article D132-6
 
@@ -24892,7 +24881,7 @@ _Anciens textes_:
   - Décret n°1959-03-06 art. 1
 
 
-##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=204></a>
+##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=203></a>
 
 ###### Article D132-7
 
@@ -25045,11 +25034,11 @@ _Créé par_:
   - Décret n°85-770 1985-07-17 art. 1 JORF 25 juillet 1985
 
 
-#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=205></a>
+#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=204></a>
 
-##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=206></a>
+##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=205></a>
 
-##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances<a id=207></a>
+##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances<a id=206></a>
 
 ###### Article D133-1
 
@@ -25222,7 +25211,7 @@ _Créé par_:
   - Décret n°93-921 1993-07-13 art. 1 JORF 21 juillet 1993
 
 
-##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=208></a>
+##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=207></a>
 
 ###### Article D133-7
 
@@ -25393,7 +25382,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=209></a>
+##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=208></a>
 
 ###### Article D133-10
 
@@ -25558,7 +25547,7 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 9 JORF 21 novembre 1980
 
 
-##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.<a id=210></a>
+##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.<a id=209></a>
 
 ###### Article D133-19
 
@@ -25848,7 +25837,7 @@ _Créé par_:
   - Décret n°94-911 du 13 octobre 1994 - art. 1 () JORF 22 octobre
 
 
-##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=211></a>
+##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=210></a>
 
 ###### Article D133-20
 
@@ -25880,11 +25869,11 @@ _Cité par_:
   - Décret n°2018-13 du 8 janvier 2018 (V)
 
 
-## LIVRE II : AERODROMES.<a id=212></a>
+## LIVRE II : AERODROMES.<a id=211></a>
 
-### TITRE Ier : DISPOSITIONS GENERALES.<a id=213></a>
+### TITRE Ier : DISPOSITIONS GENERALES.<a id=212></a>
 
-#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=214></a>
+#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=213></a>
 
 ###### Article D211-1
 
@@ -26054,7 +26043,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=215></a>
+#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=214></a>
 
 ###### Article D212-1
 
@@ -26171,9 +26160,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=216></a>
+#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=215></a>
 
-##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs<a id=217></a>
+##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs<a id=216></a>
 
 ###### Article D213-1
 
@@ -26226,7 +26215,7 @@ _Cite_:
   - Code de l'aviation civile - art. R221-1 (V)
 
 
-##### Sous-section 1 : Définition des moyens<a id=218></a>
+##### Sous-section 1 : Définition des moyens<a id=217></a>
 
 ###### Article D213-1-1
 
@@ -26386,9 +26375,9 @@ _Cite_:
   - Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 2 : Organisation du service<a id=219></a>
+##### Sous-section 2 : Organisation du service<a id=218></a>
 
-##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs<a id=220></a>
+##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs<a id=219></a>
 
 ###### Article D213-1-4
 
@@ -26506,7 +26495,7 @@ _Cité par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=221></a>
+##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=220></a>
 
 ###### Article D213-1-7
 
@@ -26564,7 +26553,7 @@ _Créé par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### 3. Règles d'intervention<a id=222></a>
+##### 3. Règles d'intervention<a id=221></a>
 
 ###### Article D213-1-9
 
@@ -26611,7 +26600,7 @@ _Cite_:
   - Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 3 : Contrôle de l'Etat<a id=223></a>
+##### Sous-section 3 : Contrôle de l'Etat<a id=222></a>
 
 ###### Article D213-1-10
 
@@ -26707,7 +26696,7 @@ _Créé par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=224></a>
+#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=223></a>
 
 ###### Article D216-1
 
@@ -26907,9 +26896,9 @@ _Créé par_:
   - Décret n°98-211 du 23 mars 1998 - art. 1 () JORF 25 mars 1998
 
 
-### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=225></a>
+### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=224></a>
 
-#### CHAPITRE Ier : CREATION.<a id=226></a>
+#### CHAPITRE Ier : CREATION.<a id=225></a>
 
 ###### Article D221-1
 
@@ -27043,7 +27032,7 @@ _Cité par_:
   - Décret n°2017-1490 du 24 octobre 2017 (V)
 
 
-#### CHAPITRE II : CLASSEMENT.<a id=227></a>
+#### CHAPITRE II : CLASSEMENT.<a id=226></a>
 
 ###### Article D222-1
 
@@ -27095,7 +27084,7 @@ _Cite_:
   - Code de l'aviation civile - art. R222-5 (V)
 
 
-#### CHAPITRE IV : REDEVANCES.<a id=228></a>
+#### CHAPITRE IV : REDEVANCES.<a id=227></a>
 
 ###### Article D224-1
 
@@ -27117,9 +27106,9 @@ _Créé par_:
   - Décret n°80-910 1980-11-17 art. 1 JORF 21 novembre 1980
 
 
-### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=229></a>
+### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=228></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=230></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=229></a>
 
 ###### Article D231-1
 
@@ -27156,7 +27145,7 @@ _Cite_:
   - Code de l'aviation civile - art. D211-2 (V)
 
 
-#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=231></a>
+#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=230></a>
 
 ###### Article D232-1
 
@@ -27376,7 +27365,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-6 (V)
 
 
-#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=232></a>
+#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=231></a>
 
 ###### Article D233-1
 
@@ -27521,11 +27510,11 @@ _Cite_:
   - Code de l'aviation civile - art. R131-3 (V)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=233></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=232></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=234></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=233></a>
 
-##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=235></a>
+##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=234></a>
 
 ###### Article D241-1
 
@@ -27597,7 +27586,7 @@ _Abrogé par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=236></a>
+##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=235></a>
 
 ###### Article D241-4
 
@@ -27618,9 +27607,9 @@ _Cité par_:
   - Code de l'aviation civile - art. D242-7 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=237></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=236></a>
 
-##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=238></a>
+##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=237></a>
 
 ###### Article D242-1
 
@@ -27726,7 +27715,7 @@ _Cite_:
   - Code de l'aviation civile R241-5, D242-2
 
 
-##### Section 2 : Application du plan de dégagement.<a id=239></a>
+##### Section 2 : Application du plan de dégagement.<a id=238></a>
 
 ###### Article D242-6
 
@@ -27974,7 +27963,7 @@ _Créé par_:
   - Décret n°73-309 1973-03-09 art. 2 JORF 20 mars 1973
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=240></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=239></a>
 
 ###### Article D243-1
 
@@ -28188,7 +28177,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-5 (V)
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=241></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=240></a>
 
 ###### Article D244-1
 
@@ -28307,7 +28296,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=242></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=241></a>
 
 ###### Article D245-1
 
@@ -28381,11 +28370,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE V : AEROPORTS DE PARIS<a id=243></a>
+### TITRE V : AEROPORTS DE PARIS<a id=242></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=244></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=243></a>
 
-##### Section 1 : Aérodromes constituant Aéroports de Paris.<a id=245></a>
+##### Section 1 : Aérodromes constituant Aéroports de Paris.<a id=244></a>
 
 ###### Article D251-1
 
@@ -28450,7 +28439,7 @@ _Modifié par_:
   - Loi n°99-409 1999-05-21 art. 2 JORF 26 mai 1999
 
 
-#### CHAPITRE II : REGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE<a id=246></a>
+#### CHAPITRE II : REGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE<a id=245></a>
 
 ###### Article D252-1
 
@@ -28509,11 +28498,11 @@ _Cite_:
   - Code de l'aviation civile - art. R224-2 (An)
 
 
-## LIVRE III : TRANSPORT AERIEN.<a id=247></a>
+## LIVRE III : TRANSPORT AERIEN.<a id=246></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=248></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=247></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=249></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=248></a>
 
 ###### Article D321-1
 
@@ -28552,9 +28541,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=250></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=249></a>
 
-#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=251></a>
+#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=250></a>
 
 ###### Article D330-1
 
@@ -28589,9 +28578,9 @@ _Cite_:
   - Code de l'aviation civile - art. R330-4 (V)
 
 
-### TITRE IV : SOCIETE AIR FRANCE.<a id=252></a>
+### TITRE IV : SOCIETE AIR FRANCE.<a id=251></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=253></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=252></a>
 
 ###### Article D342-1
 
@@ -28612,7 +28601,7 @@ _Modifié par_:
   - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
-### TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE.<a id=254></a>
+### TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE.<a id=253></a>
 
 ###### Article D370-1
 
@@ -28709,7 +28698,7 @@ _Anciens textes_:
 
 ###### Article D370-4
 
-Outre le président, le conseil supérieur de l'aviation marchande comprend quarante-trois autres membres répartis en deux
+Outre le président, le Conseil supérieur de l'aviation marchande comprend quarante-trois autres membres répartis en deux
 collèges, qui sont nommés par arrêté du ministre chargé de l'aviation civile, dans les conditions suivantes :
 
 Premier collège :
@@ -28731,7 +28720,7 @@ général, désignés sur proposition du ministre de l'intérieur ;
 
 - un représentant du ministre chargé des relations extérieures ;
 
-- un représentant du ministre chargé des armées ;
+- un représentant du ministre de la défense ;
 
 - un représentant du ministre chargé de la tutelle des chambres de commerce et d'industrie ;
 
@@ -28761,7 +28750,7 @@ dans le domaine du transport aérien, à raison de :
 
 3° Trois représentants des usagers du transport aérien ;
 
-4° Deux représentants des gestionnaires d'aéroports, dont un représentant d'Aéroport de Paris ;
+4° Deux représentants des gestionnaires d'aéroports, dont un représentant d'Aéroports de Paris ;
 
 5° Un représentant des industries françaises aéronautiques et spatiales.
 
@@ -28774,10 +28763,13 @@ _Codifié par_:
 
   - Décret n°67-335 1967-03-30
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 _Anciens textes_:
 
@@ -29003,9 +28995,9 @@ _Anciens textes_:
   - Code de l'aviation civile - art. D360-11 (T)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=255></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=254></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=256></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=255></a>
 
 ###### Article D410-1
 
@@ -29077,9 +29069,9 @@ _Cite_:
   - Code de l'aviation civile - art. D410-1 (M)
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=257></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=256></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=258></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=257></a>
 
 ###### Article D421-1
 
@@ -29384,9 +29376,9 @@ _Cité par_:
   - Arrêté du 21 janvier 1998 - art. 4 (V)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=259></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=258></a>
 
-##### Section 1 : Dispositions générales<a id=260></a>
+##### Section 1 : Dispositions générales<a id=259></a>
 
 ###### Article D422-1
 
@@ -29923,7 +29915,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-4-1 (V)
 
 
-##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=261></a>
+##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=260></a>
 
 ###### Article D422-8
 
@@ -29972,7 +29964,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D241-22 (Ab)
 
 
-##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=262></a>
+##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=261></a>
 
 ###### Article D422-9
 
@@ -30226,7 +30218,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-11 (V)
 
 
-##### Section 4 : Période de transition<a id=263></a>
+##### Section 4 : Période de transition<a id=262></a>
 
 ###### Article D422-14
 
@@ -30258,7 +30250,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Section 5 : Mesures de contrôle<a id=264></a>
+##### Section 5 : Mesures de contrôle<a id=263></a>
 
 ###### Article D422-15
 
@@ -30309,9 +30301,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=265></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=264></a>
 
-##### Section 2 : Conseil médical<a id=266></a>
+##### Section 2 : Conseil médical<a id=265></a>
 
 ###### Article D424-1
 
@@ -30676,9 +30668,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=267></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=266></a>
 
-#### CHAPITRE V : DISCIPLINE.<a id=268></a>
+#### CHAPITRE V : DISCIPLINE.<a id=267></a>
 
 ###### Article D435-1
 
@@ -31065,9 +31057,9 @@ _Abrogé par_:
   - Décret n°2011-484 du 3 mai 2011 - art. 2
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=269></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=268></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=270></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=269></a>
 
 ###### Article D510-1
 
@@ -31324,9 +31316,9 @@ _Cité par_:
   - Arrêté du 30 janvier 2020 - art. 1
 
 
-### TITRE II : AIDE AUX JEUNES<a id=271></a>
+### TITRE II : AIDE AUX JEUNES<a id=270></a>
 
-#### Section 1 : Aide aux jeunes.<a id=272></a>
+#### Section 1 : Aide aux jeunes.<a id=271></a>
 
 ###### Article D521-1
 
@@ -31415,7 +31407,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=273></a>
+#### Section 2 : Aide à la construction amateur.<a id=272></a>
 
 ###### Article D521-4
 
@@ -31481,9 +31473,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=274></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=273></a>
 
-### Section 1 : Avions photographes.<a id=275></a>
+### Section 1 : Avions photographes.<a id=274></a>
 
 ###### Article D611-1
 
@@ -31508,7 +31500,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=276></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=275></a>
 
 ###### Article D611-2
 
@@ -31620,11 +31612,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-# Annexes<a id=277></a>
+# Annexes<a id=276></a>
 
-## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=278></a>
+## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=277></a>
 
-### REGLES DE l'AIR<a id=279></a>
+### REGLES DE l'AIR<a id=278></a>
 
 ###### Article Annexe I : Appendice A
 
@@ -33740,11 +33732,9 @@ _Modifié par_:
 
 ###### Article Annexe I : Chapitre IV
 
-**CHAPITRE IV : Règles de vol à vue (VFR)
+**CHAPITRE IV : Règles de vol à vue (VFR)**
 
-**
-
-4.1. Conditions météorologiques de vol à vue et limitations de vitesse 
+4.1. Conditions météorologiques de vol à vue et limitations de vitesse
 
 4.1.1. Sauf clairance contraire en ce qui concerne le vol VFR spécial, les vols VFR doivent être effectués dans des
 conditions de visibilité et de distance par rapport aux nuages au moins égales à celles qui sont spécifiées dans le tableau
@@ -33753,7 +33743,7 @@ de l'appendice D.
 4.1.2. Les vols VFR appliquent les limitations de vitesse spécifiées dans le tableau de l'appendice D, sauf clairance
 contraire en espace aérien contrôlé de classe C ou D.
 
-4.2. Vol VFR spécial. 
+4.2. Vol VFR spécial.
 
 4.2.1. Une clairance VFR spécial est nécessaire pour pénétrer ou évoluer dans la circulation d'aérodrome d'un aérodrome
 contrôlé situé dans une zone de contrôle, ou dans une zone de contrôle spécialisée, lorsque les paramètres communiqués par
@@ -33777,8 +33767,8 @@ s'appliquer en VFR spécial.
 
 4.2.5. Une clairance de vol VFR spécial peut être délivrée dans des espaces aériens contrôlés autres que les zones de
 contrôle dans des conditions fixées par arrêté du ministre chargé de l'aviation civile ou par arrêté conjoint du ministre
-chargé de l'aviation civile et du ministre chargé des armées pour les espaces aériens contrôlés spécialisés autres que les
-zones de contrôle spécialisées.
+chargé de l'aviation civile et du ministre de la défense pour les espaces aériens contrôlés spécialisés autres que les zones
+de contrôle spécialisées.
 
 4.3. Vol VFR de nuit.
 
@@ -33956,7 +33946,7 @@ Un aéronef en VFR doit être muni de l'équipement de radionavigation adapté �
 
 - lorsqu'il quitte la vue du sol ou de l'eau ; 
 
-- dans les autres cas où un tel équipement est utile. 
+- dans les autres cas où un tel équipement est utile.
 
 4.11. Poursuite en IFR d'un vol VFR 
 
@@ -33972,7 +33962,7 @@ antérieurement déposé pour le vol VFR ;
 
 _Modifié par_:
 
-  - Décret n°94-947 1994-10-25 annexe I JORF 3 novembre 1994 en vigueur le 3 décembre 1994
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 
 ###### Article Annexe I : Chapitre V
@@ -34170,9 +34160,9 @@ _Modifié par_:
   - Décret n°94-947 1994-10-25 annexe I JORF 3 novembre 1994 en vigueur le 3 décembre 1994
 
 
-## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=280></a>
+## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=279></a>
 
-### SERVICES DE LA CIRCULATION AERIENNE<a id=281></a>
+### SERVICES DE LA CIRCULATION AERIENNE<a id=280></a>
 
 ###### Article Annexe II : Appendice A
 
@@ -34482,7 +34472,7 @@ _Cite_:
 
 ###### Article Annexe II : Chapitre II
 
-CHAPITRE II : Généralités
+**CHAPITRE II : Généralités**
 
 2.1. Bénéficiaires des services de la circulation aérienne. 
 
@@ -34845,9 +34835,9 @@ le service d'information de vol et le service d'alerte.
 
 Les modalités de désignation des organismes chargés d'assurer les services de la circulation aérienne dans les régions
 d'information de vol et les espaces contrôlés sont fixées par arrêté du ministre chargé de l'aviation civile ou par arrêté
-conjoint du ministre chargé de l'aviation civile et du ministre chargé des armées pour les espaces aériens où un organisme
-unique de la circulation aérienne assure simultanément des services à la circulation aérienne générale et à la circulation
-aérienne militaire. 
+conjoint du ministre chargé de l'aviation civile et du ministre de la défense pour les espaces aériens où un organisme unique
+de la circulation aérienne assure simultanément des services à la circulation aérienne générale et à la circulation aérienne
+militaire. 
 
 2.4.4. Identification. 
 
@@ -34905,7 +34895,7 @@ l'enquête.
 
 _Modifié par_:
 
-  - Décret n°94-947 1994-10-25 annexe II JORF 3 novembre 1994 en vigueur le 3 décembre 1994
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 
 ###### Article Annexe II : Chapitre III
@@ -35408,113 +35398,113 @@ pas la situation.
 
 
 
-## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=282></a>
+## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=281></a>
 
 ###### Article Annexe III
 
-**SERVICES DE LA CIRCULATION AÉRIENNE MILITAIRE**
+**SERVICES DE LA CIRCULATION AÉRIENNE MILITAIRE **
 
-Préambule
+Préambule 
 
 La présente réglementation constitue l'annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième
-partie du code de l'aviation civile (art. D. 131-1 à D. 131-10).
+partie du code de l'aviation civile (art. D. 131-1 à D. 131-10). 
 
 Cette réglementation est applicable sur l'ensemble du territoire métropolitain, des départements et territoires d'outre-mer,
 de la Nouvelle-Calédonie, de la collectivité territoriale de Mayotte, ainsi qu'au-dessus des mers et des océans selon des
-spécifications particulières décrites au chapitre II, paragraphe 2.10.
+spécifications particulières décrites au chapitre II, paragraphe 2.10. 
 
 Elle définit :
 
 - les services rendus par les organismes de la circulation aérienne militaire (CAM) ;
 
-- le rôle qu'exercent au bénéfice de la circulation aérienne militaire les organismes chargés de cette circulation.
+- le rôle qu'exercent au bénéfice de la circulation aérienne militaire les organismes chargés de cette circulation. 
 
-Les procédures d'application prévues dans la présente réglementation font l'objet d'un arrêté (RCAM 3) du ministre chargé des
-armées et sont publiées par la division information aéronautique de la direction de la circulation aérienne militaire
-(DIRCAM).
+Les procédures d'application prévues dans la présente réglementation font l'objet d'un arrêté (RCAM 3) du ministre de la
+défense et sont publiées par la division information aéronautique de la direction de la circulation aérienne militaire
+(DIRCAM). 
 
 Il appartient à chaque état-major ou direction, au centre d'essais en vol et à chaque grand commandement d'arrêter et de
-diffuser, en tant que de besoin, des instructions, des décisions, des directives et/ou des consignes particulières à
-l'intention de leurs unités et organismes en conformité avec la présente réglementation.
+diffuser, en tant que de besoin, des instructions, des décisions, des directives et/ ou des consignes particulières à
+l'intention de leurs unités et organismes en conformité avec la présente réglementation. 
 
-Nota. - La présente réglementation se conforme chaque fois que possible, en y faisant référence, à l'annexe II à la section I
+Nota.-La présente réglementation se conforme chaque fois que possible, en y faisant référence, à l'annexe II à la section I
 du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D. 131-1 à D. 131-10)
-relative aux " Services de la circulation aérienne générale " (RCA 2), dont elle s'efforce de suivre le plan.
+relative aux " Services de la circulation aérienne générale " (RCA 2), dont elle s'efforce de suivre le plan. 
 
-LES SERVICES DE LA CIRCULATION AÉRIENNE MILITAIRE
+LES SERVICES DE LA CIRCULATION AÉRIENNE MILITAIRE 
 
-(RCAM 2)
+(RCAM 2) 
 
-Chapitre Ier : Définitions
+Chapitre Ier : Définitions 
 
-Dans la présente réglementation :
+Dans la présente réglementation : 
 
 Les termes et expressions définis aux chapitres Ier des règles de l'air et des services de la circulation aérienne propres à
 la circulation aérienne générale (annexes I et II des articles D. 131-1 à D. 131-10 du code de l'aviation civile, RCA 1 et
-RCA 2) conservent leur acception dans la présente réglementation ;
+RCA 2) conservent leur acception dans la présente réglementation ; 
 
 Le terme " service " correspond à la notion de fonction ou de service assurés alors que le terme " organisme " désigne une
-entité administrative chargée d'assurer un service ;
+entité administrative chargée d'assurer un service ; 
 
 Les expressions définies au chapitre Ier des règles de l'air spécifiques à la circulation aérienne militaire (RCAM 1) sont
-employées avec la même signification dans les chapitres Ier à VI ci-après.
+employées avec la même signification dans les chapitres Ier à VI ci-après. 
 
-Chapitre II : Généralités
+Chapitre II : Généralités 
 
-2.1. Bénéficiaires des services de la circulation aérienne militaire
+2.1. Bénéficiaires des services de la circulation aérienne militaire 
 
-Les services de la circulation aérienne militaire sont assurés au profit des aéronefs relevant du ministre chargé des armées.
+Les services de la circulation aérienne militaire sont assurés au profit des aéronefs relevant du ministre de la défense. 
 
 En outre, les aéronefs d'Etat relevant d'autres ministères ou d'autres Etats, après approbation du commandant de la défense
 aérienne, et les aéronefs en essais ou en réception, avec l'agrément du directeur du centre d'essais en vol, peuvent
-bénéficier des services de la CAM selon les modalités fixées par des accords particuliers.
+bénéficier des services de la CAM selon les modalités fixées par des accords particuliers. 
 
-2.2. Services de la circulation aérienne militaire
+2.2. Services de la circulation aérienne militaire 
 
 Ils sont assurés par un dispositif composé par l'ensemble des organismes de la circulation aérienne militaire relevant du
-ministre chargé des armées. Des organismes désignés de la circulation aérienne générale, relevant du ministre chargé de
-l'aviation civile, peuvent rendre les services de la CAM dans le cadre de l'article D. 131-9 du code de l'aviation civile.
+ministre de la défense. Des organismes désignés de la circulation aérienne générale, relevant du ministre chargé de
+l'aviation civile, peuvent rendre les services de la CAM dans le cadre de l'article D. 131-9 du code de l'aviation civile. 
 
-Les services de la CAM peuvent être rendus dans l'ensemble de l'espace aérien.
+Les services de la CAM peuvent être rendus dans l'ensemble de l'espace aérien. 
 
-2.2.1. Objet des services de la CAM.
+2.2.1. Objet des services de la CAM. 
 
-Les services de la CAM ont pour objet :
+Les services de la CAM ont pour objet : 
 
-a) La sécurité :
+a) La sécurité : 
 
-Le dispositif doit assurer le déroulement sûr des vols, notamment la prévention des abordages et des collisions ;
+Le dispositif doit assurer le déroulement sûr des vols, notamment la prévention des abordages et des collisions ; 
 
-b) La liberté d'action :
+b) La liberté d'action : 
 
 Le dispositif doit permettre de disposer en temps utile des moyens et de l'espace aérien nécessaires à l'exécution de tous
-les types de missions ;
+les types de missions ; 
 
-c) La permanence :
+c) La permanence : 
 
-Le dispositif doit être en mesure de fonctionner chaque fois qu'il est requis.
+Le dispositif doit être en mesure de fonctionner chaque fois qu'il est requis. 
 
-2.2.2. Fonction des services de la CAM.
+2.2.2. Fonction des services de la CAM. 
 
-Les services de la CAM ont pour fonction :
+Les services de la CAM ont pour fonction : 
 
-1° D'assurer ou de concourir à la conduite de la mission ;
+1° D'assurer ou de concourir à la conduite de la mission ; 
 
-2° De prévenir les abordages ;
+2° De prévenir les abordages ; 
 
-3° De prévenir les collisions ;
+3° De prévenir les collisions ; 
 
-4° D'accélérer et d'ordonner la circulation aérienne ;
+4° D'accélérer et d'ordonner la circulation aérienne ; 
 
 5° De fournir les avis et renseignements utiles à l'exécution sûre et efficace des vols et nécessaires à l'exécution de la
-mission ;
+mission ; 
 
 6° D'alerter les organismes appropriés lorsque des aéronefs ont besoin de l'aide des organismes de recherche et de sauvetage,
-et de prêter à ces organismes le concours nécessaire ;
+et de prêter à ces organismes le concours nécessaire ; 
 
-7° De fournir une assistance à tout aéronef en vol qui en fait la demande.
+7° De fournir une assistance à tout aéronef en vol qui en fait la demande. 
 
-2.2.3. Subdivision des services de la CAM.
+2.2.3. Subdivision des services de la CAM. 
 
 Les services de la circulation aérienne militaire sont au nombre de quatre :
 
@@ -35524,11 +35514,11 @@ Les services de la circulation aérienne militaire sont au nombre de quatre :
 
 - le service d'alerte ;
 
-- le service d'assistance aux aéronefs en vol.
+- le service d'assistance aux aéronefs en vol. 
 
-2.2.3.1. Le service du contrôle de la CAM.
+2.2.3.1. Le service du contrôle de la CAM. 
 
-Le service du contrôle de la CAM correspond aux fonctions définies au paragraphe 2.2.2, alinéas 1 à 4.
+Le service du contrôle de la CAM correspond aux fonctions définies au paragraphe 2.2.2, alinéas 1 à 4. 
 
 Il se subdivise de la manière suivante :
 
@@ -35536,7 +35526,7 @@ Il se subdivise de la manière suivante :
 
 - contrôle d'approche ;
 
-- contrôle d'aérodrome.
+- contrôle d'aérodrome. 
 
 Il est rendu sous forme d'espacement ou d'information de trafic à l'aide de l'une des actions suivantes :
 
@@ -35544,172 +35534,172 @@ Il est rendu sous forme d'espacement ou d'information de trafic à l'aide de l'u
 
 - surveillance ;
 
-- protection.
+- protection. 
 
 Le guidage consiste à fournir les éléments de vol et de navigation à l'aide d'un ensemble radar ou de tout autre moyen
-équivalent.
+équivalent. 
 
 La fourniture d'espacements, d'information de trafic, d'information de vol ainsi que la prévention des abordages et des
 collisions sont assurées par l'organisme du contrôle pour l'ensemble des vols CAM contrôlés. En outre, dans le cas des vols
-de type CAM A, la conduite de la mission est assurée par l'organisme du contrôle.
+de type CAM A, la conduite de la mission est assurée par l'organisme du contrôle. 
 
-La surveillance consiste à veiller au bon déroulement du vol :
+La surveillance consiste à veiller au bon déroulement du vol : 
 
-1° A l'aide d'un ensemble radar ou de tout autre moyen équivalent :
+1° A l'aide d'un ensemble radar ou de tout autre moyen équivalent : 
 
 Dans ce cas, la conduite de la mission est assurée par le commandant de bord. La prévention des abordages et des collisions
-ainsi que la fourniture de l'information de vol incombent à l'organisme du contrôle de la circulation aérienne.
+ainsi que la fourniture de l'information de vol incombent à l'organisme du contrôle de la circulation aérienne. 
 
-Nota. - Dans le cas de la surveillance non radar, l'organisme du contrôle de la circulation aérienne assure les espacements
+Nota.-Dans le cas de la surveillance non radar, l'organisme du contrôle de la circulation aérienne assure les espacements
 conformément à des procédures préétablies. Cette surveillance non radar ne s'applique normalement qu'aux seules phases de vol
 arrivée ou départ, dans le cadre du contrôle d'approche, et sous réserve de l'existence de procédures publiées, d'une part,
 et d'espaces aériens contrôlés de classe A à D ou de zones réglementées, d'autre part. La conduite de la mission reste
-assurée par le commandant de bord, lequel a alors la charge de la sécurité par rapport au sol et aux obstacles fixes.
+assurée par le commandant de bord, lequel a alors la charge de la sécurité par rapport au sol et aux obstacles fixes. 
 
 La sécurité incombe à l'organisme du contrôle qui n'assure la prévention des abordages qu'à l'égard des aéronefs connus ou
 observés par application des règles prévalant dans le volume dont il a la responsabilité et au pilote par une observation
-stricte des procédures suivies.
+stricte des procédures suivies. 
 
-2° A l'aide de renseignements transmis par le pilote ou constatés visuellement, dans le cadre de la circulation d'aérodrome.
+2° A l'aide de renseignements transmis par le pilote ou constatés visuellement, dans le cadre de la circulation d'aérodrome. 
 
 L'organisme du contrôle est chargé de la prévention des collisions sur l'aire de manoeuvre et de la prévention des abordages
 assurée sous la forme d'information de trafic en circulation d'aérodrome et d'espacement sur la piste. La conduite de la
 mission reste assurée par le commandant de bord, lequel a alors en charge la sécurité par rapport au sol et aux obstacles
-fixes.
+fixes. 
 
 La protection (bénéficiant ou non de l'aide du radar) consiste à affecter un espace aérien ou un secteur défini à un ou
-plusieurs aéronefs pour les espacer des autres aéronefs connus ou détectés.
+plusieurs aéronefs pour les espacer des autres aéronefs connus ou détectés. 
 
-La conduite de la mission incombe au commandant de bord.
+La conduite de la mission incombe au commandant de bord. 
 
 L'organisme du contrôle de la circulation aérienne assure les espacements au bénéfice des aéronefs qu'il a autorisés à
-pénétrer dans cet espace aérien, ainsi que l'information de vol.
+pénétrer dans cet espace aérien, ainsi que l'information de vol. 
 
-Le service cesse dès que l'aéronef quitte l'espace aérien ou le secteur considéré.
+Le service cesse dès que l'aéronef quitte l'espace aérien ou le secteur considéré. 
 
-2.2.3.2. Le service d'information de vol.
+2.2.3.2. Le service d'information de vol. 
 
-Le service d'information de vol correspond aux fonctions définies au paragraphe 2.2.2, alinéas 1 et 5.
+Le service d'information de vol correspond aux fonctions définies au paragraphe 2.2.2, alinéas 1 et 5. 
 
 Les informations de vol fournies par l'organisme de la circulation aérienne sont de deux sortes :
 
 - les informations de vol prévues et fixées dans l'arrêté visé au paragraphe 2.2.4.1 ci-après et relatives à la sécurité des
 vols (aggravation météorologique, altitude de sécurité, calage altimétrique...) ;
 
-- les informations de vol sur demande du pilote ou à l'initiative du contrôle.
+- les informations de vol sur demande du pilote ou à l'initiative du contrôle. 
 
-2.2.3.3. Le service d'alerte.
+2.2.3.3. Le service d'alerte. 
 
-Le service d'alerte correspond aux fonctions définies au paragraphe 2.2.2, alinéa 6.
+Le service d'alerte correspond aux fonctions définies au paragraphe 2.2.2, alinéa 6. 
 
 Tout organisme de la circulation aérienne ayant connaissance d'anomalies dans le déroulement d'un vol, pouvant mettre en
-cause la sécurité de ce vol, doit proposer ou déclencher les phases d'urgence conformément aux procédures en vigueur.
+cause la sécurité de ce vol, doit proposer ou déclencher les phases d'urgence conformément aux procédures en vigueur. 
 
-2.2.3.4. Le service d'assistance aux aéronefs en vol.
+2.2.3.4. Le service d'assistance aux aéronefs en vol. 
 
-Le service d'assistance aux aéronefs en vol correspond aux fonctions définies au paragraphe 2.2.2, alinéa 7.
+Le service d'assistance aux aéronefs en vol correspond aux fonctions définies au paragraphe 2.2.2, alinéa 7. 
 
 Cette assistance est fournie, après accord du pilote, sous la forme du service d'information de vol ou selon une des actions
-du service du contrôle de la CAM et suivant les dispositions précédemment définies pour ces services.
+du service du contrôle de la CAM et suivant les dispositions précédemment définies pour ces services. 
 
-2.2.4. Procédures employées par les organismes chargés de rendre les services de la CAM.
+2.2.4. Procédures employées par les organismes chargés de rendre les services de la CAM. 
 
 2.2.4.1. Les procédures employées par les organismes chargés de rendre les services de la circulation aérienne militaire aux
-aéronefs appartenant à la circulation aérienne militaire sont fixées par arrêté du ministre chargé des armées.
+aéronefs appartenant à la circulation aérienne militaire sont fixées par arrêté du ministre de la défense. 
 
 2.2.4.2. Des procédures complémentaires employées par les organismes de la circulation aérienne chargés de rendre
 simultanément des services à des aéronefs relevant de la CAM et à des aéronefs relevant de la CAG peuvent être établies par
-arrêté conjoint du ministre chargé des armées et du ministre chargé de l'aviation civile.
+arrêté conjoint du ministre de la défense et du ministre chargé de l'aviation civile. 
 
-2.3. Espaces aériens et aérodromes où sont assurés des services de la CAM
+2.3. Espaces aériens et aérodromes où sont assurés des services de la CAM 
 
-2.3.1. Désignation des espaces aériens.
+2.3.1. Désignation des espaces aériens. 
 
 Les services de la circulation aérienne militaire peuvent être assurés dans la totalité de l'espace aérien. En particulier,
-le service du contrôle CAM n'est pas nécessairement lié à un type ou une classe d'espace.
+le service du contrôle CAM n'est pas nécessairement lié à un type ou une classe d'espace. 
 
-2.3.1.1. Régions d'information de vol.
+2.3.1.1. Régions d'information de vol. 
 
-En complément au RCA 2, les principes ci-après sont retenus.
+En complément au RCA 2, les principes ci-après sont retenus. 
 
 Tous les services de la CAM peuvent être assurés à l'intérieur des régions d'information de vol. Toutefois, en espace aérien
 de classe F ou G, hors des espaces aériens à statut particulier, le service du contrôle ne peut être rendu qu'avec l'aide du
-radar sauf si une partie de cet espace aérien a été réservée et permet le déroulement de la CAM de type C.
+radar sauf si une partie de cet espace aérien a été réservée et permet le déroulement de la CAM de type C. 
 
-2.3.1.2. Espaces aériens contrôlés et espaces aériens contrôlés spécialisés.
+2.3.1.2. Espaces aériens contrôlés et espaces aériens contrôlés spécialisés. 
 
-En complément au RCA 2, les principes ci-après s'appliquent.
+En complément au RCA 2, les principes ci-après s'appliquent. 
 
 Les services de la CAM peuvent être assurés dans les espace s aériens contrôlés (EAC). Le contrôle de la CAM ne peut
 cependant être effectué qu'en vertu des accords permanents ou temporaires passés entre les administrations ou organismes de
-la circulation aérienne et selon les dispositions prévues à cet effet.
+la circulation aérienne et selon les dispositions prévues à cet effet. 
 
 Les espaces aériens contrôlés spécialisés (EACS), créés au profit des activités de la défense, font partie des régions
-d'information de vol dans lesquels ils sont établis.
+d'information de vol dans lesquels ils sont établis. 
 
 Les espaces aériens contrôlés et espaces aériens contrôlés spécialisés n'existent que pendant les horaires de fonctionnement
-des organismes chargés d'y assurer le service du contrôle.
+des organismes chargés d'y assurer le service du contrôle. 
 
-Ces horaires sont portés à la connaissance des usagers par la voie de l'information aéronautique.
+Ces horaires sont portés à la connaissance des usagers par la voie de l'information aéronautique. 
 
 Tout ou partie d'un EACS peut, lorsque cela est prévu, devenir espace aérien contrôlé au profit d'un organisme du contrôle de
 la circulation aérienne générale lorsque l'organisme du contrôle de la circulation aérienne militaire cesse d'y rendre des
-services.
+services. 
 
-2.3.1.3. Espaces aériens à statut particulier.
+2.3.1.3. Espaces aériens à statut particulier. 
 
-La description des espaces aériens à statut particulier est conforme au RCA 2, paragraphe 2.3.1.3.
+La description des espaces aériens à statut particulier est conforme au RCA 2, paragraphe 2.3.1.3. 
 
 En espace aérien supérieur ou inférieur peuvent être créées des zones de ségrégation temporaire (TSA, ou CBA lorsqu'elles
 sont transfrontalières). Leur activation fait l'objet d'une coordination entre les organismes concernés pour leur utilisation
-(voir MILAIP).
+(voir MILAIP). 
 
 Les services de la CAM sont également assurés dans ces espaces aériens à statut particulier qui sont répertoriés dans les
 publications d'information aéronautique fixant notamment les conditions de pénétration pour des périodes d'activation
-déterminées.
+déterminées. 
 
 Outre les zones interdites figurant dans la documentation aéronautique générale, des zones interdites aux aéronefs de la
-défense, dites zones " M ", ont été créées. Elles sont répertoriées dans le MILAIP.
+défense, dites zones " M ", ont été créées. Elles sont répertoriées dans le MILAIP. 
 
-2.3.1.4. Secteurs particuliers d'entraînement.
+2.3.1.4. Secteurs particuliers d'entraînement. 
 
 Certaines missions d'entraînement au vol tactique, au vol au-dessus de la mer, au vol à très basse altitude, à l'entraînement
 au combat, notamment, nécessitent la définition de secteurs particuliers. Ces secteurs ne sont connus que des usagers de la
-CAM et sont perméables au trafic CAG.
+CAM et sont perméables au trafic CAG. 
 
-2.3.2. Classification des espaces aériens.
+2.3.2. Classification des espaces aériens. 
 
 Sont dénommés " espaces aériens contrôlés spécialisés " les espaces aériens créés au profit d'activité de la défense et dans
 lesquels les services de la circulation aérienne sont rendus simultanément à la circulation aérienne militaire et à la
 circulation aérienne générale et où la cohabitation et la densité des deux types de circulation aérienne rendent nécessaire
-la mise en place de mesures complémentaires.
+la mise en place de mesures complémentaires. 
 
 La classification des espaces aériens figurant au RCA 2 est applicable aux espaces aériens contrôlés spécialisés. Les
-définitions explicitées ci-après font la synthèse des services rendus aux deux circulations.
+définitions explicitées ci-après font la synthèse des services rendus aux deux circulations. 
 
-2.3.2.1 Les espaces aériens contrôlés spécialisés sont les suivants :
+2.3.2.1 Les espaces aériens contrôlés spécialisés sont les suivants : 
 
-2.3.2.1.1. Espace aérien contrôlé spécialisé de classe A.
+2.3.2.1.1. Espace aérien contrôlé spécialisé de classe A. 
 
 Espace aérien où sont admis les vols IFR et les vols CAM A, B, C. Sauf dérogation, les vols CAM V et les vols VFR n'y sont
-pas admis.
+pas admis. 
 
 Dans cet espace aérien, les organismes du contrôle de la circulation aérienne désignés assurent des espacements entre tous
 les vols normalement admis. Les vols CAM A, B, C sont espacés de tous les vols connus ou détectés. Les vols admis en
-dérogation reçoivent un service qui est explicitement défini par cette dérogation.
+dérogation reçoivent un service qui est explicitement défini par cette dérogation. 
 
-2.3.2.1.2. Espace aérien contrôlé spécialisé de classe B.
+2.3.2.1.2. Espace aérien contrôlé spécialisé de classe B. 
 
-Espace aérien où sont admis les vols IFR ou les vols CAM A, B, C ainsi que les vols VFR ou les vols CAM V.
+Espace aérien où sont admis les vols IFR ou les vols CAM A, B, C ainsi que les vols VFR ou les vols CAM V. 
 
 Dans cet espace aérien, les organismes du contrôle de la circulation aérienne désignés assurent des espacements entre tous
-les vols connus ou détectés.
+les vols connus ou détectés. 
 
-2.3.2.1.3. Espace aérien contrôlé spécialisé de classe C.
+2.3.2.1.3. Espace aérien contrôlé spécialisé de classe C. 
 
-Espace aérien où sont admis les vols IFR ou CAM A, B, C ainsi que les vols VFR ou les vols CAM V.
+Espace aérien où sont admis les vols IFR ou CAM A, B, C ainsi que les vols VFR ou les vols CAM V. 
 
-Dans cet espace aérien, les organismes du contrôle de la circulation aérienne désignés :
+Dans cet espace aérien, les organismes du contrôle de la circulation aérienne désignés : 
 
 a) Assurent des espacements :
 
@@ -35719,15 +35709,15 @@ a) Assurent des espacements :
 
 - entre les vols IFR ;
 
-- entre les vols IFR et les vols VFR et/ou CAM V ;
+- entre les vols IFR et les vols VFR et/ ou CAM V ; 
 
-b) Fournissent des informations de trafic aux vols VFR et/ou CAM V sur les autres vols VFR et/ou CAM V.
+b) Fournissent des informations de trafic aux vols VFR et/ ou CAM V sur les autres vols VFR et/ ou CAM V. 
 
-2.3.2.1.4. Espace aérien contrôlé spécialisé de classe D.
+2.3.2.1.4. Espace aérien contrôlé spécialisé de classe D. 
 
-Espace aérien où sont admis les vols IFR ou les vols CAM A, B, C ainsi que les vols VFR ou les vols CAM V.
+Espace aérien où sont admis les vols IFR ou les vols CAM A, B, C ainsi que les vols VFR ou les vols CAM V. 
 
-Dans cet espace aérien, les organismes du contrôle de la circulation aérienne militaire désignés :
+Dans cet espace aérien, les organismes du contrôle de la circulation aérienne militaire désignés : 
 
 a) Assurent des espacements :
 
@@ -35737,19 +35727,19 @@ a) Assurent des espacements :
 
 - entre les vols IFR ;
 
-- entre les vols CAM A, B, C et tous les vols non connus mais détectés ;
+- entre les vols CAM A, B, C et tous les vols non connus mais détectés ; 
 
 b) Fournissent des informations de trafic :
 
-- aux vols CAM A, B, C sur les vols VFR et/ou CAM V ;
+- aux vols CAM A, B, C sur les vols VFR et/ ou CAM V ;
 
-- aux vols IFR sur les vols VFR et/ou CAM V ;
+- aux vols IFR sur les vols VFR et/ ou CAM V ;
 
-- aux vols VFR et/ou CAM V sur tous les vols connus.
+- aux vols VFR et/ ou CAM V sur tous les vols connus. 
 
-2.3.2.1.5. Espace aérien contrôlé spécialisé de classe E.
+2.3.2.1.5. Espace aérien contrôlé spécialisé de classe E. 
 
-Espace aérien où sont admis les vols IFR et/ou les vols CAM A, B, C ainsi que les vols VFR et/ou CAM V.
+Espace aérien où sont admis les vols IFR et/ ou les vols CAM A, B, C ainsi que les vols VFR et/ ou CAM V. 
 
 Dans cet espace aérien, les organismes du contrôle de la circulation aérienne militaire désignés assurent les espacements :
 
@@ -35757,17 +35747,17 @@ Dans cet espace aérien, les organismes du contrôle de la circulation aérienne
 
 - entre les vols CAM A, B, C et tous les autres vols connus ou détectés ;
 
-- entre les vols IFR.
+- entre les vols IFR. 
 
-Nota. - Les vols CAM A, B et C sont nécessairement espacés de tous les autres vols connus ou détectés en raison de la
+Nota.-Les vols CAM A, B et C sont nécessairement espacés de tous les autres vols connus ou détectés en raison de la
 perméabilité de l'espace aérien de classe E, qui ne permet pas de connaître en permanence les manoeuvres des aéronefs
-évoluant à vue.
+évoluant à vue. 
 
-2.3.2.2. Les espaces aériens non contrôlés sont les suivants :
+2.3.2.2. Les espaces aériens non contrôlés sont les suivants : 
 
-2.3.2.2.1. Espace aérien non contrôlé de classe F (espace aérien à service consultatif).
+2.3.2.2.1. Espace aérien non contrôlé de classe F (espace aérien à service consultatif). 
 
-Espace aérien où sont admis tous les vols.
+Espace aérien où sont admis tous les vols. 
 
 Dans cet espace aérien, les organismes de la circulation aérienne désignés assurent :
 
@@ -35775,212 +35765,211 @@ Dans cet espace aérien, les organismes de la circulation aérienne désignés a
 
 - des espacements entre les vols CAM A, B, C et tous les autres vols connus ou détectés ;
 
-- le service consultatif de la circulation aérienne.
+- le service consultatif de la circulation aérienne. 
 
-2.3.2.2.2. Espace aérien non contrôlé de classe G.
+2.3.2.2.2. Espace aérien non contrôlé de classe G. 
 
-Espace aérien où sont admis tous les vols.
+Espace aérien où sont admis tous les vols. 
 
 Dans cet espace aérien, les organismes de la circulation aérienne assurent les espacements :
 
 - entre les vols CAM A, B, C ;
 
-- entre les vols CAM A, B, C et tous les autres vols connus ou détectés.
+- entre les vols CAM A, B, C et tous les autres vols connus ou détectés. 
 
-Note 1. - Quel que soit le type d'espace aérien, l'organisme désigné chargé de rendre les services du contrôle de la CAM est
+Note 1.-Quel que soit le type d'espace aérien, l'organisme désigné chargé de rendre les services du contrôle de la CAM est
 responsable de la prévention des abordages au profit des aéronefs qu'il contrôle par rapport à tout vol connu ou détecté.
-Cette prévention est assurée à l'aide des méthodes suivantes : espacement, information de trafic et information de vol.
+Cette prévention est assurée à l'aide des méthodes suivantes : espacement, information de trafic et information de vol. 
 
 Les services d'information de vol, d'alerte et d'assistance en vol sont rendus par les organismes du contrôle de la CAM dans
-tous les espaces aériens.
+tous les espaces aériens. 
 
-Note 2. - Les conditions applicables aux vols effectués dans chacune des classes d'espace aérien sont conformes au tableau en
-appendice.
+Note 2.-Les conditions applicables aux vols effectués dans chacune des classes d'espace aérien sont conformes au tableau en
+appendice. 
 
 Les conditions applicables aux vols effectués sur la limite entre des espaces aériens de classes différentes sont celles de
-celui de ces espaces aériens qui appartient à la classe qui vient en dernier dans l'ordre alphabétique.
+celui de ces espaces aériens qui appartient à la classe qui vient en dernier dans l'ordre alphabétique. 
 
-Note 3. - Les conditions particulières à l'espace aérien surjacent à la haute mer sont décrites au paragraphe 2.10.
+Note 3.-Les conditions particulières à l'espace aérien surjacent à la haute mer sont décrites au paragraphe 2.10.
 
-2.3.3. Spécifications relatives aux espaces aériens.
+2.3.3. Spécifications relatives aux espaces aériens. 
 
-2.3.3.1. Régions d'information de vol.
-
-Conforme au RCA 2.
-
-2.3.3.2. Espaces aériens contrôlés.
+2.3.3.1. Régions d'information de vol. 
 
 Conforme au RCA 2.
 
-2.3.3.3. Espaces aériens contrôlés spécialisés.
+2.3.3.2. Espaces aériens contrôlés. 
+
+Conforme au RCA 2.
+
+2.3.3.3. Espaces aériens contrôlés spécialisés. 
 
 Un EACS est délimité de façon à contenir les activités spécifiques de la défense et les trajectoires des vols de la CAM qui
 nécessitent sa création. De plus, pour les vols de la CAG auxquels le service du contrôle est assuré, les dispositions du RCA
-2 s'appliquent.
+2 s'appliquent. 
 
-2.3.3.4. Espaces aériens à statut particulier.
+2.3.3.4. Espaces aériens à statut particulier. 
 
 Un espace aérien à statut particulier est délimité de façon à protéger ou contenir des sites, des trajectoires ou des
 activités spécifiques à caractère permanent ou temporaire. Il doit alors englober les trajectoires ou activités qui
-nécessitent sa création.
+nécessitent sa création. 
 
-2.3.3.5. Secteurs particuliers d'entraînement.
+2.3.3.5. Secteurs particuliers d'entraînement. 
 
 Des secteurs particuliers d'entraînement, évoqués au paragraphe 2.3.1.4, sont établis au-dessus du sol ou de l'eau. Ils sont
-contenus pour l'essentiel en espace aérien inférieur.
+contenus pour l'essentiel en espace aérien inférieur. 
 
-2.3.4. Créations.
+2.3.4. Créations. 
 
 2.3.4.1. Régions d'information de vol, espaces aériens contrôlés, zones réglementées, zones dangereuses, zones de ségrégation
-temporaires.
+temporaires. 
 
 Les conditions de création, de modification et de suppression des régions d'information de vol, des espaces aériens
-contrôlés, des zones réglementées, des zones dangereuses et des zones de ségrégation temporaires sont fixées par décret.
+contrôlés, des zones réglementées, des zones dangereuses et des zones de ségrégation temporaires sont fixées par décret. 
 
-2.3.4.2. Zones interdites.
+2.3.4.2. Zones interdites. 
 
 En complément au RCA 2, des zones " M " interdites aux aéronefs de la défense sont créées par la direction de la circulation
-aérienne militaire sur demande des autorités régionales compétentes.
+aérienne militaire sur demande des autorités régionales compétentes. 
 
-2.3.4.3. Secteurs particuliers d'entraînement.
+2.3.4.3. Secteurs particuliers d'entraînement. 
 
 Les créations ou modifications de secteurs particuliers d'entraînement sont proposées par les CICAM et publiées dans le
-MILAIP après accord de la DIRCAM.
+MILAIP après accord de la DIRCAM. 
 
-2.3.5. Aérodromes.
+2.3.5. Aérodromes. 
 
 Conforme au RCA 2.
 
-2.3.6. Identification.
+2.3.6. Identification. 
 
-Les règles d'identification contenues au RCA 2 s'appliquent aux EACS et aux aérodromes dont le ministre chargé des armées est
-affectataire principal.
+Les règles d'identification contenues au RCA 2 s'appliquent aux EACS et aux aérodromes dont le ministre de la défense est
+affectataire principal. 
 
-2.4. Organismes assurant les services de la CAM
+2.4. Organismes assurant les services de la CAM 
 
-2.4.1. Désignation des organismes.
+2.4.1. Désignation des organismes. 
 
 Tous les organismes de la CAM spécifiés au paragraphe 2.4.2 sont chargés de rendre les services de la CAM et de recueillir
-les renseignements aéronautiques relatifs à leurs installations.
+les renseignements aéronautiques relatifs à leurs installations. 
 
 Ils peuvent également rendre les services de la CAG au profit des aéronefs de cette circulation, conformément aux arrêtés
-conjoints du ministre chargé de l'aviation civile et du ministre chargé des armées (art. D. 131-9 du code de l'aviation
-civile).
+conjoints du ministre chargé de l'aviation civile et du ministre de la défense (art. D. 131-9 du code de l'aviation civile). 
 
-2.4.2. Spécifications relatives aux organismes de la CAM.
+2.4.2. Spécifications relatives aux organismes de la CAM. 
 
-2.4.2.1. Centre de détection et de contrôle (CDC).
+2.4.2.1. Centre de détection et de contrôle (CDC). 
 
-Le CDC comprend :
+Le CDC comprend : 
 
-Le centre de contrôle d'interception (CCI) qui assure le contrôle des missions de défense aérienne ;
+Le centre de contrôle d'interception (CCI) qui assure le contrôle des missions de défense aérienne ; 
 
 Le centre de contrôle et de coordination du trafic (CCT), articulé en deux éléments :
 
 - la section de contrôle et de coordination de la circulation opérationnelle militaire (SCCOM) ;
 
-- le bureau d'information de vol (BIV).
+- le bureau d'information de vol (BIV). 
 
-Le CDC est chargé d'assurer les services de la CAM dans sa zone d'attribution (voir § 2.10.2.2 ci-après).
+Le CDC est chargé d'assurer les services de la CAM dans sa zone d'attribution (voir § 2.10.2.2 ci-après). 
 
-2.4.2.2. Système de détection et de commandement aéroporté (SDCA).
+2.4.2.2. Système de détection et de commandement aéroporté (SDCA). 
 
 Le SDCA peut rendre des services de la CAM de façon identique à celle d'un CDC. Ces services sont fournis en application des
-instructions et consignes particulières.
+instructions et consignes particulières. 
 
-2.4.2.3. Centre de contrôle de la circulation d'essais et de réception (CCER).
+2.4.2.3. Centre de contrôle de la circulation d'essais et de réception (CCER). 
 
 Chargés de rendre les services de la CAM aux aéronefs de la circulation d'essais et de réception, les CCER sont implantés :
 
-- sur des aérodromes dont le ministre chargé des armées est affectataire ;
+- sur des aérodromes dont le ministre de la défense est affectataire ;
 
 - dans les centres de la navigation aérienne civile ;
 
-- dans les centres mixtes.
+- dans les centres mixtes. 
 
-2.4.2.4. Centre de coordination et de contrôle de la marine (CCMAR).
+2.4.2.4. Centre de coordination et de contrôle de la marine (CCMAR). 
 
 Le CCMAR est chargé de rendre, dans les espaces aériens et les secteurs désignés, les services de la CAM au profit des
-aéronefs dont les vols ou phases de vols sont placés sous sa responsabilité.
+aéronefs dont les vols ou phases de vols sont placés sous sa responsabilité. 
 
-2.4.2.5. Contrôle local d'aérodrome (CLA).
+2.4.2.5. Contrôle local d'aérodrome (CLA). 
 
-Le CLA comprend :
+Le CLA comprend : 
 
 La tour de contrôle (TWR) ou vigie qui rend les services de la circulation aérienne au profit de la circulation d'aérodrome
-et de la circulation au sol ;
+et de la circulation au sol ; 
 
 Le centre de contrôle d'approche (APP) qui rend les service s de la circulation aérienne au profit des aéronefs en procédure
 d'arrivée ou de départ aux instruments et aux autres aéronefs en vol dans les espaces aériens associés à l'aérodrome et dans
 les espaces aériens désignés, avec l'accord de l'organisme du contrôle de la circulation aérienne concerné. Le centre de
-contrôle d'approche peut être commun à plusieurs aérodromes.
+contrôle d'approche peut être commun à plusieurs aérodromes. 
 
-En plus des organismes de la circulation aérienne ci-dessus, le CLA comprend les deux services suivants :
+En plus des organismes de la circulation aérienne ci-dessus, le CLA comprend les deux services suivants : 
 
 Le bureau d'information aéronautique (BIA) qui recueille les renseignements concernant l'aérodrome et met à la disposition du
-pilote la documentation nécessaire à la préparation des vols ;
+pilote la documentation nécessaire à la préparation des vols ; 
 
 Le bureau de piste où sont déposés, exploités et transmis les plans de vol CAM ou CAG et les messages de la circulation
-aérienne.
+aérienne. 
 
-2.4.2.6. Centre militaire de contrôle (CMC).
+2.4.2.6. Centre militaire de contrôle (CMC). 
 
 Le CMC rend les services de la CAM au profit d'une activité particulière qui se déroule dans une portion d'espace aérien
 définie. Il peut comprendre tout ou partie des organismes cités précédemment (CLA, CDC) pour assurer certaines de leurs
-missions.
+missions. 
 
-2.4.2.7. Détachement militaire de coordination (DMC).
+2.4.2.7. Détachement militaire de coordination (DMC). 
 
 Mis en place auprès de chaque CRNA, il est chargé du recueil et de la diffusion aux organismes du contrôle de la CAM des
-informations de circulation aérienne non transmises de façon automatique.
+informations de circulation aérienne non transmises de façon automatique. 
 
 En dehors des périodes de vacation du DCC, il retransmet au CRNA les activations d'espaces aériens nécessaires aux activités
 de la CAM lorsque ceux-ci interfèrent avec les espaces aériens dans lesquels des services de la circulation aérienne sont
-rendus par le CRNA.
+rendus par le CRNA. 
 
-2.4.2.8. Détachement militaire de circulation aérienne (DMCA).
+2.4.2.8. Détachement militaire de circulation aérienne (DMCA). 
 
 Mis en place dans certains CRNA, le DMCA rend les services de la CAM et de la CAG au profit d'une activité se déroulant dans
-un espace aérien désigné. Il assure en outre toutes les missions du DMC.
+un espace aérien désigné. Il assure en outre toutes les missions du DMC. 
 
-2.4.2.9. Les autres organismes de la CAM.
+2.4.2.9. Les autres organismes de la CAM. 
 
-Des organismes de la CAM avancés et/ou mobiles, aéroportés ou embarqués peuvent rendre des services de la CAM et
-éventuellement assurer les coordinations avec les autres organismes de la circulation aérienne.
+Des organismes de la CAM avancés et/ ou mobiles, aéroportés ou embarqués peuvent rendre des services de la CAM et
+éventuellement assurer les coordinations avec les autres organismes de la circulation aérienne. 
 
-2.4.3. Désignation des organismes.
+2.4.3. Désignation des organismes. 
 
 Les organismes de la circulation aérienne militaire font l'objet d'une désignation par l'autorité compétente concernée
-relevant du ministre chargé des armées ou par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé
-des armées pour les espaces aériens lorsqu'un organisme unique de la circulation aérienne assure simultanément des services à
-la circulation aérienne générale et à la circulation aérienne militaire.
+relevant du ministre de la défense ou par arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la
+défense pour les espaces aériens lorsqu'un organisme unique de la circulation aérienne assure simultanément des services à la
+circulation aérienne générale et à la circulation aérienne militaire. 
 
-Ils sont publiés par la voie de l'information aéronautique.< RL> 2.4.4. Identification.
+Ils sont publiés par la voie de l'information aéronautique. < RL > 2.4.4. Identification. 
 
-Conforme au RCA 2.
+Conforme au RCA 2. 
 
-De plus, un organisme de la circulation aérienne militaire peut être identifié par un indicatif opérationnel.
+De plus, un organisme de la circulation aérienne militaire peut être identifié par un indicatif opérationnel. 
 
-2.5. Routes et points significatifs
+2.5. Routes et points significatifs 
 
-2.5.1. Routes TACAN.
+2.5.1. Routes TACAN. 
 
 Le réseau de routes TACAN (routes CAG) est défini à l'usage des aéronefs militaires évoluant en régime IFR en circulation
-aérienne générale (voir MILAIP).
+aérienne générale (voir MILAIP). 
 
-2.5.2. Itinéraires de la circulation opérationnelle militaire (ITICOM).
+2.5.2. Itinéraires de la circulation opérationnelle militaire (ITICOM). 
 
 Les ITICOM sont définis à l'usage des aéronefs militaires évoluant en CAM contrôlée. Ces itinéraires et les points de report
-COM sont répertoriés au MILAIP.
+COM sont répertoriés au MILAIP. 
 
-2.6. Altitudes minimales de vol
+2.6. Altitudes minimales de vol 
 
-Des altitudes minimales de vol sont déterminées pour chacune des routes TACAN.
+Des altitudes minimales de vol sont déterminées pour chacune des routes TACAN. 
 
 Les ITICOM sont normalement inclus en espace aérien supérieur. Ils sont utilisables en espace aérien inférieur sous certaines
-conditions comme support de navigation.
+conditions comme support de navigation. 
 
-2.7. Information aéronautique
+2.7. Information aéronautique 
 
 Tous les renseignements nécessaires aux usagers de la CAM et relatifs, notamment :
 
@@ -35990,79 +35979,79 @@ Tous les renseignements nécessaires aux usagers de la CAM et relatifs, notammen
 
 - aux moyens de radionavigation et de radiocommunication ;
 
-- aux organismes de la circulation aérienne chargés d'assurer les services de la CAM,
+- aux organismes de la circulation aérienne chargés d'assurer les services de la CAM, 
 
 sont portés à leur connaissance par la voie de l'information aéronautique et, en ce qui concerne les renseignements
-spécifiques à la défense, par la voie de l'information aéronautique militaire.
+spécifiques à la défense, par la voie de l'information aéronautique militaire. 
 
-2.8. Importance de l'heure
-
-Conforme au RCA 2.
-
-2.9. Conservation des données
+2.8. Importance de l'heure 
 
 Conforme au RCA 2.
 
-2.10. Espaces aériens au-dessus de la mer
+2.9. Conservation des données 
 
-2.10.1. Au-dessus des mers territoriales.
+Conforme au RCA 2.
+
+2.10. Espaces aériens au-dessus de la mer 
+
+2.10.1. Au-dessus des mers territoriales. 
 
 L'espace aérien au-dessus des mers territoriales d'un Etat fait partie du territoire de cet Etat. Les aéronefs relevant de la
-CAM se conforment donc aux règles propres à cet Etat.
+CAM se conforment donc aux règles propres à cet Etat. 
 
-2.10.2. Au-dessus de la haute mer en FIR française.
+2.10.2. Au-dessus de la haute mer en FIR française. 
 
 L'espace aérien situé au-dessus de la haute mer exclut les espaces aériens situés au-dessus des mers territoriales des Etats.
 Un aéronef relevant de la CAM se conforme aux règles objet du chapitre VI du RCAM 1.
 
-2.10.2.1. Dans les espaces aériens réservés pour la CAM en espace aérien contrôlé.
+2.10.2.1. Dans les espaces aériens réservés pour la CAM en espace aérien contrôlé. 
 
 Des secteurs particuliers d'entraînement (voir RCAM 2, paragraphe 2.3.1.4), situés dans l'espace aérien au-dessus de la haute
 mer, peuvent être réservés pour les aéronefs en CAM contrôlée effectuant des évolutions rendant impossible la coordination
-avec les organismes du contrôle de la CAG concernés (voir RCAM 1, paragraphe 5.4.2).
+avec les organismes du contrôle de la CAG concernés (voir RCAM 1, paragraphe 5.4.2). 
 
-Le contrôle de la CAM s'effectue selon les conditions habituelles adoptées sur le territoire national.
+Le contrôle de la CAM s'effectue selon les conditions habituelles adoptées sur le territoire national. 
 
-2.10.2.2. Dans les zones d'attribution des CCT.
+2.10.2.2. Dans les zones d'attribution des CCT. 
 
 Les zones d'attribution des CCT (centres de contrôle et de coordination du trafic) sont publiées dans la documentation
 aéronautique militaire. Leurs limites latérales diffèrent des limites des FIR françaises ; elles englobent néanmoins les
-secteurs définis en 2.10.2.1.
+secteurs définis en 2.10.2.1. 
 
 Dans l'ensemble de l'espace aérien (inférieur et supérieur) qui leur est attribué, les CCT rendent les services de la CAM :
 
 - en dehors des espaces aériens affectés à d'autres organismes de la CAM ;
 
-- dans la limite de leur plancher de contrôle pour les vols contrôlés au radar.
+- dans la limite de leur plancher de contrôle pour les vols contrôlés au radar. 
 
-Nota. - Certains espaces aériens ou secteurs cités en 2.10.2.1 et 2.10.2.2 peuvent se situer en totalité ou en partie à
-l'intérieur de l'espace aérien de classe A à D.
+Nota.-Certains espaces aériens ou secteurs cités en 2.10.2.1 et 2.10.2.2 peuvent se situer en totalité ou en partie à
+l'intérieur de l'espace aérien de classe A à D. 
 
-2.10.2.3. Dans les zones dangereuses d'entraînement en Atlantique et en Méditerranée.
+2.10.2.3. Dans les zones dangereuses d'entraînement en Atlantique et en Méditerranée. 
 
 Les aéronefs de la défense effectuent des vols CAM dans les parties maritimes des FIR Brest, Bordeaux et Marseille en toutes
 conditions de vol, dans des zones dangereuses publiées dans la documentation aéronautique. Ces zones peuvent être également
-utilisées pour des activités de tirs.
+utilisées pour des activités de tirs. 
 
 Ces zones dangereuses ne garantissent pas l'imperméabilité, en particulier pour les vols non contrôlés. En conséquence, la
 protection des vols CAM évoluant dans celles-ci ne sera assurée par l'organisme chargé d'assurer des services de la
-circulation aérienne (CCT, CCMAR), vis-à-vis des autres vols, que dans la mesure où ils sont connus ou détectés.
+circulation aérienne (CCT, CCMAR), vis-à-vis des autres vols, que dans la mesure où ils sont connus ou détectés. 
 
 Pour certaines de ces zones dangereuses, les procédures d'utilisation, les conditions de pénétration ainsi que la désignation
-des organismes chargés de rendre des services (coordination, contrôle, régulation ...) font, si nécessaire, l'objet de
-publications par la voie de l'information aéronautique militaire.
+des organismes chargés de rendre des services (coordination, contrôle, régulation...) font, si nécessaire, l'objet de
+publications par la voie de l'information aéronautique militaire. 
 
-Les aéronefs évoluent dans ces zones dangereuses selon l'une des règles suivantes :
+Les aéronefs évoluent dans ces zones dangereuses selon l'une des règles suivantes : 
 
-1° Règles de la CAM V ;
+1° Règles de la CAM V ; 
 
 2° Règles de la CAM A, B ou C, sous contrôle radar d'un organisme de la circulation aérienne (CCT, CCMAR, SDCA, bâtiment
-marine...) ;
+marine...) ; 
 
-3° Dans un secteur réservé auprès des seuls utilisateurs militaires :
+3° Dans un secteur réservé auprès des seuls utilisateurs militaires : 
 
 La réservation de secteurs dans certaines zones s'effectue suivant des modalités précisées dans des instructions permanentes
-ZONEX ;
+ZONEX ; 
 
 Les aéronefs rencontrant des conditions IMC suivent les procédures suivantes :
 
@@ -36072,27 +36061,27 @@ Les aéronefs rencontrant des conditions IMC suivent les procédures suivantes :
 
 - établissement d'une liaison radio si possible avec le centre de contrôle approprié ;
 
-- veille attentive avec les équipements de bord disponibles (radar, transpondeur...).
+- veille attentive avec les équipements de bord disponibles (radar, transpondeur...). 
 
-Une circulaire DIRCAM fixe les procédures de coordination des vols CAM dans les zones dangereuses d'entraînement maritimes.
+Une circulaire DIRCAM fixe les procédures de coordination des vols CAM dans les zones dangereuses d'entraînement maritimes. 
 
-2.10.2.4. Autres espaces aériens.
+2.10.2.4. Autres espaces aériens. 
 
 Hors des espaces aériens et secteurs répertoriés ci-dessus, les activités de la CAM s'exercent :
 
 - soit en CAM V selon les règles définies au RCAM 1, chapitre VI ;
 
-- soit sous contrôle d'un organisme de la circulation aérienne.
+- soit sous contrôle d'un organisme de la circulation aérienne. 
 
 Le cas échéant, lorsqu'elles présentent un danger potentiel pour les aéronefs civils en vol, ces activités sont coordonnées
-selon les procédures générales en vigueur applicables au plan national :
+selon les procédures générales en vigueur applicables au plan national : 
 
-réservation d'espace aérien par NOTAM, coordination par l'AMC.
+réservation d'espace aérien par NOTAM, coordination par l'AMC. 
 
-2.10.3. Au-dessus de la haute mer hors FIR françaises.
+2.10.3. Au-dessus de la haute mer hors FIR françaises. 
 
 Hors des FIR françaises, les activités de la CAM s'exercent selon les mêmes dispositions que celles définies au paragraphe
-2.10.2.4.
+2.10.2.4. 
 
 Lorsque ces activités sont susceptibles de présenter un danger potentiel pour les aéronefs civils en vol, outre les règles
 définies au paragraphe 6.3 du RCAM 1, elles sont coordonnées :
@@ -36100,248 +36089,248 @@ définies au paragraphe 6.3 du RCAM 1, elles sont coordonnées :
 - en Europe selon les procédures définies régionalement (coordination via l'AMC compétente) ;
 
 - hors de l'Europe avec l'autorité ATS compétente, conformément aux dispositions de l'annexe 11 de la convention relative à
-l'aviation civile internationale susvisée.
+l'aviation civile internationale susvisée. 
 
-Chapitre III
+Chapitre III 
 
-Service du contrôle de la CAM
+Service du contrôle de la CAM 
 
-3.1. Bénéficiaires
+3.1. Bénéficiaires 
 
 Le service du contrôle de la circulation aérienne militaire n'est pas nécessairement lié à une structure ou à un statut
-d'espace aérien déterminé. Il est assuré au bénéfice :
+d'espace aérien déterminé. Il est assuré au bénéfice : 
 
-3.1.1. de tous les vols en CAM A, B ou C et peut être rendu dans la totalité de l'espace aérien ;
+3.1.1. de tous les vols en CAM A, B ou C et peut être rendu dans la totalité de l'espace aérien ; 
 
 3.1.2. de tous les vols en CAM V dans les espaces de classe A, B, C et D ainsi que dans les espaces de classe E pour
-certaines conditions météorologiques ou couleurs terrains pour les aéronefs utilisateurs du code couleurs ;
+certaines conditions météorologiques ou couleurs terrains pour les aéronefs utilisateurs du code couleurs ; 
 
-3.1.3. de l'ensemble de la circulation d'aérodrome des aérodromes contrôlés.
+3.1.3. de l'ensemble de la circulation d'aérodrome des aérodromes contrôlés. 
 
 En outre, les aéronefs évoluant selon les règles de la CAM peuvent bénéficier du service du contrôle de la part des
 organismes du contrôle de la circulation aérienne générale selon des modalités fixées par des arrêtés conjoints et précisées,
-si nécessaire, par des lettres d'accords ou protocoles passés entre les administrations pour des espaces aériens désignés.
+si nécessaire, par des lettres d'accords ou protocoles passés entre les administrations pour des espaces aériens désignés. 
 
-3.2. Mise en oeuvre
+3.2. Mise en oeuvre 
 
-du service du contrôle de la CAM
+du service du contrôle de la CAM 
 
 Les différentes fonctions du service du contrôle de la CAM décrites au paragraphe 2.2.2 sont assurées par les organismes du
-contrôle de la CAM de la manière suivante :
+contrôle de la CAM de la manière suivante : 
 
-3.2.1. Contrôle en route ou activités particulières :
+3.2.1. Contrôle en route ou activités particulières : 
 
-a) Par un centre de détection et de contrôle (CDC) ;
+a) Par un centre de détection et de contrôle (CDC) ; 
 
-b) Par un système de détection et de commandement aéroporté (SDCA) ;
+b) Par un système de détection et de commandement aéroporté (SDCA) ; 
 
-c) Par un centre militaire de contrôle (CMC) ;
+c) Par un centre militaire de contrôle (CMC) ; 
 
-d) Par un centre de contrôle de la CER (CCER) ;
+d) Par un centre de contrôle de la CER (CCER) ; 
 
-e) Par un centre de coordination et de contrôle de la marine (CCMAR) ;
+e) Par un centre de coordination et de contrôle de la marine (CCMAR) ; 
 
-f) Par un détachement militaire de circulation aérienne (DMCA) ;
+f) Par un détachement militaire de circulation aérienne (DMCA) ; 
 
-g) Par un centre de contrôle d'approche (APP) dans certains cas définis ;
+g) Par un centre de contrôle d'approche (APP) dans certains cas définis ; 
 
-h) Par d'autres organismes désignés (unités avancées et/ou mobiles, aéroportées ou embarquées...).
+h) Par d'autres organismes désignés (unités avancées et/ ou mobiles, aéroportées ou embarquées...). 
 
-3.2.2. Contrôle d'approche :
+3.2.2. Contrôle d'approche : 
 
-a) Par un centre de contrôle d'approche ;
+a) Par un centre de contrôle d'approche ; 
 
-b) Par un centre de détection et de contrôle dans certains cas définis ;
+b) Par un centre de détection et de contrôle dans certains cas définis ; 
 
-c) Par d'autres organismes désignés.
+c) Par d'autres organismes désignés. 
 
-3.2.3. Contrôle d'aérodrome :
+3.2.3. Contrôle d'aérodrome : 
 
-a) Par une tour de contrôle ;
+a) Par une tour de contrôle ; 
 
-b) Par d'autres organismes désignés.
+b) Par d'autres organismes désignés. 
 
-3.3. Fonctionnement
+3.3. Fonctionnement 
 
-du service du contrôle de la CAM
+du service du contrôle de la CAM 
 
-3.3.1. Rôle des organismes du contrôle de la CAM.
+3.3.1. Rôle des organismes du contrôle de la CAM. 
 
 Afin d'assurer le service du contrôle de la circulation aérienne militaire, un organisme du contrôle de la circulation
-aérienne désigné doit :
+aérienne désigné doit : 
 
 a) Recevoir des renseignements concernant des mouvements prévus de chaque aéronef et des modifications qui leur sont
-apportées ;
+apportées ; 
 
 b) Connaître en permanence la position de chaque aéronef, à l'aide d'un ensemble radar ou de tout autre moyen équivalent ou à
-l'aide de procédures préétablies ;
+l'aide de procédures préétablies ; 
 
 c) Délivrer des clairances et des informations afin de prévenir les abordages entre les aéronefs placés sous son contrôle,
-d'ordonner et d'accélérer la circulation aérienne ;
+d'ordonner et d'accélérer la circulation aérienne ; 
 
 d) Se mettre d'accord avec les autres organismes de la circulation aérienne :
 
 - chaque fois qu'un aéronef risque d'entraver la circulation aérienne placée sous le contrôle de ces autres organismes ;
 
-- avant de transférer à ces autres organismes le contrôle d'un aéronef.
+- avant de transférer à ces autres organismes le contrôle d'un aéronef. 
 
-3.3.2. Prévention des abordages.
+3.3.2. Prévention des abordages. 
 
 Les méthodes utilisées par les organismes de la circulation aérienne désignés pour prévenir les abordages entre les aéronefs
-en vol sont :
+en vol sont : 
 
-L'information de trafic ;
+L'information de trafic ; 
 
-L'espacement.
+L'espacement. 
 
-3.3.2.1. Information de trafic.
+3.3.2.1. Information de trafic. 
 
-Les organismes du contrôle de la circulation aérienne désignés fournissent l'information de trafic :
+Les organismes du contrôle de la circulation aérienne désignés fournissent l'information de trafic : 
 
-a) Aux vols IFR et/ou CAM A, B, C sur les vols connus évoluant en VFR et/ou en CAM V en espace aérien contrôlé (EAC) ou en
-espace aérien contrôlé spécialisé (EACS) de classe D ;
+a) Aux vols IFR et/ ou CAM A, B, C sur les vols connus évoluant en VFR et/ ou en CAM V en espace aérien contrôlé (EAC) ou en
+espace aérien contrôlé spécialisé (EACS) de classe D ; 
 
-b) Aux vols VFR et/ou CAM V sur les vols IFR et/ou CAM A, B ou C en EAC ou en EACS de classe D ;
+b) Aux vols VFR et/ ou CAM V sur les vols IFR et/ ou CAM A, B ou C en EAC ou en EACS de classe D ; 
 
-c) Aux vols VFR et/ou CAM V sur les autres vols VFR et/ou CAM V en EAC ou en EACS de classe C ou D ;
+c) Aux vols VFR et/ ou CAM V sur les autres vols VFR et/ ou CAM V en EAC ou en EACS de classe C ou D ; 
 
-d) Aux vols VFR spécial et/ou CAM V, évoluant sous certaines conditions météorologiques définies, sur les autres vols VFR
-spécial et/ou CAM V en EAC ou en EACS de classe C, D ou E ;
+d) Aux vols VFR spécial et/ ou CAM V, évoluant sous certaines conditions météorologiques définies, sur les autres vols VFR
+spécial et/ ou CAM V en EAC ou en EACS de classe C, D ou E ; 
 
-e) A tous les vols appartenant à la circulation d'aérodrome des aérodromes contrôlés.
+e) A tous les vols appartenant à la circulation d'aérodrome des aérodromes contrôlés. 
 
-Nota. - Lorsqu'il s'agit, dans un EACS, de fournir une information de trafic sur un dispositif comportant plusieurs aéronefs
+Nota.-Lorsqu'il s'agit, dans un EACS, de fournir une information de trafic sur un dispositif comportant plusieurs aéronefs
 évoluant dans cet espace aérien selon les règles de la CAM, l'information de trafic fournie aux autres aéronefs concerne
-l'ensemble du dispositif.
+l'ensemble du dispositif. 
 
-3.3.2.2. Espacement.
+3.3.2.2. Espacement. 
 
-Les organismes du contrôle de la circulation aérienne désignés pour rendre les services de la CAM assurent l'espacement :
+Les organismes du contrôle de la circulation aérienne désignés pour rendre les services de la CAM assurent l'espacement : 
 
-a) Entre les vols CAM A, B, C contrôlés radar et les vols non connus mais détectés dans l'ensemble de l'espace aérien ;
+a) Entre les vols CAM A, B, C contrôlés radar et les vols non connus mais détectés dans l'ensemble de l'espace aérien ; 
 
 b) Entre les vols CAM A, B, C contrôlés sans radar et les autres aéronefs connus évoluant dans un EACS ou dans les espaces à
-statut particulier ;
+statut particulier ; 
 
-c) Entre les vols IFR dans l'espace aérien contrôlé ;
+c) Entre les vols IFR dans l'espace aérien contrôlé ; 
 
-d) Entre tous les vols dans l'espace aérien contrôlé de classe B ;
+d) Entre tous les vols dans l'espace aérien contrôlé de classe B ; 
 
-e) Entre les vols IFR et les vols VFR et/ou CAM V dans l'espace aérien contrôlé de classe C ;
+e) Entre les vols IFR et les vols VFR et/ ou CAM V dans l'espace aérien contrôlé de classe C ; 
 
-f) Entre les vols CAM A, B, C, les vols IFR, les vols VFR spécial et/ou CAM V évoluant sous certaines conditions
-météorologiques définies ;
+f) Entre les vols CAM A, B, C, les vols IFR, les vols VFR spécial et/ ou CAM V évoluant sous certaines conditions
+météorologiques définies ; 
 
-g) Entre tous les vols sur la piste d'un aérodrome contrôlé.
+g) Entre tous les vols sur la piste d'un aérodrome contrôlé. 
 
 Les organismes de la circulation aérienne désignés respectent les règles et appliquent les normes définies aux paragraphes
 3.3.2.2.1 et 3.3.2.2.2 du RCA 2.
 
-3.3.2.3. Dérogations.
+3.3.2.3. Dérogations. 
 
-Les dispositions du RCA 2 s'appliquent aux EACS.
+Les dispositions du RCA 2 s'appliquent aux EACS. 
 
-3.4. Responsabilité du contrôle
+3.4. Responsabilité du contrôle 
 
-3.4.1. Responsabilité du contrôle d'un vol donné.
+3.4.1. Responsabilité du contrôle d'un vol donné. 
 
 A tout moment un vol donné ne peut être sous le contrôle que d'un seul organisme du contrôle de la circulation aérienne
-générale ou de la circulation aérienne militaire.
+générale ou de la circulation aérienne militaire. 
 
-3.4.2. Responsabilité du contrôle dans une portion d'espace aérien.
+3.4.2. Responsabilité du contrôle dans une portion d'espace aérien. 
 
 Le contrôle de tous les aéronefs évoluant en CAM dans une portion d'espace aérien donné incombe à un seul organisme du
 contrôle de la circulation aérienne désigné pour rendre des services dans cet espace aérien. Cet organisme peut déléguer le
 contrôle d'un aéronef ou d'un groupe d'aéronefs, dans tout ou partie de cet espace aérien, à d'autres organismes du contrôle,
 à condition que soit prévue et assurée la coordination entre les organismes du contrôle de la circulation aérienne
-intéressés.
+intéressés. 
 
 Les conditions dans lesquelles est assurée la compatibilité entre les deux circulations aériennes, militaire et générale,
 contrôlées par un organisme unique ou des organismes distincts sont précisées par un décret fixant les règles destinées à
 assurer la compatibilité des règles applicables à la circulation aérienne générale et à la circulation aérienne militaire,
-complété, le cas échéant, par des protocoles particuliers entre organismes de la circulation aérienne.
+complété, le cas échéant, par des protocoles particuliers entre organismes de la circulation aérienne. 
 
-3.5. Clairance
+3.5. Clairance 
 
-Conforme au RCA 2. De plus un aéronef évoluant selon les règles de la CAM est tenu d'exécuter une clairance reçue.
+Conforme au RCA 2. De plus un aéronef évoluant selon les règles de la CAM est tenu d'exécuter une clairance reçue. 
 
-3.6. Transfert de contrôle
+3.6. Transfert de contrôle 
 
 Transférer un aéronef, c'est transmettre la responsabilité d'un organisme du contrôle (perdant) à un autre organisme du
-contrôle (gagnant).
+contrôle (gagnant). 
 
 Le transfert de contrôle entre un organisme chargé de rendre les services de la CAM et un organisme rendant le service du
 contrôle de la circulation aérienne générale et inversement est défini au RCA 2.
 
-3.6.1. Transfert d'un organisme CAM à un autre organisme CAM rendant le service du contrôle radar.
+3.6.1. Transfert d'un organisme CAM à un autre organisme CAM rendant le service du contrôle radar. 
 
 Le transfert implique :
 
 - le préavis : le perdant transmet au gagnant les éléments de vol et de contrôle ;
 
-- l'identification radar par le gagnant.
+- l'identification radar par le gagnant. 
 
-Le transfert est réalisé lorsque le gagnant a donné son accord et a établi la liaison radio avec l'aéronef.
+Le transfert est réalisé lorsque le gagnant a donné son accord et a établi la liaison radio avec l'aéronef. 
 
-3.6.2. Transfert d'un organisme CAM à un autre organisme CAM rendant le service du contrôle sans radar.
+3.6.2. Transfert d'un organisme CAM à un autre organisme CAM rendant le service du contrôle sans radar. 
 
 Le transfert implique un préavis : l'organisme perdant transmet à l'organisme gagnant les éléments de vol et de contrôle, la
-localisation du point de transfert, l'heure estimée et le niveau de vol sur ce point.
+localisation du point de transfert, l'heure estimée et le niveau de vol sur ce point. 
 
-Le transfert est réalisé lorsque l'organisme gagnant a donné son accord et a établi la liaison radio avec l'aéronef.
+Le transfert est réalisé lorsque l'organisme gagnant a donné son accord et a établi la liaison radio avec l'aéronef. 
 
-3.6.3. Autotransfert.
+3.6.3. Autotransfert. 
 
 La procédure d'autotransfert s'applique à des aéronefs évoluant selon les règles de la CAM et devant être transférés entre
-deux organismes du contrôle de la circulation aérienne militaire.
+deux organismes du contrôle de la circulation aérienne militaire. 
 
 Si la liaison ne peut être établie entre les organismes concernés, le pilote, sur autorisation de l'organisme perdant, prend
 contact avec l'organisme gagnant. Il maintient l'écoute de la fréquence radio de l'organisme perdant qui conserve la
-responsabilité du contrôle.
+responsabilité du contrôle. 
 
-L'autotransfert est terminé lorsque le pilote annonce à l'organisme perdant sa prise en compte par l'organisme gagnant.
+L'autotransfert est terminé lorsque le pilote annonce à l'organisme perdant sa prise en compte par l'organisme gagnant. 
 
-3.7. Régulation du débit de la circulation aérienne
+3.7. Régulation du débit de la circulation aérienne 
 
 Conforme au RCA 2, notamment en ce qui concerne les mesures spécifiques de régulation du débit qui peuvent être mises en
 place par les organismes chargés d'assurer des services de la circulation aérienne militaire dans les régions de contrôle
-spécialisées ou les zones de contrôle spécialisées en raison des impératifs de la défense.
+spécialisées ou les zones de contrôle spécialisées en raison des impératifs de la défense. 
 
-Chapitre IV
+Chapitre IV 
 
-Service d'information de vol
+Service d'information de vol 
 
-4.1. Bénéficiaires
+4.1. Bénéficiaires 
 
 Conformément au chapitre 2, paragraphe 2.1, le service d'information de vol est rendu aux aéronefs évoluant selon les règles
-de la CAM.
+de la CAM. 
 
-Ce service a pour but de fournir au pilote les avis et renseignements disponibles nécessaires à l'exécution de sa mission.
+Ce service a pour but de fournir au pilote les avis et renseignements disponibles nécessaires à l'exécution de sa mission. 
 
-4.2. Domaine couvert par le service d'information de vol
+4.2. Domaine couvert par le service d'information de vol 
 
-4.2.1. Renseignements relevant du service d'information de vol.
-
-Conforme au RCA 2.
-
-4.2.2. Les paramètres.
+4.2.1. Renseignements relevant du service d'information de vol. 
 
 Conforme au RCA 2.
 
-4.3. Mise en oeuvre du service d'information de vol
+4.2.2. Les paramètres. 
 
-4.3.1. Le service d'information de vol est assuré :
+Conforme au RCA 2.
+
+4.3. Mise en oeuvre du service d'information de vol 
+
+4.3.1. Le service d'information de vol est assuré : 
 
 a) Aux aéronefs qui bénéficient du service du contrôle de la CAM par l'organisme du contrôle de la circulation aérienne
-chargé d'assurer le service du contrôle de la CAM ;
+chargé d'assurer le service du contrôle de la CAM ; 
 
-b) Au bénéfice des autres aéronefs par tous les organismes chargés de rendre les services de la CAM.
+b) Au bénéfice des autres aéronefs par tous les organismes chargés de rendre les services de la CAM. 
 
-4.3.2. Priorité du service du contrôle.
+4.3.2. Priorité du service du contrôle. 
 
 Conforme au RCA 2, paragraphe 4.3.2.
 
-4.3.3. Emissions ATIS.
+4.3.3. Emissions ATIS. 
 
 Conforme au RCA 2, paragraphe 4.3.3.
 
@@ -36349,121 +36338,121 @@ Conforme au RCA 2, paragraphe 4.3.3.
 
 - à la demande du pilote ;
 
-- spontanément par l'organisme concerné chargé de rendre les services de la CAM.
+- spontanément par l'organisme concerné chargé de rendre les services de la CAM. 
 
 4.3.4.1. Parmi les renseignements qui font l'objet du paragraphe 4.2.1, certains doivent être communiqués à l'initiative des
-organismes chargés de rendre les services de la CAM.
+organismes chargés de rendre les services de la CAM. 
 
 Ces renseignements, ainsi que les conditions dans lesquelles ils doivent être communiqués, sont précisés dans l'arrêté visé
 au paragraphe 2.2.4.
 
 4.3.4.2. Les organismes chargés de rendre les services de la circulation aérienne militaire peuvent transmettre à leur
 initiative tout renseignement en leur possession lorsqu'ils estiment que ces informations peuvent aider les pilotes dans la
-conduite du vol.
+conduite du vol. 
 
-4.4. L'auto-information
+4.4. L'auto-information 
 
 L'auto-information est basée sur un compte rendu de position émis par un aéronef dans le but d'orienter la surveillance du
-ciel et de faciliter la prévention des abordages entre aéronefs dans le même secteur.
+ciel et de faciliter la prévention des abordages entre aéronefs dans le même secteur. 
 
-Les secteurs, les procédures et les conditions de l'auto-information sont publiés dans le MILAIP.
+Les secteurs, les procédures et les conditions de l'auto-information sont publiés dans le MILAIP. 
 
-Chapitre V
+Chapitre V 
 
-Service d'alerte
+Service d'alerte 
 
-5.1. Bénéficiaires
+5.1. Bénéficiaires 
 
 Conforme au RCA 2.
 
-5.2. Organismes chargés d'assurer
+5.2. Organismes chargés d'assurer 
 
-le service d'alerte
+le service d'alerte 
 
 5.2.1. Les centres de détection et de contrôle (CDC) et les centres de coordination et de contrôle de la marine (CCMAR)
 servent de centres de rassemblement de tous les renseignements relatifs à un aéronef se trouvant en difficulté dans leur zone
 de compétence et transmettent ces renseignements au centre de coordination de sauvetage (CCS) du centre de détection et de
-contrôle concerné.
+contrôle concerné. 
 
 5.2.2. Lorsqu'un aéronef se trouvant en contact avec un organisme chargé de rendre les services de la CAM est en difficulté,
-cet organisme avertit immédiatement le CDC concerné qui prévient à son tour le CCS intéressé.
+cet organisme avertit immédiatement le CDC concerné qui prévient à son tour le CCS intéressé. 
 
 5.2.3. Si l'urgence de la situation l'exige, l'organisme local concerné chargé de rendre les services de la CAM alerte
 d'abord les organismes locaux de secours susceptibles d'apporter une aide immédiate et prend les dispositions nécessaires
-pour déclencher leur intervention.
+pour déclencher leur intervention. 
 
-5.3. Mise en alerte des centres de coordination de sauvetage
+5.3. Mise en alerte des centres de coordination de sauvetage 
 
 Les modalités contenues dans le RCA 2, paragraphe 5.3, sont applicables aux organismes chargés de rendre les services de la
 circulation aérienne militaire. Toutefois, en complément au paragraphe 5.3.2 du RCA 2, ces organismes sont habilités à
-déclencher les procédures de mise en alerte.
+déclencher les procédures de mise en alerte. 
 
-5.4. Notification à l'exploitant
+5.4. Notification à l'exploitant 
 
 5.4.1. Lorsqu'un organisme chargé de rendre les services de la CAM estime qu'un aéronef se trouve dans une phase
-d'incertitude ou d'alerte il en avise l'exploitant, lorsque cela est possible, avant d'alerter le CCS.
+d'incertitude ou d'alerte il en avise l'exploitant, lorsque cela est possible, avant d'alerter le CCS. 
 
-Si l'aéronef se trouve dans une phase de détresse c'est le CCS qui doit être averti immédiatement en premier.
+Si l'aéronef se trouve dans une phase de détresse c'est le CCS qui doit être averti immédiatement en premier. 
 
 5.4.2. Tous les renseignements communiqués au CCS par l'organisme chargé de rendre les services de la CAM sont également
-transmis sans retard à l'exploitant, lorsque cela est possible.
+transmis sans retard à l'exploitant, lorsque cela est possible. 
 
-5.5. Notification aux aéronefs évoluant
+5.5. Notification aux aéronefs évoluant 
 
-à proximité d'un aéronef en état d'urgence
+à proximité d'un aéronef en état d'urgence 
 
-Conforme au RCA 2.
+Conforme au RCA 2. 
 
-Chapitre VI
+Chapitre VI 
 
-Le service d'assistance aux aéronefs en vol
+Le service d'assistance aux aéronefs en vol 
 
-6.1. But et bénéficiaires
+6.1. But et bénéficiaires 
 
-Le service d'assistance a pour but d'aider à la conduite d'un aéronef en difficulté.
+Le service d'assistance a pour but d'aider à la conduite d'un aéronef en difficulté. 
 
 Ce service est assuré aux aéronefs évoluant selon les règles de la CAM dont les difficultés sont signalées à un organisme de
-la CAM.
+la CAM. 
 
 L'assistance au profit d'aéronefs évoluant selon les règles de la CAG qui se signale en difficulté est effectuée dans le
-cadre de l'assistance à personne en danger.
+cadre de l'assistance à personne en danger. 
 
-6.2. Organismes chargés d'assurer
+6.2. Organismes chargés d'assurer 
 
-le service d'assistance aux aéronefs en vol
+le service d'assistance aux aéronefs en vol 
 
 Tous les organismes du contrôle de la CAM rendent le service d'assistance aux aéronefs en vol en fonction des moyens dont ils
-disposent.
+disposent. 
 
-6.3. Mise en oeuvre du service d'assistance
+6.3. Mise en oeuvre du service d'assistance 
 
-aux aéronefs en vol
+aux aéronefs en vol 
 
-6.3.1. Engagement d'une opération d'assistance.
+6.3.1. Engagement d'une opération d'assistance. 
 
 Les pilotes et organismes du contrôle de la CAM sont amenés à opérer une distinction entre une situation simplement
-préoccupante (état d'urgence) et une situation justifiant une assistance immédiate (état de détresse).
+préoccupante (état d'urgence) et une situation justifiant une assistance immédiate (état de détresse). 
 
 6.3.1.1. Un aéronef est en état d'urgence lorsque sa sécurité ou celle d'une personne se trouvant à bord est menacée sans
-qu'une assistance immédiate lui soit nécessaire.
+qu'une assistance immédiate lui soit nécessaire. 
 
-L'opération d'assistance n'est engagée que sur demande du pilote.
+L'opération d'assistance n'est engagée que sur demande du pilote. 
 
-L'état d'urgence entraîne le déclenchement de la phase d'alerte - ALERFA.
+L'état d'urgence entraîne le déclenchement de la phase d'alerte-ALERFA. 
 
-6.3.1.2. Un aéronef est en état de détresse lorsqu'il court un danger grave et/ou imminent et qu'une assistance immédiate lui
-est nécessaire.
+6.3.1.2. Un aéronef est en état de détresse lorsqu'il court un danger grave et/ ou imminent et qu'une assistance immédiate
+lui est nécessaire. 
 
-L'opération d'assistance est engagée immédiatement.
+L'opération d'assistance est engagée immédiatement. 
 
-L'état de détresse entraîne le déclenchement de la phase de détresse - DETRESFA.
+L'état de détresse entraîne le déclenchement de la phase de détresse-DETRESFA. 
 
-6.3.2. Opérations d'assistance.
+6.3.2. Opérations d'assistance. 
 
 L'assistance est fournie sous la forme du service d'information de vol ou sous une forme du service du contrôle CAM suivant
-les dispositions réglementaires définies pour ces services.
+les dispositions réglementaires définies pour ces services. 
 
-L'assistance consiste à entreprendre les opérations suivantes :
+L'assistance consiste à entreprendre les opérations suivantes : 
 
 6.3.2.1. Communiquer à l'aéronef assisté, avec ou sans le concours d'un autre aéronef, des éléments nécessaires à la
 poursuite ou à l'interruption du vol en l'aidant à effectuer certaines manoeuvres :
@@ -36471,368 +36460,368 @@ poursuite ou à l'interruption du vol en l'aidant à effectuer certaines manoeuv
 - transmission de renseignements relatifs à la sécurité et de consignes appropriées : météo, aides à la navigation, altitude
 de sécurité, utilisation de manuels de procédures de secours, etc. ;
 
-- localisation suivie éventuellement de guidage, quel que soit le type d'espace aérien.
+- localisation suivie éventuellement de guidage, quel que soit le type d'espace aérien. 
 
 6.3.2.2. Faire intercepter l'aéronef assisté par un autre aéronef et le cas échéant le faire assister jusqu'à l'atterrissage
-en un lieu choisi ou imposé par les circonstances.
+en un lieu choisi ou imposé par les circonstances. 
 
-Ces opérations sont exécutées en totalité ou en partie suivant l'évolution de la situation de détresse ou d'urgence.
+Ces opérations sont exécutées en totalité ou en partie suivant l'évolution de la situation de détresse ou d'urgence. 
 
 6.3.2.3. Hormis le cas de force majeure, l'assistance n'est interrompue qu'à la demande du pilote assisté ou lorsque
-l'assistance a été menée à son terme.
+l'assistance a été menée à son terme. 
 
 6.3.2.4. L'opération d'assistance étant susceptible de se transformer en opération SAR, le CCS de la zone concernée est tenu
-informé du déroulement de l'opération.
+informé du déroulement de l'opération. 
 
-APPENDICE
+APPENDICE 
 
-Classification des espaces aériens
+Classification des espaces aériens 
 
-CLASSES d'espaces
+CLASSES d'espaces 
 
-VOLS admis (1)
+VOLS admis (1) 
 
-SERVICES FOURNIS PAR LES ORGANISMES DE LA CAM
+SERVICES FOURNIS PAR LES ORGANISMES DE LA CAM 
 
-Contrôle
+Contrôle 
 
-Information
+Information 
 
-Alerte
+Alerte 
 
-Assistance
+Assistance 
 
-OBLIGATION
+OBLIGATION 
 
-radio (2)
+radio (2) 
 
-SOUMIS à clairance
+SOUMIS à clairance 
 
-QUALITÉ du vol
+QUALITÉ du vol 
 
-A
+A 
 
-IFR
+IFR 
 
-Espacement :
+Espacement : 
 
-IFR/IFR et CAM A, B, C
+IFR/ IFR et CAM A, B, C 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
-
-Contrôlé 
-
-CAM A, B, C (3)
-
-Espacement :
-
-CAM A, B, C/tous les vols connus ou détectés (3)
-
-B
-
-IFR
-
-CAM A, B, C
-
-VRF
-
-CAM V
-
-Espacement :
-
-Entre tous les vols connus ou détectés
-
-Oui
-
-Oui
-
-Oui
-
-Oui
-
-Oui
+Oui 
 
 Contrôlé 
 
-C
+CAM A, B, C (3) 
 
-IFR
+Espacement : 
 
-Espacement :
+CAM A, B, C/ tous les vols connus ou détectés (3) 
 
-IFR/IFR et CAM A, B, C
+B 
 
-IFR/VFR et CAM V
+IFR 
 
-Oui
+CAM A, B, C 
 
-Oui
+VRF 
 
-Oui
+CAM V 
 
-Oui
+Espacement : 
 
-Oui
+Entre tous les vols connus ou détectés 
 
-Contrôlé 
+Oui 
 
-CAM A, B, C
+Oui 
 
-Espacement :
+Oui 
 
-CAM A, B, C/tous les vols connus ou détectés
+Oui 
 
-VFR
-
-Espacement :
-
-VFR/IFR et CAM A, B, C
-
-Information de trafic :
-
-VFR/VFR et CAM V
-
-CAM V
-
-Espacement :
-
-CAM V/CAM A, B, C et IFR
-
-Information de trafic :
-
-CAM V/CAM V et VFR
-
-D
-
-IFR
-
-Espacement :
-
-IFR/IFR et CAM A, B, C
-
-Information de trafic :
-
-IFR/VRF et CAM V
-
-Oui
-
-Oui
-
-Oui
-
-Oui
-
-Oui
+Oui 
 
 Contrôlé 
 
-CAM A, B, C
+C 
 
-Espacement :
+IFR 
 
-CAM A, B, C/CAM A, B, C et IFR
+Espacement : 
 
-CAM A, B, C/tous les autres vols non connus mais détectés
+IFR/ IFR et CAM A, B, C 
 
-Information de trafic :
+IFR/ VFR et CAM V 
 
-CAM A, B, C/CAM V et VFR
+Oui 
 
-VFR
+Oui 
 
-Information de trafic :
+Oui 
 
-VFR/IFR et CAM A, B, C
+Oui 
 
-VFR/VFR et CAM V 
-
-CAM V
-
-Information de trafic :
-
-CAM V/CAM A, B, C et IFR
-
-CAM V/CAM V et VFR
-
-E
-
-IFR
-
-Espacement :
-
-IFR/IFR et CAM A, B, C
-
-Oui
-
-Oui
-
-Oui
-
-Oui
-
-Oui
+Oui 
 
 Contrôlé 
 
-CAM A, B, C
+CAM A, B, C 
 
-Espacement :
+Espacement : 
 
-CAM A, B, C/tous les vols connus ou détectés
+CAM A, B, C/ tous les vols connus ou détectés 
 
-CAM V
+VFR 
 
-Non
+Espacement : 
 
-Oui
+VFR/ IFR et CAM A, B, C 
 
-Oui
+Information de trafic : 
 
-Oui
+VFR/ VFR et CAM V 
 
-Oui
+CAM V 
 
-Non
+Espacement : 
+
+CAM V/ CAM A, B, C et IFR 
+
+Information de trafic : 
+
+CAM V/ CAM V et VFR 
+
+D 
+
+IFR 
+
+Espacement : 
+
+IFR/ IFR et CAM A, B, C 
+
+Information de trafic : 
+
+IFR/ VRF et CAM V 
+
+Oui 
+
+Oui 
+
+Oui 
+
+Oui 
+
+Oui 
+
+Contrôlé 
+
+CAM A, B, C 
+
+Espacement : 
+
+CAM A, B, C/ CAM A, B, C et IFR 
+
+CAM A, B, C/ tous les autres vols non connus mais détectés 
+
+Information de trafic : 
+
+CAM A, B, C/ CAM V et VFR 
+
+VFR 
+
+Information de trafic : 
+
+VFR/ IFR et CAM A, B, C 
+
+VFR/ VFR et CAM V 
+
+CAM V 
+
+Information de trafic : 
+
+CAM V/ CAM A, B, C et IFR 
+
+CAM V/ CAM V et VFR 
+
+E 
+
+IFR 
+
+Espacement : 
+
+IFR/ IFR et CAM A, B, C 
+
+Oui 
+
+Oui 
+
+Oui 
+
+Oui 
+
+Oui 
+
+Contrôlé 
+
+CAM A, B, C 
+
+Espacement : 
+
+CAM A, B, C/ tous les vols connus ou détectés 
+
+CAM V 
+
+Non 
+
+Oui 
+
+Oui 
+
+Oui 
+
+Oui 
+
+Non 
 
 Non contrôlé 
 
-VFR
+VFR 
 
 Non 
 
 Non 
 
-F
+F 
 
-CAM A, B, C
+CAM A, B, C 
 
-Espacement :
+Espacement : 
 
-CAM A, B, C/tous les vols connus ou détectés
+CAM A, B, C/ tous les vols connus ou détectés 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
 Contrôlé 
 
-IFR
+IFR 
 
-Non (service consultatif)
+Non (service consultatif) 
 
-Espacement :
+Espacement : 
 
-IFR/IFR si possible
+IFR/ IFR si possible 
 
-Oui
+Oui 
 
 (service consultatif) 
 
-Oui
+Oui 
 
-Non
+Non 
 
 Non contrôlé 
 
-CAM V
+CAM V 
 
-Non
+Non 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Non
+Non 
 
-VFR
+VFR 
 
-Non
+Non 
 
-Non
+Non 
 
-G
+G 
 
-CAM A, B, C
+CAM A, B, C 
 
-Espacement :
+Espacement : 
 
-CAM A, B, C/tous les vols connus ou détectés
+CAM A, B, C/ tous les vols connus ou détectés 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
 Contrôlé 
 
-IFR
+IFR 
 
-Non
+Non 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Oui
+Oui 
 
-Non
+Non 
 
 Non contrôlé 
 
-CAM V
+CAM V 
 
-Non
+Non 
 
-VFR
+VFR 
 
-Non
+Non 
 
-Non
+Non 
 
-(1) En haute mer, certains vols font l'objet des dérogations définies au chapitre VI du RCAM 1.
+(1) En haute mer, certains vols font l'objet des dérogations définies au chapitre VI du RCAM 1. 
 
-(2) Etablissement d'une liaison radio bilatérale avec l'organisme ATS concerné ou veille d'une fréquence spécifiée.
+(2) Etablissement d'une liaison radio bilatérale avec l'organisme ATS concerné ou veille d'une fréquence spécifiée. 
 
 (3) Les vols CAM V ou VFR admis par dérogation en EAC ou EACS de classe A peuvent être contrôlés et espacés dans des
-conditions explicitement définies dans cette dérogation.
+conditions explicitement définies dans cette dérogation. 
 
-(4) VFR spécial et CAM V (5).
+(4) VFR spécial et CAM V (5). 
 
 a) En espace aérien contrôlé de classe A à E, espacement entre :
 
 - IFR et VFR spécial ou CAM V (5) ;
 
 - VFR S ou VFR spécial et CAM V (5) ou CAM V (5) dans des conditions qui peuvent être prescrites par arrêté ou par directives
-d'état-major ou direction.
+d'état-major ou direction. 
 
 b) En espace aérien contrôlé de classe C, D et E, information de trafic entre :
 
-- VFR spécial ou VFR spécial et CAM V (5) ou CAM V (5).
+- VFR spécial ou VFR spécial et CAM V (5) ou CAM V (5). 
 
 (5) CAM V évoluant sous certaines conditions météorologiques spécifiées ou sur terrain BLANC ou VERT (voir MILAIP).
 
@@ -36841,7 +36830,7 @@ b) En espace aérien contrôlé de classe C, D et E, information de trafic entre
 Décret 2000-385 2000-05-03 art. 2 : les dispositions du présent décret sont applicables en Nouvelle-Calédonie, dans les
 territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
 
-: Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
+Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
 territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
 par la référence à la collectivité départementale.
 
@@ -36851,18 +36840,13 @@ _Codifié par_:
 
   - Décret n°67-335 1967-03-30
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-385 du 3 mai 2000 - art. 1 () JORF 5 mai 2000 en vigueur le 5 juillet 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-385 du 3 mai 2000 - art. 2 (V)
-  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 _Cite_:
 
-  - Code de l'aviation civile - art. D131-9 (M)
-  - Code de l'aviation civile D131-1 à D131-10, D131-9, 2
+  - Code de l'aviation civile - art. D131-1 (V)
+  - Code de l'aviation civile - art. D131-9 (V)
 
 
