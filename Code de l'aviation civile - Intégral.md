@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1987-06-20
+Version Consolidée au 1987-10-17
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-17)](#2)
@@ -124,7 +124,7 @@ Version Consolidée au 1987-06-20
         - [Section 1 : Entreprises autorisées et entreprises agréées. (art. R330-1 à R330-13)](#121)
       - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. R341-1 à R342-15)](#122)
         - [CHAPITRE Ier : INSTITUTION. (art. R341-1)](#123)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. R342-2 à R342-15)](#124)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. R342-1 à R342-15)](#124)
       - [TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES (art. R351-1 à R351-2)](#125)
         - [Section 1 : Transports sanitaires. (art. R351-1)](#126)
         - [Section 2 : Transports par moyens militaires. (art. R351-2)](#127)
@@ -11190,6 +11190,83 @@ _Cite_:
 
 
 #### CHAPITRE II : FONCTIONNEMENT.<a id=124></a>
+
+###### Article R342-1
+
+Le conseil d'administration de la Compagnie nationale Air France comprend dix-huit membres :
+
+1° Cinq représentants de l'Etat, nommés par décret sur le rapport du ministre chargé de l'aviation civile, dont :
+
+Un sur proposition du Premier ministre ;
+
+Deux sur proposition du ministre chargé de l'aviation civile ;
+
+Un sur proposition du ministre chargé de l'économie ;
+
+Un sur proposition du ministre chargé du budget ;
+
+Un sur proposition du ministre chargé du tourisme ;
+
+2° Six personnalités nommées par décret sur le rapport du ministre chargé de l'aviation civile et choisies soit en raison de
+leur compétence technique, scientifique ou technologique, soit en raison de leur connaissance du transport aérien, soit en
+raison de leur qualité de représentant des usagers. Trois de ces personnalités sont choisies :
+
+L'une parmi les membres des chambres de commerce et d'industrie de la métropole ;
+
+L'une parmi les membres des chambres de commerce et d'industrie d'outre-mer ou de France à l'étranger ;
+
+L'une sur proposition du ministre chargé de la défense ;
+
+3° Six représentants des salariés, élus dans le cadre de trois collèges électoraux distincts à raison de :
+
+Un élu par le personnel navigant technique ;
+
+Un élu par le personnel navigant commercial ;
+
+Quatre élus, dont un représentant des cadres, par les autres salariés de la compagnie nationale et les salariés de ses
+filiales au sens du 4° de l'article 1er de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur
+public.
+
+4° Un représentant des actionnaires autres que l'Etat, désigné, en son sein, par une section de l'assemblée générale
+ordinaire, composée de ces seuls actionnaires.    Les conditions de présentation des listes de candidats, définies à
+l'article 17 de ladite loi, s'apprécient par collège. Sous cette réserve, les élections sont organisées conformément aux
+dispositions du chapitre II du titre II de ladite loi et du décret n° 83-1160 du 26 décembre 1983 pris pour son application.
+
+Il peut être mis fin par décret au mandat des représentants de l'Etat et, en cas de faute grave, au mandat des personnalités
+choisies comme membres du conseil au titre du 2° ci-dessus.
+
+La durée des mandats des membres du conseil d'administration est de cinq ans. Cependant les membres du conseil doivent être
+remplacés lorsqu'ils ont perdu la qualité en raison de laquelle ils ont été nommés ou qu'ils ne remplissent plus les
+conditions d'éligibilité. Dans le cas où il y a lieu de procéder au remplacement de membres du conseil, les nouveaux membres
+restent en fonctions jusqu'à la date de l'expiration normale du mandat des membres du conseil qu'ils remplacent.
+
+Deux censeurs nommés pour cinq ans siègent avec voix consultative au conseil d'administration de la compagnie nationale. L'un
+est nommé par décret sur le rapport du ministre chargé de l'aviation civile sur proposition du ministre chargé du tourisme ;
+l'autre est nommé par l'assemblée générale ordinaire. Il peut être mis fin, à tout moment, à leurs fonctions dans les mêmes
+conditions.    Le secrétaire du comité central d'entreprise siège, avec voix consultative, au conseil d'administration de la
+compagnie nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°84-352 1984-05-11 art. 1 JORF 12 mai 1984
+  - Décret n°87-843 1987-10-16 art. 1 JORF 17 octobre 1987
+
+_Cite_:
+
+  - Loi n°83-675 1983-07-26 art. 1, 17
+  - Loi n°83-675 du 26 juillet 1983 - art. 17 (M)
+  - Décret n°83-1160 1983-12-26
+
+_Cité par_:
+
+  - Décret n°92-1322 du 18 décembre 1992 - art. 4 (V)
+
 
 ###### Article R342-2
 
