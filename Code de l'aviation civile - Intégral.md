@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1974-02-02
+Version Consolidée au 1975-08-15
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -114,7 +114,7 @@ Version Consolidée au 1974-02-02
     - [LIVRE IV : PERSONNEL NAVIGANT (art. R421-1 à R433-1)](#111)
       - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R426-28)](#112)
         - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-16)](#113)
-          - [Section 1 : Catégories. (art. R421-1 à R421-4)](#114)
+          - [Section 1 : Catégories. (art. R421-1 à R421-5)](#114)
           - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-16)](#115)
         - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#116)
         - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-5)](#117)
@@ -8523,6 +8523,35 @@ _Abrogé par_:
 _Cite_:
 
   - Code de l'aviation civile - art. L421-5
+
+
+###### Article R421-5
+
+La liste des brevets, licences et certificats, les conditions requises pour leur obtention, le régime, les programmes et
+règlements des examens y afférents, ainsi que les modalités d'exemption pour l'obtention des brevets de certaines épreuves
+théoriques en faveur des candidats possesseurs de certains titres français ou étrangers sanctionnant des connaissances au
+moins égales à celles qui seront exigées pour ces épreuves, sont fixés, après avis du conseil du personnel navigant, par
+arrêté conjoint du ministre chargé de l'aviation civile et du ministre des armées.
+
+Aucune exemption ne peut être accordée pour l'examen pratique sauf, en ce qui concerne le brevet de pilote professionnel
+d'avion et le brevet de pilote professionnel d'hélicoptère, au bénéfice des détenteurs de certains brevets militaires
+français dans des conditions et selon les modalités qui seront fixées par arrêté pris ainsi qu'il est dit à l'alinéa
+précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°69-329 1969-04-03 art. 1 JORF 12 avril 1969
+  - Décret n°75-757 1975-08-04 art. 1 JORF 15 août 1975
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R421-7 (M)
 
 
 ##### Section 2 : Conseil du personnel navigant professionnel.<a id=115></a>
