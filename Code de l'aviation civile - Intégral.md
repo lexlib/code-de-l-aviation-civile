@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1991-06-16
+Version Consolidée au 1991-09-26
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -22459,6 +22459,8 @@ l'article D. 510-1 peuvent être affiliées à une fédération reconnue au plan
 
 - pour l'aérostation, la fédération française d'aérostation.
 
+" - pour l'ultra-léger motorisé, la Fédération française de planeur ultra-léger motorisé. "
+
 Ces fédérations :
 
 1° Ont seules compétence pour assurer la représentation des aéro-clubs qui leur sont affiliés ainsi que pour orienter,
@@ -22492,6 +22494,10 @@ _Codifié par_:
 
   - Décret n°67-335 1967-03-30
 
+_Modifié par_:
+
+  - Décret n°91-982 du 20 septembre 1991 - art. 1 () JORF 26 septembre 1991
+
 _Cité par_:
 
   - Arrêté du 12 octobre 2018 - art. 2 (VD)
@@ -22507,30 +22513,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'enseignement technique - art. 100 (Ab)
-  - Code de l'enseignement technique - art. 101 (Ab)
-  - Code de l'enseignement technique - art. 102 (Ab)
-  - Code de l'enseignement technique - art. 103 (Ab)
-  - Code de l'enseignement technique - art. 104 (Ab)
-  - Code de l'enseignement technique - art. 105 (Ab)
-  - Code de l'enseignement technique - art. 106 (M)
-  - Code de l'enseignement technique - art. 107 (Ab)
   - Code de l'enseignement technique - art. 150 (Ab)
   - Code de l'enseignement technique - art. 151 (Ab)
-  - Code de l'enseignement technique - art. 90 (Ab)
-  - Code de l'enseignement technique - art. 91 (Ab)
-  - Code de l'enseignement technique - art. 92 (Ab)
-  - Code de l'enseignement technique - art. 93 (Ab)
-  - Code de l'enseignement technique - art. 94 (Ab)
-  - Code de l'enseignement technique - art. 95 (Ab)
-  - Code de l'enseignement technique - art. 96 (Ab)
-  - Code de l'enseignement technique - art. 97 (Ab)
-  - Code de l'enseignement technique - art. 98 (Ab)
-  - Code de l'enseignement technique - art. 99 (Ab)
-
-_Modifié par_:
-
-  - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
+  - Code de l'enseignement technique 90 à 107, 150, 151
+  - Code de l'aviation civile - art. D510-1 (V)
 
 
 ###### Article D510-4
