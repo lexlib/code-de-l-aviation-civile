@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1994-01-31
+Version Consolidée au 1994-03-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -491,121 +491,6 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code des transports - art. L6111-6 (V)
-
-
-###### Article L121-7
-
-Les tribunaux français sont compétents pour connaître de toute infraction commise à bord d'un aéronef immatriculé en France.
-Ils sont également compétents pour connaître de tout crime ou délit commis à l'encontre d'un tel aéronef hors du territoire
-de la République.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-333 1967-03-30
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D121-28 (V)
-  - Code de l'aviation civile - art. L121-9 (Ab)
-
-_Modifié par_:
-
-  - Loi n°72-623 1972-07-05 art. 3 JORF 9 juillet 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Abrogé par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 137 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-
-###### Article L121-8
-
-Les tribunaux français sont compétents :
-
-1° En cas de crime ou de délit commis à bord ou à l'encontre d'un aéronef non immatriculé en France :
-
-a) Lorsque l'auteur ou la victime est de nationalité française
-
-ou
-
-b) Lorsque l'appareil atterrit en France après le crime ou le délit
-
-ou
-
-c) Lorsque l'aéronef a été donné en location sans équipage à une personne qui a le siège principal de son exploitation ou, à
-défaut, sa résidence permanente en France ;
-
-2° Dans le cas où l'auteur de l'une ou l'autre des infractions suivantes ou son complice se trouve en France, pour
-connaître :
-
-a) Du détournement d'un aéronef non immatriculé en France et de tout autre acte de violence dirigé contre les passagers ou
-l'équipage et commis par l'auteur présumé du détournement, en relation directe avec cette infraction ;
-
-b) De toute infraction ou tentative d'infraction concernant un aéronef non immatriculé en France et figurant parmi celles
-énumérées aux a, b et c du 1° de l'article 1er de la convention pour la répression d'actes illicites dirigés contre la
-sécurité de l'aviation civile signée à Montréal le 23 septembre 1971.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-333 1967-03-30
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. L121-9 (Ab)
-
-_Cite_:
-
-  - Convention 1971-09-23, signée à Montreal
-
-_Modifié par_:
-
-  - Loi n°72-623 1972-07-05 art. 3 JORF 9 juillet 1972
-  - Loi n°76-450 1976-05-24 art. 1 JORF 25 mai 1976
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Abrogé par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 137 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-
-###### Article L121-9
-
-Pour l'application des articles L. 121-7 et L. 121-8, est compétent le tribunal du lieu de l'infraction, celui de la
-résidence de l'auteur présumé de l'infraction, celui du lieu de son arrestation ou celui du lieu de l'atterrissage de
-l'aéronef. A défaut de tout autre tribunal, le tribunal compétent est celui de Paris.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-333 1967-03-30
-
-_Cite_:
-
-  - Code de l'aviation civile - art. L121-7 (Ab)
-  - Code de l'aviation civile - art. L121-8 (Ab)
-
-_Modifié par_:
-
-  - Loi n°72-623 1972-07-05 art. 3 JORF 9 juillet 1972
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
-_Abrogé par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 137 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article L121-10
@@ -1779,24 +1664,23 @@ _Nouveaux textes_:
 
 ###### Article L150-1
 
-Seront punis d'une amende de 15 000 F à 500 000 F [*montant*] et d'un emprisonnement de trois mois à un an [*durée*] , ou de
-l'une de ces deux peines seulement, l'exploitant technique, le propriétaire et, le cas échéant, l'exploitant commercial qui
-auront [*infraction*] :
+Seront punis d'une amende de 500 000 F [*montant*] et d'un emprisonnement de un an [*durée*] , ou de l'une de ces deux peines
+seulement, l'exploitant technique, le propriétaire et, le cas échéant, l'exploitant commercial qui auront [*infraction*] :
 
-" 1° Mis ou laissé en service un aéronef sans avoir obtenu un certificat d'immatriculation, un document de navigabilité ou un
+1° Mis ou laissé en service un aéronef sans avoir obtenu un certificat d'immatriculation, un document de navigabilité ou un
 certificat de limitation de nuisances lorsque ceux-ci sont exigibles ;
 
-" 2° Mis ou laissé en service un aéronef sans les marques d'identification prévues par l'article L. 121-2 ;
+2° Mis ou laissé en service un aéronef sans les marques d'identification prévues par l'article L. 121-2 ;
 
-" 3° Fait ou laissé circuler un aéronef dont le document de navigabilité ou le certificat de limitation de nuisances ont
-cessé d'être valables ;
+3° Fait ou laissé circuler un aéronef dont le document de navigabilité ou le certificat de limitation de nuisances ont cessé
+d'être valables ;
 
-" 4° Fait ou laissé circuler un aéronef ne répondant pas à tout moment tant aux conditions techniques de navigabilité ayant
+4° Fait ou laissé circuler un aéronef ne répondant pas à tout moment tant aux conditions techniques de navigabilité ayant
 servi de base à la délivrance du document de navigabilité qu'aux règles relatives au maintien en état de validité de ce
 document ;
 
-" 5° Fait ou laissé circuler un aéronef dans des conditions d'utilisation non conformes aux règles édictées en vue d'assurer
-la sécurité par le présent code ou par des arrêtés pris en application du présent code par le ministre chargé de l'aviation
+5° Fait ou laissé circuler un aéronef dans des conditions d'utilisation non conformes aux règles édictées en vue d'assurer la
+sécurité par le présent code ou par des arrêtés pris en application du présent code par le ministre chargé de l'aviation
 civile et relatifs à l'équipement des aéronefs, aux modalités de leur utilisation, à la composition des équipages et à leurs
 conditions d'emploi.
 
@@ -1811,9 +1695,13 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
 _Modifié par_:
 
-  - Loi n°89-467 du 10 juillet 1989 - art. 2 () JORF 11 juillet 1989
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cite_:
 
@@ -1875,12 +1763,12 @@ _Cité par_:
 ###### Article L150-3
 
 Le pilote qui, en infraction aux dispositions de l'article L. 132-1, n'aura pas utilisé, sauf cas de force majeure, un
-aéroport international au départ ou à l'arrivée d'un vol international sera puni d'une amende de 15 000 F à 200 000 F
-[*montant*] et d'un emprisonnement de deux mois à trois ans [*durée*], ou de l'une de ces deux peines seulement, sans
-préjudice de l'application des peines prévues par la législation douanière.
+aéroport international au départ ou à l'arrivée d'un vol international sera puni d'une amende de 200 000 F [*montant*] et
+d'un emprisonnement de trois ans [*durée*], ou de l'une de ces deux peines seulement, sans préjudice de l'application des
+peines prévues par la législation douanière.
 
-" Sera puni des mêmes peines tout membre d'équipage qui, sur un tel aéroport, aura tenté de se soustraire aux contrôles
-réglementaires. "
+Sera puni des mêmes peines tout membre d'équipage qui, sur un tel aéroport, aura tenté de se soustraire aux contrôles
+réglementaires.
 
 **Liens relatifs à cet article**
 
@@ -1893,9 +1781,13 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
 _Modifié par_:
 
-  - Loi n°89-467 du 10 juillet 1989 - art. 3 () JORF 11 juillet 1989
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cite_:
 
@@ -1910,16 +1802,16 @@ _Cité par_:
 
 ###### Article L150-4
 
-Sera puni d'une amende de 15 000 F à 100 000 F [*montant*] et d'un emprisonnement de un à six mois [*durée*], ou de l'une de
-ces deux peines seulement, le pilote qui, par maladresse ou négligence, aura survolé une zone du territoire français en
-violation d'une interdiction prononcée dans les conditions prévues au premier alinéa de l'article L. 131-3.
+Sera puni d'une amende de 100 000 F [*montant*] et d'un emprisonnement de six mois [*durée*], ou de l'une de ces deux peines
+seulement, le pilote qui, par maladresse ou négligence, aura survolé une zone du territoire français en violation d'une
+interdiction prononcée dans les conditions prévues au premier alinéa de l'article L. 131-3.
 
-" Sera puni d'une amende de 15 000 F à 300 000 F et d'un emprisonnement de trois mois à un an, ou de l'une de ces deux peines
-seulement, le pilote qui :
+Sera puni d'une amende de 300 000 F et d'un emprisonnement de un an, ou de l'une de ces deux peines seulement, le pilote
+qui :
 
-" a) Se sera sciemment engagé ou maintenu au-dessus d'une zone mentionnée au premier alinéa du présent article ;
+a) Se sera sciemment engagé ou maintenu au-dessus d'une zone mentionnée au premier alinéa du présent article ;
 
-" b) Ne se sera pas conformé aux prescriptions des deuxième et quatrième alinéas de l'article L. 131-3. "
+b) Ne se sera pas conformé aux prescriptions des deuxième et quatrième alinéas de l'article L. 131-3.
 
 **Liens relatifs à cet article**
 
@@ -1932,9 +1824,13 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
 _Modifié par_:
 
-  - Loi n°89-467 du 10 juillet 1989 - art. 4 () JORF 11 juillet 1989
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cité par_:
 
@@ -1951,13 +1847,9 @@ _Cite_:
 
 Le possesseur, le détenteur ou le pilote qui aura apposé ou fait apposer sur l'aéronef des marques d'immatriculation non
 conformes à celles du certificat de d'immatriculation ou qui aura supprimé ou fait supprimer, rendu ou fait rendre illisibles
-les marques exactement apposées sera puni d'une amende de 3 600 F à 120 000 F [*(1)*] et d'un emprisonnement de six mois à
-trois ans. Seront punis des mêmes peines, ceux qui auront apposé ou fait apposer sur un aéronef privé les marques
-distinctives réservées aux aéronefs publics ou qui auraient fait usage d'un aéronef privé portant lesdites marques.
-
-**Nota:**
-
-[*(1) Taux résultant de la loi 85-835 du 7 août 1985*].
+les marques exactement apposées sera puni d'une amende de 120 000 F et d'un emprisonnement de trois ans. Seront punis des
+mêmes peines, ceux qui auront apposé ou fait apposer sur un aéronef privé les marques distinctives réservées aux aéronefs
+publics ou qui auraient fait usage d'un aéronef privé portant lesdites marques.
 
 **Liens relatifs à cet article**
 
@@ -1970,13 +1862,17 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Modifié par_:
-
-  - Loi n°89-467 du 10 juillet 1989 - art. 5 () JORF 11 juillet 1989
-
 _Cité par_:
 
   - Code de l'aviation civile - art. L150-8 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article L150-6
@@ -2057,18 +1953,13 @@ Si le pilote est condamné une seconde fois pour l'un quelconque de ces mêmes d
 150-7, l'interdiction de conduire un aéronef sera prononcée et sa durée sera portée au maximum et pourra être élevée jusqu'au
 double.
 
-Les brevets dont seraient porteurs les pilotes resteront déposés pendant toute la durée de l'interdiction, au greffe de la
+Les brevets dont seraient porteurs les pilotes resteront déposés pendant toute la durée de l'interdiction au greffe de la
 juridiction qui aura prononcé l'interdiction.
 
 Les condamnés devront effectuer les dépôts de ces brevets soit à ce greffe, soit à celui de leur domicile, dans les cinq
-jours qui suivront la date à laquelle la condamnation sera devenue définitive, faute de quoi, ils seront punis de trois mois
-à un an d'emprisonnement et d'une amende de 15 000 à 60 000 F [*(1)*] ou de l'une de ces deux peines seulement, sans
-préjudice des peines portées à l'article L. 150-2 au cas où ils conduiraient un aéronef pendant la période d'interdiction et
-qui ne pourront se confondre.
-
-**Nota:**
-
-[*(1) Taux résultant de la loi n° 85-835 du 7 août 1985, articles 8 et 9.*]
+jours qui suivront la date à laquelle la condamnation sera devenue définitive, faute de quoi, ils seront punis d'un an
+d'emprisonnement et d'une amende 60 000 F ou de l'une de ces deux peines seulement, sans préjudice des peines portées à
+l'article L. 150-2 au cas où ils conduiraient un aéronef pendant la période d'interdiction et qui ne pourront se confondre.
 
 **Liens relatifs à cet article**
 
@@ -2081,10 +1972,6 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Modifié par_:
-
-  - Loi n°89-467 du 10 juillet 1989 - art. 7 () JORF 11 juillet 1989
-
 _Cite_:
 
   - Code de l'aviation civile - art. L150-2 (M)
@@ -2093,17 +1980,21 @@ _Cite_:
   - Code de l'aviation civile - art. L150-5 (M)
   - Code de l'aviation civile - art. L150-7 (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 
 ###### Article L150-9
 
 Tous jets volontaires et inutiles d'objets susceptibles de causer des dommages aux personnes et aux biens de la surface sont
-interdits à bord des aéronefs en évolution et seront punis d'une amende de 1 800 F à 20 000 F [*(1)*] et d'une peine de six
-jours à deux mois de prison ou de l'une de ces deux peines seulement, même si ces jets n'ont causé aucun dommage et sans
-préjudice des peines plus fortes qui pourraient être encourues en cas de délit ou de crime.
-
-**Nota:**
-
-[*(1) Taux résultant de la loi n° 77-1968 du 30 décembre 1977 (art. 16).*]
+interdits à bord des aéronefs en évolution et seront punis d'une amende de 25 000 F et d'une peine de deux mois de prison ou
+de l'une de ces deux peines seulement, même si ces jets n'ont causé aucun dommage et sans préjudice des peines plus fortes
+qui pourraient être encourues en cas de délit ou de crime.
 
 **Liens relatifs à cet article**
 
@@ -2116,12 +2007,20 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 
 ###### Article L150-10
 
-En cas d'accident causé par un aéronef aux personnes de la surface, l'article L. 2 du code de la route, qui prévoit et
-réprime le délit de fuite, est applicable, sauf le cas où il serait établi que l'arrêt de l'aéronef aurait compromis la
-sécurité des passagers.
+En cas d'accident causé par un aéronef aux personnes de la surface, l'article 434-10 du code pénal, qui prévoit et réprime le
+délit de fuite, est applicable, sauf le cas où il serait établi que l'arrêt de l'aéronef aurait compromis la sécurité des
+passagers.
 
 **Liens relatifs à cet article**
 
@@ -2134,16 +2033,33 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 138 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6142-9 (V)
+
 _Cite_:
 
-  - Code de la route L2
+  - Code pénal - art. 434-10
 
 
 ###### Article L150-11
 
-Sans préjudice de peines plus graves, s'il y a lieu, sera puni des peines de l'article 406 du code pénal le fait de détruire
-ou de détourner ou de tenter de détruire ou de détourner un aéronef ou des pièces de rechange grevés d'une hypothèque
-régulièrement inscrite.
+Sans préjudice de peines plus graves, s'il y a lieu, sera puni des peines de l'abus de confiance prévues par les articles
+314-1 et 314-10 du code pénal le fait de détruire ou de détourner ou de tenter de détruire ou de détourner un aéronef ou des
+pièces de rechange grevés d'une hypothèque régulièrement inscrite.
 
 Seront punies des mêmes peines toutes manoeuvres frauduleuses destinées à priver le créancier de sa garantie.
 
@@ -2155,11 +2071,29 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-333 1967-03-30
+  - Décret n°67-333 du 30 mars 1967
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 139 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6142-7 (V)
 
 _Cite_:
 
-  - Code pénal 406
+  - Code pénal - art. 314-1
+  - Code pénal - art. 314-10
 
 
 ###### Article L150-13
@@ -2984,14 +2918,10 @@ _Codifié par_:
 ###### Article L281-1
 
 Les infractions aux dispositions réglementaires concernant les servitudes aéronautiques de dégagement et de balisage
-instituées dans l'intérêt de la circulation aérienne sont punies d'une amende de 500 F à 20 000 F [*(1)*].
+instituées dans l'intérêt de la circulation aérienne sont punies d'une amende de 25 000 F.
 
-En cas de récidive, les infractions sont punies d' une amende de 1 000 F à 40 000 F [*(1)*] et d'un emprisonnement de dix
-jours à trois mois ou de l'une de ces deux peines seulement.
-
-**Nota:**
-
-[*(1) Taux résultant de la loi n° 77-1468 du 30 décembre 1977 (art. 16)*].
+En cas de récidive, les infractions sont punies d'une amende de 50 000 F et d'un emprisonnement de trois mois ou de l'une de
+ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -3002,6 +2932,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°67-333 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cité par_:
 
@@ -3112,9 +3051,9 @@ _Cité par_:
 
 ###### Article L282-1
 
-Sera puni de l'emprisonnement de deux à cinq ans et d' une amende de 10 000 F à 120 000 F (1) ou de l'une de ces deux peines
-seulement sans préjudice, le cas échéant, de l'application des articles 434 à 437 du code pénal, quiconque aura
-volontairement :
+Sera puni d'un emprisonnement de cinq ans et d'une amende de 120 000 F ou de l'une de ces deux peines seulement sans
+préjudice, le cas échéant, de l'application des dispositions des articles 322-1 à 322-11 et 322-15 du code pénal réprimant
+les destructions, dégradations et détériorations, quiconque aura volontairement :
 
 1° Détruit ou endommagé les immeubles ou installations destinés à assurer le contrôle de la circulation des aéronefs, les
 télécommunications aéronautiques, l'aide à la navigation aérienne ou l'assistance météorologique ;
@@ -3123,13 +3062,13 @@ télécommunications aéronautiques, l'aide à la navigation aérienne ou l'assi
 
 3° Détruit ou endommagé un aéronef dans l'emprise d'un aérodrome ;
 
-4° Entravé, de quelque manière que ce soit, la navigation ou la circulation des aéronefs, hors les cas prévus dans l'article
-462 du code pénal.
+4° Entravé, de quelque manière que ce soit, la navigation ou la circulation des aéronefs, hors les cas prévus aux articles
+224-6 et 224-7 du code pénal;
 
-" 5° Interrompu à l'aide d'un dispositif matériel, d'une substance ou d'une arme, le fonctionnement des services d'un
-aérodrome si cet acte porte atteinte ou est de nature à porter atteinte à la sécurité à l'intérieur de cet aérodrome. "
+5° Interrompu à l'aide d'un dispositif matériel, d'une substance ou d'une arme, le fonctionnement des services d'un aérodrome
+si cet acte porte atteinte ou est de nature à porter atteinte à la sécurité à l'intérieur de cet aérodrome.
 
-" Pour toutes les infractions prévues au présent article, la tentative du délit sera punie comme le délit lui-même. "
+Pour toutes les infractions prévues au présent article, la tentative du délit sera punie comme le délit lui-même.
 
 **Nota:**
 
@@ -3141,13 +3080,24 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Modifié par_:
-
-  - Loi n°89-467 du 10 juillet 1989 - art. 13 () JORF 11 juillet 1989
-
 _Cite_:
 
-  - Code pénal 434, 435, 436, 437, 462
+  - Loi n°85-835 du 7 août 1985 - art. 7 (V)
+  - Loi n°85-835 du 7 août 1985 - art. 8 (V)
+  - Code pénal - art. 224-6 (V)
+  - Code pénal - art. 224-7 (V)
+  - Code pénal - art. 322-15 (M)
+  - Code pénal 322-1 à 322-11, 322-15, 224-6, 224-7
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 140 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cité par_:
 
@@ -3157,11 +3107,11 @@ _Cité par_:
 
 ###### Article L282-2
 
-S'il est résulté de ces faits des blessures ou maladies, la peine sera celle de la réclusion criminelle à temps de dix à
-vingt ans.
+S'il est résulté de ces faits des blessures ou maladies, la peine sera celle de la réclusion criminelle à temps à vingt ans.
 
 S'il en est résulté la mort d'une ou plusieurs personnes, la peine sera celle de la réclusion criminelle à perpétuité, sans
-préjudice, s'il y a lieu, de l'application des articles 295 à 304 du code pénal.
+préjudice, s'il y a lieu, de l'application des dispositions des articles 221-1 à 221-4 du code pénal réprimant les atteintes
+volontaires à la vie.
 
 **Liens relatifs à cet article**
 
@@ -3169,20 +3119,22 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal 295, 296, 297, 298, 299, 300, 301, 302, 303, 304
+  - Loi n°92-1336 du 16 décembre 1992 - art. 141 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article L282-3
 
-L'attaque ou la résistance avec violence et voies de fait envers les agents, préposés à la garde ou au fonctionnement des
+L'attaque ou la résistance avec violence et voies de fait envers les agents préposés à la garde ou au fonctionnement des
 aérodromes ou installations mentionnés à l'article L. 213-1, dans l'exercice de leurs fonctions, sera punie des peines
-applicables à la rébellion, suivant les distinctions faites par les articles 209 à 218 du code pénal.
+applicables à la rébellion, suivant les distinctions faites par les articles 433-7 et 433-8 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -3190,14 +3142,28 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 142 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6372-6 (V)
 
 _Cite_:
 
-  - Code pénal 209, 210, 211, 212, 213, 214, 215, 216, 217, 218
-  - Code de l'aviation civile - art. L213-1 (M)
+  - Code pénal - art. 433-7
+  - Code pénal - art. 433-8
+  - Code de l'aviation civile - art. L213-1
 
 
 ###### Article L282-4
@@ -3224,51 +3190,37 @@ _Abrogé par_:
 
 Pour l'application du protocole pour la répression des actes illicites de violence dans les aéroports servant à l'aviation
 civile internationale, fait à Montréal le 24 février 1988, complémentaire à la convention pour la répression d'actes
-illicites dirigés contre la sécurité de l'aviation civile, faite à Montréal le 23 septembre 1971, peut être poursuivi et jugé
-par les juridictions françaises, s'il se trouve en France, quiconque s'est rendu coupable, hors du territoire de la
-République, à l'aide d'un dispositif matériel, d'une substance ou d'une arme :
-
-1° De l'une des infractions suivantes, si cette infraction porte atteinte ou est de nature à porter atteinte à la sécurité
-dans un aérodrome affecté à l'aviation civile internationale :
-
-a) Les crimes ou délits définis par les articles 295 à 298, 301, 303, 304, 310, 311, les troisième (2°) et quatrième (3°)
-alinéas de l'article 312 du code pénal, lorsque l'infraction a été commise dans un aérodrome affecté à l'aviation civile
-internationale ;
-
-b) Les crimes ou délits prévus par les articles 434 à 437 du code pénal, lorsque l'infraction a été commise à l'encontre des
-installations d'un aérodrome affecté à l'aviation civile internationale ou d'un aéronef stationné dans l'aérodrome et qui
-n'est pas en service ;
-
-c) Le délit prévu au quatrième alinéa (3°) de l'article L. 282-1 du présent code, lorsque l'infraction a été commise à
-l'encontre des installations d'un aérodrome affecté à l'aviation civile internationale ou d'un aéronef stationné dans
-l'aérodrome et qui n'est pas en service ;
-
-2° De l'infraction définie au sixième alinéa (5°) de l'article L. 282-1 du présent code, lorsqu'elle a été commise à
-l'encontre des services d'un aérodrome affecté à l'aviation civile internationale.
-
-Les dispositions du présent article sont applicables à la tentative des infractions ci-dessus énumérées, si celle-ci est
-punissable.
+illicites dirigés contre la sécurité de l'aviation civile, faite à Montréal le 23 septembre 1971, peut être poursuivie et
+jugée par les juridictions françaises, si elle se trouve en France, toute personne qui s'est rendue coupable, hors du
+territoire de la République, de l'une des infractions énumérées par l'article 689-7 du code de procédure pénale ou de la
+tentative de l'une de ces infractions.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Convention 1971-09-23, fait à Montréal
-  - Code pénal 295, 296, 297, 298, 301, 303, 304, 310, 311, 434, 435, 436, 437
-  - Code de l'aviation civile - art. L282-1 (M)
-  - Protocole 1988-02-24, fait à Montréal
 
 _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Créé par_:
-
-  - Loi n°89-467 du 10 juillet 1989 - art. 14 () JORF 11 juillet 1989
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°89-467 du 10 juillet 1989 - art. 21 (V)
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 148 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6372-7 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 689-7
+  - Convention 1971-09-23, fait à Montréal
 
 
 ##### Section 2 : Police de la conservation.<a id=32></a>
@@ -3775,12 +3727,7 @@ Conformément à l'article L. 54 du code de la santé publique, tout fonctionnai
 d'un aéronef, tout médecin qui, dans un document ou une déclaration, aura sciemment altéré ou dissimulé les faits ou qui aura
 négligé d'informer l'autorité sanitaire de faits à sa connaissance qu'il était dans l'obligation de révéler en application
 des textes mentionnés à l'article L. 52 du code de la santé publique, ci-dessus rappelé à l'article L. 215-1, sera puni d'une
-peine de six mois à deux ans d'emprisonnement, et d'une amende de 600 F à 15000 F, ou de l'une de ces deux peines seulement
-[*(1)*].
-
-**Nota:**
-
-[*(1) taux résultant de la loi n° 85-835 du 7 août 1985, articles 7 et 8.*]
+peine de deux ans d'emprisonnement, et d'une amende de 25000 F, ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -3788,9 +3735,14 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°80-908 1980-11-17 art. 4 JORF 21 novembre 1980
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cite_:
 
@@ -5849,14 +5801,12 @@ _Cite_:
 
 ###### Article L427-1
 
-Sera punie d' une amende de 600 F à 15 000 F [*(1)*] et d'un emprisonnement de dix jours à un mois, ou de l'une de ces deux
-peines seulement, toute personne qui aura exercé un des emplois correspondant aux brevets, licences et qualifications du
-personnel navigant professionnel de l'aéronautique civile en contravention avec les dispositions du présent article.
+Sera punie d'une amende de 25 000 F et d'un emprisonnement d'un mois, ou de l'une de ces deux peines seulement, toute
+personne qui aura exercé un des emplois correspondant aux brevets, licences et qualifications du personnel navigant
+professionnel de l'aéronautique civile en contravention avec les dispositions du présent titre. 
 
 Sera puni de la même peine le responsable de toute entreprise qui aura confié un de ces emplois à une personne ne remplissant
 pas les conditions exigées au présent titre.
-
-[*(1) Taux résultant de la loi 85-835 du 7 août 1985*]
 
 **Liens relatifs à cet article**
 
@@ -5864,26 +5814,49 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
 _Modifié par_:
 
-  - Décret n°80-908 1980-11-17 art. 8 JORF 21 novembre 1980
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article L427-2
 
 L'exploitant qui a retenu par-devers lui indûment la contribution ouvrière précomptée sur le salaire, en application de
-l'article L. 426-5, est passible des peines prévues aux articles 406 et 408 du code pénal.
+l'article L. 426-5, est passible des peines de l'abus de confiance prévues par les articles 314-1 et 314-10 du code pénal.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-333 1967-03-30
+  - Décret n°67-333 du 30 mars 1967
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 144 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6531-3 (T)
 
 _Cite_:
 
-  - Code pénal 406, 408
-  - Code de l'aviation civile - art. L426-5 (M)
+  - Code pénal - art. 314-1
+  - Code pénal - art. 314-10
+  - Code de l'aviation civile - art. L426-5
 
 
 ###### Article L427-3
@@ -5891,15 +5864,11 @@ _Cite_:
 Dans les territoires d'outre-mer, toute infraction à la réglementation relative à la durée du travail du personnel navigant
 est punie :
 
-En ce qui concerne l'employeur, d' une amende de 1000 F à 15000 F [*(1)*] ;
+En ce qui concerne l'employeur, d' une amende de 25 000 F ;
 
 En ce qui concerne le contrevenant, du retrait de sa licence qui est prononcé par le ministre chargé de l'aviation civile
 dans les catégories transport aérien et travail aérien et par le ministre chargé de la défense nationale dans la catégorie
 essais et réception, pour une durée qui ne pourra être inférieure à quinze jours ni supérieure à deux mois.
-
-**Nota:**
-
-[*(1) Taux résultant de la loi 85-835 du 7 juillet 1985*]
 
 **Liens relatifs à cet article**
 
@@ -5907,13 +5876,18 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Créé par_:
-
-  - Loi n°72-1090 1972-12-08 art. 10 JORF 9 décembre 1972
-
 _Cité par_:
 
   - Loi n°72-1090 du 8 décembre 1972 - art. 10 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ## LIVRE V : DISPOSITIONS PARTICULIERES A LA FORMATION AERONAUTIQUE.<a id=58></a>
@@ -7626,7 +7600,7 @@ _Créé par_:
 
 ###### Article R151-1
 
-Seront punis des peines applicables aux contraventions de la 5e classe :
+Seront punis des peines prévues par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe :
 
 " 1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de l'aéronef lorsque ce document est exigé par la
 réglementation en vigueur ;
@@ -7652,20 +7626,17 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 13
-
-_Modifié par_:
-
-  - Décret n°91-262 du 4 mars 1991 - art. 3 () JORF 9 mars 1991
-
 _Cité par_:
 
   - Décret n°91-262 du 4 mars 1991 - art. 13 (V)
 
+_Modifié par_:
+
+  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
 _Cite_:
 
+  - Code pénal - art. 131-13 (M)
   - Code de l'aviation civile - art. R131-1 (V)
   - Code de l'aviation civile - art. R131-2 (V)
   - Code de l'aviation civile - art. R131-3 (M)
@@ -7707,8 +7678,8 @@ _Cite_:
 
 ###### Article R151-4
 
-Toute infraction aux dispositions des articles R. 142-2 et R. 142-3 sera punie des peines prévues pour les contraventions de
-la 4° classe.
+Toute infraction aux dispositions des articles R. 142-2 et R. 142-3 sera punie de la peine d'amende prévue par le 4° de
+l'article 131-13 du code pénal pour les contraventions de la quatrième classe.
 
 **Liens relatifs à cet article**
 
@@ -7716,13 +7687,13 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 13
-
 _Modifié par_:
 
-  - Décret n°91-262 du 4 mars 1991 - art. 4 () JORF 9 mars 1991
+  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+_Abrogé par_:
+
+  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V) JORF 11 novembre 2001
 
 _Cité par_:
 
@@ -7730,6 +7701,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code pénal - art. 131-13 (M)
   - Code de l'aviation civile - art. R142-2 (Ab)
   - Code de l'aviation civile - art. R142-3 (Ab)
 
@@ -10913,10 +10885,11 @@ _Cite_:
 Sans préjudice de l'application de dispositions régissant le cas des contraventions de grande voirie, ceux qui auront
 contrevenu aux dispositions de l'arrêté préfectoral réglementant les conditions d'exploitation de l'aérodrome seront punis :
 
-" 1° De l'amende prévue pour les contraventions de la 4e classe, lorsque l'infraction aura été commise dans une zone non
-librement accessible au public ;
+1° De l'amende prévue par le 4° de l'article 131-13 du code pénal pour les contraventions de la quatrième classe, lorsque
+l'infraction aura été commise dans une zone non librement accessible au public ;
 
-" 2° De l'amende prévue pour les contraventions de la 3e classe dans les autres cas. "
+2° De l'amende prévue par le 3° de l'article 131-13 du code pénal pour les contraventions de la troisième classe dans les
+autres cas.
 
 **Liens relatifs à cet article**
 
@@ -10926,17 +10899,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-262 du 4 mars 1991 - art. 8 () JORF 9 mars 1991
+  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+_Cite_:
+
+  - Code pénal - art. 131-13 (M)
 
 _Cité par_:
 
   - Code de l'aviation civile - art. R282-1-1 (V)
   - Code de l'aviation civile - art. R282-2 (V)
   - Code de l'aviation civile - art. R282-4 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 13
 
 
 ###### Article R282-2
@@ -11643,23 +11616,21 @@ _Cite_:
 ###### Article R330-15
 
 Sans préjudice de l'application des autres sanctions prévues par la législation en vigueur et en particulier de celles qui
-sont édictées par l'article L. 330-4, sera punie d'un emprisonnement de dix jours à un mois et d'une amende de 3000 à 6 000 F
-ou de l'une de ces deux peines seulement, toute personne qui aura contrevenu aux prescriptions des articles L. 330-1, L.
-330-2 ou L. 330-3, et notamment :
+sont édictées par l'article L. 330-4, sera punie d'une l'amende prévue par le 5° de l'article 131-13 du code pénal pour les
+contraventions de la cinquième classe, toute personne qui aura contrevenu aux prescriptions des articles L. 330-1, L. 330-2
+ou L. 330-3, et notamment :
 
 1° Aura exercé une activité de transport aérien sans avoir obtenu l'autorisation prévue à l'article L. 330-1 ou sans avoir
 respecté les conditions ou limitations qui lui avaient été imposées dans ladite autorisation ;
 
-2° Aura, contrairement à l'article L. 330-3, omis de soumettre à l'homologation les tarifs qu'elle pratique, ou pratiqué des
+2° Aura, contrairement à l'article L. 330-3, omis de soumettre à l'homologation les tarifs qu'elle pratique ou pratiqué des
 tarifs différents de ceux qui avaient été homologués.
 
 Sera punie de la même peine, sans préjudice de l'application des autres sanctions prévues par les conventions internationales
 ou par la législation en vigueur, toute personne qui aura contrevenu aux prescriptions des articles R. 330-3, R. 330-7
 (alinéa 2), R. 330-9 (alinéa 2), R. 330-11 ou des règlements pris en application de l'article R. 330-4.
 
-En cas de récidive, la peine d'emprisonnement pourra être portée à deux mois et celle d'amende de 6 000 F à 12 000 F (1).
-
-(1) Taux résultant du décret 89-989 du 29 décembre 1989
+En cas de récidive, la peine d'amende pourra être portée à 20 000 F.
 
 **Liens relatifs à cet article**
 
@@ -11669,9 +11640,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°80-170 1980-02-18 art. 2 JORF 28 février 1980
-  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
-  - Décret n°76-711 1976-07-23 art. 2 JORF 29 juillet 1976
+  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 _Cité par_:
 
@@ -11686,6 +11655,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code pénal - art. 131-13 (M)
   - Code de l'aviation civile - art. L330-1 (M)
   - Code de l'aviation civile - art. L330-2 (M)
   - Code de l'aviation civile - art. L330-3 (M)
@@ -11696,20 +11666,12 @@ _Cite_:
   - Code de l'aviation civile - art. R330-7 (M)
   - Code de l'aviation civile - art. R330-9 (M)
 
-_Créé par_:
-
-  - Décret n°73-331 1973-03-14 art. 1 JORF 23 mars 1973
-
 
 ###### Article R330-17
 
-Dans les territoires d'outre-mer, les infractions définies à l'article R. 330-15 seront punies d'un emprisonnement de cinq
-jours au maximum et d'une amende de 1300 F à 3000 F [*(1)*] au maximum ou de l'une de ce deux peines seulement autant de fois
-qu'il est prévu à l'article R. 330-16.
-
-**Nota:**
-
-*(1) Taux résultant du décret 89-989 du 29 décembre 1989*
+Dans les territoires d'outre-mer, les infractions définies à l'article R. 330-15 seront punies de la peine d'amende prévue
+par le 4° de l'article 131-13 du code pénal pour les contraventions de la quatrième classe autant de fois qu'il est prévu à
+l'article R. 330-16.
 
 **Liens relatifs à cet article**
 
@@ -11717,14 +11679,15 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
+_Modifié par_:
+
+  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
 _Cite_:
 
+  - Code pénal - art. 131-13 (M)
   - Code de l'aviation civile - art. R330-15 (M)
   - Code de l'aviation civile - art. R330-16 (Ab)
-
-_Créé par_:
-
-  - Décret n°73-331 1973-03-14 art. 1 JORF 23 mars 1973
 
 
 ### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE<a id=126></a>
@@ -14944,14 +14907,14 @@ _Cite_:
 
 ###### Article R427-1
 
-" Sera puni de l'amende prévue pour les contraventions de la 5e classe tout employeur qui, en ce qui concerne le personnel
-navigant, aura contrevenu aux dispositions de l'article L. 212-1 du code du travail et des décrets mentionnés à l'article L.
-212-2 du même code. Les contraventions donneront lieu à autant d'amendes qu'il y aura de navigants employés en méconnaissance
-des dispositions précitées."
+Sera puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe tout
+employeur qui, en ce qui concerne le personnel navigant, aura contrevenu aux dispositions de l'article L. 212-1 du code du
+travail et des décrets mentionnés à l'article L. 212-2 du même code. Les contraventions donneront lieu à autant d'amendes
+qu'il y aura de navigants employés en méconnaissance des dispositions précitées. 
 
 Toute infraction à la réglementation relative à la durée du travail du personnel navigant entraîne le retrait de la licence
 du contrevenant, qui est prononcé par le ministre chargé de l'aviation civile en ce qui concerne les catégories Transport
-aérien et Travail aérien, et par le ministre des armées en ce qui concerne le personnel de catégorie Essais et receptions,
+aérien et Travail aérien et par le ministre des armées en ce qui concerne le personnel de catégorie Essais et receptions,
 pour une durée qui ne pourra être inférieure à quinze jours ni supérieure à deux mois.
 
 **Liens relatifs à cet article**
@@ -14967,10 +14930,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-262 du 4 mars 1991 - art. 12 () JORF 9 mars 1991
+  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 _Cite_:
 
+  - Code pénal - art. 131-13 (V)
   - Code du travail - art. L212-1 (M)
   - Code du travail - art. L212-2 (M)
 
