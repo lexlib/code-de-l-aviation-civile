@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2000-11-01
+Version Consolidée au 2001-01-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -5099,19 +5099,26 @@ _Cité par_:
 La société dite société Air France est régie par le présent code et, dans tout ce qu'elles n'ont pas de contraire à celui-ci,
 par les lois sur les sociétés anonymes.
 
-Elle a pour objet d'assurer l'exploitation de transports aériens dans les conditions fixées par le ministre chargé de
-l'aviation civile après accord, s'il y a lieu, des autres ministres intéressés. Aucune subvention ne peut lui être allouée
-pour les lignes exploitées en concurrence avec d'autres sociétés françaises de transport aérien.
+Elle a pour objet d'assurer l'exploitation de transports aériens.
 
 Elle peut créer ou gérer des entreprises présentant un caractère annexe par rapport à son activité principale ou prendre des
-participations dans des entreprises de ce genre, après autorisation. Toutefois elle ne peut créer ou gérer des entreprises de
-fabrication de matériel aéronautique, ni prendre de participation dans de telles entreprises.
+participations dans des entreprises de ce genre. Toutefois elle ne peut créer ou gérer des entreprises de fabrication de
+matériel aéronautique, ni prendre de participation dans de telles entreprises.
+
+**Nota:**
+
+Loi 2003-322 art. 6 II : " II. Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert
+au secteur privé de la majorité du capital de la société Air France. 
+
+Les articles L. 341-1, L. 342-1 et L. 342-2 sont abrogés à cette même date. "
+
+Par avis publié au Journal officiel du 29 mai 2004, la majorité du capital de la société Air France a été transférée au
+secteur privé le 6 mai 2004.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ancien code de l'aviation civile 137
   - Loi n°48-976 1948-06-16 art. 1
 
 _Codifié par_:
@@ -5120,7 +5127,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+  - Loi n°2001-5 du 4 janvier 2001 - art. 1 () JORF 5 janvier 2001
 
 **Liens**:
 
@@ -5128,6 +5135,10 @@ _Modifié par_:
   - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 1 ()
   - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 2 ()
   - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 3 ()
+
+_Abrogé par_:
+
+  - Loi n°2003-322 du 9 avril 2003 - art. 6 II (V)
 
 _Cité par_:
 
@@ -5178,13 +5189,20 @@ _Cité par_:
 
 ###### Article L342-2
 
-La société Air France doit couvrir par ses ressources propres l'ensemble de ses dépenses d'exploitation, l'intérêt et
-l'amortissement des emprunts, l'amortissement du matériel et des installations et les provisions à constituer pour couvrir
-les risques de tout ordre.
+Sous réserve des dispositions applicables aux obligations de service public imposées sur les services aériens réguliers
+intracommunautaires, les obligations qui sont imposées à la société Air France dans l'intérêt général font l'objet de
+contrats préalables assortis de cahiers des charges, passés entre la société, d'une part, l'Etat, les collectivités publiques
+de la métropole et d'outre-mer, d'autre part.
 
-Toutefois, les obligations qui lui sont imposées dans l'intérêt général font l'objet de contrats préalables assortis de
-cahiers des charges, passées entre la société, d'une part, l'Etat, les collectivités publiques de la métropole et d'outre-
-mer, d'autre part.
+**Nota:**
+
+Loi 2003-322 art. 6 II : " II. Les dispositions de l'article 2 de la présente loi entrent en vigueur à la date du transfert
+au secteur privé de la majorité du capital de la société Air France. 
+
+Les articles L. 341-1, L. 342-1 et L. 342-2 sont abrogés à cette même date. "
+
+Par avis publié au Journal officiel du 29 mai 2004, la majorité du capital de la société Air France a été transférée au
+secteur privé le 6 mai 2004.
 
 **Liens relatifs à cet article**
 
@@ -5198,7 +5216,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+  - Loi n°2001-5 du 4 janvier 2001 - art. 2 () JORF 5 janvier 2001
 
 **Liens**:
 
@@ -5206,6 +5224,10 @@ _Modifié par_:
   - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 1 ()
   - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 2 ()
   - TXT_SOURCE: Loi n°2001-5 du 4 janvier 2001 - art. 3 ()
+
+_Abrogé par_:
+
+  - Loi n°2003-322 du 9 avril 2003 - art. 6 II (V)
 
 _Cité par_:
 
@@ -5215,8 +5237,13 @@ _Cité par_:
 
 ###### Article L342-3
 
-En vue de financer ses immobilisations et d'augmenter son fonds de roulement, la société Air France est habilitée à émettre
-dans le public des emprunts qui peuvent bénéficier de la garantie de l'Etat.
+Par dérogation à l'article 4 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public, le
+conseil d'administration de la société Air France compte vingt et un membres. Indépendamment des représentants de l'Etat, des
+salariés, des salariés actionnaires ainsi que des actionnaires autres que l'Etat et les salariés, le conseil peut comprendre
+des personnalités choisies soit en raison de leur compétence technique, scientifique ou économique, soit en raison de leur
+connaissance du transport aérien. La représentation des salariés actionnaires peut se faire par catégories. Elle peut être
+subordonnée à la détention par l'ensemble des salariés actionnaires ou par chaque catégorie d'une part minimale du capital
+social.
 
 **Liens relatifs à cet article**
 
@@ -5228,9 +5255,13 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+_Cite_:
+
+  - Loi n°83-675 1983-07-26 art. 4
+
 _Modifié par_:
 
-  - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
+  - Loi n°2001-5 du 4 janvier 2001 - art. 3 () JORF 5 janvier 2001
 
 **Liens**:
 
