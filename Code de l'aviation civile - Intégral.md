@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1976-12-15
+Version Consolidée au 1976-12-29
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -95,7 +95,7 @@ Version Consolidée au 1976-12-15
         - [CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE (art. R252-13 à R252-20)](#92)
           - [Section 1 : Administration et gestion. (art. R252-13 à R252-20)](#93)
             - [Paragraphe 1 : Conseil d'administration. (art. R252-13 à R252-15)](#94)
-            - [Paragraphe 2 : Directeur général. (art. R252-20)](#95)
+            - [Paragraphe 2 : Directeur général. (art. R252-16 à R252-20)](#95)
         - [CHAPITRE IV : DISPOSITIONS DIVERSES. (art. R254-2)](#96)
       - [TITRE V : AÉROPORT DE PARIS (art. R252-4 à R254-1)](#97)
         - [CHAPITRE II : RÈGLES D'ADMINISTRATION, DE GESTION ET DE CONTRÔLE (art. R252-4 à R252-21)](#98)
@@ -7505,6 +7505,36 @@ _Abrogé par_:
 
 
 ##### Paragraphe 2 : Directeur général.<a id=95></a>
+
+###### Article R252-16
+
+Le directeur général est nommé par décret pris en Conseil des ministres sur la proposition faite par le ministre chargé de
+l'aviation civile après consultation du président du conseil d'administration.
+
+Il peut être relevé de ses fonctions par un décret pris en conseil des ministres sur proposition du ministre chargé de
+l'aviation civile et du ministre de l'économie et des finances.
+
+Les fonctions de directeur général prennent fin au plus tard lorsque le titulaire atteint l'âge de soixante-cinq ans.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°47-11 1947-01-04 art. 16
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°75-509 1975-06-19 art. 3 JORF 27 juin 1975
+  - Décret n°76-1229 1976-12-28 art. 3 JORF 29 décembre 1976
+
+_Abrogé par_:
+
+  - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
+
 
 ###### Article R252-20
 
