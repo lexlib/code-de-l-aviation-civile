@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1976-05-25
+Version Consolidée au 1976-07-29
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -107,7 +107,7 @@ Version Consolidée au 1976-05-25
       - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-2)](#104)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1)](#105)
         - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-2)](#106)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-1 à R330-13)](#107)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-16 à R330-13)](#107)
         - [Section 1 : Entreprises autorisées et entreprises agréées. (art. R330-1 à R330-13)](#108)
       - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. R342-5 à R342-14)](#109)
         - [CHAPITRE II : FONCTIONNEMENT. (art. R342-5 à R342-14)](#110)
@@ -7727,6 +7727,40 @@ _Cite_:
 
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.<a id=107></a>
 
+###### Article R330-16
+
+Les peines d'amendes prévues à l'article R. 330-15 ci-dessus seront appliquées autant de fois qu'il aura été effectué de vols
+en contravention aux dispositions du 1° du premier alinéa dudit article ou qu'il aura été délivré de billets en contravention
+aux autres dispositions de cet article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°73-331 1973-03-14 art. 1 JORF 23 mars 1973
+
+_Modifié par_:
+
+  - Décret n°76-711 1976-07-23 art. 3 JORF 29 juillet 1976
+
+_Abrogé par_:
+
+  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+_Cité par_:
+
+  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V)
+  - Code de l'aviation civile - art. R330-17 (M)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R330-15 (M)
+
+
 #### Section 1 : Entreprises autorisées et entreprises agréées.<a id=108></a>
 
 ###### Article R330-1
@@ -8041,6 +8075,77 @@ _Cite_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°93-421 1993-03-24 art. 9
+
+
+###### Article R330-9
+
+Les entreprises agréées doivent présenter au ministre chargé de l'aviation civile, en vue de l'homologation de leurs tarifs,
+des propositions détaillées par ligne et, à l'intérieur de chaque ligne, par classe. Ces propositions doivent préciser
+également les conditions générales de transport ainsi que les réductions de tarifs que ces entreprises envisagent d'appliquer
+au cours de certaines périodes, ou au profit de certaines catégories de passagers.
+
+Ces dispositions s'appliquent également aux entreprises étrangères de transport aérien autorisées à embarquer ou débarquer
+des passagers par un vol régulier ou non régulier sur le territoire de la République française sauf en ce qui concerne les
+transports prévus au dernier alinéa de l'article L. 330-3.
+
+Les propositions peuvent être présentées soit par les entreprises directement, soit par l'intermédiaire d'une association
+professionnelle agréée par le ministre.
+
+A l'expiration d'un délai d'un mois à compter de la réception des propositions, les tarifs sont considérés comme homologués
+si le ministre n'a pas fait connaître son opposition.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°54-1102 1954-11-12 art. 8
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°93-421 du 17 mars 1993 - art. 3 (Ab)
+  - Arrêté du 31 mai 2002 - art. 2 (V)
+  - Arrêté du 31 mai 2002 - art. 3 (V)
+  - Arrêté du 15 septembre 2004 - art. Annexe I (Ab)
+  - Arrêté du 6 février 2006 - art. 2 (Ab)
+  - Arrêté du 6 février 2006 - art. 3 (Ab)
+  - Arrêté du 22 décembre 2006 - art. 3 (Ab)
+  - Arrêté du 9 juillet 2007 - art. 2 (V)
+  - Arrêté du 9 juillet 2007 - art. 3 (V)
+  - Arrêté du 2 août 2007 - art. 2 (Ab)
+  - Arrêté du 2 août 2007 - art. 3 (Ab)
+  - Arrêté du 2 août 2007 - art. 4 (Ab)
+  - Arrêté du 24 octobre 2012 - art. 3 (V)
+  - Arrêté du 24 octobre 2012 - art. Annexe I (V)
+  - Arrêté du 25 juin 2014 - art. 4 (V)
+  - Arrêté du 27 juin 2014 - art. 4 (V)
+  - Arrêté du 25 juillet 2014 - art. 2 (V)
+  - Arrêté du 25 juillet 2014 - art. 3 (V)
+  - Arrêté du 31 juillet 2015 (V)
+  - Arrêté du 31 juillet 2015 - art. 1 (V)
+  - Arrêté du 31 juillet 2015 - art. 2 (V)
+  - Arrêté du 28 juin 2016 - art. 4 (V)
+  - Arrêté du 5 août 2016 - art. 4 (V)
+  - Arrêté du 14 mars 2017 - art. 4 (Ab)
+  - Arrêté du 16 mars 2018 - art. 1
+  - Décret n°2018-437 du 4 juin 2018 - art. 1
+  - Arrêté du 20 juillet 2018 - art. 1
+  - Code de l'aviation civile - art. R330-13 (V)
+  - Code de l'aviation civile - art. R330-15 (M)
+  - Code de l'aviation civile - art. R330-19-1 (V)
+  - Code de l'aviation civile - art. R330-8 (V)
+  - Code du travail - art. R4451-37 (VD)
+
+_Modifié par_:
+
+  - Décret n°76-711 1976-07-23 art. 1 JORF 29 juillet 1976
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L330-3 (M)
 
 
 ###### Article R330-10
