@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1991-11-29
+Version Consolidée au 1992-04-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -15914,13 +15914,8 @@ _Modifié par_:
 Les certificats d'immatriculation et les copies conformes des renseignements figurant au registre sont délivrés contre
 remboursement des fournitures et frais résultant des opérations effectuées à cet effet.
 
-Ces frais sont fixés forfaitairement ainsi qu'il suit :
-
-a) Pour la délivrance d'un certificat d'immatriculation : 300 F ;
-
-b) Pour la délivrance d'un duplicata de certificat d'immatriculation : 20 F ;
-
-c) Pour la délivrance d'une copie certifiée conforme des renseignements relatifs à un aéronef : 20 F.
+Le montant des remboursements est fixé par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'aviation
+civile.
 
 **Liens relatifs à cet article**
 
@@ -15930,20 +15925,20 @@ _Codifié par_:
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°92-337 1992-03-31 art. 2
   - TXT_SOURCE: Arrêté du 28 juillet 1992
   - TXT_SOURCE: Arrêté du 28 juillet 1992 - art. 1 (V)
   - TXT_SOURCE: Arrêté du 25 février 2002
   - TXT_SOURCE: Arrêté du 25 février 2002 - art. 1 (V)
 
+_Modifié par_:
+
+  - Décret n°92-337 du 31 mars 1992 - art. 1 () JORF 1er avril 1992
+
 _Cité par_:
 
   - Arrêté du 28 juillet 1992 - art. 1 (V)
   - Arrêté du 25 février 2002 - art. 1 (V)
-
-_Modifié par_:
-
-  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
-  - Décret n°76-173 1976-02-13 art. 1 JORF 19 fevrier 1976 en vigueur le 1er janvier 1976
 
 
 ###### Article D121-13
