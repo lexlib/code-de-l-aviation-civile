@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2002-01-06
+Version Consolidée au 2002-02-03
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -96,7 +96,7 @@ Version Consolidée au 2002-01-06
       - [TITRE VI : SANCTIONS ADMINISTRATIVES. (art. R160-1 à R160-14)](#93)
     - [LIVRE II : AERODROMES. (art. R211-1 à R282-8)](#94)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. R211-1 à R217-5)](#95)
-        - [CHAPITRE Ier : DEFINITIONS, REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. R211-1 à R211-5)](#96)
+        - [CHAPITRE Ier : DEFINITIONS, REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. R211-1 à R211-7)](#96)
         - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R213-1 à R213-12)](#97)
           - [Section 1 : Champ d'application et compétence (art. R213-1)](#98)
           - [Section 2 : Police de la conservation (art. R213-1-1)](#99)
@@ -109,15 +109,15 @@ Version Consolidée au 2002-01-06
           - [Section 2 : Création et gestion des aérodromes. (art. R221-4 à R221-11)](#106)
         - [CHAPITRE 1er : CRÉATION ET OUVERTURE (art. R221-12)](#107)
           - [Section 3 : Coordination des aérodromes. (art. R221-12)](#108)
-        - [CHAPITRE II : CLASSIFICATION. (art. R222-1 à R222-9)](#109)
+        - [CHAPITRE II : CLASSIFICATION. (art. R222-1 à R222-8)](#109)
         - [CHAPITRE III : EXPLOITATION. (art. R223-1 à R223-6)](#110)
         - [CHAPITRE IV : REDEVANCES. (art. R224-1 à R224-6)](#111)
         - [CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE. (art. R225-1 à R225-5)](#112)
         - [CHAPITRE VI : SANCTIONS ADMINISTRATIVES. (art. R226-1 à R226-6)](#113)
         - [CHAPITRE VII : ENVIRONNEMENT DES AERODROMES. (art. R227-1 à R227-6)](#114)
-      - [TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R231-1 à R232-1)](#115)
+      - [TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R231-1 à R232-2)](#115)
         - [CHAPITRE Ier : DEFINITIONS. (art. R231-1)](#116)
-        - [CHAPITRE II : AERODROMES A USAGE RESTREINT. (art. R232-1)](#117)
+        - [CHAPITRE II : AERODROMES A USAGE RESTREINT. (art. R232-1 à R232-2)](#117)
       - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. R241-1 à R245-2)](#118)
         - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. R241-1 à R241-3)](#119)
         - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. R242-1 à R242-3)](#120)
@@ -10358,34 +10358,58 @@ _Nouveaux textes_:
   - Code des transports - art. L6300-1 (V)
 
 
-###### Article R211-2
+###### Article R211-2-1
 
-Tous les aérodromes peuvent être soumis au contrôle technique et administratif de l'Etat. Les conditions auxquelles sont
-assujettis la création, la mise en service et l'utilisation d'un aérodrome et l'exercice du contrôle de l'Etat, seront
-définies par décret.
+La direction de l'aérodrome est exercée par l'affectataire principal mentionné à l'article R. 211-6 qui désigne un directeur
+sous l'autorité duquel est assuré le fonctionnement de l'aérodrome. Cette disposition n'est pas applicable aux aérodromes à
+usage privé.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°59-92 1959-01-03 art. 6
 
 _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2002-134 du 31 janvier 2002 - art. 1 () JORF 3 février 2002
 
 _Cité par_:
 
-  - Code de l'aviation civile - art. D211-1 (M)
+  - Arrêté du 24 octobre 2017 - art. 7 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R211-6 (V)
+
+
+###### Article R211-2-2
+
+Tous les aérodromes peuvent être soumis au contrôle technique et administratif de l'Etat. Les conditions auxquelles sont
+assujettis la création, la mise en service et l'utilisation d'un aérodrome et l'exercice du contrôle de l'Etat seront
+définies par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 du 30 mars 1967
+
+_Créé par_:
+
+  - Décret n°2002-134 du 31 janvier 2002 - art. 1 () JORF 3 février 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Nouveaux textes_:
 
-  - Code de l'aviation civile - art. R211-2-2 (V)
-  - Code de l'aviation civile - art. R211-2-2 (VT)
+  - Code des transports - art. L6331-1 (V)
+
+_Anciens textes_:
+
+  - Code de l'aviation civile - art. R211-2 (T)
 
 
 ###### Article R211-3
@@ -10494,6 +10518,75 @@ _Cite_:
 _Créé par_:
 
   - Décret n°85-453 1985-04-23 art. 39 JORF 24 avril 1985 en vigueur le 1er octobre 1985
+
+
+###### Article R211-6
+
+Toute administration civile ou militaire de l'Etat, dont les services, forces ou établissements relevant de son contrôle qui,
+pour l'exercice de leurs missions, font un usage aéronautique permanent d'un aérodrome et y disposent d'installations ou
+peuvent se trouver dans la nécessité d'en disposer, peut demander à être désignée comme affectataire.
+
+Les affectataires sont désignés après avis du Conseil supérieur de l'infrastructure et de la navigation aériennes par arrêté
+interministériel publié au Journal officiel. Cet arrêté désigne l'affectataire principal de l'aérodrome et, le cas échéant,
+les affectataires secondaires. Il précise en outre les services, forces ou établissements aux besoins desquels l'aérodrome
+est affecté ainsi que les activités aériennes autorisées.
+
+Les aérodromes sont affectés à titre principal soit au ministère chargé de l'aviation civile, soit au ministère chargé de la
+défense en fonction des activités aéronautiques auxquelles est voué l'aérodrome.
+
+Un aérodrome comportant plusieurs affectataires est qualifié d'aérodrome à affectation aéronautique mixte.
+
+Des restrictions à l'exercice des activités aériennes autorisées peuvent être fixées par arrêté interministériel dans
+l'intérêt de la circulation aérienne ou de la défense nationale.
+
+Tout changement dans l'affectation aéronautique d'un aérodrome intervient à la demande du ministre concerné dans les mêmes
+formes que la désignation des affectataires.
+
+Ces dispositions ne s'appliquent pas aux aérodromes à usage privé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2002-134 du 31 janvier 2002 - art. 2 () JORF 3 février 2002
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R211-2-1 (V)
+
+
+###### Article R211-7
+
+Sur les aérodromes à affectation aéronautique mixte, chaque affectataire exerce les prérogatives et obligations attachées à
+cette qualité.
+
+Un arrêté interministériel précise les prérogatives et les obligations des affectataires et les modalités de répartition des
+charges.
+
+L'affectataire principal est chargé de coordonner, d'assurer ou de faire assurer les missions incombant à l'Etat sur
+l'aérodrome.
+
+L'affectataire principal peut déléguer, sous son autorité, à un affectataire secondaire l'exercice de certaines activités
+relevant de sa compétence. Le contenu de la délégation et les conditions d'exercice de ces missions font l'objet, dans le
+cadre de l'arrêté précité, d'un protocole conclu entre les affectataires.
+
+Indépendamment des missions déjà déléguées par les lois et règlements en vigueur à l'exploitant d'un aérodrome,
+l'affectataire principal peut en outre lui déléguer sous sa responsabilité, dans un cadre conventionnel, une partie des
+missions lui incombant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2002-134 du 31 janvier 2002 - art. 3 () JORF 3 février 2002
 
 
 #### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=97></a>
@@ -12828,36 +12921,6 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-###### Article R222-9
-
-Des arrêtés interministériels pris après avis du conseil supérieur de l'infrastructure et de la navigation aériennes
-désignent :
-
-D'une part, l'administration publique chargée d'assurer l'administration générale et le commandement de l'aérodrome ; cette
-administration est dite affectataire principal ;
-
-D'autre part, le cas échéant, les administrations publiques autorisées à établir sur l'aérodrome des installations pour leur
-propre usage ou pour l'usage des services ou établissements placés sous leur tutelle ; ces administrations sont dites
-affectataires secondaires.
-
-Ils précisent les activités aériennes autorisées sur l'aérodrome. Ils sont publiés au Journal officiel de la République
-française.
-
-Une instruction interministérielle sur l'administration et le commandement des aérodromes utilisés en commun par plusieurs
-administrations publiques précise, compte tenu des dispositions du présent chapitre, les attributions et obligations de ces
-administrations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Abrogé par_:
-
-  - Décret n°2002-134 du 31 janvier 2002 - art. 4 () JORF 3 février 2002
-
-
 #### CHAPITRE III : EXPLOITATION.<a id=110></a>
 
 ###### Article R223-1
@@ -12893,14 +12956,15 @@ _Cite_:
 ###### Article R223-2
 
 Les concessions accordées par l'Etat pour la construction, l'entretien et l'exploitation des aérodromes qui lui appartiennent
-sont soumises aux conditions ci-après :
+sont soumises aux conditions ci-après : 
 
 Les cahiers des charges types des concessions sont approuvés par décret en Conseil d'Etat pris sous le contreseing du
-ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
+ministre chargé de l'aviation civile et du ministre de l'économie et des finances. 
 
 Les concessions qui ne portent pas dérogation au cahier des charges type sont accordées par arrêté interministériel. Les
-concessions qui portent dérogation au cahier des charges type sont accordées par décret en Conseil d'Etat pris sous le
-contreseing du ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
+concessions qui portent dérogation au cahier des charges type sont accordées par décret en Conseil d'Etat pris sur le rapport
+du ministre chargé de l'aviation civile, du ministre chargé de l'économie et des finances et du ministre chargé de la défense
+lorsqu'il est affectataire principal. 
 
 Les concessionnaires d'aérodromes ont le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code
 du domaine de l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit
@@ -12915,12 +12979,11 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
-  - Code du domaine de l'Etat - art. R57-4 (M)
-  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
+  - Code du domaine de l'Etat - art. R57-4 (V)
 
 _Modifié par_:
 
-  - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
+  - Décret n°96-1058 1996-12-02 art. 5 JORF 10 décembre 1996
 
 _Cité par_:
 
@@ -13951,6 +14014,32 @@ _Cité par_:
 
 ###### Article R232-1
 
+Pour les aérodromes agréés à usage restreint appartenant à l'Etat et accueillant une activité civile ou commerciale peuvent
+être accordées les concessions prévues par l'article R. 223-2, auxquelles s'appliquent les dispositions des articles R. 223-5
+et R. 223-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°2002-134 du 31 janvier 2002 - art. 6 () JORF 3 février 2002
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R223-2 (V)
+  - Code de l'aviation civile - art. R223-5 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'aviation civile - art. R232-2 (V)
+
+
+###### Article R232-2
+
 Les dispositions du chapitre IV du titre II du présent livre du code relatives aux redevances pour services rendus aux
 usagers sur les aérodromes ouverts à la circulation aérienne publique sont applicables de plein droit sur les aérodromes
 agréés à usage restreint, réserve faite des cas où la convention passée entre l'Etat et la personne qui a créé l'aérodrome
@@ -13962,17 +14051,17 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2002-134 du 31 janvier 2002 - art. 6 () JORF 3 février 2002
 
-_Nouveaux textes_:
+_Cité par_:
 
-  - Code de l'aviation civile - art. R232-2 (V)
+  - Code de l'aviation civile - art. R224-1 (V)
 
-_Créé par_:
+_Anciens textes_:
 
-  - Décret n°73-1031 1973-11-07 art. 2 JORF 14 novembre 1973
+  - Code de l'aviation civile - art. R232-1 (T)
 
 
 ### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=118></a>
@@ -26077,22 +26166,22 @@ _Cite_:
 
 Les aérodromes dits à usage restreint sont destinés à des activités qui, tout en répondant à des besoins collectifs,
 techniques ou commerciaux, sont soit limitées dans leur objet, soit réservées à certaines catégories d'aéronefs, soit
-exclusivement exercées par certaines personnes spécialement désignées à cet effet.
+exclusivement exercées par certaines personnes spécialement désignées à cet effet. 
 
-Ces activités peuvent comprendre notamment :
+Ces activités peuvent comprendre notamment : 
 
-a) Le fonctionnement d'écoles de pilotage ou de centres d'entraînement aérien ;
+a) Le fonctionnement d'écoles de pilotage ou de centres d'entraînement aérien ; 
 
-b) Les essais d'appareils prototypes non munis de certificat de navigabilité ;
+b) Les essais d'appareils prototypes non munis de certificat de navigabilité ; 
 
-c) La desserte de centres d'entretien et de réparation de matériel aéronautique ;
+c) La desserte de centres d'entretien et de réparation de matériel aéronautique ; 
 
-d) Les opérations de travail aérien ;
+d) Les opérations de travail aérien ; 
 
-e) Les vols de tourisme ;
+e) Les vols de tourisme ; 
 
-f) Exceptionnellement, certains transports aériens commerciaux, dans des cas qui seront fixés par décision du ministre chargé
-de l'aviation civile.
+f) Exceptionnellement des transports aériens commerciaux dans les conditions fixées par l'arrêté de création mentionné à
+l'article D. 231-1 ou l'arrêté d'agrément mentionné à l'article D. 232-6.
 
 **Liens relatifs à cet article**
 
@@ -26109,6 +26198,15 @@ _Cité par_:
   - Code de l'aviation civile - art. D213-1 (V)
   - Code de l'aviation civile - art. D213-1-15 (V)
   - Code de l'aviation civile - art. D243-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2002-135 du 31 janvier 2002 - art. 1 () JORF 3 février 2002
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D231-1 (V)
+  - Code de l'aviation civile - art. D232-6 (V)
 
 
 ###### Article D232-2
@@ -26210,8 +26308,9 @@ _Cité par_:
 
 ###### Article D232-6
 
-La mise en service des aérodromes à usage restreint est autorisée par arrêté du ministre chargé de l'aviation civile après
-enquête technique. Cet arrêté, dit arrêté d'agrément, est publié au Journal officiel.
+La mise en service des aérodromes à usage restreint est autorisée, après enquête technique, par le ministre chargé de
+l'aviation civile, en accord avec le ministre de la défense lorsqu'il est affectataire principal. Cet arrêté, dit arrêté
+d'agrément, est publié au Journal officiel.
 
 En cas d'urgence, le ministre chargé de l'aviation civile peut décider une mise en service provisoire, qui fait l'objet d'un
 avis aux navigateurs aériens.
@@ -26230,6 +26329,10 @@ _Cité par_:
   - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
   - Code de l'aviation civile - art. D232-1 (V)
   - Code de l'aviation civile - art. D232-8 (V)
+
+_Modifié par_:
+
+  - Décret n°2002-135 du 31 janvier 2002 - art. 2 () JORF 3 février 2002
 
 
 ###### Article D232-7
