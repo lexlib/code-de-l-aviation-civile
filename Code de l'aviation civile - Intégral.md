@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1990-03-11
+Version Consolidée au 1990-04-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -122,7 +122,7 @@ Version Consolidée au 1990-03-11
       - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-2)](#119)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1)](#120)
         - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-2)](#121)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-16 à R330-17)](#122)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-4-1 à R330-17)](#122)
         - [Section 1 : Entreprises autorisées et entreprises agréées. (art. R330-1 à R330-17)](#123)
       - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. R341-1 à R342-15)](#124)
         - [CHAPITRE Ier : INSTITUTION. (art. R341-1)](#125)
@@ -10817,6 +10817,37 @@ _Cite_:
 
 
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.<a id=122></a>
+
+###### Article R330-4-1
+
+L'autorisation mentionnée au deuxième alinéa de l'article L. 330-2 est délivrée par le ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°54-1102 1954-11-12 art. 4
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°90-335 du 10 avril 1990 - art. 1 () JORF 14 avril 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+
+_Cité par_:
+
+  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L330-2 (M)
+
 
 ###### Article R330-16
 
