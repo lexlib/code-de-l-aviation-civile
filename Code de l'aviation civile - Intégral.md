@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1975-08-15
+Version Consolidée au 1976-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -133,7 +133,7 @@ Version Consolidée au 1975-08-15
   - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#130)
     - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-13)](#131)
       - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#132)
-        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-35)](#133)
+        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-36)](#133)
         - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#134)
         - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#135)
       - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-2 à D133-13)](#136)
@@ -10155,6 +10155,43 @@ _Abrogé par_:
   - Décret n°2019-247 du 27 mars 2019 - art. 4
 
 
+###### Article D121-12
+
+Les certificats d'immatriculation et les copies conformes des renseignements figurant au registre sont délivrés contre
+remboursement des fournitures et frais résultant des opérations effectuées à cet effet.
+
+Ces frais sont fixés forfaitairement ainsi qu'il suit :
+
+a) Pour la délivrance d'un certificat d'immatriculation : 300 F ;
+
+b) Pour la délivrance d'un duplicata de certificat d'immatriculation : 20 F ;
+
+c) Pour la délivrance d'une copie certifiée conforme des renseignements relatifs à un aéronef : 20 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 28 juillet 1992
+  - TXT_SOURCE: Arrêté du 28 juillet 1992 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 25 février 2002
+  - TXT_SOURCE: Arrêté du 25 février 2002 - art. 1 (V)
+
+_Cité par_:
+
+  - Arrêté du 28 juillet 1992 - art. 1 (V)
+  - Arrêté du 25 février 2002 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+  - Décret n°76-173 1976-02-13 art. 1 JORF 19 fevrier 1976 en vigueur le 1er janvier 1976
+
+
 ###### Article D121-13
 
 Les opérations qui donnent lieu à inscription, transcription ou mention sur le registre d'immatriculation sont les
@@ -10748,6 +10785,38 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+
+
+###### Article D121-36
+
+Le fonctionnaire chargé de la tenue du registre d'immatriculation perçoit à son profit un droit fixé uniformément à 10 F pour
+l'ensemble des formalités ausquelles donne lieu, par aéronef, chacune des opérations suivantes :
+
+Inscription d'un aéronef ;
+
+Inscription d'une mutation de propriété ;
+
+Inscription d'un acte constitutif d'hypothèque ou de tout autre acte ou jugement constitutif ou déclaratif de droit réel ;
+
+Inscription d'un acte de location ;
+
+Transcription d'un procès-verbal de saisie ;
+
+Radiation d'une inscription hypothécaire ou d'une transcription du procès-verbal de saisie.
+
+L'accomplissement des formalités prescrites par le présent titre ne peut donner lieu, pour le fonctionnaire chargé de la
+tenue du registre d'immatriculation, à aucune perception autre que celle indiquée ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+  - Décret n°76-173 1976-02-13 art. 1 JORF 19 février 1976 en vigueur le 1er janvier 1976
 
 
 #### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=134></a>
