@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-01-05
+Version Consolidée au 1973-01-25
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -169,21 +169,22 @@ Version Consolidée au 1973-01-05
     - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D321-2)](#166)
       - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#167)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#168)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D421-1 à D424-6)](#169)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-6)](#170)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#171)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-16)](#172)
-          - [Section 5 : Mesures de contrôle (art. D422-16)](#173)
-        - [CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE (art. D422-1 à D422-15)](#174)
-          - [Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction (art. D422-1 à D422-7)](#175)
-            - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-4)](#176)
-            - [Paragraphe 2 : Mesures de contrôle. (art. D422-7)](#177)
-          - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#178)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-6)](#179)
-          - [Section 2 : Conseil médical (art. D424-2 à D424-6)](#180)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#181)
-      - [Section 1 : Avions photographes. (art. D611-1)](#182)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#183)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D424-6)](#169)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#170)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-6)](#171)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#172)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-16)](#173)
+          - [Section 5 : Mesures de contrôle (art. D422-16)](#174)
+        - [CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE (art. D422-1 à D422-15)](#175)
+          - [Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction (art. D422-1 à D422-7)](#176)
+            - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-4)](#177)
+            - [Paragraphe 2 : Mesures de contrôle. (art. D422-7)](#178)
+          - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#179)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-6)](#180)
+          - [Section 2 : Conseil médical (art. D424-2 à D424-6)](#181)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#182)
+      - [Section 1 : Avions photographes. (art. D611-1)](#183)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#184)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -12467,9 +12468,80 @@ _Codifié par_:
 
 ## LIVRE IV : PERSONNEL NAVIGANT<a id=169></a>
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=170></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=170></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=171></a>
+###### Article D410-1
+
+Les titres aéronautiques prévus à l'article L. 410-1 ainsi que ceux dont doit être pourvu le personnel navigant professionnel
+dans les conditions définies aux articles L. 421-4 et L. 421-7 sont délivrés par le ministre chargé de l'aviation civile.
+
+Les titres aéronautiques requis du personnel navigant professionnel de la catégorie Essais et réception sont délivrés par le
+ministre chargé de la défense nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Cité par_:
+
+  - Arrêté du 26 octobre 2007 - art. 4 (Ab)
+  - Code de l'aviation civile - art. D410-2 (M)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L410-1 (M)
+  - Code de l'aviation civile - art. L421-4 (V)
+  - Code de l'aviation civile - art. L421-7 (Ab)
+
+_Modifié par_:
+
+  - Décret n°73-80 1973-01-24 art. 1 JORF 25 janvier 1973
+
+
+###### Article D410-2
+
+Le ministre chargé de l'aviation civile peut, par arrêté, déléguer le pouvoir de délivrer les titres aéronautiques visés au
+premier alinéa de l'article D. 410-1 ci-dessus aux autorités suivantes :
+
+Directeurs des régions aéronautiques civiles en métropole ;
+
+Directeur de la région aéronautique civile Antilles-Guyane ;
+
+Préfet du département de la Réunion ;
+
+Délégués du Gouvernement de la République dans les territoires d'outre-mer.
+
+Les arrêtés de délégations de pouvoirs prévus ci-dessus peuvent également autoriser les autorités en cause à déléguer
+respectivement la signature des actes correspondants :
+
+Aux chefs de district aéronautique civil en métropole et dans les départements d'outre-mer ;
+
+Aux chefs du service d'Etat de l'aviation civile dans les territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°73-80 1973-01-24 art. 1 JORF 25 janvier 1973
+
+_Cité par_:
+
+  - Arrêté du 7 février 2005 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D410-1 (M)
+
+
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=171></a>
+
+#### CHAPITRE Ier : REGLES GENERALES.<a id=172></a>
 
 ###### Article D421-1
 
@@ -12758,9 +12830,9 @@ _Cité par_:
   - Arrêté du 21 janvier 1998 - art. 4 (V)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=172></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=173></a>
 
-##### Section 5 : Mesures de contrôle<a id=173></a>
+##### Section 5 : Mesures de contrôle<a id=174></a>
 
 ###### Article D422-16
 
@@ -12820,11 +12892,11 @@ _Cite_:
   - Code de l'aviation civile - art. D422-9 (M)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE<a id=174></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE<a id=175></a>
 
-##### Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction<a id=175></a>
+##### Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction<a id=176></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=176></a>
+##### Paragraphe 1 : Dispositions générales.<a id=177></a>
 
 ###### Article D422-1
 
@@ -12936,7 +13008,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Paragraphe 2 : Mesures de contrôle.<a id=177></a>
+##### Paragraphe 2 : Mesures de contrôle.<a id=178></a>
 
 ###### Article D422-7
 
@@ -13009,7 +13081,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-6 (M)
 
 
-##### Section 2 : Durée du travail des équipages sur les avions à réaction.<a id=178></a>
+##### Section 2 : Durée du travail des équipages sur les avions à réaction.<a id=179></a>
 
 ###### Article D422-8
 
@@ -13279,9 +13351,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=179></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=180></a>
 
-##### Section 2 : Conseil médical<a id=180></a>
+##### Section 2 : Conseil médical<a id=181></a>
 
 ###### Article D424-2
 
@@ -13406,9 +13478,9 @@ _Cite_:
   - Code de l'aviation civile - art. D424-2 (M)
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=181></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=182></a>
 
-### Section 1 : Avions photographes.<a id=182></a>
+### Section 1 : Avions photographes.<a id=183></a>
 
 ###### Article D611-1
 
@@ -13433,7 +13505,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=183></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=184></a>
 
 ###### Article D611-2
 
