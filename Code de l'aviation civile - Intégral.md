@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1989-01-10
+Version Consolidée au 1989-02-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-17)](#2)
@@ -207,32 +207,34 @@ Version Consolidée au 1989-01-10
     - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D360-11)](#204)
       - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#205)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#206)
-      - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. D342-1)](#207)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#208)
-      - [TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE. (art. D360-1 à D360-11)](#209)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#210)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#211)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#212)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#213)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-16)](#214)
-          - [Section 5 : Mesures de contrôle (art. D422-16)](#215)
-        - [CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE (art. D422-1 à D422-15)](#216)
-          - [Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction (art. D422-1 à D422-7)](#217)
-            - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-5)](#218)
-            - [Paragraphe 2 : Mesures de contrôle. (art. D422-6 à D422-7)](#219)
-          - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#220)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#221)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#222)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#223)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#224)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#225)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-6)](#226)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#227)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#228)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#229)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#230)
-      - [Section 1 : Avions photographes. (art. D611-1)](#231)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#232)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#207)
+        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#208)
+      - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. D342-1)](#209)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#210)
+      - [TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE. (art. D360-1 à D360-11)](#211)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#212)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#213)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#214)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#215)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-16)](#216)
+          - [Section 5 : Mesures de contrôle (art. D422-16)](#217)
+        - [CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE (art. D422-1 à D422-15)](#218)
+          - [Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction (art. D422-1 à D422-7)](#219)
+            - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-5)](#220)
+            - [Paragraphe 2 : Mesures de contrôle. (art. D422-6 à D422-7)](#221)
+          - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#222)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#223)
+          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#224)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#225)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#226)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#227)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-6)](#228)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#229)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#230)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#231)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#232)
+      - [Section 1 : Avions photographes. (art. D611-1)](#233)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#234)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -19194,9 +19196,46 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE<a id=207></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=207></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=208></a>
+#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=208></a>
+
+###### Article D330-1
+
+Les recettes correspondant aux dépenses de contrôle mentionnées à l'article R. 330-4 sont liquidées et perçues par les
+services chargés du contrôle des aéronefs civils, dans les conditions fixées par arrêté conjoint du ministre chargé du budget
+et du ministre chargé de l'aviation civile. 
+
+Le produit de ces recettes est rattaché au budget de l'aviation civile dans les conditions fixées par arrêté conjoint du
+ministre chargé du budget et du ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°48-1297 1948-08-17 art. 1
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Créé par_:
+
+  - Décret n°89-89 1989-02-10 art. 1 JORF 12 février 1989
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 12 janvier 1990
+  - TXT_SOURCE: Arrêté du 12 janvier 1990 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R330-4 (V)
+
+
+### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE<a id=209></a>
+
+#### CHAPITRE II : FONCTIONNEMENT.<a id=210></a>
 
 ###### Article D342-1
 
@@ -19217,7 +19256,7 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE.<a id=209></a>
+### TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE.<a id=211></a>
 
 ###### Article D360-1
 
@@ -19604,9 +19643,9 @@ _Nouveaux textes_:
   - Code de l'aviation civile - art. D370-11 (V)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=210></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=212></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=211></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=213></a>
 
 ###### Article D410-1
 
@@ -19677,9 +19716,9 @@ _Cite_:
   - Code de l'aviation civile - art. D410-1 (M)
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=212></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=214></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=213></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=215></a>
 
 ###### Article D421-1
 
@@ -19968,9 +20007,9 @@ _Cité par_:
   - Arrêté du 21 janvier 1998 - art. 4 (V)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=214></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=216></a>
 
-##### Section 5 : Mesures de contrôle<a id=215></a>
+##### Section 5 : Mesures de contrôle<a id=217></a>
 
 ###### Article D422-16
 
@@ -20030,11 +20069,11 @@ _Cite_:
   - Code de l'aviation civile - art. D422-9 (M)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE<a id=216></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE<a id=218></a>
 
-##### Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction<a id=217></a>
+##### Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction<a id=219></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=218></a>
+##### Paragraphe 1 : Dispositions générales.<a id=220></a>
 
 ###### Article D422-1
 
@@ -20255,7 +20294,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Paragraphe 2 : Mesures de contrôle.<a id=219></a>
+##### Paragraphe 2 : Mesures de contrôle.<a id=221></a>
 
 ###### Article D422-6
 
@@ -20386,7 +20425,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-6 (M)
 
 
-##### Section 2 : Durée du travail des équipages sur les avions à réaction.<a id=220></a>
+##### Section 2 : Durée du travail des équipages sur les avions à réaction.<a id=222></a>
 
 ###### Article D422-8
 
@@ -20738,9 +20777,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=221></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=223></a>
 
-##### Section 2 : Conseil médical<a id=222></a>
+##### Section 2 : Conseil médical<a id=224></a>
 
 ###### Article D424-1
 
@@ -21014,9 +21053,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=223></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=225></a>
 
-#### CHAPITRE V : DISCIPLINE.<a id=224></a>
+#### CHAPITRE V : DISCIPLINE.<a id=226></a>
 
 ###### Article D435-1
 
@@ -21340,9 +21379,9 @@ _Créé par_:
   - Décret n°77-1140 1977-10-05 art. 1 JORF 12 octobre 1977
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=225></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=227></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=226></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=228></a>
 
 ###### Article D510-1
 
@@ -21553,9 +21592,9 @@ _Modifié par_:
   - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
 
 
-### TITRE II : AIDE AUX JEUNES<a id=227></a>
+### TITRE II : AIDE AUX JEUNES<a id=229></a>
 
-#### Section 1 : Aide aux jeunes.<a id=228></a>
+#### Section 1 : Aide aux jeunes.<a id=230></a>
 
 ###### Article D521-1
 
@@ -21635,7 +21674,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=229></a>
+#### Section 2 : Aide à la construction amateur.<a id=231></a>
 
 ###### Article D521-4
 
@@ -21702,9 +21741,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=230></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=232></a>
 
-### Section 1 : Avions photographes.<a id=231></a>
+### Section 1 : Avions photographes.<a id=233></a>
 
 ###### Article D611-1
 
@@ -21729,7 +21768,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=232></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=234></a>
 
 ###### Article D611-2
 
