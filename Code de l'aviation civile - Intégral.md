@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1973-03-10
+Version Consolidée au 1973-03-20
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -157,9 +157,9 @@ Version Consolidée au 1973-03-10
         - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#154)
           - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#155)
           - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#156)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-12)](#157)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#157)
           - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#158)
-          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-12)](#159)
+          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#159)
         - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#160)
         - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#161)
         - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#162)
@@ -12256,6 +12256,36 @@ _Cité par_:
 _Anciens textes_:
 
   - Décret n°60-1059 1960-09-24 art. 16
+
+
+###### Article D242-14
+
+Si les servitudes de dégagement viennent à être atténuées ou supprimées de sorte que tout ou partie des lieux puisse être
+rétabli dans son état antérieur, l'administration est en droit de poursuivre la récupération de l'indemnité qu'elle aurait
+versée en compensation d'un préjudice supposé permanent, déduction faite du coût de remise en état des lieux dans leur état
+primitif ou dans un état équivalent.
+
+A défaut d'accord amiable, le montant des sommes à recouvrer, qui présentent le caractère d'une créance domaniale, est fixé
+selon les règles applicables à la détermination des indemnités en matière d'expropriation pour cause d'utilité publique et le
+recouvrement en est effectué dans les formes qui seront prévues par un arrêté du ministre chargé de l'aviation civile et du
+ministre de l'économie et des finances.
+
+L'action en récupération doit être engagée sous peine de forclusion dans un délai de deux ans à compter de la publication de
+l'acte administratif entraînant la modification ou la suppression des servitudes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°60-1059 1960-09-24 art. 17
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Créé par_:
+
+  - Décret n°73-309 1973-03-09 art. 2 JORF 20 mars 1973
 
 
 #### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=160></a>
