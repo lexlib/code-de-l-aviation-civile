@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1972-07-09
+Version Consolidée au 1972-08-28
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -69,7 +69,7 @@ Version Consolidée au 1972-07-09
           - [Section 2 : Création et gestion des aérodromes. (art. R221-4 à R221-9)](#66)
         - [CHAPITRE II : CLASSIFICATION. (art. R222-1 à R222-9)](#67)
         - [CHAPITRE III : EXPLOITATION. (art. R223-1 à R223-6)](#68)
-        - [CHAPITRE IV : REDEVANCES. (art. R224-4 à R224-6)](#69)
+        - [CHAPITRE IV : REDEVANCES. (art. R224-3 à R224-6)](#69)
         - [CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE. (art. R225-1 à R225-5)](#70)
       - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. R241-1 à R245-2)](#71)
         - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. R241-1 à R241-3)](#72)
@@ -5502,6 +5502,53 @@ _Cite_:
 
 
 #### CHAPITRE IV : REDEVANCES.<a id=69></a>
+
+###### Article R224-3
+
+Les redevances autre que celles mentionnées à l'article précédent sont fixées par la personne qui fournit les services. Les
+décisions fixant ces redevances ne deviennent applicables à l'égard des usagers et du public que dix jours après qu'elles ont
+été portées à la connaissance de ces derniers, soit par notifications individuelles, soit par affichage ou insertion dans un
+journal d'annonces légales.
+
+Les décisions en cause doivent, avant leur mise en application, être communiquées au ministre chargé de l'aviation civile.
+
+Si le montant des redevances ainsi fixées n'est pas approprié au service rendu, ces redevances peuvent être modifiées par
+arrêté conjoint du ministre chargé de l'aviation civile, du ministre de l'économie et des finances et, le cas échéant, si la
+personne fournissant le service est une collectivité ou un établissement public, du ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 22 juillet 1959 - art. 4 (V)
+  - Arrêté du 22 juillet 1959 - art. 6 (V)
+  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+  - Décret n°97-1199 du 24 décembre 1997 - art. 5 (V)
+  - Loi n°98-1171 du 18 décembre 1998 - art. 2 (V)
+  - Décret n°2005-827 du 20 juillet 2005 - art. 5 (V)
+  - Arrêté du 16 janvier 2012 - art. 2 (V)
+  - Arrêté du 16 janvier 2012 - art. 6 (V)
+  - Décret n°2016-825 du 23 juin 2016 - art. 11 (V)
+  - Décret n°2017-1296 du 22 août 2017 (V)
+  - Code de l'aviation civile - art. D224-4 (V)
+  - Code de l'aviation civile - art. R224-2 (V)
+  - Code de l'aviation civile - art. R224-3-2 (V)
+  - Code de l'aviation civile - art. R224-3-3 (V)
+  - Code de l'aviation civile - art. R224-3-4 (V)
+  - Code de l'aviation civile - art. R224-4 (M)
+  - Code de l'aviation civile - art. R224-4-1 (V)
+  - Code de l'aviation civile - art. R224-5 (V)
+  - Code de l'aviation civile - art. R224-8 (V)
+  - Code de l'aviation civile - art. R252-12 (Ab)
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°72-435 1972-05-19 art. 1 JORF 28 août 1972
+
 
 ###### Article R224-4
 
