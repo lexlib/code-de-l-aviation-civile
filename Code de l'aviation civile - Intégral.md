@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1994-12-03
+Version Consolidée au 1995-01-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -11927,11 +11927,9 @@ _Cite_:
 
 ###### Article R342-3
 
-Le président du conseil d'administration est nommé, parmi les membres du conseil d'administration et sur proposition de
-celui-ci, par décret pris en conseil des ministres.
-
-Le président a voix prépondérante en cas de partage des voix. Il peut être assisté d'un directeur général nommé sur sa
-proposition par le conseil d'administration.
+Les actions de la société Compagnie nationale Air France sont détenues en majorité par la société Groupe Air France S.A.,
+dont la création a été autorisée par le décret n° 94-642 du 25 juillet 1994 et dont l'Etat détient directement plus de la
+moitié du capital social.
 
 **Liens relatifs à cet article**
 
@@ -11939,9 +11937,13 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
+_Cite_:
+
+  - Décret n°94-642 1994-07-25
+
 _Modifié par_:
 
-  - Décret n°84-352 1984-05-11 art. 2 JORF 12 mai 1984
+  - Décret n°95-92 du 30 janvier 1995 - art. 1 () JORF 31 janvier 1995
 
 _Cité par_:
 
