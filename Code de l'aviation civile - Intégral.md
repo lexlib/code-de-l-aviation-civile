@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-07-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -45,7 +45,7 @@ Version Consolidée au 1993-03-28
         - [CHAPITRE III : LOCATION ET AFFRETEMENT D'AÉRONEFS. (art. L323-1 à L323-2)](#42)
       - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. L330-1 à L330-9)](#43)
       - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. L341-1 à L342-4)](#44)
-        - [CHAPITRE Ier : INSTITUTION. (art. L341-1 à L341-2)](#45)
+        - [CHAPITRE Ier : INSTITUTION. (art. L341-1)](#45)
         - [CHAPITRE II : FONCTIONNEMENT. (art. L342-1 à L342-4)](#46)
       - [TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES (art. L351-1 à L351-3)](#47)
         - [Section 1 : Transports sanitaires. (art. L351-1 à L351-3)](#48)
@@ -179,7 +179,7 @@ Version Consolidée au 1993-03-28
           - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#176)
         - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#177)
           - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#178)
-            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-4)](#179)
+            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-5)](#179)
             - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#180)
           - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#181)
           - [Section 3 : Radiocommunications des services aériens. (art. D133-19)](#182)
@@ -4529,36 +4529,6 @@ _Modifié par_:
 _Cité par_:
 
   - Code de l'aviation civile - art. R341-1 (Ab)
-
-
-###### Article L341-2
-
-A concurrence de 30 p. 100 du capital, l'Etat doit céder des actions de la Compagnie nationale Air France :
-
-1° A des collectivités et établissements publics intéressés de la République française en métropole et outre-mer ;
-
-2° A des personnes privées françaises, physiques ou morales.
-
-En aucun cas, le total des actions souscrites par la deuxième catégorie ne pourra excéder 15 p. 100 du capital.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de l'aviation civile 138
-  - Loi n°48-976 1948-06-16 art. 4
-
-_Codifié par_:
-
-  - Décret n°67-333 1967-03-30
-
-_Abrogé par_:
-
-  - Loi n°93-923 du 19 juillet 1993 - art. 23 (Ab) JORF 21 juillet 1993
-
-_Cité par_:
-
-  - Loi n°93-923 du 19 juillet 1993 - art. 23 (Ab)
 
 
 #### CHAPITRE II : FONCTIONNEMENT.<a id=46></a>
@@ -17577,6 +17547,39 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
+
+###### Article D133-5
+
+Les frais entraînés par les vérifications nécessaires à la délivrance et au maintien en état de validité des certificats de
+type mentionnés aux articles R. 133-1 et R. 133-2 du code de l'aviation civile, mis à la charge des postulants par l'article
+R. 133-4, comprennent : 
+
+1° Une somme forfaitaire représentant le montant des frais administratifs d'établissement des certificats de type et des
+frais de contrôle, fixée annuellement pour chaque postulant par arrêté du ministre chargé de l'aviation civile ; 
+
+2° Les frais des missions et déplacements relatifs aux contrôles effectués pour chacun des postulants. 
+
+Les sommes ainsi perçues sont recouvrées par les agents comptables du budget annexe de l'aviation civile. 
+
+Toutefois, les organismes techniques extérieurs à l'administration habilités en application de l'article R. 133-5 du code de
+l'aviation civile, peuvent percevoir directement les sommes correspondant aux contrôles qu'ils ont été chargés d'effectuer
+dans le cadre de leur habilitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R133-1 (V)
+  - Code de l'aviation civile - art. R133-5 (V)
+
+_Créé par_:
+
+  - Décret n°93-921 1993-07-13 art. 1 JORF 21 juillet 1993
 
 
 ##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=180></a>
