@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1995-12-31
+Version Consolidée au 1996-02-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -11551,22 +11551,12 @@ _Créé par_:
 Seules peuvent être autorisées les entreprises exerçant, à titre principal, une activité aérienne et ayant leur siège social
 sur le territoire de la République française.
 
-En outre dans les sociétés par actions le capital doit être représenté pour moitié au moins par des titres nominatifs
-appartenant à des actionnaires de nationalité française.
+L'entreprise doit être détenue et continuer à être détenue soit directement, soit par participation majoritaire, par des
+Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, ou par des ressortissants
+de ces Etats. Elle doit à tout moment être effectivement contrôlée par ces Etats ou ces ressortissants.
 
-Dans les sociétés à responsabilité limitée le capital doit être représenté pour moitié au moins par des parts sociales
-appartenant à des associés de nationalité française.
-
-Doivent être de nationalité française et jouir de leurs droits civiques :
-
-Dans les sociétés par actions, le président, la majorité des membres du conseil d'administration, ainsi que le directeur
-général ;
-
-Dans les sociétés à responsabilité limitée, le ou les gérants ainsi que la majorité des associés ;
-
-Dans les sociétés de personnes, tous les associés en nom ;
-
-Toutes personnes physiques ayant en propriété ou exploitant une entreprise de transport aérien.
+Toute entreprise ayant directement ou indirectement une participation de contrôle dans un transporteur aérien doit satisfaire
+aux conditions prévues à l'alinéa précédent.
 
 Les dispositions qui précèdent sont applicables sous réserve des clauses contraires de conventions internationales
 régulièrement approuvées.
@@ -11580,6 +11570,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°96-75 du 30 janvier 1996 - art. 1 () JORF 1er février 1996
 
 
 ###### Article R330-3
@@ -11637,6 +11631,40 @@ _Cite_:
 _Cité par_:
 
   - Code de l'aviation civile - art. R330-6 (M)
+
+
+###### Article R330-6
+
+L'avis du Conseil supérieur de l'aviation marchande prévu aux articles R. 330-1, R. 330-5 et R. 330-12 et au I de l'article 4
+du décret n° 93-421 du 17 mars 1993 n'est pas requis lorsque l'entreprise intéressée exploite exclusivement des aéronefs
+d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges sauf si cette
+entreprise exploite des services réguliers ou si son chiffre d'affaires annuel dépasse un montant équivalant à trois millions
+d'écus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cite_:
+
+  - Décret n°93-421 1993-03-17 art. 4
+  - Code de l'aviation civile - art. R330-1 (M)
+  - Code de l'aviation civile - art. R330-12 (M)
+  - Code de l'aviation civile - art. R330-5 (M)
+
+_Cité par_:
+
+  - Décret n°93-421 du 17 mars 1993 - art. 8 (Ab)
+  - Arrêté du 3 juin 2008 - art. 1 (V)
+  - Arrêté du 31 juillet 2015 - art. 1 (V)
+  - Code de l'aviation civile - art. R330-12-2 (V)
+  - Code de l'aviation civile - art. R330-8 (Ab)
+
+_Modifié par_:
+
+  - Décret n°96-75 du 30 janvier 1996 - art. 2 () JORF 1er février 1996
 
 
 ###### Article R330-7
