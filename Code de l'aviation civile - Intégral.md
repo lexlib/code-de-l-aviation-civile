@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1998-08-07
+Version Consolidée au 1998-10-03
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -238,7 +238,7 @@ Version Consolidée au 1998-08-07
         - [CHAPITRE IV : COMMISSIONS MEDICALES REGIONALES DE L'AVIATION CIVILE (art. D434-1 à D434-8)](#235)
         - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#236)
     - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#237)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-6)](#238)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#238)
       - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#239)
         - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#240)
         - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#241)
@@ -25603,6 +25603,51 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
+
+
+###### Article D510-7
+
+Afin d'encourager le développement de l'aviation légère, un aéroclub peut faire effectuer, en avion ou en hélicoptère, par
+des membres bénévoles, des vols locaux à titre onéreux au profit de personnes étrangères à l'association, aux conditions
+fixées ci-après.
+
+Le vol local est, pour l'application du présent article, un vol de moins de trente minutes entre le décollage et
+l'atterrissage, n'impliquant pas de transport entre deux aérodromes et durant lequel l'aéronef ne s'éloigne pas à plus de 40
+kilomètres de son point de départ.
+
+L'aéroclub doit être un aéroclub agréé dans des conditions fixées par le ministre chargé de l'aviation civile. Il doit
+souscrire une police d'assurance couvrant sa responsabilité civile tant à l'égard des personnes transportées qu'à l'égard des
+tiers, n'effectuer ni démarchage ni publicité à titre onéreux et limiter cette activité à moins de 8 % des heures de vol
+totales effectuées dans l'année civile, les heures effectuées en vol local dans le cadre de manifestations aériennes étant
+non comprises dans ce décompte.
+
+Les aéronefs utilisés ne peuvent être que ceux habituellement exploités par l'aéroclub.
+
+Le pilote membre de l'aéroclub est autorisé à effectuer des vols locaux par le président de l'aéroclub. Il doit être majeur,
+titulaire d'une licence de pilote professionnel avion ou hélicoptère ou d'une licence de pilote privé avion ou hélicoptère
+et, dans ce dernier cas, totaliser deux cents heures de vol au titre de la licence détenue, dont trente heures dans les douze
+derniers mois. Il doit être détenteur d'un certificat d'aptitude physique et mentale délivré depuis moins d'un an.
+
+Les vols en formation ou comportant des exercices de voltige sont exclus des présentes dispositions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Créé par_:
+
+  - Décret n°98-884 du 28 septembre 1998 - art. 1 () JORF 3 octobre 1998
+
+_Cité par_:
+
+  - Arrêté du 12 septembre 2003 - art. 12 (V)
+  - Arrêté du 15 mars 2005 - art. 12 (V)
+  - Arrêté du 28 février 2006 - art. 19 (V)
+  - Arrêté du 28 février 2006 - art. 19-1 (V)
+  - Arrêté du 21 juillet 2014 - art. 4 (Ab)
+  - Arrêté du 8 janvier 2018 - art. 3 (V)
 
 
 ### TITRE II : AIDE AUX JEUNES<a id=239></a>
