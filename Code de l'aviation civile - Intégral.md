@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1984-07-01
+Version Consolidée au 1984-07-18
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -79,7 +79,7 @@ Version Consolidée au 1984-07-01
       - [TITRE V : DISPOSITIONS PENALES. (art. R151-2 à R151-3)](#76)
     - [LIVRE II : AERODROMES. (art. R211-1 à R260-1)](#77)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. R211-1 à R213-9)](#78)
-        - [CHAPITRE Ier : DEFINITIONS, REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. R211-1 à R211-3)](#79)
+        - [CHAPITRE Ier : DEFINITIONS, REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. R211-1 à R211-4)](#79)
         - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R213-1 à R213-9)](#80)
           - [Section 1 : Champ d'application et compétence (art. R213-1)](#81)
           - [Section 3 : Police de l'exploitation (art. R213-2 à R213-9)](#82)
@@ -7345,6 +7345,37 @@ _Créé par_:
 _Cite_:
 
   - Décret n°77-1141 1977-10-12 art. 3
+
+
+###### Article R211-4
+
+Lorsqu'ils constituent des grands projets d'infrastructures tels que définis à l'article 3 du décret n° 84-617 du 17 juillet
+1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
+intérieurs, les travaux de création et d'extension d'infrastructures donnent lieu à l'évaluation mentionnée à l'article 5 du
+même décret.
+
+**Nota:**
+
+Texte de l'article 2 du décret n° 84-617 du 17 juillet 1984, et non l'article 3 (Journal officiel du 18 juillet 1984).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cite_:
+
+  - Décret n°84-617 1984-07-17 art. 3, 5
+  - Loi n°82-1153 du 30 décembre 1982
+
+_Créé par_:
+
+  - Décret n°84-617 du 17 juillet 1984 - art. 28 () JORF 18 juillet 1984
+
+_Abrogé par_:
+
+  - Décret n°2016-1110 du 11 août 2016 - art. 5
 
 
 #### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=80></a>
