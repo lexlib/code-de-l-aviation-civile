@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2002-09-18
+Version Consolidée au 2002-11-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -169,7 +169,7 @@ Version Consolidée au 2002-09-18
           - [Section 3 : Constitution du droit à pension. (art. R426-11 à R426-15-4)](#166)
           - [Section 4 : Calcul de la pension. (art. R426-16-1 à R426-18-1)](#167)
           - [Section 5 : Pension de réversion. (art. R426-19 à R426-23)](#168)
-          - [Section 6 : Dispositions diverses. (art. R426-24 à R426-27)](#169)
+          - [Section 6 : Dispositions diverses. (art. R426-24 à R426-27-1)](#169)
           - [Section 7 : Dispositions transitoires. (art. R426-28)](#170)
         - [CHAPITRE VII : DISPOSITIONS PENALES. (art. R427-1)](#171)
         - [CHAPITRE VIII : DISPOSITIONS COMMUNES. (art. R428-1)](#172)
@@ -21186,6 +21186,40 @@ _Cite_:
   - Code de l'aviation civile - art. R426-16-1 (M)
   - Code de l'aviation civile - art. R426-17 (V)
   - Code de l'aviation civile - art. R426-19 (M)
+
+
+###### Article R426-27-1
+
+Les fonds de la caisse de retraite du personnel navigant professionnel de l'aéronautique civile affectés aux réserves des
+risques gérés, à la gestion administrative ou à l'action sociale ainsi que le report à nouveau ne peuvent être placés que
+sous la forme des actifs autorisés et selon les modalités prévues aux articles R. 623-2 à R. 623-10-4 du code de la sécurité
+sociale.
+
+Un règlement financier est élaboré par la caisse de retraite du personnel navigant professionnel de l'aéronautique civile
+dans les conditions prévues à l'article R. 623-10-3 du code de la sécurité sociale. Ce règlement financier entre en vigueur
+dans un délai de six mois à compter de sa date de transmission au ministre chargé de la sécurité sociale, au ministre chargé
+du budget et au ministre chargé des transports, à défaut de notification dans ce délai d'une décision de refus motivée dans
+les conditions prévues audit article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2002-1314 du 25 octobre 2002 - art. 5 () JORF 1er novembre 2002
+
+_Cite_:
+
+  - Code de la sécurité sociale R623-2 à R623-10-4, R623-10-3
+  - Code de la sécurité sociale. - art. R623-10-3 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ##### Section 7 : Dispositions transitoires.<a id=170></a>
