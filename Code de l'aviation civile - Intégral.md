@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1979-06-09
+Version Consolidée au 1979-06-10
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -181,7 +181,7 @@ Version Consolidée au 1979-06-09
     - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D321-2)](#178)
       - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#179)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#180)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-11)](#181)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#181)
       - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#182)
       - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-7)](#183)
         - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#184)
@@ -194,8 +194,8 @@ Version Consolidée au 1979-06-09
           - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#191)
         - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-7)](#192)
           - [Section 2 : Conseil médical (art. D424-2 à D424-7)](#193)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-11)](#194)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-11)](#195)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#194)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#195)
     - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#196)
       - [Section 1 : Avions photographes. (art. D611-1)](#197)
       - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#198)
@@ -15361,23 +15361,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°77-1140 1977-10-05 art. 1 JORF 12 octobre 1977
-
-
-###### Article D435-11
-
-En cas de poursuite devant les tribunaux répressifs à l'occasion des faits qui ont justifié la mise en oeuvre de la procédure
-disciplinaire, celle-ci est suspendue de plein droit. Toutefois les dispositions de l'alinéa 1er de l'article D. 435-10
-demeurent applicables.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°77-1140 du 5 octobre 1977, art 1 v. init.
-
-_Abrogé par_:
-
-  - Décret n°79-445 du 1 juin 1979, art 1 v. init.
 
 
 ## LIVRE VI : DISPOSITIONS DIVERSES<a id=196></a>
