@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1999-03-30
+Version Consolidée au 1999-04-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -8931,7 +8931,8 @@ _Cite_:
 
 ###### Article R151-5
 
-La commission prévue par l'article L. 150-13 est délivrée par le ministre chargé de l'aviation civile.
+La commission prévue par l'article L. 150-13 est délivrée par le ministre chargé de l'aviation civile ou, pour le personnel
+placé sous son autorité, par le ministre chargé des armées.
 
 Elle mentionne l'objet du commissionnement et la circonscription géographique dans laquelle l'agent commissionné a vocation,
 en raison de son affectation, à constater les infractions.
@@ -8942,13 +8943,13 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
+_Modifié par_:
+
+  - Décret n°99-281 du 12 avril 1999 - art. 1 () JORF 14 avril 1999
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
-
-_Créé par_:
-
-  - Décret n°91-262 du 4 mars 1991 - art. 5 () JORF 9 mars 1991
+  - SPEC_APPLI: Décret n°99-281 du 12 avril 1999 - art. 2 (V)
 
 _Cité par_:
 
