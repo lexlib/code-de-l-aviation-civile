@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2003-06-28
+Version Consolidée au 2003-07-22
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -2570,9 +2570,9 @@ _Cite_:
 
 ###### Article L213-3
 
-I - Les aérodromes assurent, suivant des normes techniques définies par l'autorité administrative, le sauvetage et la lutte
+I. - Les aérodromes assurent, suivant des normes techniques définies par l'autorité administrative, le sauvetage et la lutte
 contre les incendies d'aéronefs, ainsi que la prévention du péril aviaire. Ils participent à l'organisation des visites de
-sûreté dans les conditions prévues au b de l'article L. 282-8.
+sûreté dans les conditions prévues au deuxième alinéa du I de l'article L. 282-8.
 
 Sous l'autorité des titulaires du pouvoir de police mentionnés à l'article L. 213-2, l'exploitant d'aérodrome assure
 l'exécution des services en cause. Il peut faire assurer celle-ci, en vertu d'une convention, par le service départemental
@@ -2607,14 +2607,14 @@ _Cité par_:
   - Code de l'aviation civile - art. L211-3 (VT)
   - Code de l'aviation civile - art. R213-3 (M)
 
-_Modifié par_:
-
-  - Ordonnance n°2002-356 du 14 mars 2002 - art. 1 () JORF 16 mars 2002
-
 **Liens**:
 
   - TXT_SOURCE: Ordonnance n°2002-356 du 14 mars 2002
   - TXT_SOURCE: Ordonnance n°2002-356 du 14 mars 2002 - art. 2 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-660 du 21 juillet 2003 - art. 65 (V) JORF 22 juillet 2003
 
 _Cite_:
 
