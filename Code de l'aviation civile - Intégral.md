@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1985-07-31
+Version Consolidée au 1985-08-23
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -68,11 +68,11 @@ Version Consolidée au 1985-07-31
       - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. R122-1 à R123-9)](#65)
         - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. R122-1 à R122-3)](#66)
         - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. R123-1 à R123-9)](#67)
-      - [TITRE III : CIRCULATION DES AERONEFS. (art. R131-1 à R134-3)](#68)
+      - [TITRE III : CIRCULATION DES AERONEFS. (art. R131-1 à R134-6)](#68)
         - [CHAPITRE Ier : DROIT DE CIRCULATION. (art. R131-1 à R131-4)](#69)
         - [CHAPITRE II : ATTERRISSAGE. (art. R132-1 à R132-3)](#70)
         - [CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS. (art. R133-1 à R133-12)](#71)
-        - [CHAPITRE IV : REDEVANCES. (art. R134-1 à R134-3)](#72)
+        - [CHAPITRE IV : REDEVANCES. (art. R134-1 à R134-6)](#72)
       - [TITRE IV : DOMMAGES ET RESPONSABILITES. (art. R141-1 à R142-4)](#73)
         - [CHAPITRE Ier : RESPONSABILITE DES EQUIPAGES ET DES EXPLOITANTS. (art. R141-1 à R141-2)](#74)
         - [CHAPITRE II : ASSISTANCE, SAUVETAGE, DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS OU D'INCIDENTS. (art. R142-1 à R142-4)](#75)
@@ -7034,6 +7034,129 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°90-641 du 18 juillet 1990 - art. 1 () JORF 21 juillet 1990
+
+
+###### Article R134-4
+
+Les services rendus par l'Etat pour la sécurité de la circulation aérienne et pour la rapidité de ses mouvements à l'arrivée
+et au départ des aérodromes dont l'activité dépasse un certain seuil donnent lieu à rémunération sous forme d'une redevance
+pour services rendus dite redevance pour services terminaux de la circulation aérienne. La liste de ces aérodromes est fixée
+par arrêté du ministre chargé de l'aviation civile et du ministre chargé des finances.
+
+La redevance est due par l'exploitant de l'aéronef ou, s'il est inconnu, par le propriétaire de l'aéronef. Elle est exigible
+à l'occasion de chaque départ d'un aérodrome figurant sur cette liste.
+
+Son montant est déterminé, en fonction de la masse maximale au décollage de l'aéronef, par application d'un taux unitaire,
+suivant des modalités fixées par arrêté du ministre chargé de l'aviation civile et du ministre chargé des finances. Le taux
+unitaire normal doit tenir compte du coût national du service rendu.
+
+L'arrêté peut prévoir des modes de calcul fondés sur des moyennes pondérées pour des aéronefs d'un même type exploités par
+une même entreprise.
+
+Des taux unitaires réduits peuvent être fixés pour certains aérodromes. Des taux réduits peuvent également être fixés pour
+les vols dont l'aérodrome de départ et l'aérodrome d'arrivée sont situés sur le territoire métropolitain et qui ne comportent
+ni escale intermédiaire ni escale antérieure ou ultérieure en territoire étranger (vols domestiques).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°85-889 1985-08-12 art. 1 JORF 23 août 1985
+
+_Cité par_:
+
+  - Décret n°85-889 du 12 août 1985 - art. 2 (Ab)
+  - Arrêté du 9 mars 1990 - art. 2 (Ab)
+  - Décret n°90-221 du 9 mars 1990 - art. 4 (V)
+  - Loi - art. 97 (V)
+  - Arrêté du 16 avril 1996 - art. 1 (VT)
+  - Arrêté du 16 avril 1996 - art. 2 (VT)
+  - Loi n°98-1171 du 18 décembre 1998 - art. 2 (V)
+  - Arrêté du 19 décembre 2007 (VT)
+  - Arrêté du 20 décembre 2007 (V)
+  - Arrêté du 23 décembre 2009 (Ab)
+  - Arrêté du 23 décembre 2009 (V)
+  - Code de l'aviation civile - art. R134-4-1 (V)
+  - Code de l'aviation civile - art. R134-5 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 9 mars 1990 - art. Annexe (M)
+
+
+###### Article R134-5
+
+Sont exonérés de la redevance pour services terminaux de la circulation aérienne :
+
+Les vols exécutés par les aéronefs militaires et par les aéronefs appartenant à l'Etat, à condition que ces vols ne soient
+pas effectués à des fins commerciales ;
+
+Les vols exécutés par les aéronefs des catégories précédentes appartenant à des Etats ayant conclu avec la France des accords
+de réciprocité ;
+
+Les vols de recherche et de sauvetage ;
+
+Les vols se terminant à l'aérodrome de départ de l'aéronef, au cours desquels aucun atterrissage n'a eu lieu ;
+
+Les vols de contrôle ou d'essai des aides à la navigation ;
+
+Les vols d'essai des aéronefs et les vols servant uniquement à l'instruction et à l'entraînement du personnel navigant.
+
+L'arrêté mentionné à l'article R. 134-4 peut, en outre, prévoir des exonérations ou des réductions de tarifs en faveur :
+
+Des vols effectués en totalité selon les règles de vol à vue ;
+
+Des vols exécutés par les aéronefs civils dont la masse maximum au décollage est inférieure à 5,7 tonnes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R134-4 (M)
+
+_Créé par_:
+
+  - Décret n°85-889 1985-08-12 art. 1 JORF 23 août 1985
+
+
+###### Article R134-6
+
+Le recouvrement de la redevance pour services terminaux de la circulation aérienne est assuré selon la réglementation en
+vigueur en matière de créances de l'Etat étrangères à l'impôt et au domaine.
+
+Le paiement doit être effectué avant la date indiquée sur le titre de perception ; cette date ne peut être antérieure au
+trentième jour qui suit la date d'emission du titre de perception. Une majoration de 10 p. 100 de la somme à payer et des
+intérêts de retard est appliquée en cas de non-paiement à la date précitée.
+
+A défaut de paiement, l'agent comptable demande au ministre chargé de l'aviation civile d'émettre un état exécutoire pour le
+montant restant dû, augmenté de la majoration et des intérêts de retard. Cet état exécutoire est confié à l'agent judiciaire
+du Trésor.
+
+Les modalités de perception de la redevance sont précisées par arrêté du ministre chargé des finances et du ministre chargé
+de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Arrêté du 9 mars 1990 - art. 6 (Ab)
+  - Arrêté du 16 avril 1996 - art. 6 (VT)
+
+_Créé par_:
+
+  - Décret n°85-889 1985-08-12 art. 1 JORF 23 août 1985
 
 
 ### TITRE IV : DOMMAGES ET RESPONSABILITES.<a id=73></a>
