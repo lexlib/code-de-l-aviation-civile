@@ -1,11 +1,11 @@
 # Code de l'aviation civile  
-Version Consolidée au 1972-06-01
+Version Consolidée au 1972-07-09
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. L110-1 à L110-2)](#3)
       - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS (art. L121-1 à L123-1)](#4)
-        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. L121-1 à L121-5)](#5)
+        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. L121-1 à L121-11)](#5)
         - [CHAPITRE II : HYPOTHEQUES ET PRIVILEGES SUR LES AERONEFS. (art. L122-1 à L122-18)](#6)
         - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. L123-1)](#7)
       - [TITRE III : CIRCULATION DES AERONEFS (art. L131-1 à L131-3)](#8)
@@ -397,6 +397,160 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code des transports - art. L6111-5 (V)
+
+
+###### Article L121-6
+
+Les rapports juridiques entre les personnes qui se trouvent à bord d'un aéronef en circulation sont régis par la loi de
+l'Etat d'immatriculation de cet aéronef toutes les fois que la loi territoriale serait normalement compétente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Modifié par_:
+
+  - Loi n°72-623 1972-07-05 art. 3 JORF 9 juillet 1972
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6111-6 (V)
+
+
+###### Article L121-7
+
+Les tribunaux français sont compétents pour connaître de toute infraction commise à bord d'un aéronef immatriculé en France.
+Ils sont également compétents pour connaître de tout crime ou délit commis à l'encontre d'un tel aéronef hors du territoire
+de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. D121-28 (V)
+  - Code de l'aviation civile - art. L121-9 (Ab)
+
+_Modifié par_:
+
+  - Loi n°72-623 1972-07-05 art. 3 JORF 9 juillet 1972
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Abrogé par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 137 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article L121-9
+
+Pour l'application des articles L. 121-7 et L. 121-8, est compétent le tribunal du lieu de l'infraction, celui de la
+résidence de l'auteur présumé de l'infraction, celui du lieu de son arrestation ou celui du lieu de l'atterrissage de
+l'aéronef. A défaut de tout autre tribunal, le tribunal compétent est celui de Paris.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L121-7 (Ab)
+  - Code de l'aviation civile - art. L121-8 (Ab)
+
+_Modifié par_:
+
+  - Loi n°72-623 1972-07-05 art. 3 JORF 9 juillet 1972
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+_Abrogé par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 137 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article L121-10
+
+L'inscription au registre d'immatriculation vaut titre. Ce registre est public et toute personne peut en obtenir copie
+conforme.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 121-10, les mots " et toute personne peut en obtenir copie conforme " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 9
+  - Loi n°1924-05-31 art. 9
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Créé par_:
+
+  - Loi n°72-623 1972-07-05 art. 2 JORF 9 juillet 1972
+
+_Cité par_:
+
+  - Arrêté du 22 février 1990 - art. 3 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6121-1 (V)
+
+
+###### Article L121-11
+
+Les aéronefs constituent des biens meubles pour l'application des règles posées par le code civil. Toutefois, la cession de
+propriété doit être constatée par écrit et ne produit d'effet à l'égard des tiers que par l'inscription au registre
+d'immatriculation. Toute mutation de propriété par décès et tout jugement translatif, constitutif ou déclaratif de propriété
+doivent être inscrits sur le registre à la requête du nouveau propriétaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 10
+  - Loi n°1924-05-31 art. 12
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Créé par_:
+
+  - Loi n°72-623 1972-07-05 art. 2 JORF 9 juillet 1972
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6121-2 (V)
 
 
 #### CHAPITRE II : HYPOTHEQUES ET PRIVILEGES SUR LES AERONEFS.<a id=6></a>
