@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1972-04-29
+Version Consolidée au 1972-06-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -170,8 +170,8 @@ Version Consolidée au 1972-04-29
             - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-4)](#167)
             - [Paragraphe 2 : Mesures de contrôle. (art. D422-7)](#168)
           - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#169)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-6)](#170)
-          - [Section 2 : Conseil médical (art. D424-6)](#171)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-6)](#170)
+          - [Section 2 : Conseil médical (art. D424-2 à D424-6)](#171)
     - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#172)
       - [Section 1 : Avions photographes. (art. D611-1)](#173)
       - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#174)
@@ -12238,6 +12238,108 @@ _Cité par_:
 #### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=170></a>
 
 ##### Section 2 : Conseil médical<a id=171></a>
+
+###### Article D424-2
+
+Le conseil médical de l'aéronautique est chargé :
+
+1° D'étudier et de coordonner toutes les questions d'ordre physiologique, médical, médico-social et d'hygiène intéressant
+l'aéronautique civile, notamment en ce qui concerne le personnel navigant, les passagers et, d'une façon générale, le
+contrôle sanitaire. Il assure en cette matière la liaison avec les organismes similaires étrangers ;
+
+2° De se prononcer sur le caractère définitif des inaptitudes déclarées à l'égard des navigants par les différents centres
+d'expertises médicales ;
+
+3° De soumettre au ministre chargé de l'aviation civile des propositions concernant les décisions prévues par les articles L.
+424-1, L. 424-2, L. 424-5 et par l'article R. 426-11 en matière de reconnaissance d'incapacité temporaire ou permanente de
+travail et de décès consécutifs à un accident aérien survenu en service ou une maladie imputable au service aérien ;
+
+4° De recevoir et d'examiner :
+
+a) Les appels interjetés par les candidats aux fonctions réservées au personnel navigant professionnel et les titulaires
+d'une licence du personnel navigant déclarés médicalement inaptes au titre de l'aéronautique civile par un centre d'expertise
+médicale du personnel navigant, ou un médecin agréé ;
+
+b) Les appels interjetés par les employeurs qui estimeraient devoir contester les décisions prononcées par les autorités
+médicales compétentes en matière d'aptitude à une fonction du personnel navigant professionnel ;
+
+c) Les demandes formulées par les médecins chefs des centres d'expertise médicale du personnel navigant professionnel de
+l'aéronautique civile et par les médecins examinateurs agréés qui, en présence d'un cas litigieux ou non prévu par les
+règlements d'aptitude physique et mentale en vigueur, estimeraient devoir prendre l'avis du conseil médical de l'aéronautique
+civile avant de formuler une décision d'aptitude ou d'inaptitude à une fonction du personnel navigant de l'aéronautique
+civile ;
+
+d) Toute demande de dérogation aux conditions d'aptitude médicale prévues par les règlements en vigueur en ce qui concerne le
+personnel navigant de l'aéronautique civile.
+
+Toutefois, en cas de légère déficience à l'égard d'une norme médicale restant compatible avec la sécurité aérienne, le
+médecin chef d'un centre médical agréé ou d'une commission de médecins, d'un centre ou service médical d'un département ou
+d'un territoire d'outre-mer agréés peut, à titre exceptionnel, et pour une durée maximale de quarante-cinq jours, déclarer un
+navigant professionnel apte à exercer ses fonctions jusqu'à la décision du conseil médical de l'aéronautique civile. (1)
+
+(1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°55-1348 1955-10-05 art. 2
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+  - Arrêté du 24 novembre 2003 - art. 1 (V)
+  - Arrêté du 7 février 2005 - art. 12 (V)
+  - Code de l'aviation civile - art. D424-2-1 (Ab)
+  - Code de l'aviation civile - art. D424-4 (Ab)
+  - Code de l'aviation civile - art. D424-6 (V)
+  - Code de l'aviation civile - art. D424-7 (M)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L424-1 (V)
+  - Code de l'aviation civile - art. L424-2 (V)
+  - Code de l'aviation civile - art. L424-5 (V)
+  - Code de l'aviation civile - art. R426-11 (M)
+
+_Modifié par_:
+
+  - Décret n°72-444 1972-05-26 art. 1 JORF 1er juin 1972
+
+
+###### Article D424-5
+
+Le président du conseil médical peut appeler à siéger au conseil, avec voix consultative, des personnalités qu'il juge
+nécessaire d'entendre en raison de leur compétence ou de leurs fonctions quant aux questions inscrites à l'ordre du jour,
+notamment :
+
+Des représentants du ministre d'Etat chargé de la défense nationale ;
+
+Des représentants du ministre chargé de l'aviation civile ;
+
+Des délégués des organisations représentatives des entreprises et du personnel navigant professionnel de l'aéronautique
+civile.
+
+Le président peut désigner des médecins experts s'il le juge nécessaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°55-1348 1955-10-05 art. 5
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°72-444 1972-05-26 art. 4. JORF 1er juin 1972
+
 
 ###### Article D424-6
 
