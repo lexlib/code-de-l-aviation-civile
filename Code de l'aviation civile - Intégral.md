@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1986-02-28
+Version Consolidée au 1986-03-20
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-17)](#2)
@@ -172,66 +172,67 @@ Version Consolidée au 1986-02-28
           - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#169)
           - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6)](#170)
           - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#171)
-        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-7 à D133-20)](#172)
-          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-7 à D133-9)](#173)
-            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#174)
-          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#175)
-          - [Section 3 : Radiocommunications des services aériens. (art. D133-19)](#176)
-          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#177)
-    - [LIVRE II : AERODROMES. (art. D211-1 à D251-2)](#178)
-      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D212-4)](#179)
-        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#180)
-        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#181)
-      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D224-1)](#182)
-        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#183)
-        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#184)
-        - [CHAPITRE IV : REDEVANCES. (art. D224-1)](#185)
-      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#186)
-        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#187)
-        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#188)
-        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#189)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#190)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#191)
-          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#192)
-          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#193)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#194)
-          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#195)
-          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#196)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#197)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#198)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#199)
-      - [TITRE V : AÉROPORT DE PARIS (art. D251-1 à D251-2)](#200)
-        - [CHAPITRE Ier : DISPOSITIONS GÉNÉRALES (art. D251-1 à D251-2)](#201)
-          - [Section 1 : Aérodromes constituant l'Aéroport de Paris. (art. D251-1 à D251-2)](#202)
-    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D360-11)](#203)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#204)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#205)
-      - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. D342-1)](#206)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#207)
-      - [TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE. (art. D360-1 à D360-11)](#208)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#209)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#210)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#211)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#212)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-16)](#213)
-          - [Section 5 : Mesures de contrôle (art. D422-16)](#214)
-        - [CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE (art. D422-1 à D422-15)](#215)
-          - [Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction (art. D422-1 à D422-7)](#216)
-            - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-5)](#217)
-            - [Paragraphe 2 : Mesures de contrôle. (art. D422-6 à D422-7)](#218)
-          - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#219)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#220)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#221)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#222)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#223)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#224)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-6)](#225)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#226)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#227)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#228)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#229)
-      - [Section 1 : Avions photographes. (art. D611-1)](#230)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#231)
+        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#172)
+          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#173)
+            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-4)](#174)
+            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#175)
+          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#176)
+          - [Section 3 : Radiocommunications des services aériens. (art. D133-19)](#177)
+          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#178)
+    - [LIVRE II : AERODROMES. (art. D211-1 à D251-2)](#179)
+      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D212-4)](#180)
+        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#181)
+        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#182)
+      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D224-1)](#183)
+        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#184)
+        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#185)
+        - [CHAPITRE IV : REDEVANCES. (art. D224-1)](#186)
+      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#187)
+        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#188)
+        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#189)
+        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#190)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#191)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#192)
+          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#193)
+          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#194)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#195)
+          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#196)
+          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#197)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#198)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#199)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#200)
+      - [TITRE V : AÉROPORT DE PARIS (art. D251-1 à D251-2)](#201)
+        - [CHAPITRE Ier : DISPOSITIONS GÉNÉRALES (art. D251-1 à D251-2)](#202)
+          - [Section 1 : Aérodromes constituant l'Aéroport de Paris. (art. D251-1 à D251-2)](#203)
+    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D360-11)](#204)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#205)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#206)
+      - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. D342-1)](#207)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#208)
+      - [TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE. (art. D360-1 à D360-11)](#209)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#210)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#211)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#212)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#213)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-16)](#214)
+          - [Section 5 : Mesures de contrôle (art. D422-16)](#215)
+        - [CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE (art. D422-1 à D422-15)](#216)
+          - [Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction (art. D422-1 à D422-7)](#217)
+            - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-5)](#218)
+            - [Paragraphe 2 : Mesures de contrôle. (art. D422-6 à D422-7)](#219)
+          - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#220)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#221)
+          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#222)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#223)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#224)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#225)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-6)](#226)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#227)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#228)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#229)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#230)
+      - [Section 1 : Avions photographes. (art. D611-1)](#231)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#232)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -16680,7 +16681,145 @@ _Créé par_:
 
 ##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=173></a>
 
-##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=174></a>
+##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances<a id=174></a>
+
+###### Article D133-1
+
+Les frais entraînés par les vérifications nécessaires à la délivrance et au maintien en état de validité des documents de
+navigabilité énoncés par les articles R. 133-1 et R. 133-2 du code de l'aviation civile, mis à la charge des postulants par
+l'article R. 133-4, comprennent :
+
+1° Une somme forfaitaire représentant le montant des frais administratifs d'établissement du document spécifique à chaque
+aéronef, non compris les frais de contrôle et fixée par arrêté conjoint du ministre chargé du budget et du ministre chargé de
+l'aviation civile ;
+
+2° Une somme variable, qui représente le montant des frais de contrôle et comprend notamment les frais de déplacements des
+services et organismes chargés du contrôle.
+
+Pour le contrôle en vue de la délivrance des titres de navigabilité et de limitations de nuisances spécifiques à chaque
+aéronef, le montant global des sommes mentionnées aux 1° et 2° ci-dessus est établi en pourcentage de la valeur de l'appareil
+contrôlé.
+
+Lorsque le contrôle est effectué en France métropolitaine, le montant ne peut dépasser les limites ci-après :
+
+2 p. 100 ad valorem pour la tranche allant de 0 à 22 000 F ;
+
+1,5 p. 100 ad valorem pour la tranche allant de 22 000 F à 110 000 F ;
+
+1 p. 100 ad valorem pour la tranche allant de 110 000 F à 220 000 F ;
+
+0,5 p. 100 ad valorem pour la tranche dépassant 220 000 F.
+
+Lorsque le contrôle est effectué hors du territoire métropolitain, les maxima indiqués ci-dessus sont affectés d'un
+coefficient de majoration. Ce dernier est défini pour chaque département d'outre-mer, chaque territoire d'outre-mer, toute
+autre collectivité territoriale ou pays étranger par arrêté des ministres compétents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 16 octobre 1987
+  - TXT_SOURCE: Arrêté du 16 octobre 1987 - art. 1 (V)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. D133-2 (V)
+  - Code de l'aviation civile - art. D133-3 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R133-1 (M)
+  - Code de l'aviation civile - art. R133-2 (V)
+  - Code de l'aviation civile - art. R133-4 (Ab)
+
+
+###### Article D133-2
+
+Les sommes définies à l'article D. 133-1 du code de l'aviation civile sont liquidées et perçues par les services et
+organismes chargés du contrôle des aéronefs civils. 
+
+Lorsque les contrôles sont effectués par les services de l'administration, les modalités d'établissement et de perception de
+ces sommes sont fixées par arrêté conjoint du ministre de l'économie, des finances et du budget, du ministre de la défense et
+du ministre chargé de l'aviation civile. Les sommes ainsi perçues au profit du Trésor sont rattachées par voie de fonds de
+concours aux chapitres adéquats des budgets respectifs de la défense et de l'aviation civile. Les organismes techniques
+extérieurs à l'administration peuvent percevoir directement les sommes correspondant aux contrôles qu'ils ont effectués. Ils
+reversent alors forfaitairement au Trésor 32 % des sommes représentant les frais administratifs d'établissement des
+certificats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D133-1 (V)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. D133-7 (V)
+  - Code de l'aviation civile - art. D133-8 (V)
+
+
+###### Article D133-3
+
+En cours de certification, le remboursement des frais du contrôle par les postulants donne lieu à des versements, à
+concurrence des travaux réellement effectués. Les sommes doivent être intégralement acquittées à l'issue des opérations de
+contrôle, avant délivrance du certificat en vue duquel celui-ci a été entrepris.
+
+Les opérations de contrôle effectuées entraînent paiement des frais engagés même si la certification n'aboutit pas.
+Toutefois, dans ce cas, le taux maximal des frais autres que les déplacements est calculé sur les bases définies à l'article
+D. 133-1, 2°, au prorata de l'état d'avancement des travaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D133-1 (M)
+
+
+###### Article D133-4
+
+Est assimilé à un appareil neuf, donc astreint au paiement des frais de contrôle, tout appareil reconstruit après accident
+ayant entraîné des dégâts supérieurs ou égaux à 60 % de sa valeur neuf.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1937-10-30 art. 5
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°86-667 1986-03-17 art. 2 JORF 20 mars 1986
+
+
+##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=175></a>
 
 ###### Article D133-7
 
@@ -16851,7 +16990,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=175></a>
+##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=176></a>
 
 ###### Article D133-10
 
@@ -17005,7 +17144,7 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 9 JORF 21 novembre 1980
 
 
-##### Section 3 : Radiocommunications des services aériens.<a id=176></a>
+##### Section 3 : Radiocommunications des services aériens.<a id=177></a>
 
 ###### Article D133-19
 
@@ -17038,7 +17177,7 @@ _Cite_:
   - Code de l'aviation civile - art. R133-3 (M)
 
 
-##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=177></a>
+##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=178></a>
 
 ###### Article D133-20
 
@@ -17070,11 +17209,11 @@ _Cité par_:
   - Décret n°2018-13 du 8 janvier 2018 (V)
 
 
-## LIVRE II : AERODROMES.<a id=178></a>
+## LIVRE II : AERODROMES.<a id=179></a>
 
-### TITRE Ier : DISPOSITIONS GENERALES.<a id=179></a>
+### TITRE Ier : DISPOSITIONS GENERALES.<a id=180></a>
 
-#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=180></a>
+#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=181></a>
 
 ###### Article D211-1
 
@@ -17242,7 +17381,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=181></a>
+#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=182></a>
 
 ###### Article D212-1
 
@@ -17359,9 +17498,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=182></a>
+### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=183></a>
 
-#### CHAPITRE Ier : CREATION.<a id=183></a>
+#### CHAPITRE Ier : CREATION.<a id=184></a>
 
 ###### Article D221-1
 
@@ -17495,7 +17634,7 @@ _Cité par_:
   - Décret n°2017-1490 du 24 octobre 2017 (V)
 
 
-#### CHAPITRE II : CLASSEMENT.<a id=184></a>
+#### CHAPITRE II : CLASSEMENT.<a id=185></a>
 
 ###### Article D222-1
 
@@ -17547,7 +17686,7 @@ _Cite_:
   - Code de l'aviation civile - art. R222-5 (V)
 
 
-#### CHAPITRE IV : REDEVANCES.<a id=185></a>
+#### CHAPITRE IV : REDEVANCES.<a id=186></a>
 
 ###### Article D224-1
 
@@ -17569,9 +17708,9 @@ _Créé par_:
   - Décret n°80-910 1980-11-17 art. 1 JORF 21 novembre 1980
 
 
-### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=186></a>
+### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=187></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=187></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=188></a>
 
 ###### Article D231-1
 
@@ -17608,7 +17747,7 @@ _Cite_:
   - Code de l'aviation civile - art. D211-2 (V)
 
 
-#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=188></a>
+#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=189></a>
 
 ###### Article D232-1
 
@@ -17814,7 +17953,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-6 (V)
 
 
-#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=189></a>
+#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=190></a>
 
 ###### Article D233-1
 
@@ -17959,11 +18098,11 @@ _Cite_:
   - Code de l'aviation civile - art. R131-3 (V)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=190></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=191></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=191></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=192></a>
 
-##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=192></a>
+##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=193></a>
 
 ###### Article D241-1
 
@@ -18035,7 +18174,7 @@ _Abrogé par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=193></a>
+##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=194></a>
 
 ###### Article D241-4
 
@@ -18054,9 +18193,9 @@ _Cité par_:
   - Code de l'aviation civile - art. D242-7 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=194></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=195></a>
 
-##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=195></a>
+##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=196></a>
 
 ###### Article D242-1
 
@@ -18162,7 +18301,7 @@ _Cite_:
   - Code de l'aviation civile R241-5, D242-2
 
 
-##### Section 2 : Application du plan de dégagement.<a id=196></a>
+##### Section 2 : Application du plan de dégagement.<a id=197></a>
 
 ###### Article D242-6
 
@@ -18410,7 +18549,7 @@ _Créé par_:
   - Décret n°73-309 1973-03-09 art. 2 JORF 20 mars 1973
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=197></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=198></a>
 
 ###### Article D243-1
 
@@ -18618,7 +18757,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-5 (V)
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=198></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=199></a>
 
 ###### Article D244-1
 
@@ -18737,7 +18876,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=199></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=200></a>
 
 ###### Article D245-1
 
@@ -18811,11 +18950,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE V : AÉROPORT DE PARIS<a id=200></a>
+### TITRE V : AÉROPORT DE PARIS<a id=201></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GÉNÉRALES<a id=201></a>
+#### CHAPITRE Ier : DISPOSITIONS GÉNÉRALES<a id=202></a>
 
-##### Section 1 : Aérodromes constituant l'Aéroport de Paris.<a id=202></a>
+##### Section 1 : Aérodromes constituant l'Aéroport de Paris.<a id=203></a>
 
 ###### Article D251-1
 
@@ -18867,11 +19006,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-## LIVRE III : TRANSPORT AERIEN.<a id=203></a>
+## LIVRE III : TRANSPORT AERIEN.<a id=204></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=204></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=205></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=205></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=206></a>
 
 ###### Article D321-1
 
@@ -18910,9 +19049,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE<a id=206></a>
+### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE<a id=207></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=207></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=208></a>
 
 ###### Article D342-1
 
@@ -18933,7 +19072,7 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE.<a id=208></a>
+### TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE.<a id=209></a>
 
 ###### Article D360-1
 
@@ -19320,9 +19459,9 @@ _Nouveaux textes_:
   - Code de l'aviation civile - art. D370-11 (V)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=209></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=210></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=210></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=211></a>
 
 ###### Article D410-1
 
@@ -19393,9 +19532,9 @@ _Cite_:
   - Code de l'aviation civile - art. D410-1 (M)
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=211></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=212></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=212></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=213></a>
 
 ###### Article D421-1
 
@@ -19684,9 +19823,9 @@ _Cité par_:
   - Arrêté du 21 janvier 1998 - art. 4 (V)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=213></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=214></a>
 
-##### Section 5 : Mesures de contrôle<a id=214></a>
+##### Section 5 : Mesures de contrôle<a id=215></a>
 
 ###### Article D422-16
 
@@ -19746,11 +19885,11 @@ _Cite_:
   - Code de l'aviation civile - art. D422-9 (M)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE<a id=215></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE<a id=216></a>
 
-##### Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction<a id=216></a>
+##### Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction<a id=217></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=217></a>
+##### Paragraphe 1 : Dispositions générales.<a id=218></a>
 
 ###### Article D422-1
 
@@ -19971,7 +20110,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Paragraphe 2 : Mesures de contrôle.<a id=218></a>
+##### Paragraphe 2 : Mesures de contrôle.<a id=219></a>
 
 ###### Article D422-6
 
@@ -20102,7 +20241,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-6 (M)
 
 
-##### Section 2 : Durée du travail des équipages sur les avions à réaction.<a id=219></a>
+##### Section 2 : Durée du travail des équipages sur les avions à réaction.<a id=220></a>
 
 ###### Article D422-8
 
@@ -20454,9 +20593,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=220></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=221></a>
 
-##### Section 2 : Conseil médical<a id=221></a>
+##### Section 2 : Conseil médical<a id=222></a>
 
 ###### Article D424-1
 
@@ -20730,9 +20869,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=222></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=223></a>
 
-#### CHAPITRE V : DISCIPLINE.<a id=223></a>
+#### CHAPITRE V : DISCIPLINE.<a id=224></a>
 
 ###### Article D435-1
 
@@ -21056,9 +21195,9 @@ _Créé par_:
   - Décret n°77-1140 1977-10-05 art. 1 JORF 12 octobre 1977
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=224></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=225></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=225></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=226></a>
 
 ###### Article D510-1
 
@@ -21265,9 +21404,9 @@ _Modifié par_:
   - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
 
 
-### TITRE II : AIDE AUX JEUNES<a id=226></a>
+### TITRE II : AIDE AUX JEUNES<a id=227></a>
 
-#### Section 1 : Aide aux jeunes.<a id=227></a>
+#### Section 1 : Aide aux jeunes.<a id=228></a>
 
 ###### Article D521-1
 
@@ -21347,7 +21486,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=228></a>
+#### Section 2 : Aide à la construction amateur.<a id=229></a>
 
 ###### Article D521-4
 
@@ -21414,9 +21553,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=229></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=230></a>
 
-### Section 1 : Avions photographes.<a id=230></a>
+### Section 1 : Avions photographes.<a id=231></a>
 
 ###### Article D611-1
 
@@ -21441,7 +21580,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=231></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=232></a>
 
 ###### Article D611-2
 
