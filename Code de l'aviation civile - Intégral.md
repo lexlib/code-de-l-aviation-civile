@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2001-06-22
+Version Consolidée au 2001-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -208,65 +208,73 @@ Version Consolidée au 2001-06-22
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#205)
         - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#206)
         - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#207)
-        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#208)
-      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D224-1)](#209)
-        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#210)
-        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#211)
-        - [CHAPITRE IV : REDEVANCES. (art. D224-1)](#212)
-      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#213)
-        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#214)
-        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#215)
-        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#216)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#217)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#218)
-          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#219)
-          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#220)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#221)
-          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#222)
-          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#223)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#224)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#225)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#226)
-      - [TITRE V : AEROPORTS DE PARIS (art. D251-1 à D252-1)](#227)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251-1 à D251-2)](#228)
-          - [Section 1 : Aérodromes constituant Aéroports de Paris. (art. D251-1 à D251-2)](#229)
-        - [CHAPITRE II : REGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE (art. D252-1)](#230)
-    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D360-11)](#231)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#232)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#233)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#234)
-        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#235)
-      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#236)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#237)
-      - [TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE. (art. D360-1 à D360-11)](#238)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#239)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#240)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#241)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#242)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#243)
-          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#244)
-          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#245)
-          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#246)
-          - [Section 4 : Période de transition (art. D422-14)](#247)
-          - [Section 5 : Mesures de contrôle (art. D422-15)](#248)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#249)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#250)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#251)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#252)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#253)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#254)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#255)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#256)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#257)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#258)
-      - [Section 1 : Avions photographes. (art. D611-1)](#259)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#260)
-  - [Annexes (art. Annexe I : Appendice A à Annexe III)](#261)
-    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#262)
-      - [REGLES DE l'AIR (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#263)
-    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#264)
-      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#265)
-    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#266)
+        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-1-12)](#208)
+          - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-12)](#209)
+            - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#210)
+            - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#211)
+              - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#212)
+              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#213)
+              - [3. Règles d'intervention (art. D213-1-9)](#214)
+            - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#215)
+        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#216)
+      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D224-1)](#217)
+        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#218)
+        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#219)
+        - [CHAPITRE IV : REDEVANCES. (art. D224-1)](#220)
+      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#221)
+        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#222)
+        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#223)
+        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#224)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#225)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#226)
+          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#227)
+          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#228)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#229)
+          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#230)
+          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#231)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#232)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#233)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#234)
+      - [TITRE V : AEROPORTS DE PARIS (art. D251-1 à D252-1)](#235)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251-1 à D251-2)](#236)
+          - [Section 1 : Aérodromes constituant Aéroports de Paris. (art. D251-1 à D251-2)](#237)
+        - [CHAPITRE II : REGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE (art. D252-1)](#238)
+    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D360-11)](#239)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#240)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#241)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#242)
+        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#243)
+      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#244)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#245)
+      - [TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE. (art. D360-1 à D360-11)](#246)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#247)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#248)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#249)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#250)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#251)
+          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#252)
+          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#253)
+          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#254)
+          - [Section 4 : Période de transition (art. D422-14)](#255)
+          - [Section 5 : Mesures de contrôle (art. D422-15)](#256)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#257)
+          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#258)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#259)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#260)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#261)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#262)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#263)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#264)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#265)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#266)
+      - [Section 1 : Avions photographes. (art. D611-1)](#267)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#268)
+  - [Annexes (art. Annexe I : Appendice A à Annexe III)](#269)
+    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#270)
+      - [REGLES DE l'AIR (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#271)
+    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#272)
+      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#273)
+    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#274)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -23740,7 +23748,543 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=208></a>
+#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=208></a>
+
+##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs<a id=209></a>
+
+###### Article D213-1
+
+Le service de sauvetage et de lutte contre l'incendie des aéronefs a pour objet principal de sauver des vies humaines en cas
+d'accident ou d'incident d'aéronef par la mise en place, sur les aérodromes visés aux articles R. 221-1 et D. 232-1 où le
+préfet exerce le pouvoir de police, de moyens et d'une organisation adaptés au niveau de protection requis. 
+
+Les dispositions établies par les articles D. 213-1-1 à D. 213-1-12 ne s'appliquent pas aux aérodromes réservés aux
+hélicoptères.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 18 (V)
+  - Arrêté du 18 janvier 2007 - art. 1 (V)
+  - Arrêté du 18 janvier 2007 - art. 18 (V)
+  - Décret n°2016-1061 du 3 août 2016 (V)
+  - Code de l'aviation civile - art. D213-1-13 (V)
+  - Code de l'aviation civile - art. D213-1-3 (V)
+  - Code de l'aviation civile - art. D213-1-9 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-1 (V)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-10 (M)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-11 (V)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-12 (V)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-2 (V)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-3 (V)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-4 (V)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-5 (V)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-6 (V)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-7 (VT)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-8 (V)
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1-9 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D213-1-1 (V)
+  - Code de l'aviation civile - art. D232-1 (V)
+  - Code de l'aviation civile - art. R221-1 (V)
+
+
+##### Sous-section 1 : Définition des moyens<a id=210></a>
+
+###### Article D213-1-1
+
+I.-Aux fins de la présente sous-section, on entend par : 
+
+a) " Avion ", tout aéronef sustenté en vol par des réactions aérodynamiques sur des surfaces restant fixes dans des
+conditions données de vol et entraîné par un ou plusieurs organes moteurs maintenus en fonctionnement, au moins
+partiellement, dans les circonstances normales de vol, à l'exclusion toutefois des aéronefs ultralégers motorisés (dits ULM)
+répondant à ces caractéristiques ; 
+
+b) " Mouvement ", chaque décollage ou chaque atterrissage d'avion ; 
+
+c) " Trois mois consécutifs de plus fort trafic ", la période de trois mois durant laquelle l'aérodrome est fréquenté par les
+aéronefs des classes les plus élevées ; 
+
+d) " Classe d'avions la plus élevée, A ", la classe la plus élevée au regard des principes posés à l'article D. 213-1-2 dont
+le nombre de mouvements d'avions, cumulé avec celui des classes supérieures, dépasse 24 pendant les trois mois consécutifs de
+plus fort trafic sur l'aérodrome ; 
+
+e) " Classes supérieures non retenues ", les classes d'avions supérieures à la classe d'avions la plus élevée, A ; 
+
+f) " Vol régulier ", un vol qui présente chacune des caractéristiques suivantes :
+
+- effectué au moyen d'avions destinés à transporter des passagers, du fret ou du courrier, dans des conditions telles que,
+sur chaque vol, des places sont mises à la disposition du public soit directement par le transporteur aérien, soit par ses
+agents agréés ;
+
+- organisé de façon à assurer la liaison entre deux points ou plus :
+
+- soit selon un horaire publié ;
+
+- soit avec une régularité ou une fréquence telle qu'il fait partie d'une série systématique évidente ; 
+
+g) " Vol non régulier ", un vol qui ne répond pas aux caractéristiques définies au f ci-dessus ; 
+
+II.-a) Le ministre chargé de l'aviation civile détermine, après consultation de l'exploitant d'aérodrome, le niveau de
+protection, N, d'un aérodrome, correspondant à la classe d'avions la plus élevée, A. 
+
+Toutefois, lorsque le nombre de mouvements des avions relevant de la classe A et des classes supérieures non retenues est
+inférieur à 700 pendant les trois mois consécutifs de plus fort trafic, le niveau N de protection pourra correspondre à A-1. 
+
+b) La détermination du nombre de mouvements par classe d'avions tient compte :
+
+- pour les vols réguliers, des mouvements réalisés l'année antérieure pendant les trois mois consécutifs de plus fort
+trafic ;
+
+- pour les vols non réguliers, des mouvements réalisés en moyenne sur les trois dernières années pendant les trois mois
+consécutifs de plus fort trafic ; 
+
+Toutefois, si le programme prévisionnel du trafic de l'aérodrome laisse apparaître des modifications substantielles dans la
+répartition des avions par classe, il est tenu compte du nombre de mouvements par classe prévu par le programme précité
+pendant les trois mois consécutifs de plus fort trafic. 
+
+III.-Les aérodromes qui ne justifient pas un classement dans un niveau ont par défaut un niveau de protection 1. De même,
+lorsqu'un aérodrome de niveau de protection 1 est fréquenté par des avions de classe supérieure assurant des vols réguliers,
+sa protection est de niveau 2. 
+
+IV.-Le niveau de protection et ses éventuelles modulations programmées en fonction des variations de trafic sur l'aérodrome
+sont publiés au Journal officiel de la République française et font l'objet d'un avis aux navigateurs aériens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 4 (V)
+  - Arrêté du 18 janvier 2007 - art. 3 (VD)
+  - Arrêté du 18 janvier 2007 - art. 4 (V)
+  - Arrêté du 18 août 2010 - art. 1 (V)
+  - Code de l'aviation civile - art. D213-1 (V)
+  - Code de l'aviation civile - art. D213-1-2 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+###### Article D213-1-2
+
+Les classes d'avions permettant de déterminer les classes A et A-1 visées à l'article D. 213-1-1 sont au nombre de 10 et
+regroupent par ordre croissant les avions en fonction de leur longueur hors tout et de la largeur de leur fuselage. Ces
+classes sont déterminées par arrêté du ministre chargé de l'aviation civile. Ce dernier peut tenir compte des conditions
+d'utilisation d'un avion pour le classer dans une catégorie inférieure ou supérieure à sa dimension réelle. La longueur hors
+tout prise en compte ne peut toutefois être inférieure au tiers de la dimension réelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 1 (V)
+  - Arrêté du 9 janvier 2001 - art. 2 (V)
+  - Arrêté du 18 janvier 2007 - art. 2 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D213-1-1 (V)
+
+
+###### Article D213-1-3
+
+Le service de sauvetage et de lutte contre l'incendie des aéronefs est doté sur chaque aérodrome d'infrastructures, de moyens
+en personnel, en produits extincteurs, en véhicules de lutte contre l'incendie et en matériels divers permettant d'atteindre
+l'objet prévu à l'article D. 213-1 au regard du niveau de protection de la plate-forme. 
+
+Ces infrastructures et moyens sont définis par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé
+de la sécurité civile et sont adaptés aux circonstances dans lesquelles le service intervient telles que la configuration
+géographique de l'aérodrome et les variations de trafic des aéronefs durant l'année.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 1 (V)
+  - Arrêté du 9 janvier 2001 - art. 3 (V)
+  - Arrêté du 9 janvier 2001 - art. 5 (V)
+  - Arrêté du 9 janvier 2001 - art. ANNEXE 1 (V)
+  - Arrêté du 18 janvier 2007 - art. 3 (VD)
+  - Arrêté du 18 janvier 2007 - art. 5 (V)
+  - Arrêté du 18 janvier 2007 - art. Annexe I (VD)
+  - Arrêté du 3 août 2016 - art.
+  - Arrêté du 3 août 2016 - art. 1
+  - Code de l'aviation civile - art. D213-1-4 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D213-1 (V)
+
+
+##### Sous-section 2 : Organisation du service<a id=211></a>
+
+##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs<a id=212></a>
+
+###### Article D213-1-4
+
+Les fonctions d'encadrement du service de sauvetage et de lutte contre l'incendie des aéronefs sont exercées par un
+responsable du service de sauvetage et de lutte contre l'incendie des aéronefs, chargé :
+
+- d'encadrer et de veiller au maintien en état opérationnel d'intervention des moyens dont est doté l'aérodrome en
+application de l'article D. 213-1-3 ;
+
+- de veiller à l'application des consignes opérationnelles prévues à l'article D. 213-1-9 ;
+
+- de rédiger et transmettre les comptes rendus ;
+
+- de proposer diverses mesures relatives aux procédures d'intervention des moyens du service et à leur coordination avec ceux
+susceptibles d'être fournis par d'autres personnes dans le cadre des dispositions fixées par le plan de secours spécialisé de
+l'aérodrome. 
+
+En outre, sur les aérodromes ayant un niveau de protection supérieur ou égal à 6, un ou plusieurs chefs de manoeuvre, placés
+sous les ordres du responsable du service, sont chargés de conduire et diriger sur le lieu d'intervention les pompiers
+d'aérodrome.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 27 (V)
+  - Arrêté du 18 janvier 2007 - art. 27 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D213-1-3 (V)
+  - Code de l'aviation civile - art. D213-1-9 (V)
+
+
+###### Article D213-1-5
+
+Les fonctions d'exécution du service de sauvetage et de lutte contre l'incendie des aéronefs sont exercées par des pompiers
+d'aérodrome chargés de mettre en oeuvre le matériel mis à leur disposition, d'intervenir conformément aux consignes établies
+et d'assurer toutes tâches visant à améliorer la sécurité des personnes et des biens, à prévenir les incendies ou accidents
+d'aéronefs et à assurer le sauvetage, l'évacuation et la dispense des premiers secours aux personnes accidentées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 27 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+###### Article D213-1-6
+
+L'exercice, sur un aérodrome déterminé, des fonctions de chef de manoeuvre, de pompier d'aérodrome et, sur les aérodromes
+ayant un niveau de protection supérieur ou égal à 6, de responsable du service de sauvetage et de lutte contre l'incendie des
+aéronefs est soumis à l'obtention d'un agrément délivré par le préfet exerçant les pouvoirs de police sur cet aérodrome.
+
+Les conditions d'octroi, de maintien, de retrait et de suspension de l'agrément sont définies par arrêté conjoint du ministre
+chargé de l'aviation civile et du ministre chargé de la sécurité civile, compte tenu notamment des fonctions devant être
+exercées, du niveau de protection de l'aérodrome où doit s'exercer l'activité et des compétences techniques exigées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 10 (V)
+  - Arrêté du 9 janvier 2001 - art. 11 (V)
+  - Arrêté du 9 janvier 2001 - art. 6 (V)
+  - Arrêté du 9 janvier 2001 - art. 8 (V)
+  - Arrêté du 9 janvier 2001 - art. 9 (V)
+  - Arrêté du 18 janvier 2007 - art. 10 (V)
+  - Arrêté du 18 janvier 2007 - art. 10 ter (M)
+  - Arrêté du 18 janvier 2007 - art. 11 (V)
+  - Arrêté du 18 janvier 2007 - art. 6 (V)
+  - Arrêté du 18 janvier 2007 - art. 8 (V)
+  - Arrêté du 18 janvier 2007 - art. 9 (V)
+  - Arrêté du 17 août 2010 - art. 2 (V)
+  - Arrêté du 17 août 2010 - art. 5 (V)
+  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+  - Arrêté du 22 décembre 2015 - art. 2
+  - Décret n°2017-567 du 19 avril 2017 - art. 10 (V)
+  - Arrêté du 3 mai 2017 - art. 4
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=213></a>
+
+###### Article D213-1-7
+
+Le ministre chargé de l'aviation civile et le ministre chargé de la sécurité civile déterminent par arrêté conjoint les
+règles techniques relatives aux produits extincteurs, véhicules et équipements affectés sur un aérodrome au service de
+sauvetage et de lutte contre l'incendie des aéronefs, ainsi que les conditions dans lesquelles il est attesté de la
+conformité de ces divers matériels aux règles techniques en vigueur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 du 30 mars 1967
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 15 (V)
+  - Arrêté du 18 janvier 2007 - art. 15 (VT)
+  - Arrêté du 17 août 2010 - art. 4 (V)
+  - Arrêté du 12 juillet 2012 - art. (VT)
+  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+  - Décret n°2016-1061 du 3 août 2016 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-1061 du 3 août 2016 - art. 1
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+###### Article D213-1-8
+
+Les postes d'incendie affectés sur un aérodrome au service de sauvetage et de lutte contre l'incendie des aéronefs font
+l'objet de prescriptions techniques définies par arrêté conjoint du ministre chargé de l'aviation civile et du ministre
+chargé de la sécurité civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+##### 3. Règles d'intervention<a id=214></a>
+
+###### Article D213-1-9
+
+Sur chaque aérodrome, l'exploitant d'aérodrome ou l'organisme auquel il a confié l'exécution du service établit, suivant des
+règles et un modèle type définis par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la
+sécurité civile, des consignes opérationnelles permettant d'atteindre l'objet prévu à l'article D. 213-1. 
+
+Les consignes opérationnelles fixent notamment :
+
+- les modalités d'intervention des divers moyens selon les circonstances en présence et le niveau de protection de
+l'aérodrome ;
+
+- les conditions dans lesquelles il est rendu compte du fonctionnement du service ;
+
+- les conditions de maintenance et d'entretien des matériels et infrastructures du service. 
+
+Ces consignes et leurs éventuelles modifications sont communiquées sans délai au préfet exerçant les pouvoirs de police sur
+l'aérodrome concerné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 30 (V)
+  - Arrêté du 18 janvier 2007 - art. 30 (V)
+  - Code de l'aviation civile - art. D213-1-10 (V)
+  - Code de l'aviation civile - art. D213-1-14 (V)
+  - Code de l'aviation civile - art. D213-1-4 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D213-1 (V)
+
+
+##### Sous-section 3 : Contrôle de l'Etat<a id=215></a>
+
+###### Article D213-1-10
+
+Le préfet exerçant les pouvoirs de police sur l'aérodrome contrôle le respect des dispositions du présent chapitre par
+l'exploitant d'aérodrome ou l'organisme auquel il a confié le service.
+
+A cette fin, celui-ci peut :
+
+- obtenir communication des différents comptes rendus établis conformément à l'article D. 213-1-9 ;
+
+- effectuer toute visite dans l'enceinte aéroportuaire et obtenir communication de toute pièce justifiant le respect de la
+réglementation en vigueur par l'exploitant ou l'organisme auquel il a confié le service, notamment de l'obtention et de la
+validité des divers agréments ;
+
+- recommander les améliorations ou modifications qu'il y a lieu d'apporter dans l'organisation ou le fonctionnement du
+service ;
+
+- prescrire les mesures nécessaires au respect de la présente réglementation, notamment lors de la communication des
+consignes opérationnelles et de leur modification.
+
+Le contrôle exercé ne dégage pas l'exploitant d'aérodrome ou l'organisme auquel il a confié le service des responsabilités
+qui lui incombent en application de l'article L. 213-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 2001 - art. 30 (V)
+  - Décret n°2017-567 du 19 avril 2017 - art. 10 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D213-1-9 (V)
+  - Code de l'aviation civile - art. L213-3 (M)
+
+
+###### Article D213-1-11
+
+Après mise en demeure restée infructueuse, le préfet peut prendre toute mesure destinée à pallier le non-respect de la
+réglementation du présent chapitre par l'exploitant d'aérodrome, ou l'organisme auquel a été confié le service selon la
+personne responsable du manquement.
+
+A cette fin, le préfet peut notamment faire exécuter d'office le service par des personnels et matériels agréés ou décider la
+cessation totale ou partielle de l'activité aéroportuaire. Ces mesures sont décidées aux frais, risques et périls financiers
+de l'exploitant d'aérodrome.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+###### Article D213-1-12
+
+Pour l'exercice des missions conférées par la présente section, le préfet peut déléguer sa signature au directeur de
+l'aviation civile en métropole, au directeur régional de l'aviation civile Antilles-Guyane en Guadeloupe, Martinique et
+Guyane et au chef du service de l'aviation civile territorialement compétent pour la Réunion et pour la collectivité
+territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
+
+
+#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=216></a>
 
 ###### Article D216-1
 
@@ -23932,9 +24476,9 @@ _Créé par_:
   - Décret n°98-211 du 23 mars 1998 - art. 1 () JORF 25 mars 1998
 
 
-### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=209></a>
+### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=217></a>
 
-#### CHAPITRE Ier : CREATION.<a id=210></a>
+#### CHAPITRE Ier : CREATION.<a id=218></a>
 
 ###### Article D221-1
 
@@ -24068,7 +24612,7 @@ _Cité par_:
   - Décret n°2017-1490 du 24 octobre 2017 (V)
 
 
-#### CHAPITRE II : CLASSEMENT.<a id=211></a>
+#### CHAPITRE II : CLASSEMENT.<a id=219></a>
 
 ###### Article D222-1
 
@@ -24120,7 +24664,7 @@ _Cite_:
   - Code de l'aviation civile - art. R222-5 (V)
 
 
-#### CHAPITRE IV : REDEVANCES.<a id=212></a>
+#### CHAPITRE IV : REDEVANCES.<a id=220></a>
 
 ###### Article D224-1
 
@@ -24142,9 +24686,9 @@ _Créé par_:
   - Décret n°80-910 1980-11-17 art. 1 JORF 21 novembre 1980
 
 
-### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=213></a>
+### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=221></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=214></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=222></a>
 
 ###### Article D231-1
 
@@ -24181,7 +24725,7 @@ _Cite_:
   - Code de l'aviation civile - art. D211-2 (V)
 
 
-#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=215></a>
+#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=223></a>
 
 ###### Article D232-1
 
@@ -24387,7 +24931,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-6 (V)
 
 
-#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=216></a>
+#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=224></a>
 
 ###### Article D233-1
 
@@ -24532,11 +25076,11 @@ _Cite_:
   - Code de l'aviation civile - art. R131-3 (V)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=217></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=225></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=218></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=226></a>
 
-##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=219></a>
+##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=227></a>
 
 ###### Article D241-1
 
@@ -24608,7 +25152,7 @@ _Abrogé par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=220></a>
+##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=228></a>
 
 ###### Article D241-4
 
@@ -24629,9 +25173,9 @@ _Cité par_:
   - Code de l'aviation civile - art. D242-7 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=221></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=229></a>
 
-##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=222></a>
+##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=230></a>
 
 ###### Article D242-1
 
@@ -24737,7 +25281,7 @@ _Cite_:
   - Code de l'aviation civile R241-5, D242-2
 
 
-##### Section 2 : Application du plan de dégagement.<a id=223></a>
+##### Section 2 : Application du plan de dégagement.<a id=231></a>
 
 ###### Article D242-6
 
@@ -24985,7 +25529,7 @@ _Créé par_:
   - Décret n°73-309 1973-03-09 art. 2 JORF 20 mars 1973
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=224></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=232></a>
 
 ###### Article D243-1
 
@@ -25193,7 +25737,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-5 (V)
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=225></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=233></a>
 
 ###### Article D244-1
 
@@ -25312,7 +25856,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=226></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=234></a>
 
 ###### Article D245-1
 
@@ -25386,11 +25930,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE V : AEROPORTS DE PARIS<a id=227></a>
+### TITRE V : AEROPORTS DE PARIS<a id=235></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=228></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=236></a>
 
-##### Section 1 : Aérodromes constituant Aéroports de Paris.<a id=229></a>
+##### Section 1 : Aérodromes constituant Aéroports de Paris.<a id=237></a>
 
 ###### Article D251-1
 
@@ -25455,7 +25999,7 @@ _Modifié par_:
   - Loi n°99-409 1999-05-21 art. 2 JORF 26 mai 1999
 
 
-#### CHAPITRE II : REGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE<a id=230></a>
+#### CHAPITRE II : REGLES D'ADMINISTRATION, DE GESTION ET DE CONTROLE<a id=238></a>
 
 ###### Article D252-1
 
@@ -25514,11 +26058,11 @@ _Cite_:
   - Code de l'aviation civile - art. R224-2 (An)
 
 
-## LIVRE III : TRANSPORT AERIEN.<a id=231></a>
+## LIVRE III : TRANSPORT AERIEN.<a id=239></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=232></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=240></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=233></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=241></a>
 
 ###### Article D321-1
 
@@ -25557,9 +26101,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=234></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=242></a>
 
-#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=235></a>
+#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=243></a>
 
 ###### Article D330-1
 
@@ -25594,9 +26138,9 @@ _Cite_:
   - Code de l'aviation civile - art. R330-4 (V)
 
 
-### TITRE IV : SOCIETE AIR FRANCE.<a id=236></a>
+### TITRE IV : SOCIETE AIR FRANCE.<a id=244></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=237></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=245></a>
 
 ###### Article D342-1
 
@@ -25617,7 +26161,7 @@ _Modifié par_:
   - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
-### TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE.<a id=238></a>
+### TITRE VI : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPÉRIEUR DE L'AVIATION MARCHANDE.<a id=246></a>
 
 ###### Article D360-1
 
@@ -26004,9 +26548,9 @@ _Nouveaux textes_:
   - Code de l'aviation civile - art. D370-11 (V)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=239></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=247></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=240></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=248></a>
 
 ###### Article D410-1
 
@@ -26078,9 +26622,9 @@ _Cite_:
   - Code de l'aviation civile - art. D410-1 (M)
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=241></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=249></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=242></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=250></a>
 
 ###### Article D421-1
 
@@ -26385,9 +26929,9 @@ _Cité par_:
   - Arrêté du 21 janvier 1998 - art. 4 (V)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=243></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=251></a>
 
-##### Section 1 : Dispositions générales<a id=244></a>
+##### Section 1 : Dispositions générales<a id=252></a>
 
 ###### Article D422-1
 
@@ -26920,7 +27464,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-4-1 (V)
 
 
-##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=245></a>
+##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=253></a>
 
 ###### Article D422-8
 
@@ -26969,7 +27513,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D241-22 (Ab)
 
 
-##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=246></a>
+##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=254></a>
 
 ###### Article D422-9
 
@@ -27245,7 +27789,7 @@ _Annulé par_:
   - Conseil d'Etat n°122938 2003-03-19
 
 
-##### Section 4 : Période de transition<a id=247></a>
+##### Section 4 : Période de transition<a id=255></a>
 
 ###### Article D422-14
 
@@ -27277,7 +27821,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Section 5 : Mesures de contrôle<a id=248></a>
+##### Section 5 : Mesures de contrôle<a id=256></a>
 
 ###### Article D422-15
 
@@ -27328,9 +27872,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=249></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=257></a>
 
-##### Section 2 : Conseil médical<a id=250></a>
+##### Section 2 : Conseil médical<a id=258></a>
 
 ###### Article D424-1
 
@@ -27695,9 +28239,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=251></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=259></a>
 
-#### CHAPITRE V : DISCIPLINE.<a id=252></a>
+#### CHAPITRE V : DISCIPLINE.<a id=260></a>
 
 ###### Article D435-1
 
@@ -28084,9 +28628,9 @@ _Abrogé par_:
   - Décret n°2011-484 du 3 mai 2011 - art. 2
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=253></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=261></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=254></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=262></a>
 
 ###### Article D510-1
 
@@ -28340,9 +28884,9 @@ _Cité par_:
   - Arrêté du 8 janvier 2018 - art. 3 (V)
 
 
-### TITRE II : AIDE AUX JEUNES<a id=255></a>
+### TITRE II : AIDE AUX JEUNES<a id=263></a>
 
-#### Section 1 : Aide aux jeunes.<a id=256></a>
+#### Section 1 : Aide aux jeunes.<a id=264></a>
 
 ###### Article D521-1
 
@@ -28431,7 +28975,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=257></a>
+#### Section 2 : Aide à la construction amateur.<a id=265></a>
 
 ###### Article D521-4
 
@@ -28497,9 +29041,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=258></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=266></a>
 
-### Section 1 : Avions photographes.<a id=259></a>
+### Section 1 : Avions photographes.<a id=267></a>
 
 ###### Article D611-1
 
@@ -28524,7 +29068,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=260></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=268></a>
 
 ###### Article D611-2
 
@@ -28636,11 +29180,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-# Annexes<a id=261></a>
+# Annexes<a id=269></a>
 
-## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=262></a>
+## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=270></a>
 
-### REGLES DE l'AIR<a id=263></a>
+### REGLES DE l'AIR<a id=271></a>
 
 ###### Article Annexe I : Appendice A
 
@@ -31186,9 +31730,9 @@ _Modifié par_:
   - Décret n°94-947 1994-10-25 annexe I JORF 3 novembre 1994 en vigueur le 3 décembre 1994
 
 
-## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=264></a>
+## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=272></a>
 
-### SERVICES DE LA CIRCULATION AERIENNE<a id=265></a>
+### SERVICES DE LA CIRCULATION AERIENNE<a id=273></a>
 
 ###### Article Annexe II : Appendice A
 
@@ -32424,7 +32968,7 @@ pas la situation.
 
 
 
-## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=266></a>
+## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=274></a>
 
 ###### Article Annexe III
 
