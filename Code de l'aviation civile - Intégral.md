@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1978-01-01
+Version Consolidée au 1978-04-06
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -183,7 +183,7 @@ Version Consolidée au 1978-01-01
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#180)
     - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-11)](#181)
       - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#182)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-6)](#183)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-7)](#183)
         - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#184)
         - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-16)](#185)
           - [Section 5 : Mesures de contrôle (art. D422-16)](#186)
@@ -192,8 +192,8 @@ Version Consolidée au 1978-01-01
             - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-4)](#189)
             - [Paragraphe 2 : Mesures de contrôle. (art. D422-7)](#190)
           - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#191)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-6)](#192)
-          - [Section 2 : Conseil médical (art. D424-2 à D424-6)](#193)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-7)](#192)
+          - [Section 2 : Conseil médical (art. D424-2 à D424-7)](#193)
       - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-11)](#194)
         - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-11)](#195)
     - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#196)
@@ -14867,6 +14867,37 @@ _Modifié par_:
   - Décret n°72-444 1972-05-26 art. 1 JORF 1er juin 1972
 
 
+###### Article D424-4
+
+Les membres du conseil médical sont convoqués individuellement à chaque séance par le président.
+
+En cas d'absence ou d'empêchement, le président est remplacé par le vice président.
+
+Le conseil ne peut valablement délibérer que si cinq au moins de ses membres à voix délibérative sont présents, compte tenu
+des cas d'incompatibilité prévus à l'alinéa ci-après.
+
+Les membres du conseil ne peuvent prendre part aux délibérations portant sur l'examen des cas individuels dont ils ont déjà
+eu à connaître à l'occasion de leur activité extérieure au conseil.
+
+Les délibérations ont lieu à huis clos. Les décisions et avis sont prononcés à la majorité des voix. En cas de partage égal
+des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°55-1348 1955-10-05 art. 4
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°72-444 1972-05-26 art. 3 JORF 1er juin 1972
+  - Décret n°78-513 1978-04-04 art. 2 JORF 6 avril 1978
+
+
 ###### Article D424-5
 
 Le président du conseil médical peut appeler à siéger au conseil, avec voix consultative, des personnalités qu'il juge
@@ -14916,6 +14947,38 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'aviation civile - art. D424-2 (M)
+
+
+###### Article D424-7
+
+Le secrétariat du conseil médical de l'aéronautique civile est assuré par le bureau médical du personnel navigant. Les
+affaires mentionnées au second alinéa de l'article D. 424-2 seront rapportées par le chef du bureau médical qui est docteur
+en médecine et possède une compétence en médecine aéronautique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°55-1348 1955-10-05 art. 7
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°78-513 1978-04-04 art. 3 JORF 6 avril 1978
+
+_Cité par_:
+
+  - Arrêté du 19 décembre 2008 - art. 15 (Ab)
+  - Arrêté du 13 octobre 2014 - art. 15 (Ab)
+  - Arrêté du 7 décembre 2015 - art. 17 (V)
+  - Code de l'aviation civile - art. D424-6 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D424-2 (V)
 
 
 ### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=194></a>
