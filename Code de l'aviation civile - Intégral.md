@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1990-07-01
+Version Consolidée au 1990-07-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -7225,25 +7225,27 @@ _Créé par_:
 ###### Article R134-1
 
 L'usage des installations et services mis en oeuvre par l'Etat au-dessus du territoire métropolitain et dans son voisinage,
-pour la sécurité de la circulation aérienne en route et la rapidité de ses mouvements, y compris les services de radio-
-communication et de météorologie, donne lieu à rémunération sous forme d'une redevance pour services rendus, dite redevance
-de route.
+pour la sécurité de la circulation aérienne en route et la rapidité de ses mouvements, y compris les services de
+radiocommunication et de météorologie, donne lieu à rémunération sous forme d'une redevance pou services rendus, dite
+redevance de route.
 
-La redevance est due pour chaque vol par l'exploitant de l'aéronef ou, s'il est inconnu, par le propriétaire de l'aéronef.
-
-Son montant est déterminé, en fonction de la distance parcourue dans l'espace aérien dans lequel sont mis en oeuvre les
-installations et services mentionnés au premier alinéa ci-dessus et en fonction de la masse maximale au décollage de
-l'aéronef, à l'aide d'un taux unitaire et suivant des modalités fixées par arrêté du ministre chargé de l'aviation civile, du
-ministre chargé de la défense nationale et du ministre chargé des finances.
-
-L'arrêté peut prévoir des modes de calcul fondés sur des moyennes, éventuellement pondérées, pour certaines catégories de
-vols ou pour les aéronefs d'un même type exploités par une même entreprise.
+Un arrêté conjoint du ministre chargé des finances et du ministre chargé de l'aviation civile assure la publication des
+règles relatives à la redevance pour services rendus, dite redevance de route, adoptées par les instances compétentes,
+conformément à l'accord multilatéral fait à Bruxelles le 12 février 1981.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Accord 1981-02-12, fait à Bruxelles
 
 _Codifié par_:
 
   - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°90-641 du 18 juillet 1990 - art. 1 () JORF 21 juillet 1990
 
 **Liens**:
 
@@ -7260,43 +7262,28 @@ _Cité par_:
   - Code de l'aviation civile - art. R134-2 (M)
   - Code de l'aviation civile - art. R134-4 (VD)
 
-_Créé par_:
-
-  - Décret n°72-325 1972-04-28 art. 1 JORF 29 avril 1972
-
 
 ###### Article R134-2
 
-Sont éxonérés de la redevance de route :
-
-Les vols exécutés par les aéronefs militaires et par les aéronefs appartenant à l'Etat, à condition que ces vols ne soient
-pas effectués à des fins commerciales ;
-
-Les vols exécutés par les aéronefs des catégories précédentes appartenant à des Etats ayant conclu avec la France des accords
-de réciprocité ;
-
-Les vols de recherche et de sauvetage ;
-
-Les vols se terminant à l'aérodrome de départ de l'aéronef, au cours desquels aucun atterrissage n'a eu lieu ;
-
-Les vols de contrôle ou d'essai des aides à la navigation ;
-
-Les vols d'essai des aéronefs et les vols servant uniquement à l'instruction et à l'entraînement du personnel navigant.
-
-L'arrêté mentionné à l'article R. 134-1 peut en outre prévoir des exonérations ou des réductions de tarifs en faveur :
-
-Des vols effectués en totalité selon les règles de vol à vue ;
-
-Des vols exécutés par les aéronefs civils dont la masse maximale au décollage est inférieure à 5,7 tonnes ;
-
-Des vols dont l'aérodrome de départ et l'aérodrome d'arrivée sont situés sur le territoire métropolitain et qui ne comportent
-ni escale intermédiaire ni escale antérieure ou ultérieure en territoire étranger.
+Eurocontrol peut demander au ministre chargé de l'aviation civile d'émettre un état exécutoire pour la redevance de route qui
+est due, augmentée éventuellement des éléments accessoires déterminés par les instances internationales compétentes. Cet état
+exécutoire est confié à l'agent judiciaire du Trésor, qui procède au recouvrement dans les conditions prévues pour les
+créances de l'Etat, mentionnées à l'article 80 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur
+la comptabilité publique.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°62-1587 du 29 décembre 1962 - art. 80 (V)
 
 _Codifié par_:
 
   - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°90-641 du 18 juillet 1990 - art. 1 () JORF 21 juillet 1990
 
 **Liens**:
 
@@ -7305,48 +7292,6 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 18 juillet 1990 - art. 2 (Ab)
   - TXT_SOURCE: Arrêté du 18 juillet 1990 - art. ANNEXE 1 (Ab)
   - TXT_SOURCE: Arrêté du 18 juillet 1990 - art. ANNEXE II, III (Ab)
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R134-1 (M)
-
-_Créé par_:
-
-  - Décret n°72-325 1972-04-28 art. 1 JORF 29 avril 1972
-
-
-###### Article R134-3
-
-Par dérogation aux dispositions du décret du 29 décembre 1962 portant règlement général sur la comptabilité publique, et
-notamment ses articles 3 et 11, les opérations de liquidation et de recouvrement de la redevance sont confiées à
-l'Organisation européenne pour la sécurité de la navigation aérienne (Eurocontrol) instituée par la convention internationale
-signée à Bruxelles le 13 décembre 1960.
-
-A défaut de versement du montant de la redevance à cette organisation dans les délais indiqués par elle, le recouvrement est
-poursuivi par les comptables du Trésor, dans les conditions prévues pour le recouvrement des créances de l'Etat étrangères à
-l'impôt et au domaine, au vu d'un ordre de recette exécutoire émis par le ministre chargé de l'aviation civile.
-
-Les produits perçus par l'organisation sont versés au Trésor public, déduction faite des frais de recouvrement fixés par
-arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Convention 1960-12-13, signée à Bruxelles
-  - Décret n°1962-12-29 art. 3, 11
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Abrogé par_:
-
-  - Décret n°90-641 du 18 juillet 1990 - art. 1 () JORF 21 juillet 1990
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. R134-4 (VT)
 
 
 ###### Article R134-4
