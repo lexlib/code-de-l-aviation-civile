@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1984-05-27
+Version Consolidée au 1984-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -128,100 +128,105 @@ Version Consolidée au 1984-05-27
         - [Section 1 : Transports sanitaires. (art. R351-1)](#125)
         - [Section 2 : Transports par moyens militaires. (art. R351-2)](#126)
     - [LIVRE IV : PERSONNEL NAVIGANT (art. R421-1 à R433-1)](#127)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R426-28)](#128)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#128)
         - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#129)
           - [Section 1 : Catégories. (art. R421-1 à R421-6)](#130)
           - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-17)](#131)
         - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#132)
-        - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-5)](#133)
+        - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-6)](#133)
         - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. R424-1 à R424-7)](#134)
         - [CHAPITRE V : DISCIPLINE. (art. R425-1 à R425-19)](#135)
         - [CHAPITRE VI : RETRAITES. (art. R426-1 à R426-28)](#136)
-          - [Section 2 : Cotisations. (art. R426-6 à R426-9)](#137)
-          - [Section 6 : Dispositions diverses. (art. R426-26)](#138)
-          - [Section 7 : Dispositions transitoires. (art. R426-28)](#139)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. R433-1)](#140)
-        - [CHAPITRE III : REDEVANCES. (art. R433-1)](#141)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#142)
-      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#143)
-        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#144)
-        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#145)
-    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-2)](#146)
-  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#147)
-    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-19)](#148)
-      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#149)
-        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-36)](#150)
-        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#151)
-        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#152)
-      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-2 à D133-19)](#153)
-        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-2 à D131-15)](#154)
-          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-2 à D131-14)](#155)
-            - [Paragraphe 1 : Définition des types de circulation aérienne. (art. D131-2)](#156)
-            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#157)
-          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#158)
-        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-7)](#159)
-          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#160)
-          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#161)
-          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6)](#162)
-          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7)](#163)
-        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-7 à D133-19)](#164)
-          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-7 à D133-9)](#165)
-            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#166)
-          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#167)
-          - [Section 3 : Radiocommunications des services aériens. (art. D133-19)](#168)
-    - [LIVRE II : AERODROMES. (art. D211-1 à D251-2)](#169)
-      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D212-4)](#170)
-        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#171)
-        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#172)
-      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D224-1)](#173)
-        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#174)
-        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#175)
-        - [CHAPITRE IV : REDEVANCES. (art. D224-1)](#176)
-      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#177)
-        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#178)
-        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#179)
-        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#180)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#181)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#182)
-          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#183)
-          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#184)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#185)
-          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#186)
-          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#187)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#188)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#189)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#190)
-      - [TITRE V : AÉROPORT DE PARIS (art. D251-1 à D251-2)](#191)
-        - [CHAPITRE Ier : DISPOSITIONS GÉNÉRALES (art. D251-1 à D251-2)](#192)
-          - [Section 1 : Aérodromes constituant l'Aéroport de Paris. (art. D251-1 à D251-2)](#193)
-    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D342-1)](#194)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#195)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#196)
-      - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. D342-1)](#197)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#198)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#199)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#200)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#201)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#202)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-16)](#203)
-          - [Section 5 : Mesures de contrôle (art. D422-16)](#204)
-        - [CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE (art. D422-1 à D422-15)](#205)
-          - [Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction (art. D422-1 à D422-7)](#206)
-            - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-5)](#207)
-            - [Paragraphe 2 : Mesures de contrôle. (art. D422-6 à D422-7)](#208)
-          - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#209)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#210)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#211)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#212)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#213)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#214)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-6)](#215)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#216)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#217)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#218)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#219)
-      - [Section 1 : Avions photographes. (art. D611-1)](#220)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#221)
+          - [Section 1 : Définitions. (art. R426-5)](#137)
+          - [Section 2 : Cotisations. (art. R426-6 à R426-10)](#138)
+          - [Section 3 : Constitution du droit à pension. (art. R426-11 à R426-15-3)](#139)
+          - [Section 4 : Calcul de la pension. (art. R426-16-1 à R426-18)](#140)
+          - [Section 5 : Pension de réversion. (art. R426-19 à R426-23)](#141)
+          - [Section 6 : Dispositions diverses. (art. R426-24 à R426-27)](#142)
+          - [Section 7 : Dispositions transitoires. (art. R426-28)](#143)
+        - [CHAPITRE VIII : DISPOSITIONS COMMUNES. (art. R428-1)](#144)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. R433-1)](#145)
+        - [CHAPITRE III : REDEVANCES. (art. R433-1)](#146)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#147)
+      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#148)
+        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#149)
+        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#150)
+    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-2)](#151)
+  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#152)
+    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-19)](#153)
+      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#154)
+        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-36)](#155)
+        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#156)
+        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#157)
+      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-2 à D133-19)](#158)
+        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-2 à D131-15)](#159)
+          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-2 à D131-14)](#160)
+            - [Paragraphe 1 : Définition des types de circulation aérienne. (art. D131-2)](#161)
+            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#162)
+          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#163)
+        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-7)](#164)
+          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#165)
+          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#166)
+          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6)](#167)
+          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7)](#168)
+        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-7 à D133-19)](#169)
+          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-7 à D133-9)](#170)
+            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#171)
+          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#172)
+          - [Section 3 : Radiocommunications des services aériens. (art. D133-19)](#173)
+    - [LIVRE II : AERODROMES. (art. D211-1 à D251-2)](#174)
+      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D212-4)](#175)
+        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#176)
+        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#177)
+      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D224-1)](#178)
+        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#179)
+        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#180)
+        - [CHAPITRE IV : REDEVANCES. (art. D224-1)](#181)
+      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#182)
+        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#183)
+        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#184)
+        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#185)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#186)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#187)
+          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#188)
+          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#189)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#190)
+          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#191)
+          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#192)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#193)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#194)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#195)
+      - [TITRE V : AÉROPORT DE PARIS (art. D251-1 à D251-2)](#196)
+        - [CHAPITRE Ier : DISPOSITIONS GÉNÉRALES (art. D251-1 à D251-2)](#197)
+          - [Section 1 : Aérodromes constituant l'Aéroport de Paris. (art. D251-1 à D251-2)](#198)
+    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D342-1)](#199)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#200)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#201)
+      - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. D342-1)](#202)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#203)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#204)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-2)](#205)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#206)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-9)](#207)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-16)](#208)
+          - [Section 5 : Mesures de contrôle (art. D422-16)](#209)
+        - [CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE (art. D422-1 à D422-15)](#210)
+          - [Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction (art. D422-1 à D422-7)](#211)
+            - [Paragraphe 1 : Dispositions générales. (art. D422-1 à D422-5)](#212)
+            - [Paragraphe 2 : Mesures de contrôle. (art. D422-6 à D422-7)](#213)
+          - [Section 2 : Durée du travail des équipages sur les avions à réaction. (art. D422-8 à D422-15)](#214)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#215)
+          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#216)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#217)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#218)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#219)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-6)](#220)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#221)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#222)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#223)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#224)
+      - [Section 1 : Avions photographes. (art. D611-1)](#225)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#226)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -11950,6 +11955,33 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
+###### Article R423-6
+
+Tout employeur doit notifier sans délai à la caisse de retraite mentionnée aux articles L. 424-5 et L. 424-6 et dans les
+conditions précisées par le conseil d'administration de ladite caisse toute conclusion d'un contrat de travail avec un
+navigant professionnel ou stagiaire de l'aéronautique civile.
+
+Faute par l'employeur d'avoir effectué cette notification, celle-ci peut l'être par l'intéressé lui-même.
+
+Aucune des prestations prévues par les chapitres IV et VI du présent titre ne peut être versée si la notification mentionnée
+aux deux premiers alinéas n'a pas été faite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L424-5 (V)
+  - Code de l'aviation civile - art. L424-6 (V)
+
+
 #### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=134></a>
 
 ###### Article R424-1
@@ -11977,6 +12009,41 @@ _Cite_:
 
   - Code de l'aviation civile - art. L424-1 (V)
   - Code de l'aviation civile - art. L424-2 (V)
+
+
+###### Article R424-2
+
+L'indemnité en capital versée en application de l'article L. 424-6 à un membre du personnel navigant professionnel ou
+stagiaire de l'aéronautique civile, lorsqu'il est frappé, à raison d'un fait survenu en cours d'exécution du contrat de
+travail, d'incapacité d'exercer la profession de navigant, est calculée en appliquant à l'indemnité qui lui serait due en cas
+d'incapacité permanente totale un pourcentage égal au taux de son incapacité ; toutefois cette somme ne pourra être
+inférieure à 50 % de celle qui lui serait attribuée dans le cas d'incapacité totale.
+
+L'indemnité ainsi calculée est réduite de 1 % par mois d'âge au-delà de cinquante ans sans qu'elle puisse être inférieure à
+20 % du montant prévu en cas d'incapacité totale.
+
+Les conditions d'ouverture du droit à cette indemnité sont appréciées et les modalités de calcul fixées à la date de
+l'inaptitude définitive.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. R424-6 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L424-6 (V)
 
 
 ###### Article R424-3
@@ -12709,6 +12776,69 @@ _Nouveaux textes_:
   - Code des transports - art. L6527-2 (V)
 
 
+###### Article R426-2
+
+La caisse de retraite est administrée par un conseil d'administration comprenant :
+
+a) Un président désigné par arrêté du ministre chargé de l'aviation civile sur proposition du conseil d'administration ;
+
+b) Douze représentants des employeurs nommés par arrêté du ministre chargé de l'aviation civile au vu des propositions
+présentées par la Compagnie nationale Air France, les organisations professionnelles des employeurs et les ministères
+employeurs de personnel navigant professionnel ; douze administrateurs suppléants sont désignés dans les mêmes conditions.
+
+c) Douze représentants des affiliés, dont trois retraités.
+
+Les représentants des affiliés sont élus par ceux-ci au scrutin de liste majoritaire. Un arêté du ministre chargé de
+l'aviation civile et du ministre chargé de la tutelle des industries aéronautiques précise les modalités de ce scrutin,
+notamment le nombre des collèges électoraux, la répartition des affiliés et le nombre de leurs représentants pour chacun de
+ces collèges.
+
+Douze administrateurs suppléants sont élus dans les mêmes conditions que les administrateurs titulaires représentant les
+affiliés. Ils remplacent ces derniers en cas de vacance définitive en cours de mandat.
+
+La durée du mandat des représentants des affiliés est de trois ans. Ce mandat est renouvelable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+
+###### Article R426-3
+
+Un commissaire du Gouvernement désigné par arrêté conjoint des ministres chargés respectivement du budget, de la sécurité
+sociale et de l'aviation civile assiste aux délibérations du conseil.
+
+Hors le cas d'exécution immédiate à la suite d'une approbation expresse, les décisions du conseil sont exécutoires de plein
+droit dans un délai de vingt jours après leur communication aux ministres mentionnés au premier alinéa. Toutefois, elles
+peuvent être annulées, dans ce délai, par décision de l'un desdits ministres lorsqu'elles sont illégales ou susceptibles de
+mettre en péril l'équilibre financier de la caisse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+
 ###### Article R426-4
 
 L'équilibre financier de la caisse de retraite doit être assuré par ses seules ressources. Au cas où il serait constaté que
@@ -12734,7 +12864,118 @@ _Nouveaux textes_:
   - Code des transports - art. L6527-8 (V)
 
 
-##### Section 2 : Cotisations.<a id=137></a>
+##### Section 1 : Définitions.<a id=137></a>
+
+###### Article R426-5
+
+a) Salaire brut
+
+Le salaire brut s'entend après déduction des indemnités afférentes aux activités au sol indépendantes de la fonction de
+navigant, des indemnités afférentes à l'affectation hors métropole et des indemnités représentatives de frais.
+
+Pour les navigants exerçant hors de France métropolitaine, il est tenu compte d'un salaire brut fictif exprimé en francs
+métropolitains et déterminé annuellement par le conseil d'administration. Ce salaire brut fictif représente approximativement
+la rémunération qu'aurait en métropole un navigant de même ancienneté pour une activité similaire. Lorsque l'intéressé n'est
+pas obligatoirement assujetti au régime de sécurité sociale applicable en France métropolitaine et dans les départements
+d'outre-mer ou à un régime de protection sociale similaire en vigueur dans les territoires d'outre-mer, ledit salaire est
+majoré d'un neuvième du plafond de la deuxième tranche mentionnée au e du présent article.
+
+Les salaires bruts réels et les salaires bruts fictifs éventuellement majorés prévus à l'alinéa précédent sont plafonnés à la
+limite supérieure de la deuxième tranche définie au e du présent article.
+
+b) Indice de variation des salaires
+
+L'indice de variation des salaires est fixé chaque année le 1er juillet par le conseil d'administration, de manière à
+permettre d'indexer le niveau des pensions ainsi que les limites des tranches des salaires servant au calcul des cotisations
+sur le volume total des salaires ayant servi d'assiette aux cotisations.
+
+Pour établir cet indice, la caisse calcule, pour chacune des spécialités du personnel navigant telles qu'elles sont définies
+par le conseil d'administration, le salaire moyen brut non plafonné du dernier exercice civil connu. A cet effet, la masse
+salariale de chaque spécialité est divisée par un effectif théorique, lui-même déterminé en divisant par 360 le nombre de
+jours ayant donné lieu à cotisations. Le coefficient d'évolution des salaires par spécialité résulte du rapport entre ce
+salaire moyen non plafonné et celui de l'exercice civil de base 1981.
+
+En vue d'établir le coefficient global d'évolution des salaires, chaque coefficient d'évolution des salaires par spécialité
+est pondéré en fonction de l'effectif de la spécialité correspondante. Cette pondération s'effectue en multipliant ledit
+coefficient par l'effectif théorique de la spécialité. Le coefficient global d'évolution des salaires résulte du rapport
+entre la somme des produits ainsi obtenus et l'effectif théorique global, toutes spécialités confondues.
+
+A partir du 1er juillet 1984, le conseil d'administration de la caisse fixera chaque année l'indice applicable en fonction du
+produit obtenu en multipliant l'indice de 1981, soit 15,18, par le coefficient global d'évolution des salaires entre 1981 et
+l'année précédant immédiatement l'exercice en cours.
+
+c) Salaire moyen indexé de carrière
+
+Pour chacune des annuités ou fractions d'annuités validées à titre onéreux, le salaire indexé est obtenu en divisant le
+salaire brut plafonné défini au a du présent article, ayant servi d'assiette aux cotisations, par l'indice de l'année
+correspondante. Le salaire moyen indexé de carrière est obtenu en divisant la somme des salaires indexés par le nombre
+d'annuités validées à titre onéreux.
+
+Toutefois, et sous réserve du d du présent article, lorsque l'affilié réunit plus de vingt-cinq annuités constituées de
+services civils, les salaires afférents aux vingt-cinq meilleures annuités sont seuls pris en compte dans ce calcul.
+
+Lorsque la durée totale des services civils et des services de guerre précédés et suivis de services civils est supérieure à
+vingt-cinq ans, seuls sont pris en compte pour le calcul du salaire moyen les salaires afférents aux meilleures années de
+services civils, le nombre de ces années étant fixé à la différence entre vingt-cinq ans et la durée des services de guerre.
+
+Le salaire moyen indexé ainsi obtenu constitue une constante pour le calcul des arrérages de pension pour l'intéressé.
+
+d) Salaire moyen indexé majoré
+
+Lorsque l'affilié réunit plus de vingt-cinq annuités validées à titre onéreux, il est tenu compte partiellement, pour le
+calcul de la pension, des annuités supplémentaires, que celles-ci aient été validées à titre onéreux ou qu'elles l'aient été
+à titre gratuit au titre des d et e de l'article R. 426-13. Les services ainsi validés à titre gratuit doivent avoir été
+précédés et suivis de services civils.
+
+Le calcul de la pension s'effectue dans les conditions précisées par la formule suivante :
+
+[*formule non reproduite*]       dans laquelle :
+
+SMIM25, représente le salaire moyen majoré indexé annuel des vingt-cinq meilleures annuités ;
+
+SQM25, le salaire quotidien moyen indexé des vingt-cinq meilleures annuités ;
+
+NJV, les périodes décomptées en jours, précédées et suivies de services civils et validées au titre des d et e de l'article
+R. 426-13 ;
+
+X SIC, la somme des salaires indexés de carrière.
+
+e) Tranches de salaires
+
+Pour l'application du présent chapitre, le salaire annuel est divisé en deux tranches pour l'année de base 1962. Les limites
+des tranches de salaires retenues sont les suivantes :
+
+Première tranche de 0 à 38 400 F ;
+
+Deuxième tranche de 38 400 à 86 400 F ;
+
+Chaque année, ces limites sont réévaluées au 1er janvier et au 1er juillet des mêmes taux que ceux définis à l'article R.
+426-16-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. R426-10 (V)
+  - Code de l'aviation civile - art. R426-16-1 (V)
+  - Code de l'aviation civile - art. R426-16-2 (VD)
+  - Code de l'aviation civile - art. R426-16-3 (VD)
+  - Code de l'aviation civile - art. R426-19 (V)
+  - Code de l'aviation civile - art. R426-6 (VD)
+  - Code de l'aviation civile - art. R426-7 (VD)
+  - Code de l'aviation civile - art. R426-8 (M)
+
+
+##### Section 2 : Cotisations.<a id=138></a>
 
 ###### Article R426-6
 
@@ -12791,6 +13032,36 @@ _Cite_:
   - Code de l'aviation civile - art. R426-5 (M)
 
 
+###### Article R426-8
+
+Les cotisations prévues aux articles R. 426-6 et R. 426-7 sont appelées à concurrence des quatre cinquièmes des taux fixés
+durant une période qui s'étendra jusqu'à la plus rapprochée des dates ci-dessous :
+
+a) Date à laquelle les charges totales atteindront 75 p. 100 des ressources totales (cotisations plus intérêts des réserves ;
+
+b) Date à laquelle le montant des prestations atteindra celui des cotisations.
+
+A compter de cette date, le taux d'appel des cotisations sera relevé jusqu'au maximum de 100 p. 100 par décision du conseil
+d'administration en fonction de la situation des réserves.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. R426-14 (V)
+  - Code de l'aviation civile - art. R426-9 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-6 (V)
+  - Code de l'aviation civile - art. R426-7 (V)
+
+
 ###### Article R426-9
 
 Sur demande des intéressés, les cotisations des personnels navigants des essais réception et des parachutistes professionnels
@@ -12824,7 +13095,761 @@ _Cite_:
   - Code de l'aviation civile - art. R426-8 (M)
 
 
-##### Section 6 : Dispositions diverses.<a id=138></a>
+###### Article R426-10
+
+Les charges afférentes aux opérations mentionnées aux b et c de l'article R. 426-27 sont couvertes par des cotisations
+distinctes assises sur le salaire brut plafonné défini à l'article R. 426-5 dont les taux respectifs sont fixés par décision
+du conseil d'administration de la caisse de retraite.
+
+Si la somme des taux de ces cotisations est inférieure ou égale à 3 % du salaire brut plafonné, les cotisations sont
+supportées pour les deux tiers par les employeurs et pour un tiers par les affiliés.
+
+Si la somme de ces taux est comprise entre 3 et 4 %, la contribution des employeurs est limitée à 2 %, l'excédent de
+contribution étant à la charge intégrale des affiliés.
+
+Si la somme de ces taux dépasse 4 %, la fraction excédentaire est supportée pour les deux tiers par les employeurs et pour un
+tiers par les affiliés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. R426-14 (M)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-27 (M)
+  - Code de l'aviation civile - art. R426-5 (M)
+
+
+##### Section 3 : Constitution du droit à pension.<a id=139></a>
+
+###### Article R426-11
+
+Le droit à pension à taux plein n'est ouvert que lorsque l'affilié compte au moins vingt-cinq annuités acquises au titre de
+services valables pour la retraite tels qu'ils sont définis à l'article R. 426-13.
+
+Lorsque l'intéressé compte moins de vingt-cinq annuités au titre de services valables pour la retraite, il a droit à une
+pension proportionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Décret n°2011-1500 du 10 novembre 2011 - art. 26 (VD)
+  - Code de l'aviation civile - art. D424-2 (M)
+  - Code de l'aviation civile - art. R426-12 (V)
+  - Code de l'aviation civile - art. R426-14 (V)
+  - Code de l'aviation civile - art. R426-15-1 (M)
+  - Code de l'aviation civile - art. R426-15-2 (V)
+  - Code de l'aviation civile - art. R426-15-3 (V)
+  - Code de l'aviation civile - art. R426-16-1 (V)
+  - Code de l'aviation civile - art. R426-17 (V)
+  - Code de l'aviation civile - art. R426-25 (VT)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-13 (M)
+
+
+###### Article R426-12
+
+Sera comptée pour une année entière toute année ayant donné lieu à versement de cotisations pendant douze mois et au cours de
+laquelle l'affilié aura accompli un nombre d'heures de vol égal à quatre fois la durée du travail normal mensuel définie par
+les articles D. 422-1 à D. 422-7 pour les avions à hélices et par les articles D. 422-8 à D. 422-15 pour les avions à
+réaction.
+
+Ce minimum d'heures de vol pourra être abaissé par décision du conseil d'administration, notamment pour les essais et
+réceptions et le travail aérien.
+
+Le minimum de sauts requis pour les parachutistes professionnels sera fixé par le conseil d'administration. (1)
+
+Toute année pour laquelle le minimum d'heures de vol ou de sauts n'aura pas été accompli par l'affilié ne sera comptée que
+pour une fraction d'année, calculée proportionnellement au nombre d'heures de vol ou de sauts effectués.
+
+Toutefois, le conseil d'administration pourra décider de ne pas faire application de cette disposition à certains navigants
+qui n'auraient pu effectuer le nombre d'heures de vol ou de sauts requis pour leur catégorie en raison de circonstances
+exceptionnelles.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°63-8 1963-01-05 art. 12
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°2011-1500 du 10 novembre 2011 - art. 26 (VD)
+  - Code de l'aviation civile - art. R426-14 (V)
+  - Code de l'aviation civile - art. R426-16-1 (M)
+  - Code de l'aviation civile - art. R426-17 (VD)
+  - Code de l'aviation civile - art. R426-19 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D422-1 (M)
+  - Code de l'aviation civile - art. D422-10 (M)
+  - Code de l'aviation civile - art. D422-11 (M)
+  - Code de l'aviation civile - art. D422-12 (M)
+  - Code de l'aviation civile - art. D422-13 (M)
+  - Code de l'aviation civile - art. D422-14 (M)
+  - Code de l'aviation civile - art. D422-15 (M)
+  - Code de l'aviation civile - art. D422-2 (M)
+  - Code de l'aviation civile - art. D422-3 (M)
+  - Code de l'aviation civile - art. D422-4 (M)
+  - Code de l'aviation civile - art. D422-5 (M)
+  - Code de l'aviation civile - art. D422-6 (M)
+  - Code de l'aviation civile - art. D422-7 (M)
+  - Code de l'aviation civile - art. D422-8 (M)
+  - Code de l'aviation civile - art. D422-9 (M)
+
+
+###### Article R426-13
+
+Sont considérées comme valables pour la retraite :
+
+a) Les périodes de services civils effectifs accomplis en qualité de navigant postérieurement à la date d'application du
+régime ;
+
+b) Les périodes de services civils effectifs accomplis en qualité de navigant antérieurement à la date d'application du
+régime ;
+
+c) Les périodes d'incapacité médicale temporaire ayant donné lieu au paiement de tout ou partie du salaire dans les cas
+prévus aux articles L. 424-1 et L. 424-2 ;
+
+d) La durée des services militaires obligatoires d'appel, de maintien et de rappel sous les drapeaux effectués en temps de
+paix dans les armées françaises si les intéressés justifient par ailleurs de quinze ans de services visés aux a, b et c ci-
+dessus, et si ces services militaires n'ont pas été validés dans un autre régime de retraite visé aux articles L. 3 ou L. 4
+du code de la sécurité sociale (1) ;
+
+e) La durée des services de guerre ou assimilés effectués dans les armées françaises ou alliées sous réserve que ces services
+n'aient pas été validés au titre d'un régime visé au d ; les services de guerre dits assimilés sont constatés par le conseil
+d'administration en application des dispositions législatives et réglementaires applicables au régime général de sécurité
+sociale ;
+
+f) La durée des services militaires accomplis en temps de paix en qualité de navigant, au-delà de la durée légale, autres que
+ceux visés au d, par les personnels titulaires d'un brevet de personnel navigant militaire, sous réserve que ces services
+n'aient pas donné lieu à constitution de pension ;
+
+g) Les périodes d'interruption involontaire pour événements de guerre antérieures au 1er juin 1946 en ce qui concerne les
+affiliés qui, avant ces événements, remplissaient les conditions prévues à l'article R. 426-1, sous réserve qu'ils aient
+repris par la suite une activité professionnelle de navigant ;
+
+h) Dans la limite d'un an, les périodes postérieures à la première affiliation consacrées à l'acquisition d'une qualification
+de navigant professionnel de l'aéronautique civile n'ayant pas donné lieu à rémunération ;
+
+i) La durée des services civils effectués en qualité de navigant avant le 27 avril 1951 par le personnel navigant en congé du
+personnel navigant de l'armée de l'air ou de l'aéronavale et par le personnel dégagé des cadres de l'armée au titre de la loi
+n° 46-607 du 5 avril 1946 ;
+
+j) Outre les périodes de services civils mentionnées au b, la moitié de la durée des services ayant donné lieu à la
+majoration de cotisation dans les conditions prévues à l'article R. 426-9 ;
+
+k) Les périodes de chômage ayant donné lieu à versement des prestations en application des dispositions du titre V du livre
+III du code du travail, pendant une durée minimale de trente jours, si le contrat de travail précédent était un contrat de
+navigant ayant entraîné versement des cotisation à la caisse, et sous réserve que l'intéressé ait repris par la suite une
+activité professionnelle de navigant ;
+
+l) Sous réserve qu'elles ne donnent pas lieu à constitution d'un droit à pension dans un autre régime de retraite visé au d
+ci-dessus, certaines périodes de suspension de l'activité de navigant déterminées par décret.
+
+(1) Devenus les articles L. 711-1 et 731-1 du code de la sécurité sociale (décret n° 85-1353 du 17 décembre 1985).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°46-607 1946-04-05
+  - Code de la sécurité sociale L3, L4
+  - Code de l'aviation civile - art. L424-1 (V)
+  - Code de l'aviation civile - art. L424-2 (V)
+  - Code de l'aviation civile - art. R426-1 (V)
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°84-470 du 18 juin 1984
+  - TXT_SOURCE: Décret n°84-470 du 18 juin 1984 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°84-470 du 18 juin 1984 - art. 2 (Ab)
+
+_Cité par_:
+
+  - Décret n°84-470 du 18 juin 1984 - art. 1 (Ab)
+  - Décret n°2005-609 du 27 mai 2005 - art. 7 (V)
+  - Décret n°2011-1500 du 10 novembre 2011 - art. 26 (VD)
+  - Arrêté du 19 février 1986 - art. Annexe (V)
+  - Code de l'aviation civile - art. R426-11 (VD)
+  - Code de l'aviation civile - art. R426-14 (V)
+  - Code de l'aviation civile - art. R426-15-3 (V)
+  - Code de l'aviation civile - art. R426-16-1 (V)
+  - Code de l'aviation civile - art. R426-17 (VD)
+  - Code de l'aviation civile - art. R426-18-1 (VT)
+  - Code de l'aviation civile - art. R426-5 (V)
+  - Code de l'aviation civile - art. R426-9 (V)
+
+
+###### Article R426-14
+
+Les services mentionnés aux a, c et j de l'article R. 426-13 ne sont pris en compte que si les cotisations prévues aux
+articles R. 426-6 à R. 426-9 ont été acquittées sur les salaires versés aux intéressés pendant lesdites périodes.
+
+Les services mentionnés aux f, g, h, k et l de l'article R. 426-13 ne peuvent être pris en compte que moyennant le versement
+par l'intéressé, pour chaque année à valider, de la double cotisation définie aux articles R. 426-6, R. 426-7 et R. 426-8,
+assise sur le premier salaire annuel brut perçu après reprise d'activité normale, à l'exclusion des rémunérations des
+périodes de stage, de formation ou de contrôle.
+
+Les services mentionnés aux b et i de l'article précédent ne peuvent être pris en compte que moyennant le rachat des droits
+correspondant aux cotisations prévues à l'article R. 426-6, assises sur les salaires réels pour les services accomplis après
+le 31 décembre 1945.
+
+Pour les versements de cotisations mentionnées au deuxième alinéa et les rachats de droits mentionnés au troisième alinéa du
+présent article, lorsque les années de perception des salaires retenus pour l'assiette sont antérieures au 1er janvier 1946,
+ces salaires sont remplacés par les salaires forfaitaires annuels déterminés par arrêté ministériel. Dans tous les cas de
+rachat, les cotisations correspondantes seront multipliées par le rapport entre l'indice de variation des salaires de l'année
+de versement des cotisations ou de rachat et celui de l'année à laquelle correspond le salaire retenu pour l'assiette.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-13 (M)
+  - Code de l'aviation civile - art. R426-6 (V)
+  - Code de l'aviation civile - art. R426-7 (V)
+  - Code de l'aviation civile - art. R426-8 (M)
+  - Code de l'aviation civile - art. R426-9 (M)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R426-16-3 (VD)
+  - Code de l'aviation civile - art. R426-5 (V)
+
+
+###### Article R426-15-1
+
+L'entrée en jouissance de la pension prévue à l'article R. 426-11 ne peut être antérieure à la date à laquelle l'intéressé a
+atteint l'âge de cinquante ans.
+
+Toutefois, l'entrée en jouissance prend effet immédiatement lorsque la cessation d'activité est postérieure à l'âge de
+quarante-cinq ans accomplis, pour l'affilié qui compte vingt-cinq annuités valables pour la retraite et qui demande la
+liquidation anticipée de sa pension, sous réserve des réductions prévues à l'article R. 425-18.
+
+L'entrée en jouissance prend effet à la date de l'inaptitude définitive pour les affiliés reconnus par le conseil médical de
+l'aéronautique civile inaptes définitivement à l'exercice de la profession, soit que l'inaptitude soit due à un accident du
+travail au sens de la législation française ou à une maladie imputable au service aérien, soit que l'affilié soit invalide au
+sens de l'article L. 304 du code de la sécurité sociale (1) ; ces dispositions ne s'appliquent que :
+
+1. Si l'affilié remplissait les conditions prévues à l'article R. 426-1 lorsque la cause de l'inaptitude ou de l'invalidité
+est survenue ;
+
+2. S'il cotisait à la caisse de retraite ;
+
+3. En cas d'accident du travail, si les causes retenues pour la reconnaissance de l'accident du travail sont identiques à
+celles qui sont retenues par le conseil médical pour déclarer l'inaptitude définitive.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cite_:
+
+  - Code de la sécurité sociale L304
+  - Code de l'aviation civile - art. R426-1 (V)
+  - Code de l'aviation civile - art. R426-11 (M)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R426-18 (M)
+  - Code de l'aviation civile - art. R426-18-1 (VT)
+
+
+###### Article R426-15-2
+
+Lorsque l'intéressé ne réunit pas quinze ans de services, l'entrée en jouissance de la pension proportionnelle prévue au
+deuxième alinéa de l'article R. 426-11 ne peut être antérieure à la date à laquelle l'intéressé a atteint l'âge de soixante
+ans, sous réserve des dispositions plus favorables des accords de coordination antérieurs au 8 janvier 1963 et des exceptions
+prévues ci-après.
+
+L'entrée en jouissance de la pension peut, même lorsque la condition de quinze ans de services n'est pas remplie, prendre
+effet à cinquante ans lorsque les affiliés remplissent la condition de dix ans de services valables pour la retraite, s'ils
+avaient au 1er juillet 1952 la qualité de navigant professionnel au sens de l'article R. 426-1 ou lorsqu'ils remplissent la
+condition de six mois de services en qualité de personnel navigant commercial pour les navigants du sexe féminin.
+
+En ce qui concerne les affiliés en activité de navigant ou chômeurs indemnisés au titre de la rupture d'un contrat de travail
+de navigant ainsi que les affiliés mentionnés à l'article R. 426-9 et les affiliés reconnus par le conseil médical de
+l'aéronautique civile atteints d'une invalidité entraînant l'inaptitude définitive à l'exercice de la profession, l'entrée en
+jouissance de la pension peut, même lorsque la condition de quinze ans de services n'est pas remplie, prendre effet à compter
+de la date à laquelle les intéressés remplissent l'une et l'autre des deux conditions suivantes :
+
+1. Avoir atteint l'âge de cinquante ans ;
+
+2. Avoir été affiliés pour la première fois au régime prévu par le présent chapitre à une date antérieure d'au moins quinze
+ans à la date d'entrée en jouissance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-1 (V)
+  - Code de l'aviation civile - art. R426-11 (M)
+  - Code de l'aviation civile - art. R426-9 (M)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R426-11-3 (VT)
+  - Code de l'aviation civile - art. R426-16-1 (V)
+  - Code de l'aviation civile - art. R426-18-1 (VT)
+
+
+###### Article R426-15-3
+
+L'entrée en jouissance de la pension est subordonnée à la cessation de toute activité rémunérée de navigant au sens du code
+de l'aviation civile, tant en France qu'à l'étranger.
+
+Dans tous les cas, l'entrée en jouissance prend effet le premier jour du mois suivant la réception de la demande. Le conseil
+d'administration détermine les conditions de présentation des demandes ainsi que les modalités de suspension des pensions en
+cas de reprise d'activité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R426-16-1 (V)
+  - Code de l'aviation civile - art. R426-18-1 (VT)
+
+
+##### Section 4 : Calcul de la pension.<a id=140></a>
+
+###### Article R426-16-1
+
+La pension est déterminée sur la base du salaire moyen indexé de carrière défini au c de l'article R. 426-5 ou, le cas
+échéant, sur la base du salaire moyen indexé majoré défini au d de l'article R. 426-5.
+
+Ce salaire est divisé en deux tranches conformément au e de l'article R. 426-5. A chacune d'elles est attribué, pour toute
+annuité validée définie à l'article R. 426-13, dans la limite de vingt-cinq, un taux de pension égal à 1,85 p. 100 pour la
+première tranche et à 1,4 p. 100 pour la deuxième tranche.
+
+Si l'affilié a eu au moins trois enfants, la part de la pension correspondant à la première tranche définie à l'article R.
+426-5 e est majorée de 2,5 p. 100.
+
+Pour la période de jouissance comprise entre cinquante et soixante ans, la pension est, pour toute année validée dans la
+limite de vingt-cinq ans, assortie d'une majoration dont le taux est fixé à 1 p. 100 du plafond de la sécurité sociale pour
+les affiliés bénéficiant des prestations d'un régime légal obligatoire d'assurance maladie maternité et à 1,4 p. 100 pour les
+affiliés ne bénéficiant pas de ces mêmes prestations à titre personnel ou d'ayant droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. R426-14 (V)
+  - Code de l'aviation civile - art. R426-19 (M)
+  - Code de l'aviation civile - art. R426-27 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-13 (M)
+  - Code de l'aviation civile - art. R426-5 (M)
+
+
+###### Article R426-16-2
+
+La revalorisation des pensions s'effectue à titre provisionnel au 1er janvier et au 1er juillet de chaque année en deux
+fractions égales.
+
+Les taux d'augmentation applicables à chacune de ces dates sont calculés de telle sorte que le taux d'évolution en moyenne
+annuelle soit égal au taux d'évolution du salaire brut moyen annuel par tête versé par les entreprises non financières, non
+agricoles, qui est prévu, pour l'année considérée, par le rapport mentionné à l'article 32 de l'ordonnance n° 59-2 du 2
+janvier 1959 et annexé au projet de loi de finances de ladite année.
+
+Il est procédé, au 1er juillet de l'année suivante, à un ajustement du taux de revalorisation des pensions. Le taux de cet
+ajustement est égal au rapport entre l'indice de variation des salaires mentionné au b de l'article R. 426-5, correspondant à
+l'année au titre de laquelle a été établie la revalorisation provisionnelle et l'indice de revalorisation provisionnelle
+applicable à ladite année.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°59-2 du 2 janvier 1959 - art. 32 (Ab)
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Décret n°2011-1500 du 10 novembre 2011 - art. 26 (VD)
+  - Code de l'aviation civile - art. R426-5 (V)
+
+
+###### Article R426-17
+
+En cas de décès ou d'incapacité permanente totale à la suite d'un accident aérien survenu en service et en cas de décès à la
+suite d'une maladie reconnue imputable au service aérien, le nombre d'annuités pris en compte pour le calcul de la pension
+directe ou des pensions de réversion et d'orphelin est fixé à vingt-cinq quelle que soit l'ancienneté effective. Toutefois,
+il ne peut en aucun cas être supérieur au nombre maximal d'annuités que l'intéressé aurait pu totaliser s'il avait cotisé
+jusqu'à l'âge de soixante ans, ou jusqu'à l'âge atteint à la date de l'accident si celui-ci est postérieur au soixantième
+anniversaire.
+
+En cas d'inaptitude définitive à exercer le métier de navigant résultant d'un accident aérien survenu en service ou d'une
+maladie imputable au service aérien, le nombre d'annuités acquises pris en compte est égal à la somme des annuités acquises
+au titre de l'article R. 426-13 et d'annuités complémentaires. Le nombre des annuités complémentaires est égal à la moitié de
+la différence entre vingt-cinq annuités et celles acquises au titre de l'article R. 426-13, sans pouvoir excéder la moitié de
+la différence entre soixante ans et l'âge atteint lors de l'inaptitude définitive. En cas d'abandon de la profession pour des
+raisons autres que de santé, l'imputabilité au service aérien doit avoir été demandée dans les deux ans suivant la cessation
+d'activité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. D424-2 (V)
+  - Code de l'aviation civile - art. R410-5 (V)
+  - Code de l'aviation civile - art. R426-16-1 (V)
+  - Code de l'aviation civile - art. R426-19 (V)
+  - Code de l'aviation civile - art. R426-27 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-13 (M)
+
+
+###### Article R426-18
+
+Dans le cas de jouissance anticipée de la pension mentionnée au deuxième alinéa de l'article R. 426-15-1, la pension annuelle
+calculée conformément aux prescriptions du présent chapitre est affectée des coefficients de minoration suivants :
+
+AGE ATTEINT PAR L'INTÉRESSÉ A LA DATE D'ENTRÉE EN JOUISSANCE DE LA PENSION / COEFFICIENTS
+
+45 ans / 0,65
+
+46 ans / 0,73
+
+47 ans / 0,81
+
+48 ans / 0,88
+
+49 ans / 0,95
+
+Ces coefficients peuvent être modifiés par décision du conseil d'administration en fonction de l'évolution des tables de
+mortalité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. R426-15-1 (VT)
+
+
+##### Section 5 : Pension de réversion.<a id=141></a>
+
+###### Article R426-19
+
+1. Le décès d'un affilié en activité ou titulaire d'une pension en cours de jouissance ou d'un droit à pension différée ouvre
+droit :
+
+a) Au profit du conjoint survivant apte à recevoir, à une pension dont le taux, fixé par décision du conseil
+d'administration, est compris entre un minimum de 50 p. 100 et un maximum de 55 p. 100 de la pension de l'affilié ;
+
+b) Au profit de chacun de ses enfants à charge, à une pension dont le taux, fixé par le conseil d'administration, est compris
+entre un minimum de 10 p. 100 et un maximum de 12 p. 100 de la pension de l'affilié.
+
+Toutefois, le total des pensions ainsi allouées ne peut dépasser 100 p. 100 de la pension de l'affilié. S'il y a excédent, il
+est procédé à une réduction temporaire des pensions des orphelins.
+
+S'il n'y a pas ou s'il n'y a plus de conjoint apte à recevoir, la pension de réversion mentionnée au a) ci-dessus est
+attribuée aux enfants à charge à titre de pension temporaire, la pension visée au premier alinéa du b) ci-dessus étant
+maintenue à chacun d'eux dans la limite du maximum fixé à l'alinéa précédent.
+
+2. Si l'affilié décédé était en activité ou titulaire d'une pension en cours de jouissance, l'entrée en jouissance de la
+pension de réversion est immédiate.
+
+Si l'affilié décédé était titulaire d'un droit à pension différée et si la condition de quinze annuités de services valables
+pour la retraite est remplie, l'entrée en jouissance de la pension de réversion est ajournée jusqu'à la date à laquelle il
+aurait atteint l'âge d'entrée en jouissance de sa pension. Toutefois, l'entrée en jouissance de la pension ne peut être
+postérieure au cinquantième anniversaire du conjoint survivant. Cette entrée en jouissance est immédiate s'il y a au moins un
+enfant à charge.
+
+Si la condition de quinze annuités valables pour la retraite n'est pas remplie, l'entrée en jouissance de la pension de
+réversion est ajournée jusqu'à ce que le conjoint survivant soit âgé de cinquante-cinq ans sauf s'il y a deux enfants à
+charge.
+
+3. La pension de l'affilié servant à déterminer la pension de réversion et les pensions temporaires visées ci-dessus est
+celle qui est définie aux premier, deuxième et troisième alinéas de l'article R. 426-16-1, majorée s'il y a lieu, compte tenu
+des dispositions de l'article R. 426-17.
+
+Si l'affilié décédé n'avait pas atteint l'âge de soixante ans au moment de son décès et tant que le conjoint survivant n'aura
+pas atteint le même âge, la pension de l'affilié servant à déterminer la pension de réversion est assortie d'une majoration
+de 1 p. 100 du plafond de la sécurité sociale si le conjoint survivant relève d'un régime légal obligatoire d'assurance
+maladie-maternité et de 1,4 p. 100 dans le cas contraire.
+
+Cette majoration est prise en compte, dans le calcul de la pension, jusqu'à la date à laquelle l'affilié décédé aurait
+atteint son soixantième anniversaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. R426-21 (VD)
+  - Code de l'aviation civile - art. R426-27 (VD)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-16-1 (M)
+  - Code de l'aviation civile - art. R426-17 (V)
+
+
+###### Article R426-20
+
+Sont considérés comme enfants à charge pour l'application du présent code les enfants légitimes, les enfants naturels dont la
+filiation est légalement établie, les enfants adoptés ainsi que les enfants à la charge de l'affilié décédé lorsque seule une
+filiation directe en a interdit l'adoption, s'ils sont âgés de moins de vingt et un ans et s'ils n'exercent pas une activité
+rémunérée, sauf si cette dernière leur procure un salaire inférieur au salaire servant de base de calcul aux allocations
+familiales.
+
+Sont assimilés aux enfants à charge, après leur vingt et unième anniversaire, les enfants atteints d'une infirmité permanente
+les mettant dans l'impossibilité de gagner leur vie, à la condition qu'ils aient été atteints de l'infirmité au jour du décès
+de l'affilié ou avant leur vingt et unième anniversaire si celui-ci est postérieur au décès de l'affilié.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. R424-3 (V)
+  - Code de l'aviation civile - art. R426-19 (V)
+  - Code de l'aviation civile - art. R426-24 (V)
+
+
+###### Article R426-21
+
+Le bénéfice des dispositions de l'article R. 426-19 est reconnu aux enfants adoptés sous réserve que la cessation des
+fonctions de l'affilié soit postérieure à l'acte d'adoption et, dans ce cas, les conditions d'antériorité prévues à l'article
+R. 426-22 pour le mariage sont exigées au regard de l'acte ou du jugement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-19 (M)
+  - Code de l'aviation civile - art. R426-22 (M)
+
+
+###### Article R426-22
+
+Le conjoint est inapte à recevoir dans les cas suivants :
+
+1. En cas de mariage contracté moins de deux ans avant la cessation des fonctions de l'affilié, sauf si un ou plusieurs
+enfants sont issus du mariage ou si l'affilié est décédé à la suite d'une maladie ou d'un accident imputables au service
+aérien, ou s'il avait obtenu ou était en droit d'obtenir une pension d'invalidité ; le mariage doit dans tous les cas être
+antérieur à l'événement qui a entraîné la cessation des fonctions ou la mort de l'affilié.
+
+Toutefois, le droit à pension du conjoint est reconnu si le mariage antérieur ou postérieur à la cessation d'activité a duré
+au moins quatre années, mais l'entrée en jouissance en est différée jusqu'au jour où il atteint l'âge de cinquante ans
+accomplis. Le droit à la pension de réversion est acquis après trois années seulement de ce mariage et la jouissance de la
+pension est immédiate, si un ou plusieurs enfants en sont issus.
+
+2. En cas de remariage ; toutefois, le conjoint remarié, s'il est redevenu veuf ou s'il est divorcé ou séparé de corps peut,
+sur sa demande, recouvrer son droit à pension ; la pension de réversion ainsi servie est éventuellement diminuée de la ou des
+pensions de réversion qu'il percevrait par suite du décès de son ou de ses nouveaux conjoints.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Code de l'aviation civile - art. R426-21 (VD)
+
+
+###### Article R426-23
+
+Lorsque, au décès de l'affilié ou du pensionné, il existe un conjoint survivant et un ou plusieurs conjoints divorcés aptes à
+recevoir, la pension de réversion est répartie entre le conjoint survivant et le ou les conjoints divorcés, au prorata de la
+durée respective de chaque mariage.
+
+Au décès de l'un des bénéficiaires, sa part accroîtra la part des autres, dans les conditions fixées ci-après, sauf réversion
+du droit au profit des enfants à charge issus du mariage du bénéficiaire et de l'affilié.
+
+Lorsqu'il existe des ayants cause de deux ou plusieurs lits, par suite d'un ou plusieurs mariages antérieurs de l'affilié ou
+du pensionné, la pension de réversion du bénéficiaire décédé est divisée en parts égales entre chaque lit représenté par le
+conjoint survivant ou le ou les conjoints divorcés aptes à recevoir ou par un ou plusieurs enfants à charge.
+
+Si un lit cesse d'être représenté, sa part accroîtra celle du ou des autres lits.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
+
+
+##### Section 6 : Dispositions diverses.<a id=142></a>
+
+###### Article R426-24
+
+Les pensions de retraite sont servies mensuellement et à terme échu.
+
+Le conseil d'administration fixe les montants de la pension en deçà desquels le versement est effectué soit
+trimestriellement, soit annuellement.
+
+Lorsque le montant de la pension doit donner lieu à un versement annuel, le bénéficiaire peut recevoir sur sa demande, et au
+plus tôt à l'âge d'ouverture des droits, un capital égal au montant des doubles cotisations versées chaque année et indexées
+par le rapport entre l'indice de variation des salaires applicable au cours de l'année de la liquidation et l'indice de
+variation des salaires en vigueur au cours de l'année de versement de ces cotisations. Lorsque l'affilié décède avant d'avoir
+perçu le capital ou la pension annuelle prévus aux deux alinéas précédents, son conjoint apte à recevoir reçoit sur sa
+demande un capital ou une pension annuelle au plus tôt à la date à laquelle l'affilié décédé aurait atteint l'âge d'ouverture
+de ses droits à pension. A défaut de conjoint apte à recevoir, ce versement est effectué au profit des enfants qui, à la date
+d'ouverture des droits à pension, rempliraient les conditions fixées par l'article R. 426-20 pour être considérés comme à
+charge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-20 (V)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R426-25 (VT)
+
+
+###### Article R426-25
+
+Les affiliés qui ont reçu le capital mentionné au premier alinéa de l'article R. 426-24 applicable avant l'entrée en vigueur
+du décret n°84-469 du 18 juin 1984 et qui remplissent les conditions fixées à l'article R. 426-11 peuvent bénéficier d'une
+pension servie sous déduction du montant de la rente à capital aliéné correspondant au capital perçu, revalorisée par
+l'indice de variation des salaires entre la date de versement du capital et la date de versement de la pension de retraite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 du 30 mars 1967
+
+_Cite_:
+
+  - Décret n°84-469 du 18 juin 1984
+  - Code de l'aviation civile - art. R426-11
+  - Code de l'aviation civile - art. R426-24
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2011-1500 du 10 novembre 2011 - art. 25
+
 
 ###### Article R426-26
 
@@ -12851,7 +13876,48 @@ _Cité par_:
   - Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 
-##### Section 7 : Dispositions transitoires.<a id=139></a>
+###### Article R426-27
+
+Les opérations de la caisse de retraite du personnel navigant professionnel de l'aéronautique civile sont suivies dans trois
+sections financièrement autonomes :
+
+a) Section dite Fonds de retraite, chargée de suivre les opérations prévues par le présent chapitre, à l'exception de celles
+visées aux b et c ci-dessous ;
+
+b) Section dite Fonds spécial, chargée de suivre les opérations prévues par le dernier alinéa des articles R. 426-16-1 et R.
+426-19 3 ainsi que par l'article R. 426-17 y compris les prestations de retraite ou les pensions de réversion et d'orphelins
+versées entre la liquidation des droits conformément à cet article R. 426-17 et l'âge normal d'entrée en jouissance de la
+retraite ;
+
+c) Section dite Fonds d'assurance chargée de l'application des articles L. 424-5 et L. 424-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+  - Décret n°2011-1500 du 10 novembre 2011 - art. 26 (VD)
+  - Code de l'aviation civile - art. R426-10 (V)
+  - Code de l'aviation civile - art. R426-26 (V)
+  - Code de l'aviation civile - art. R426-5 (V)
+  - Code de l'aviation civile - art. R426-6 (VD)
+  - Code de l'aviation civile - art. R426-7 (VD)
+  - Code de l'aviation civile - art. R426-8 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R424-5 (V)
+  - Code de l'aviation civile - art. R424-6 (V)
+  - Code de l'aviation civile - art. R426-16-1 (M)
+  - Code de l'aviation civile - art. R426-17 (V)
+  - Code de l'aviation civile - art. R426-19 (M)
+
+
+##### Section 7 : Dispositions transitoires.<a id=143></a>
 
 ###### Article R426-28
 
@@ -12878,9 +13944,43 @@ _Cite_:
   - Code de l'aviation civile - art. R426-6 (V)
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=140></a>
+#### CHAPITRE VIII : DISPOSITIONS COMMUNES.<a id=144></a>
 
-#### CHAPITRE III : REDEVANCES.<a id=141></a>
+###### Article R428-1
+
+Est considéré comme accident aérien pour l'application du présent titre tout accident du travail survenu à bord d'un aéronef.
+Sont assimilés à des accidents aériens :
+
+1) Tout accident du travail qui se produit sur le lieu de départ ou d'arrivée prévu ou imposé par les circonstances au cours
+des travaux et manoeuvres nécessités par le départ ou l'arrivée ;
+
+2) Les accidents survenus lors de sauts en parachute ;
+
+3) Les accidents du travail survenus au sol ou sur plan d'eau lors de l'ensemble des exercices prévus par la réglementation
+ou demandés par les employeurs pour l'acquisition ou le maintien de la validité des brevets, licences, certificats et
+qualifications professionnels des navigants, ainsi que des accidents survenus lors d'exercices utilisant des moyens
+reproduisant au sol des agressions susceptibles d'être rencontrées en vol (accélération, vibrations, altitude,
+environnement).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er I, article applicable dans les territoires d'outre-mer
+  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+_Cité par_:
+
+  - Décret n°97-124 du 6 février 1997 - art. 1 (V)
+
+
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=145></a>
+
+#### CHAPITRE III : REDEVANCES.<a id=146></a>
 
 ###### Article R433-1
 
@@ -12907,11 +14007,11 @@ _Abrogé par_:
   - Décret n°2005-1680 du 28 décembre 2005 - art. 3 () JORF 29 décembre 2005
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=142></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=147></a>
 
-### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=143></a>
+### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=148></a>
 
-#### Section 1 : Organisation et fonctionnement.<a id=144></a>
+#### Section 1 : Organisation et fonctionnement.<a id=149></a>
 
 ###### Article R530-1
 
@@ -13027,7 +14127,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### Section 2 : Attribution et paiement des indemnités.<a id=145></a>
+#### Section 2 : Attribution et paiement des indemnités.<a id=150></a>
 
 ###### Article R530-5
 
@@ -13227,7 +14327,7 @@ _Modifié par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES.<a id=146></a>
+## LIVRE VI : DISPOSITIONS DIVERSES.<a id=151></a>
 
 ###### Article R611-1
 
@@ -13293,13 +14393,13 @@ _Anciens textes_:
   - Loi n°48-1992 1948-12-31 art. 8
 
 
-# Partie réglementaire - Décrets simples<a id=147></a>
+# Partie réglementaire - Décrets simples<a id=152></a>
 
-## LIVRE Ier : AERONEFS.<a id=148></a>
+## LIVRE Ier : AERONEFS.<a id=153></a>
 
-### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=149></a>
+### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=154></a>
 
-#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=150></a>
+#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=155></a>
 
 ###### Article D121-1
 
@@ -14233,7 +15333,7 @@ _Modifié par_:
   - Décret n°76-173 1976-02-13 art. 1 JORF 19 février 1976 en vigueur le 1er janvier 1976
 
 
-#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=151></a>
+#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=156></a>
 
 ###### Article D122-1
 
@@ -14451,7 +15551,7 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 2 JORF 5 mars 1971
 
 
-#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=152></a>
+#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=157></a>
 
 ###### Article D123-1
 
@@ -14488,13 +15588,13 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 3 JORF 5 mars 1971
 
 
-### TITRE III : CIRCULATION DES AERONEFS.<a id=153></a>
+### TITRE III : CIRCULATION DES AERONEFS.<a id=158></a>
 
-#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=154></a>
+#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=159></a>
 
-##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=155></a>
+##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=160></a>
 
-##### Paragraphe 1 : Définition des types de circulation aérienne.<a id=156></a>
+##### Paragraphe 1 : Définition des types de circulation aérienne.<a id=161></a>
 
 ###### Article D131-2
 
@@ -14510,7 +15610,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D131-9 (M)
 
 
-##### Paragraphe 3 : Météorologie.<a id=157></a>
+##### Paragraphe 3 : Météorologie.<a id=162></a>
 
 ###### Article D131-11
 
@@ -14580,7 +15680,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Aéronefs étrangers.<a id=158></a>
+##### Section 2 : Aéronefs étrangers.<a id=163></a>
 
 ###### Article D131-15
 
@@ -14604,9 +15704,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : ATTERRISSAGE.<a id=159></a>
+#### CHAPITRE II : ATTERRISSAGE.<a id=164></a>
 
-##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=160></a>
+##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=165></a>
 
 ###### Article D132-1
 
@@ -14669,7 +15769,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=161></a>
+##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=166></a>
 
 ###### Article D132-4
 
@@ -14725,7 +15825,7 @@ _Cite_:
   - Code de l'aviation civile - art. D132-4 (V)
 
 
-##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=162></a>
+##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=167></a>
 
 ###### Article D132-6
 
@@ -14756,7 +15856,7 @@ _Anciens textes_:
   - Décret n°1959-03-06 art. 1
 
 
-##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=163></a>
+##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=168></a>
 
 ###### Article D132-7
 
@@ -14780,11 +15880,11 @@ _Créé par_:
   - Décret n°68-653 1968-07-10 art. 1 JORF 14 juillet 1968
 
 
-#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=164></a>
+#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=169></a>
 
-##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=165></a>
+##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=170></a>
 
-##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=166></a>
+##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=171></a>
 
 ###### Article D133-7
 
@@ -14955,7 +16055,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=167></a>
+##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=172></a>
 
 ###### Article D133-10
 
@@ -15110,7 +16210,7 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 9 JORF 21 novembre 1980
 
 
-##### Section 3 : Radiocommunications des services aériens.<a id=168></a>
+##### Section 3 : Radiocommunications des services aériens.<a id=173></a>
 
 ###### Article D133-19
 
@@ -15143,11 +16243,11 @@ _Cite_:
   - Code de l'aviation civile - art. R133-3 (M)
 
 
-## LIVRE II : AERODROMES.<a id=169></a>
+## LIVRE II : AERODROMES.<a id=174></a>
 
-### TITRE Ier : DISPOSITIONS GENERALES.<a id=170></a>
+### TITRE Ier : DISPOSITIONS GENERALES.<a id=175></a>
 
-#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=171></a>
+#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=176></a>
 
 ###### Article D211-1
 
@@ -15315,7 +16415,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=172></a>
+#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=177></a>
 
 ###### Article D212-1
 
@@ -15432,9 +16532,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=173></a>
+### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=178></a>
 
-#### CHAPITRE Ier : CREATION.<a id=174></a>
+#### CHAPITRE Ier : CREATION.<a id=179></a>
 
 ###### Article D221-1
 
@@ -15568,7 +16668,7 @@ _Cité par_:
   - Décret n°2017-1490 du 24 octobre 2017 (V)
 
 
-#### CHAPITRE II : CLASSEMENT.<a id=175></a>
+#### CHAPITRE II : CLASSEMENT.<a id=180></a>
 
 ###### Article D222-1
 
@@ -15620,7 +16720,7 @@ _Cite_:
   - Code de l'aviation civile - art. R222-5 (V)
 
 
-#### CHAPITRE IV : REDEVANCES.<a id=176></a>
+#### CHAPITRE IV : REDEVANCES.<a id=181></a>
 
 ###### Article D224-1
 
@@ -15642,9 +16742,9 @@ _Créé par_:
   - Décret n°80-910 1980-11-17 art. 1 JORF 21 novembre 1980
 
 
-### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=177></a>
+### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=182></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=178></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=183></a>
 
 ###### Article D231-1
 
@@ -15681,7 +16781,7 @@ _Cite_:
   - Code de l'aviation civile - art. D211-2 (V)
 
 
-#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=179></a>
+#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=184></a>
 
 ###### Article D232-1
 
@@ -15887,7 +16987,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-6 (V)
 
 
-#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=180></a>
+#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=185></a>
 
 ###### Article D233-1
 
@@ -16032,11 +17132,11 @@ _Cite_:
   - Code de l'aviation civile - art. R131-3 (V)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=181></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=186></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=182></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=187></a>
 
-##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=183></a>
+##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=188></a>
 
 ###### Article D241-1
 
@@ -16108,7 +17208,7 @@ _Abrogé par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=184></a>
+##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=189></a>
 
 ###### Article D241-4
 
@@ -16129,9 +17229,9 @@ _Cité par_:
   - Code de l'aviation civile - art. D242-7 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=185></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=190></a>
 
-##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=186></a>
+##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=191></a>
 
 ###### Article D242-1
 
@@ -16237,7 +17337,7 @@ _Cite_:
   - Code de l'aviation civile R241-5, D242-2
 
 
-##### Section 2 : Application du plan de dégagement.<a id=187></a>
+##### Section 2 : Application du plan de dégagement.<a id=192></a>
 
 ###### Article D242-6
 
@@ -16485,7 +17585,7 @@ _Créé par_:
   - Décret n°73-309 1973-03-09 art. 2 JORF 20 mars 1973
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=188></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=193></a>
 
 ###### Article D243-1
 
@@ -16693,7 +17793,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-5 (V)
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=189></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=194></a>
 
 ###### Article D244-1
 
@@ -16812,7 +17912,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=190></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=195></a>
 
 ###### Article D245-1
 
@@ -16886,11 +17986,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE V : AÉROPORT DE PARIS<a id=191></a>
+### TITRE V : AÉROPORT DE PARIS<a id=196></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GÉNÉRALES<a id=192></a>
+#### CHAPITRE Ier : DISPOSITIONS GÉNÉRALES<a id=197></a>
 
-##### Section 1 : Aérodromes constituant l'Aéroport de Paris.<a id=193></a>
+##### Section 1 : Aérodromes constituant l'Aéroport de Paris.<a id=198></a>
 
 ###### Article D251-1
 
@@ -16942,11 +18042,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-## LIVRE III : TRANSPORT AERIEN.<a id=194></a>
+## LIVRE III : TRANSPORT AERIEN.<a id=199></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=195></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=200></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=196></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=201></a>
 
 ###### Article D321-1
 
@@ -16985,9 +18085,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE<a id=197></a>
+### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE<a id=202></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=198></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=203></a>
 
 ###### Article D342-1
 
@@ -17008,9 +18108,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=199></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=204></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=200></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=205></a>
 
 ###### Article D410-1
 
@@ -17081,9 +18181,9 @@ _Cite_:
   - Code de l'aviation civile - art. D410-1 (M)
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=201></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=206></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=202></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=207></a>
 
 ###### Article D421-1
 
@@ -17372,9 +18472,9 @@ _Cité par_:
   - Arrêté du 21 janvier 1998 - art. 4 (V)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=203></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=208></a>
 
-##### Section 5 : Mesures de contrôle<a id=204></a>
+##### Section 5 : Mesures de contrôle<a id=209></a>
 
 ###### Article D422-16
 
@@ -17434,11 +18534,11 @@ _Cite_:
   - Code de l'aviation civile - art. D422-9 (M)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE<a id=205></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET ÉQUIPAGE<a id=210></a>
 
-##### Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction<a id=206></a>
+##### Section 1 : Durée du travail des personnels navigants sur des avions autres que des avions à réaction<a id=211></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=207></a>
+##### Paragraphe 1 : Dispositions générales.<a id=212></a>
 
 ###### Article D422-1
 
@@ -17659,7 +18759,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Paragraphe 2 : Mesures de contrôle.<a id=208></a>
+##### Paragraphe 2 : Mesures de contrôle.<a id=213></a>
 
 ###### Article D422-6
 
@@ -17790,7 +18890,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-6 (M)
 
 
-##### Section 2 : Durée du travail des équipages sur les avions à réaction.<a id=209></a>
+##### Section 2 : Durée du travail des équipages sur les avions à réaction.<a id=214></a>
 
 ###### Article D422-8
 
@@ -18142,9 +19242,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=210></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=215></a>
 
-##### Section 2 : Conseil médical<a id=211></a>
+##### Section 2 : Conseil médical<a id=216></a>
 
 ###### Article D424-1
 
@@ -18382,9 +19482,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=212></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=217></a>
 
-#### CHAPITRE V : DISCIPLINE.<a id=213></a>
+#### CHAPITRE V : DISCIPLINE.<a id=218></a>
 
 ###### Article D435-1
 
@@ -18708,9 +19808,9 @@ _Créé par_:
   - Décret n°77-1140 1977-10-05 art. 1 JORF 12 octobre 1977
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=214></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=219></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=215></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=220></a>
 
 ###### Article D510-1
 
@@ -18921,9 +20021,9 @@ _Modifié par_:
   - Décret n°82-415 1982-05-18 art. 1 JORF 20 mai 1982
 
 
-### TITRE II : AIDE AUX JEUNES<a id=216></a>
+### TITRE II : AIDE AUX JEUNES<a id=221></a>
 
-#### Section 1 : Aide aux jeunes.<a id=217></a>
+#### Section 1 : Aide aux jeunes.<a id=222></a>
 
 ###### Article D521-1
 
@@ -19003,7 +20103,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=218></a>
+#### Section 2 : Aide à la construction amateur.<a id=223></a>
 
 ###### Article D521-4
 
@@ -19070,9 +20170,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=219></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=224></a>
 
-### Section 1 : Avions photographes.<a id=220></a>
+### Section 1 : Avions photographes.<a id=225></a>
 
 ###### Article D611-1
 
@@ -19097,7 +20197,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=221></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=226></a>
 
 ###### Article D611-2
 
