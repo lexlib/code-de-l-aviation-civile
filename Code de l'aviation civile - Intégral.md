@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2000-02-17
+Version Consolidée au 2000-06-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -252,22 +252,21 @@ Version Consolidée au 2000-02-17
           - [Section 5 : Mesures de contrôle (art. D422-15)](#249)
         - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#250)
           - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#251)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D434-1 à D435-10)](#252)
-        - [CHAPITRE IV : COMMISSIONS MEDICALES REGIONALES DE L'AVIATION CIVILE (art. D434-1 à D434-8)](#253)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#254)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#255)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#256)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#257)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#258)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#259)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#260)
-      - [Section 1 : Avions photographes. (art. D611-1)](#261)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#262)
-  - [Annexes (art. Annexe I : Appendice A à Annexe II : Chapitre V)](#263)
-    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#264)
-      - [REGLES DE l'AIR (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#265)
-    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#266)
-      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#267)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#252)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#253)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#254)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#255)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#256)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#257)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#258)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#259)
+      - [Section 1 : Avions photographes. (art. D611-1)](#260)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#261)
+  - [Annexes (art. Annexe I : Appendice A à Annexe II : Chapitre V)](#262)
+    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#263)
+      - [REGLES DE l'AIR (art. Annexe I : Appendice A à Annexe I : Chapitre V)](#264)
+    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#265)
+      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice A à Annexe II : Chapitre V)](#266)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -27119,8 +27118,7 @@ ministre chargé de l'aviation civile ou, dans le domaine des essais et récepti
 424-1, L. 424-2, L. 424-5 et par l'article R. 426-11 en matière de reconnaissance d'incapacité temporaire ou permanente de
 travail et de décès consécutifs à un accident aérien survenu en service ou une maladie imputable au service aérien.
 
-4° De recevoir et d'examiner sous réserve des compétences dévolues par les articles D. 434-1 et suivants aux commissions
-médicales régionales de l'aviation civile :
+4° De recevoir et d'examiner :
 
 a) Les appels interjetés par les candidats aux fonctions réservées au personnel navigant professionnel et les titulaires
 d'une licence du personnel navigant déclarés médicalement inaptes au titre de l'aéronautique civile par un centre d'expertise
@@ -27142,11 +27140,12 @@ ou service médical d'un département ou d'un territoire d'outre-mer agréés pe
 maximale de quarante-cinq jours, déclarer un navigant professionnel apte à exercer ses fonctions jusqu'à la décision du
 conseil médical de l'aéronautique civile. (1)
 
-e) Les appels interjetés contre les décisions des commissions médicales régionales de l'aviation civile.
+(1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
 
 **Nota:**
 
-(1) Décret n° 84-202 du 19 mars 1984 (art. 1er).
+Décret 2000-473 2000-05-25 art. 3 : les dispositions du présent décret sont applicables dans les territoires d'outre-mer, en
+Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -27167,10 +27166,6 @@ _Cite_:
   - Code de l'aviation civile - art. L424-5 (V)
   - Code de l'aviation civile - art. R426-11 (M)
 
-_Modifié par_:
-
-  - Décret n°93-369 du 17 mars 1993 - art. 3 () JORF 19 mars 1993
-
 _Cité par_:
 
   - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
@@ -27180,6 +27175,14 @@ _Cité par_:
   - Code de l'aviation civile - art. D424-4 (Ab)
   - Code de l'aviation civile - art. D424-6 (V)
   - Code de l'aviation civile - art. D424-7 (M)
+
+_Modifié par_:
+
+  - Décret n°2000-473 du 25 mai 2000 - art. 2 () JORF 1er juin 2000
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2000-473 du 25 mai 2000 - art. 3 (V)
 
 
 ###### Article D424-3
@@ -27355,234 +27358,7 @@ _Modifié par_:
 
 ### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=252></a>
 
-#### CHAPITRE IV : COMMISSIONS MEDICALES REGIONALES DE L'AVIATION CIVILE<a id=253></a>
-
-###### Article D434-1
-
-Il est institué dans chaque direction régionale de l'aviation civile et dans chaque service d'Etat de l'aviation civile dans
-les territoires d'outre-mer une commission médicale régionale de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
-
-_Créé par_:
-
-  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D424-2 (M)
-
-
-###### Article D434-2
-
-Les commissions médicales régionales de l'aviation civile se prononcent sur :
-
-- les demandes de dérogation aux normes d'aptitude physique et mentale ;
-
-- les recours contre les décisions prononcées en matière d'aptitude par les médecins agréés ;
-
-- les demandes d'avis que ces derniers peuvent présenter avant de se prononcer sur l'aptitude d'un candidat.
-
-Chaque commission est compétente pour statuer sur les décisions prises par les médecins de son ressort géographique ; la
-commission de la direction de l'aviation civile pour la région Nord statue, en outre, sur les décisions prises par les
-médecins installés à l'étranger.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
-
-_Créé par_:
-
-  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
-
-
-###### Article D434-3
-
-Les commissions médicales régionales de l'aviation civile comprennent :
-
-- le médecin-chef de la direction régionale ou le médecin du service concerné, président ;
-
-- cinq docteurs en médecine, qualifiés dans une des disciplines principales de la médecine aéronautique, dont l'un est
-désigné en qualité de vice-président ;
-
-- deux médecins agréés, titulaires d'une licence de pilote.
-
-Dans les départements et territoires d'outre-mer, les deux dernières catégories peuvent ne comprendre, respectivement, que
-deux et un membre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
-
-_Créé par_:
-
-  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
-
-
-###### Article D434-4
-
-Les membres des commissions médicales régionales sont nommés pour une période de trois ans renouvelable par le directeur
-régional de l'aviation civile ou par le chef du service d'Etat de l'aviation civile, aprés avis du du conseil médical de
-l'aéronautique civile.
-
-Tout membre dont le mandat est interrompu est remplacé jusqu'à la date à laquelle sont mandat devait expirer.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
-
-_Créé par_:
-
-  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
-
-
-###### Article D434-5
-
-Les commissions médicales régionales de l'aviation civile se réunissent sur convocation de leur président ou à la demande de
-la moitié de leurs membres.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
-
-_Créé par_:
-
-  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
-
-
-###### Article D434-6
-
-Les commissions médicales régionales de l'aviation civile délibèrent valablement dès lors que la moitié de leurs membres sont
-présents.
-
-Les membres des commissions médicales ne peuvent prendre part aux délibérations portant sur l'examen des cas individuels dont
-ils ont déjà eu connaissance à l'occasion d'une activité extérieure à la commission.
-
-Les séances sont tenues à huis clos. Les délibérations sont prises à la majorité des voix, le président ayant, en cas
-d'égalité de suffrages, voix prépondérante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
-
-_Créé par_:
-
-  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
-
-
-###### Article D434-7
-
-Le président d'une commission médicale peut décider de consulter des personnalités compétentes et notamment des membres d'un
-centre d'expertise médicale du personnel navigant ou d'un service de l'aviation civile.
-
-Il peut désigner des médecins experts s'il le juge nécessaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
-
-_Créé par_:
-
-  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
-
-
-###### Article D434-8
-
-Le secrétariat des commissions médicales régionales de l'aviation civile est assuré par les services du médecin-chef de la
-direction régionale de l'aviation civile ou du médecin du service de l'aviation civile concerné.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°91-453 1951-05-10 art. 3
-
-_Créé par_:
-
-  - Décret n°91-453 du 10 mai 1991 - art. 1 () JORF 16 juin 1991
-
-_Abrogé par_:
-
-  - Décret n°2000-473 du 25 mai 2000 - art. 1 () JORF 1er juin 2000
-
-
-#### CHAPITRE V : DISCIPLINE.<a id=254></a>
+#### CHAPITRE V : DISCIPLINE.<a id=253></a>
 
 ###### Article D435-1
 
@@ -27969,9 +27745,9 @@ _Abrogé par_:
   - Décret n°2011-484 du 3 mai 2011 - art. 2
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=255></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=254></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=256></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=255></a>
 
 ###### Article D510-1
 
@@ -28226,9 +28002,9 @@ _Cité par_:
   - Arrêté du 8 janvier 2018 - art. 3 (V)
 
 
-### TITRE II : AIDE AUX JEUNES<a id=257></a>
+### TITRE II : AIDE AUX JEUNES<a id=256></a>
 
-#### Section 1 : Aide aux jeunes.<a id=258></a>
+#### Section 1 : Aide aux jeunes.<a id=257></a>
 
 ###### Article D521-1
 
@@ -28317,7 +28093,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=259></a>
+#### Section 2 : Aide à la construction amateur.<a id=258></a>
 
 ###### Article D521-4
 
@@ -28383,9 +28159,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=260></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=259></a>
 
-### Section 1 : Avions photographes.<a id=261></a>
+### Section 1 : Avions photographes.<a id=260></a>
 
 ###### Article D611-1
 
@@ -28410,7 +28186,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=262></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=261></a>
 
 ###### Article D611-2
 
@@ -28522,11 +28298,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-# Annexes<a id=263></a>
+# Annexes<a id=262></a>
 
-## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=264></a>
+## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=263></a>
 
-### REGLES DE l'AIR<a id=265></a>
+### REGLES DE l'AIR<a id=264></a>
 
 ###### Article Annexe I : Appendice A
 
@@ -31072,9 +30848,9 @@ _Modifié par_:
   - Décret n°94-947 1994-10-25 annexe I JORF 3 novembre 1994 en vigueur le 3 décembre 1994
 
 
-## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=266></a>
+## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=265></a>
 
-### SERVICES DE LA CIRCULATION AERIENNE<a id=267></a>
+### SERVICES DE LA CIRCULATION AERIENNE<a id=266></a>
 
 ###### Article Annexe II : Appendice A
 
