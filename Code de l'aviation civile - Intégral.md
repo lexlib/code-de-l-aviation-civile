@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1972-08-28
+Version Consolidée au 1972-11-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -154,9 +154,9 @@ Version Consolidée au 1972-08-28
         - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#151)
         - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#152)
         - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#153)
-      - [TITRE V : AÉROPORT DE PARIS (art. D251-2)](#154)
-        - [CHAPITRE Ier : DISPOSITIONS GÉNÉRALES (art. D251-2)](#155)
-          - [Section 1 : Aérodromes constituant l'Aéroport de Paris. (art. D251-2)](#156)
+      - [TITRE V : AÉROPORT DE PARIS (art. D251-1 à D251-2)](#154)
+        - [CHAPITRE Ier : DISPOSITIONS GÉNÉRALES (art. D251-1 à D251-2)](#155)
+          - [Section 1 : Aérodromes constituant l'Aéroport de Paris. (art. D251-1 à D251-2)](#156)
     - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D321-2)](#157)
       - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#158)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#159)
@@ -11560,6 +11560,39 @@ _Codifié par_:
 #### CHAPITRE Ier : DISPOSITIONS GÉNÉRALES<a id=155></a>
 
 ##### Section 1 : Aérodromes constituant l'Aéroport de Paris.<a id=156></a>
+
+###### Article D251-1
+
+Les aéroports et aérodromes suivants font partie de l'ensemble constitué par l'Aéroport de Paris :
+
+Roissy-en-France (1), Orly, Le Bourget ;
+
+Chavenay-Villepreux, Chelles-le-Pin, Coulommiers-Voisins, Guyancourt, Issy-les-Moulineaux, Lognes-Emerainville, Meaux-Esbly,
+Mitry-Mory, Persan-Beaumont, Pontoise-Cormeilles-en-Vexin, Saint-Cyr-l'Ecole et Toussus-le-Noble.
+
+(1) L'aéroport de Roissy-en-France a reçu le nom d'Aéroport Charles-de-Gaulle par décret du 24 octobre 1973.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-335 1967-03-30
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 29 décembre 1994
+  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 29 décembre 1994 - art. 3 (V)
+
+_Cité par_:
+
+  - Arrêté du 16 septembre 2005 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°72-1005 1972-11-02 art. 1 JORF 7 novembre 1972
+
 
 ###### Article D251-2
 
