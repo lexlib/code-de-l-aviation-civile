@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1984-05-12
+Version Consolidée au 1984-05-27
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -130,7 +130,7 @@ Version Consolidée au 1984-05-12
     - [LIVRE IV : PERSONNEL NAVIGANT (art. R421-1 à R433-1)](#127)
       - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R426-28)](#128)
         - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#129)
-          - [Section 1 : Catégories. (art. R421-1 à R421-5)](#130)
+          - [Section 1 : Catégories. (art. R421-1 à R421-6)](#130)
           - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-17)](#131)
         - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#132)
         - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-5)](#133)
@@ -11485,6 +11485,31 @@ _Modifié par_:
 
   - Décret n°69-329 1969-04-03 art. 1 JORF 12 avril 1969
   - Décret n°75-757 1975-08-04 art. 1 JORF 15 août 1975
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R421-7 (M)
+
+
+###### Article R421-6
+
+La définition des qualifications professionnelles spéciales, les conditions de leur obtention et de leur renouvellement ainsi
+que les programmes et règlements des examens correspondants sont fixés, après avis du conseil du personnel navigant, par
+arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé des armées.
+
+Toufefois, en ce qui concerne les qualifications de type d'aéronef, leur définition et les conditions de leur obtention sont
+seules fixées ainsi qu'il est dit à l'alinéa précédent. Les programmes d'instruction au sol et en vol correspondant à ces
+qualifications sont déposés directement auprès du ministre chargé de l'aviation civile et soumis à son approbation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°84-397 1984-05-25 art. 1 JORF 27 mai 1984
 
 _Cité par_:
 
