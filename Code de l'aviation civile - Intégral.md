@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-04-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -70,9 +70,9 @@ Version Consolidée au 1994-03-01
         - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. R122-1 à R122-3)](#67)
         - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. R123-1 à R123-9)](#68)
       - [TITRE III : CIRCULATION DES AERONEFS. (art. R131-1 à R134-6)](#69)
-        - [CHAPITRE Ier : DROIT DE CIRCULATION. (art. R131-1 à R131-4)](#70)
+        - [CHAPITRE Ier : DROIT DE CIRCULATION. (art. R131-1 à R131-5)](#70)
         - [CHAPITRE II : ATTERRISSAGE. (art. R132-1 à R132-3)](#71)
-        - [CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS. (art. R133-1 à R133-12)](#72)
+        - [CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS. (art. R133-1 à R133-11)](#72)
         - [CHAPITRE IV : REDEVANCES. (art. R134-1 à R134-6)](#73)
       - [TITRE IV : DOMMAGES ET RESPONSABILITES. (art. R141-1 à R142-4)](#74)
         - [CHAPITRE Ier : RESPONSABILITE DES EQUIPAGES ET DES EXPLOITANTS. (art. R141-1 à R141-2)](#75)
@@ -6628,6 +6628,42 @@ _Créé par_:
   - Décret n°80-104 1980-01-22 art. 1 JORF 1er février 1980
 
 
+###### Article R131-5
+
+Tout pilote d'aéronef ne peut effectuer, selon les règles de vol à vue, un vol comportant le franchissement, dans l'un ou
+l'autre sens, des frontières terrestres ou maritimes de la France métropolitaine que s'il a, au préalable, déposé un plan de
+vol.
+
+Tout pilote d'aéronef motopropulsé ne peut pénétrer à l'intérieur de l'espace aérien métropolitain en évoluant selon les
+règles de vol à vue que si son appareil est équipé de moyens de radiocommunications. Lors du franchissement de la frontière
+il doit se mettre en relation radiotéléphonique avec un organisme français de la circulation aérienne. Si la liaison ne peut
+être établie au franchissement de la frontière, le pilote doit tenter de l'obtenir pendant la suite du vol. Si pour des
+raisons indépendantes de sa volonté il n'y parvient pas, il doit, dès l'atterrissage, se mettre en rapport avec les
+organismes locaux de la circulation aérienne et les services de douane et de police compétents.
+
+Le franchissement de la frontière par un aéronef en dérogation à l'obligation d'équipement en moyens de radiocommunications
+peut être exceptionnellement autorisé par le ministre chargé de l'aviation civile qui en informe le ministre chargé de la
+défense dans les cas d'impossibilité technique d'assurer cet équipement.
+
+Les mesures techniques d'application du présent article font l'objet d'un arrêté du ministre chargé de l'aviation civile,
+pris en accord avec le ministre chargé de la défense et après avis du délégué à l'espace aérien dans la limite de ses
+attributions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°94-304 du 13 avril 1994 - art. 1 () JORF 21 avril 1994
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R151-1 (V)
+
+
 #### CHAPITRE II : ATTERRISSAGE.<a id=71></a>
 
 ###### Article R132-1
@@ -7187,41 +7223,6 @@ _Modifié par_:
   - Décret n°82-171 1982-02-16 art. 1 JORF 20 février 1982
 
 
-###### Article R133-12
-
-Tout pilote d'aéronef effectuant, selon les règles de vol à vue, un vol comportant le franchissement, dans l'un ou l'autre
-sens, des frontières de la France métropolitaine doit avoir, au préalable, déposé un plan de vol.
-
-Tout pilote d'aéronef motopropulsé équipé de moyens de radiocommunication, désirant pénétrer à l'intérieur de l'espace aérien
-métropolitain en évoluant selon les règles du vol à vue, doit se mettre en liaison radiotéléphonique avec les services
-français de la circulation aérienne lors du franchissement de la frontière ou, si la liaison n'a pu être établie à ce moment,
-dès que possible.
-
-Si pour des raisons indépendantes de sa volonté, et notamment si l'aéronef ne comporte pas de moyens de radiocommunication,
-la pilote n'a pu établir cette liaison pendant le vol, il doit , dès l'atterrissage, se mettre en rapport avec les services
-locaux de la circulation aérienne.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Abrogé par_:
-
-  - Décret n°94-304 du 13 avril 1994 - art. 1 () JORF 21 mars 1994
-
-_Cité par_:
-
-  - Arrêté du 7 décembre 2006 - art. 1 (V)
-  - Code de l'aviation civile - art. R133-14 (V)
-  - Code de l'aviation civile - art. R151-1 (M)
-
-_Créé par_:
-
-  - Décret n°84-459 1984-06-14 art. 3 JORF 17 juin 1984 en vigueur le 1er avril 1984
-
-
 #### CHAPITRE IV : REDEVANCES.<a id=73></a>
 
 ###### Article R134-1
@@ -7599,18 +7600,18 @@ _Créé par_:
 
 Seront punis des peines prévues par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe :
 
-" 1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de l'aéronef lorsque ce document est exigé par la
+1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de l'aéronef lorsque ce document est exigé par la
 réglementation en vigueur ;
 
-" 2° Le propriétaire qui aura omis de conserver le carnet de route de l'aéronef pendant les trois ans qui suivent la dernière
+2° Le propriétaire qui aura omis de conserver le carnet de route de l'aéronef pendant les trois ans qui suivent la dernière
 inscription ;
 
-" 3° Ceux qui auront contrevenu aux articles R. 131-1 et R. 131-2 ;
+3° Ceux qui auront contrevenu aux articles R. 131-1 et R. 131-2 ;
 
-" 4° Les organisateurs de spectacles publics d'évolution d'aéronefs qui n'auront pas obtenu l'autorisation requise par
+4° Les organisateurs de spectacles publics d'évolution d'aéronefs qui n'auront pas obtenu l'autorisation requise par
 l'article R. 131-3 et les pilotes qui auront participé à ces manifestations ;
 
-" 5° Ceux qui auront contrevenu à l'article R. 133-12. "
+5° Ceux qui auront contrevenu à l'article R. 131-5.
 
 **Liens relatifs à cet article**
 
@@ -7629,7 +7630,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Décret n°94-304 du 13 avril 1994 - art. 2 () JORF 21 avril 1994
 
 _Cite_:
 
