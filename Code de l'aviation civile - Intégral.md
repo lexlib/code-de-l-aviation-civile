@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2000-06-01
+Version Consolidée au 2000-06-23
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -92,7 +92,7 @@ Version Consolidée au 2000-06-01
         - [CHAPITRE II : ASSISTANCE, SAUVETAGE, DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS OU D'INCIDENTS. (art. R142-1 à R142-4)](#89)
       - [TITRE V : DISPOSITIONS PENALES. (art. R151-1 à R151-8)](#90)
       - [TITRE VI : SANCTIONS ADMINISTRATIVES. (art. R160-1 à R160-14)](#91)
-    - [LIVRE II : AERODROMES. (art. R211-1 à R282-9)](#92)
+    - [LIVRE II : AERODROMES. (art. R211-1 à R282-8)](#92)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. R211-1 à R216-16)](#93)
         - [CHAPITRE Ier : DEFINITIONS, REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. R211-1 à R211-5)](#94)
         - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R213-1 à R213-9)](#95)
@@ -137,9 +137,9 @@ Version Consolidée au 2000-06-01
         - [CHAPITRE III : RÉGIME FINANCIER (art. R253-1 à R253-4)](#134)
         - [CHAPITRE IV : DISPOSITIONS DIVERSES. (art. R254-1)](#135)
       - [TITRE VI : AEROPORT DE BALE-MULHOUSE. (art. R260-1 à R260-2)](#136)
-      - [TITRE VIII : DISPOSITIONS PENALES (art. R281-1 à R282-9)](#137)
+      - [TITRE VIII : DISPOSITIONS PENALES (art. R281-1 à R282-8)](#137)
         - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. R281-1 à R281-3)](#138)
-        - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R282-1 à R282-9)](#139)
+        - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R282-1 à R282-8)](#139)
     - [LIVRE III : TRANSPORT AERIEN (art. R321-1 à R351-2)](#140)
       - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-2)](#141)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1 à R321-11)](#142)
@@ -14922,30 +14922,6 @@ _Abrogé par_:
 _Cite_:
 
   - Code de l'aviation civile - art. L282-8
-
-
-###### Article R282-9
-
-Les frais exposés par les gestionnaires d'aérodromes en matière de personnel, d'équipement ou d'aménagement pour l'exercice
-des missions de sûreté peuvent donner lieu à rémunération sous la forme de l'une des redevances prévues à l'article R. 224-1.
-
-**Liens relatifs à cet article**
-
-_Annulé par_:
-
-  - Conseil d'Etat n°189168, 189236 2000-06-23
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Créé par_:
-
-  - Décret n°97-574 du 30 mai 1997 - art. 1 () JORF 31 mai 1997
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R224-1 (An)
 
 
 ## LIVRE III : TRANSPORT AERIEN<a id=140></a>
