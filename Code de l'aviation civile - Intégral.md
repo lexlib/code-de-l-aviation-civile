@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1995-01-31
+Version Consolidée au 1995-02-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -52,7 +52,7 @@ Version Consolidée au 1995-01-31
     - [LIVRE IV : PERSONNEL NAVIGANT (art. L410-1 à L427-3)](#49)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. L410-1)](#50)
       - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. L421-1 à L427-3)](#51)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. L421-1 à L421-8)](#52)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. L421-1 à L421-9)](#52)
         - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. L422-1 à L422-4)](#53)
         - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. L423-1 à L423-6)](#54)
         - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. L424-1 à L424-7)](#55)
@@ -5024,6 +5024,38 @@ _Cite_:
   - Code de l'aviation civile - art. L421-5
 
 
+###### Article L421-9
+
+Le personnel navigant de l'aéronautique civile de la section A du registre prévu à l'article L. 421-3 ne peut exercer aucune
+activité en qualité de pilote ou de copilote dans le transport aérien public au-delà de l'âge de soixante ans. Toutefois, le
+contrat de travail du navigant n'est pas rompu du seul fait que cette limite d'âge est atteinte sauf impossibilité pour
+l'entreprise de proposer un reclassement dans un emploi au sol.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°95-116 1995-02-04 art. 90 II
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 90 (V) JORF 5 février 1995
+
+_Cité par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 90 (V)
+  - Code de l'aviation civile - art. D421-10 (V)
+  - Code de l'aviation civile - art. L423-1 (VT)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L421-3 (M)
+
+
 #### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE.<a id=53></a>
 
 ###### Article L422-1
@@ -5180,10 +5212,15 @@ préavis et aux frais de l'employeur ;
 
 6° Le délai de préavis à observer en cas de résiliation du contrat par l'une ou l'autre des parties. Pendant le délai de
 préavis, le travail aérien mensuel demandé aux navigants doit rester égal à la moyenne de celui demandé pendant la même
-période aux membres du personnel navigant de l'entreprise considérée.
+période aux membres du personnel navigant de l'entreprise considérée;
+
+7° Le montant de l'indemnité exclusive de départ, allouée au personnel dont le contrat prend fin en application de l'article
+L. 421-9, à raison soit de l'impossibilité pour l'entreprise de proposer à l'intéressé de le reclasser dans un emploi au sol,
+soit du refus de l'intéressé d'accepter l'emploi qui lui est offert, calculé selon les mêmes modalités que celles prévues au
+deuxième alinéa de l'article L. 122-14-13 du code du travail.
 
 L'employeur peut cependant ne pas utiliser le navigant en période de délai-préavis, mais dans ce cas il doit lui verser,
-immédiatement et en une seule fois, une indemnité calculée pour la durée minimale du préavis sur la base du salaire global
+immédiatement et en une seule fois, une indemnité calculée pour la durée minimum du préavis sur la base du salaire global
 mensuel moyen de la dernière année d'activité normale.
 
 Sauf s'il s'agit d'assurer un service public, les navigants et le personnel complémentaire de bord ne peuvent être astreints
@@ -5205,11 +5242,20 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 90 (V) JORF 5 février 1995
+
 _Cité par_:
 
   - Décret n°97-598 du 29 mai 1997 - art. 4 (V)
   - Arrêté du 21 janvier 1998 - art. 3 (V)
   - Code de l'aviation civile - art. R423-1 (V)
+
+_Cite_:
+
+  - Code du travail - art. L122-14-13 (M)
+  - Code de l'aviation civile - art. L421-9 (M)
 
 
 ###### Article L423-2
