@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1981-08-19
+Version Consolidée au 1982-02-20
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -69,7 +69,7 @@ Version Consolidée au 1981-08-19
       - [TITRE III : CIRCULATION DES AERONEFS. (art. R131-1 à R134-3)](#66)
         - [CHAPITRE Ier : DROIT DE CIRCULATION. (art. R131-1 à R131-4)](#67)
         - [CHAPITRE II : ATTERRISSAGE. (art. R132-1 à R132-3)](#68)
-        - [CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS. (art. R133-2 à R133-10)](#69)
+        - [CHAPITRE III : POLICE DE LA CIRCULATION DES AERONEFS. (art. R133-2 à R133-11)](#69)
         - [CHAPITRE IV : REDEVANCES. (art. R134-1 à R134-3)](#70)
       - [TITRE IV : DOMMAGES ET RESPONSABILITES. (art. R141-1 à R142-4)](#71)
         - [CHAPITRE Ier : RESPONSABILITE DES EQUIPAGES ET DES EXPLOITANTS. (art. R141-1 à R141-2)](#72)
@@ -6341,6 +6341,27 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+
+
+###### Article R133-11
+
+Les certificats de navigabilité, les certificats de limitation de nuisances, les brevets d'aptitude et les licences délivrés
+ou rendus exécutoires par l'Etat dont l'aéronef possède la nationalité sont reconnus valables pour la circulation au-dessus
+du territoire français si l'équivalence a été admise par convention internationale ou par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°73-256 1973-03-06 art. 3 JORF 10 mars 1973
+
+_Modifié par_:
+
+  - Décret n°82-171 1982-02-16 art. 1 JORF 20 février 1982
 
 
 #### CHAPITRE IV : REDEVANCES.<a id=70></a>
