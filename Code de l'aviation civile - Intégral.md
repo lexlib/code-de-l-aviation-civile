@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1989-04-01
+Version Consolidée au 1989-07-11
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-17)](#2)
@@ -31,7 +31,7 @@ Version Consolidée au 1989-04-01
       - [TITRE VIII : DISPOSITIONS PENALES (art. L281-1 à L283-1)](#28)
         - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. L281-1 à L281-4)](#29)
         - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. L282-1 à L282-17)](#30)
-          - [Section 1 : Répression des crimes et délits. (art. L282-1 à L282-4)](#31)
+          - [Section 1 : Répression des crimes et délits. (art. L282-1 à L282-4-1)](#31)
           - [Section 2 : Police de la conservation. (art. L282-5 à L282-6)](#32)
           - [Section 3 : Police de l'exploitation. (art. L282-7 à L282-10)](#33)
           - [Section 4 : Dispositions communes. (art. L282-11 à L282-15)](#34)
@@ -43,7 +43,7 @@ Version Consolidée au 1989-04-01
         - [CHAPITRE Ier : TRANSPORT DES MARCHANDISES. (art. L321-1 à L321-6)](#40)
         - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. L322-1 à L322-4)](#41)
         - [CHAPITRE III : LOCATION ET AFFRETEMENT D'AÉRONEFS. (art. L323-1 à L323-2)](#42)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. L330-1 à L330-8)](#43)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. L330-1 à L330-9)](#43)
       - [TITRE IV : COMPAGNIE NATIONALE AIR FRANCE (art. L341-1 à L342-4)](#44)
         - [CHAPITRE Ier : INSTITUTION. (art. L341-1 à L341-2)](#45)
         - [CHAPITRE II : FONCTIONNEMENT. (art. L342-1 à L342-4)](#46)
@@ -1447,17 +1447,23 @@ _Nouveaux textes_:
 Le survol de certaines zones du territoire français peut être interdit pour des raisons d'ordre militaire ou de sécurité
 publique. L'emplacement et l'étendue des zones interdites doivent être spécialement indiqués.
 
-Tout aéronef qui s'engage au-dessus d'une zone interdite est tenu, dès qu'il s'en aperçoit, de donner le signal réglementaire
-et d'atterrir sur l'aérodrome le plus rapproché en dehors de la zone interdite.
+Tout aéronef qui s'engage au-dessus d'une zone interdite est tenu, dès qu'il s'en aperçoit, d'atterrir sur l'aérodrome le
+plus rapproché en dehors de la zone interdite. 
 
 Lorsqu'un territoire est déclaré en état de siège et le survol de ce territoire interdit tout aéronef ayant contrevenu à
 cette interdiction sera saisi dès l'atterrissage en un point quelconque du territoire national, et ses occupants déférés
 devant des tribunaux militaires, sous inculpation d'espionnage, si le commandant de bord ne peut justifier des raisons qui
 l'ont amené à survoler le territoire.
 
-Si l'aéronef est aperçu en vol il doit, à la première sommation faite au moyen de tirs à blanc, atterrir sur l'aérodrome le
-plus voisin. Dès sommation d'atterrir, l'aéronef doit immédiatement ralentir sa marche et descendre à faible altitude, faute
-de quoi il y est contraint par la force.
+Si l'aéronef est aperçu en vol, il doit se conformer à la première injonction, ralentir sa marche, descendre à l'altitude et
+atterrir sur l'aérodrome qui lui sont indiqués.
+
+**Nota:**
+
+Loi 93-1013 du 24 août 1993 art. 46 : 
+
+Dans les dispositions de nature législative, toute mention relative à l'inculpation est remplacée par une mention relative à
+la mise en examen.
 
 **Liens relatifs à cet article**
 
@@ -1466,9 +1472,13 @@ _Anciens textes_:
   - Ancien code de l'aviation civile 19
   - Loi n°1924-05-31 art. 20
 
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30 JORF 9 avril 1967)
+
 _Modifié par_:
 
-  - Décret n°80-103 1980-01-22 ART. 1 JORF 1 FEVRIER 1980
+  - Loi n°89-467 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989
 
 _Cité par_:
 
@@ -1477,6 +1487,15 @@ _Cité par_:
   - Code de l'aviation civile - art. L150-4 (VT)
   - Code de l'aviation civile - art. R131-4 (V)
   - Code de la défense. - art. R2363-7 (M)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6211-4 (V)
+  - Code des transports - art. L6211-5 (V)
 
 
 #### CHAPITRE II : ATTERRISSAGE.<a id=10></a>
@@ -1750,25 +1769,26 @@ _Nouveaux textes_:
 
 ###### Article L150-1
 
-Sera puni d'une amende de 1 800 F à 60 000 F (1) et d'un emprisonnement de six jours à un mois ou de l'une de ces deux peines
-seulement le propriétaire qui aura :
+Seront punis d'une amende de 15 000 F à 500 000 F [*montant*] et d'un emprisonnement de trois mois à un an [*durée*] , ou de
+l'une de ces deux peines seulement, l'exploitant technique, le propriétaire et, le cas échéant, l'exploitant commercial qui
+auront [*infraction*] :
 
-1° Mis ou laissé en service son aéronef sans avoir obtenu de certificat d'immatriculation et de navigabilité ;
+" 1° Mis ou laissé en service un aéronef sans avoir obtenu un certificat d'immatriculation, un document de navigabilité ou un
+certificat de limitation de nuisances lorsque ceux-ci sont exigibles ;
 
-2° Mis ou laissé en service son aéronef sans les marques d'identification prévues par l'article L. 121-2 ;
+" 2° Mis ou laissé en service un aéronef sans les marques d'identification prévues par l'article L. 121-2 ;
 
-3° Fait ou laisser circuler sciemment un aéronef dont le certificat de navigabilité a cessé d'être valable.
+" 3° Fait ou laissé circuler un aéronef dont le document de navigabilité ou le certificat de limitation de nuisances ont
+cessé d'être valables ;
 
-Tout refus de certificat de navigabilité par l'autorité chargée de ce service devra être notifié par écrit à l'intéressé et
-cette notification établira contre lui une présomption de faute.
+" 4° Fait ou laissé circuler un aéronef ne répondant pas à tout moment tant aux conditions techniques de navigabilité ayant
+servi de base à la délivrance du document de navigabilité qu'aux règles relatives au maintien en état de validité de ce
+document ;
 
-**Nota:**
-
-(1) La mention du taux des amendes a été modifiée par décret n° 80-908 du 17 novembre 1980 (art. 8-I, II et III) en exécution
-des lois n° 53-515 du 28 mai 1953 et n° 77-1968 du 30 décembre 1977 (art. 16).
-
-Le taux est également à modifier par application de la loi n° 85-835, du 7 août 1985, articles 7 et 8 (cf. volume II,
-première partie).
+" 5° Fait ou laissé circuler un aéronef dans des conditions d'utilisation non conformes aux règles édictées en vue d'assurer
+la sécurité par le présent code ou par des arrêtés pris en application du présent code par le ministre chargé de l'aviation
+civile et relatifs à l'équipement des aéronefs, aux modalités de leur utilisation, à la composition des équipages et à leurs
+conditions d'emploi.
 
 **Liens relatifs à cet article**
 
@@ -1780,6 +1800,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°67-333 1967-03-30
+
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 2 () JORF 11 juillet 1989
 
 _Cite_:
 
@@ -1796,13 +1820,12 @@ _Cité par_:
 
 Les mêmes peines seront prononcées contre le pilote qui aura :
 
-1° Conduit un aéronef sans brevet ou licence ;
+1° Conduit un aéronef sans être titulaire d'un brevet ou d'une licence ;
 
-2° Détruit un livre de bord ou porté sur ce livre des indications sciemment inexactes ;
+2° Détruit un des documents de bord de l'aéronef prévus par le présent code ou porté sur l'un de ces documents des
+indications sciemment inexactes ;
 
 3° Conduit sciemment un aéronef dans les conditions prévues à l'article L. 150-1.
-
-Seront punis des mêmes peines ceux qui auront contrevenu aux prescriptions de l'article L. 131-3 (alinéa 1er).
 
 **Liens relatifs à cet article**
 
@@ -1815,10 +1838,23 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 2 () JORF 11 juillet 1989
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6142-5 (V)
+  - Code des transports - art. L6232-7 (V)
+  - Code des transports - art. L6531-1 (T)
+
 _Cite_:
 
-  - Code de l'aviation civile - art. L150-1 (M)
-  - Code de l'aviation civile L131-3 al. 1, L150-1
+  - Code de l'aviation civile - art. L150-1
 
 _Cité par_:
 
@@ -1828,17 +1864,13 @@ _Cité par_:
 
 ###### Article L150-3
 
-L'amende édictée par l'article L. 150-1 pourra être élevée jusqu'à 120 000 F et l'emprisonnement jusqu'à deux mois, si les
-infractions prévues sous les 1° et 3° dudit article et sous le 1° de l'article L. 150-2 ont été commises après le refus ou le
-retrait du certificat d'immatriculation, du brevet d'aptitude ou de la licence.
+Le pilote qui, en infraction aux dispositions de l'article L. 132-1, n'aura pas utilisé, sauf cas de force majeure, un
+aéroport international au départ ou à l'arrivée d'un vol international sera puni d'une amende de 15 000 F à 200 000 F
+[*montant*] et d'un emprisonnement de deux mois à trois ans [*durée*], ou de l'une de ces deux peines seulement, sans
+préjudice de l'application des peines prévues par la législation douanière.
 
-**Nota:**
-
-[*La mention du taux des amendes a été modifiée par décret n° 80-908 du 17 novembre 1980 (art. 8-I, II et III) en exécution
-des lois n° 53-515 du 28 mai 1953 et n° 77-1968 du 30 décembre 1977 (art. 16).
-
-Le taux est également à modifier par application de la loi n° 85-835, du 7 août 1985, articles 7 et 8 (cf. volume II,
-première partie).*]
+" Sera puni des mêmes peines tout membre d'équipage qui, sur un tel aéroport, aura tenté de se soustraire aux contrôles
+réglementaires. "
 
 **Liens relatifs à cet article**
 
@@ -1850,6 +1882,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°67-333 1967-03-30
+
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 3 () JORF 11 juillet 1989
 
 _Cite_:
 
@@ -1864,21 +1900,16 @@ _Cité par_:
 
 ###### Article L150-4
 
-Le pilote qui ne se sera pas conformé aux prescriptions de l'article L. 131-3 (alinéa 2) relatives à l'atterrissage au sortir
-de la zone interdite sera puni d'une amende de 1 800 F à 60 000 F (1) et d'un emprisonnement de quinze jours à trois mois.
+Sera puni d'une amende de 15 000 F à 100 000 F [*montant*] et d'un emprisonnement de un à six mois [*durée*], ou de l'une de
+ces deux peines seulement, le pilote qui, par maladresse ou négligence, aura survolé une zone du territoire français en
+violation d'une interdiction prononcée dans les conditions prévues au premier alinéa de l'article L. 131-3.
 
-Le pilote qui, en infraction aux dispositions de l'article L. 132-1, n'aura pas utilisé, sauf cas de force majeure, un
-aéroport international au départ ou à l'arrivée d'un vol international, ou, sur un tel aéroport, aura tenté de se soustraire
-aux contrôles réglementaires, sera puni d'une amende de 1 800 F à 8 000 F (1) et d'un emprisonnement de deux mois à trois
-ans, sans préjudice de l'application des peines prévues par la législation douanière. (2)
+" Sera puni d'une amende de 15 000 F à 300 000 F et d'un emprisonnement de trois mois à un an, ou de l'une de ces deux peines
+seulement, le pilote qui :
 
-**Nota:**
+" a) Se sera sciemment engagé ou maintenu au-dessus d'une zone mentionnée au premier alinéa du présent article ;
 
-(1) La mention du taux des amendes a été modifiée par décret n° 80-908 du 17 novembre 1980 (art. 8-I, II et III) en exécution
-des lois n° 53-515 du 28 mai 1953 et n° 77-1968 du 30 décembre 1977 (art. 16).
-
-Le taux est également à modifier en application de la loi n° 85-835 du 7 août 1985, articles 7 et 8 (cf. volume II, 1re
-partie).
+" b) Ne se sera pas conformé aux prescriptions des deuxième et quatrième alinéas de l'article L. 131-3. "
 
 **Liens relatifs à cet article**
 
@@ -1893,7 +1924,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°73-10 du 4 janvier 1973 - art. 4 () JORF 5 janvier 1970
+  - Loi n°89-467 du 10 juillet 1989 - art. 4 () JORF 11 juillet 1989
 
 _Cité par_:
 
@@ -1903,25 +1934,20 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L132-1 (V)
-  - Code de l'aviation civile L131-3 al. 2, L132-1
+  - Code de l'aviation civile - art. L131-3 (M)
 
 
 ###### Article L150-5
 
 Le possesseur, le détenteur ou le pilote qui aura apposé ou fait apposer sur l'aéronef des marques d'immatriculation non
-conformes à celles du certificat de navigabilité ou qui aura supprimé ou fait supprimer, rendu ou fait rendre illisibles les
-marques exactement apposées sera puni d'une amende de 3 600 F à 120 000 F (1) et d'un emprisonnement de six mois à trois ans.
-Seront punis des mêmes peines, ceux qui auront apposé ou fait apposer sur un aéronef privé les marques distinctives réservées
-aux aéronefs publics ou qui auraient fait usage d'un aéronef privé portant lesdites marques.
+conformes à celles du certificat de d'immatriculation ou qui aura supprimé ou fait supprimer, rendu ou fait rendre illisibles
+les marques exactement apposées sera puni d'une amende de 3 600 F à 120 000 F [*(1)*] et d'un emprisonnement de six mois à
+trois ans. Seront punis des mêmes peines, ceux qui auront apposé ou fait apposer sur un aéronef privé les marques
+distinctives réservées aux aéronefs publics ou qui auraient fait usage d'un aéronef privé portant lesdites marques.
 
 **Nota:**
 
-(1) La mention du taux des amendes a été modifiée par décret n° 80-908 du 17 novembre 1980 (art. 8-I, II et III) en exécution
-des lois n° 53-515 du 28 mai 1953 et n° 77-1968 du 30 décembre 1977 (art. 16).
-
-Le taux est également à modifier en application de la loi n° 85-835 du 7 août 1985, articles 7 et 8 (cf. volume II, 1re
-partie).
+[*(1) Taux résultant de la loi 85-835 du 7 août 1985*].
 
 **Liens relatifs à cet article**
 
@@ -1933,6 +1959,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°67-333 1967-03-30
+
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 5 () JORF 11 juillet 1989
 
 _Cité par_:
 
@@ -1947,13 +1977,11 @@ Sera puni des peines prévues à l'article L. 150-1 :
 voyageurs ou des objets de correspondance compris dans le monopole postal ;
 
 2° Quiconque aura transporté ou utilisé des appareils photographiques dont le transport et l'usage ont été interdits par les
-règlements.
+règlements ;
 
-Seront punis des peines prévues à l'article L. 150-3 :
+3° Quiconque aura fait usage à bord des objets ou appareils dont le transport est interdit ;
 
-1° Ceux qui auront fait usage à bord des objets ou appareils dont le transport est interdit ;
-
-2° Ceux qui, sans autorisation spéciale, auront fait usage d'appareils photographiques au-dessus des zones interdites.
+4° Quiconque aura, sans autorisation spéciale, fait usage d'appareils photographiques au-dessus des zones interdites.
 
 **Liens relatifs à cet article**
 
@@ -1966,10 +1994,21 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 6 () JORF 11 juillet 1989
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6232-8 (V)
+
 _Cite_:
 
-  - Code de l'aviation civile - art. L150-1 (M)
-  - Code de l'aviation civile - art. L150-3 (M)
+  - Code de l'aviation civile - art. L150-1
 
 
 ###### Article L150-7
@@ -2002,7 +2041,7 @@ _Cité par_:
 ###### Article L150-8
 
 L'interdiction de conduite d'un aéronef quelconque pourra être prononcée par le jugement ou l'arrêt pour une durée de trois
-mois à trois ans contre le pilote condamné, en vertu des articles L. 150-3, L. 150-4 et L. 150-5.
+mois à trois ans contre le pilote condamné, en vertu des articles L. 150-2, L. 150-4 et L. 150-5.
 
 Si le pilote est condamné une seconde fois pour l'un quelconque de ces mêmes délits dans un délai prévu par l'article L.
 150-7, l'interdiction de conduire un aéronef sera prononcée et sa durée sera portée au maximum et pourra être élevée jusqu'au
@@ -2012,17 +2051,14 @@ Les brevets dont seraient porteurs les pilotes resteront déposés pendant toute
 juridiction qui aura prononcé l'interdiction.
 
 Les condamnés devront effectuer les dépôts de ces brevets soit à ce greffe, soit à celui de leur domicile, dans les cinq
-jours qui suivront la date à laquelle la condamnation sera devenue définitive, faute de quoi, ils seront punis de six jours à
-un mois d'emprisonnement et d'une amende de 180 F à 8 000 F sans préjudice des peines portées à l'article L. 150-2 au cas où
-ils conduiraient un aéronef pendant la période d'interdiction et qui ne pourront se confondre.
+jours qui suivront la date à laquelle la condamnation sera devenue définitive, faute de quoi, ils seront punis de trois mois
+à un an d'emprisonnement et d'une amende de 15 000 à 60 000 F [*(1)*] ou de l'une de ces deux peines seulement, sans
+préjudice des peines portées à l'article L. 150-2 au cas où ils conduiraient un aéronef pendant la période d'interdiction et
+qui ne pourront se confondre.
 
 **Nota:**
 
-(1) La mention du taux des amendes a été modifiée par décret n° 80-908 du 17 novembre 1980 (art. 8-I, II et III) en exécution
-des lois n° 53-515 du 28 mai 1953 et n° 77-1968 du 30 décembre 1977 (art. 16).
-
-Le taux est également à modifier depuis lors par application de la loi n° 85-835 du 7 août 1985, articles 8 et 9 (cf. volume
-II, 1re partie).
+[*(1) Taux résultant de la loi n° 85-835 du 7 août 1985, articles 8 et 9.*]
 
 **Liens relatifs à cet article**
 
@@ -2034,6 +2070,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°67-333 1967-03-30
+
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 7 () JORF 11 juillet 1989
 
 _Cite_:
 
@@ -2112,53 +2152,16 @@ _Cite_:
   - Code pénal 406
 
 
-###### Article L150-12
-
-La récidive des infractions aux dispositions de l'article R. 150-1 punies de peines de police est constituée lorsqu'il a été
-rendu contre le contrevenant dans l'année précédente un premier jugement pour l'une de ces contraventions.
-
-Dans les territoires d'outre-mer, la récidive des infractions aux dispositions de l'article L. 150-17 est constituée
-lorsqu'il a été rendu contre le contrevenant, dans les douze mois précédents, un premier jugement pour l'une de ces
-infractions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de l'aviation civile 51
-  - Loi n°1924-05-31, 2e alinéa dernière phrase
-
-_Codifié par_:
-
-  - Décret n°67-333 1967-03-30
-
-_Modifié par_:
-
-  - Loi n°72-1090 1972-12-08 art. 8 JORF 9 décembre 1972
-
-_Cité par_:
-
-  - Loi n°72-1090 du 8 décembre 1972 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Loi n°89-467 du 10 juillet 1989 - art. 8 () JORF 11 juillet 1989
-
-_Cite_:
-
-  - Code de l'aviation civile - art. L150-17 (Ab)
-  - Code de l'aviation civile L150-17, R150-1
-
-
 ###### Article L150-13
 
 Indépendamment des officiers de police judiciaire sont chargés de la constatation des infractions aux dispositions du présent
 livre et des décrets pris pour son application les agents des contributions indirectes, les agents techniques des eaux et
-forêts ou des douanes, les gendarmes, les ingénieurs de l'armement affectés à l'aéronautique et les techniciens d'études et
-de fabrication des constructions aéronautiques, (3) les ingénieurs des ponts et chaussées, les ingénieurs des travaux publics
-de l'Etat (ponts et chaussées) chargés des bases aériennes, les ingénieurs des mines, les ingénieurs des travaux publics de
-l'Etat (mines), les fonctionnaires des corps techniques de l'aviation civile, les militaires, marins et agents de l'autorité
-militaire ou maritime commissionnés à cet effet.
+forêts ou des douanes, les gendarmes, les ingénieurs de l'armement, affectés à l'aéronautique, les techniciens d'études et de
+fabrication des constructions aéronautiques, les ingénieurs des ponts et chaussées, les ingénieurs des travaux publics de
+l'Etat (ponts et chaussées) chargés des bases aériennes, les ingénieurs des mines, les ingénieurs des travaux publics de
+l'Etat (mines), les fonctionnaires des corps techniques de l'aviation civile, les personnels navigants effectuant des
+contrôles en vol pour le compte de l'administration, les militaires, marins et agents de l'autorité militaire ou maritime,
+commissionnés à cet effet et assermentés.
 
 **Liens relatifs à cet article**
 
@@ -2173,7 +2176,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°80-908 1980-11-17 art. 8 JORF 21 novembre 1980
+  - Loi n°89-467 du 10 juillet 1989 - art. 9 () JORF 11 juillet 1989
 
 _Cité par_:
 
@@ -2235,10 +2238,9 @@ _Cite_:
 
 ###### Article L150-15
 
-Les aéronefs dont les certificats de navigabilité ne pourront être produits ou dont les marques d'immatriculation ne
-concorderont pas avec celles du certificat d'immatriculation ou de navigabilité pourront être retenus, à la charge du
-propriétaire par les autorités chargées d'assurer l'exécution du présent livre jusqu'à ce que l'identité du propriétaire ait
-été établie.
+Les aéronefs dont le document de navigabilité ne pourra être produit ou dont les marques d'immatriculation ne concorderont
+pas avec celles du certificat d'immatriculation pourront être retenus à la charge de l'exploitant technique ou, le cas
+échéant, de l'exploitant commercial ou du propriétaire, par les autorités chargées d'assurer l'exécution du présent livre.
 
 **Liens relatifs à cet article**
 
@@ -2251,11 +2253,32 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 10 () JORF 11 juillet 1989
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6141-1 (V)
+  - Code des transports - art. L6231-2 (V)
+
 
 ###### Article L150-16
 
 Les procès-verbaux constatant les infractions prévues au présent livre et aux décrets pris pour son application sont transmis
 sans délai au procureur de la République.
+
+Copie des procès-verbaux est adressée au directeur de région aéronautique.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne à l'article
+L. 150-16, le dernier alinéa (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -2267,6 +2290,47 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°67-333 1967-03-30
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6142-2 (V)
+
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 11 () JORF 11 juillet 1989
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L150-16-1
+
+Pour les infractions prévues par le présent titre et par les textes pris pour son application, l'autorité administrative de
+l'Etat compétente en matière d'aviation civile a le droit de transiger, après accord du procureur de la République, selon les
+modalités fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Créé par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 12 () JORF 11 juillet 1989
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6142-3 (V)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R151-8 (V)
 
 
 ###### Article L150-17
@@ -3106,13 +3170,14 @@ télécommunications aéronautiques, l'aide à la navigation aérienne ou l'assi
 4° Entravé, de quelque manière que ce soit, la navigation ou la circulation des aéronefs, hors les cas prévus dans l'article
 462 du code pénal.
 
-La tentative des délits visés à l'article précédent est punie des peines prévues pour ces délits.
+" 5° Interrompu à l'aide d'un dispositif matériel, d'une substance ou d'une arme, le fonctionnement des services d'un
+aérodrome si cet acte porte atteinte ou est de nature à porter atteinte à la sécurité à l'intérieur de cet aérodrome. "
+
+" Pour toutes les infractions prévues au présent article, la tentative du délit sera punie comme le délit lui-même. "
 
 **Nota:**
 
-(1) La mention du taux des amendes a été modifiée par décret n° 80-908 du 17 novembre 1980 (art. 8-I, II et III) en exécution
-des lois n° 53-515 du 28 mai 1953 et n° 77-1968 du 30 décembre 1977 (art. 16). Le taux est également à modifier depuis lors
-en application de la loi n° 85-835 du 7 août 1985, articles 7 et 8 (cf. volume II, 1re partie).
+(1) Taux résultant de la loi n° 85-835 du 7 août 1985, articles 7 et 8.
 
 **Liens relatifs à cet article**
 
@@ -3120,9 +3185,9 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+  - Loi n°89-467 du 10 juillet 1989 - art. 13 () JORF 11 juillet 1989
 
 _Cite_:
 
@@ -3197,6 +3262,57 @@ _Créé par_:
 _Abrogé par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L282-4-1
+
+Pour l'application du protocole pour la répression des actes illicites de violence dans les aéroports servant à l'aviation
+civile internationale, fait à Montréal le 24 février 1988, complémentaire à la convention pour la répression d'actes
+illicites dirigés contre la sécurité de l'aviation civile, faite à Montréal le 23 septembre 1971, peut être poursuivi et jugé
+par les juridictions françaises, s'il se trouve en France, quiconque s'est rendu coupable, hors du territoire de la
+République, à l'aide d'un dispositif matériel, d'une substance ou d'une arme :
+
+1° De l'une des infractions suivantes, si cette infraction porte atteinte ou est de nature à porter atteinte à la sécurité
+dans un aérodrome affecté à l'aviation civile internationale :
+
+a) Les crimes ou délits définis par les articles 295 à 298, 301, 303, 304, 310, 311, les troisième (2°) et quatrième (3°)
+alinéas de l'article 312 du code pénal, lorsque l'infraction a été commise dans un aérodrome affecté à l'aviation civile
+internationale ;
+
+b) Les crimes ou délits prévus par les articles 434 à 437 du code pénal, lorsque l'infraction a été commise à l'encontre des
+installations d'un aérodrome affecté à l'aviation civile internationale ou d'un aéronef stationné dans l'aérodrome et qui
+n'est pas en service ;
+
+c) Le délit prévu au quatrième alinéa (3°) de l'article L. 282-1 du présent code, lorsque l'infraction a été commise à
+l'encontre des installations d'un aérodrome affecté à l'aviation civile internationale ou d'un aéronef stationné dans
+l'aérodrome et qui n'est pas en service ;
+
+2° De l'infraction définie au sixième alinéa (5°) de l'article L. 282-1 du présent code, lorsqu'elle a été commise à
+l'encontre des services d'un aérodrome affecté à l'aviation civile internationale.
+
+Les dispositions du présent article sont applicables à la tentative des infractions ci-dessus énumérées, si celle-ci est
+punissable.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Convention 1971-09-23, fait à Montréal
+  - Code pénal 295, 296, 297, 298, 301, 303, 304, 310, 311, 434, 435, 436, 437
+  - Code de l'aviation civile - art. L282-1 (M)
+  - Protocole 1988-02-24, fait à Montréal
+
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30
+
+_Créé par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 14 () JORF 11 juillet 1989
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°89-467 du 10 juillet 1989 - art. 21 (V)
 
 
 ##### Section 2 : Police de la conservation.<a id=32></a>
@@ -3329,13 +3445,23 @@ _Cité par_:
 
 ###### Article L282-8
 
-Lorsque la sûreté des vols l'exige, les officiers de police judiciaire, assistés des agents de police judiciaire, peuvent,
-pour les transports par air effectués en régime intérieur, procéder à la visite des personnes, des bagages, du fret et des
-colis postaux.
+En vue d'assurer préventivement la sûreté des vols, les officiers de police judiciaire, assistés des agents de police
+judiciaire et, si besoin, de policiers ou gendarmes auxiliaires, peuvent procéder à la visite des personnes pénétrant ou se
+trouvant dans les zones non librement accessibles au public des aérodromes et de leurs dépendances.
 
-Pour les transports par air effectués en régime international, ces officiers et agents peuvent, dans les mêmes conditions,
-procéder, en liaison avec le service des douanes, à la visite des bagages ainsi que des personnes s'apprêtant à prendre place
-à bord d'un aéronef.
+" Sous la même condition et dans les mêmes zones, les officiers de police judiciaire assistés des agents de police judiciaire
+peuvent également procéder à la visite des bagages, du fret, des colis postaux, des aéronefs et des véhicules ou y faire
+procéder, sous leurs ordres :
+
+" a) Par des policiers ou gendarmes auxiliaires ;
+
+" b) Et éventuellement par des agents, agréés par le procureur de la République, que les entreprises de transport aérien ou
+les personnes publiques chargées d'une exploitation aéroportuaire ont pris l'initiative de désigner pour cette tâche.
+
+" Pour les transports par air en régime international, les visites sont faites en liaison avec le service des douanes.
+
+" Sous la même condition et dans les mêmes zones, les agents des douanes peuvent procéder aux visites prévues par le deuxième
+alinéa, en régime international. "
 
 **Liens relatifs à cet article**
 
@@ -3343,9 +3469,9 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°73-10 du 4 janvier 1973 - art. 1 () JORF 5 janvier 1973
+  - Loi n°89-467 du 10 juillet 1989 - art. 15 () JORF 11 juillet 1989
 
 _Cité par_:
 
@@ -3992,11 +4118,11 @@ _Nouveaux textes_:
 
 La responsabilité du transporteur de personnes est régie par les dispositions de la Convention de Varsovie comme prévu aux
 articles L. 321-3, L. 321-4 et L. 321-5. Toutefois, la limite de la responsabilité du transporteur relative à chaque
-passager, prévue par le paragraphe premier de l'article 22 de ladite convention, est fixée à 500 000 F. Si, en raison d'une
+passager, prévue par le paragraphe premier de l'article 22 de ladite convention, est fixée à 750 000 F. Si, en raison d'une
 modification apportée à la Convention de Varsovie, la limite de responsabilité du transporteur aérien se trouve portée à un
-niveau supérieur au chiffre susvisé, cette nouvelle limite se substitue à celle de 500 000 F à compter de la mise en vigueur
+niveau supérieur au chiffre susvisé, cette nouvelle limite se substitue à celle de 750 000 F à compter de la mise en vigueur
 pour la France de la modification de ladite convention. En outre, sauf stipulations conventionnelles contraires, la
-responsabilité du transporteur effectuant un transport gratuit ne sera engagée dans la limite prévue ci-dessus, que s'il est
+responsabilité du transporteur effectuant un transport gratuit ne sera engagée, dans la limite prévue ci-dessus, que s'il est
 établi que le dommage a pour cause une faute imputable au transporteur ou à ses préposés.
 
 La responsabilité du transporteur par air ne peut être recherchée que dans les conditions et limites prévues ci-dessus,
@@ -4013,17 +4139,16 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 16 () JORF 11 juillet 1989
+
 _Cite_:
 
   - Code de l'aviation civile - art. L321-3 (V)
   - Code de l'aviation civile - art. L321-4 (V)
   - Code de l'aviation civile - art. L321-5 (V)
   - Convention 1929-10-12, signée à Varsovie 22
-
-_Modifié par_:
-
-  - Décret n°76-529 1976-06-18 art. 1, art. 2 JORF 19 juin 1976
-  - Décret n°82-375 1982-05-06 art. 1 JORF 7 mai 1982
 
 
 ###### Article L322-4
@@ -4156,8 +4281,7 @@ L'établissement de voies internationales de navigation aérienne, ainsi que la 
 internationales régulières de navigation aérienne sont subordonnés à l'autorisation préalable du Gouvernement.
 
 Le transport commercial des personnes et des marchandises entre deux points situés dans le territoire français, en métropole
-et outre-mer, est réservé aux aéronefs français, sous réserve des dérogations spéciales et temporaires qui peuvent être
-accordées par décret.
+et outre-mer, est réservé aux aéronefs français, sauf autorisation délivrée par l'autorité administrative.
 
 **Liens relatifs à cet article**
 
@@ -4169,6 +4293,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°67-333 1967-03-30
+
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 17 () JORF 11 juillet 1989
 
 _Cité par_:
 
@@ -4183,21 +4311,21 @@ _Cité par_:
 
 ###### Article L330-3
 
-La consistance générale et les conditions de fonctionnement et de financement des services réguliers de transport de
-personnes entre un point d'origine et un point de destination situés sur le territoire national font l'objet d'une convention
-entre l'entreprise exploitante et l'Etat ou une collectivité territoriale, une chambre de commerce et d'industrie ou un
-établissement public intéressés.
-
-L'autorisation nécessaire pour effectuer ces services, prévue à l'article L. 330-1, est délivrée sous réserve de la
-conclusion de cette convention et après consultation des autorités régionales.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+L'autorisation nécessaire pour effectuer des services réguliers de transport de personnes entre un point d'origine et un
+point de destination situés sur le territoire national est délivrée après consultation des collectivités territoriales, des
+chambres de commerce et d'industrie et des autres établissements publics intéressés. Par dérogation au paragraphe II de
+l'article 7 de la loi d'orientation des transports intérieurs n° 82-1153 du 30 décembre 1982, cette autorisation peut être
+délivrée sans qu'ait été conclue au préalable une convention répondant à cette disposition. ".
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°67-333 1967-03-30
+
+_Cite_:
+
+  - Loi n°82-1153 1982-12-30 art. 7
 
 _Cité par_:
 
@@ -4213,13 +4341,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R330-7 (V)
   - Code de l'aviation civile - art. R330-9 (M)
 
-_Cite_:
-
-  - Code de l'aviation civile - art. L330-1 (M)
-
 _Modifié par_:
 
-  - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+  - Loi n°89-467 du 10 juillet 1989 - art. 18 () JORF 11 juillet 1989
 
 
 ###### Article L330-4
@@ -4374,6 +4498,35 @@ _Cité par_:
 _Créé par_:
 
   - Loi n°82-1153 1982-12-30 art. 42 JORF 31 décembre 1982
+
+
+###### Article L330-9
+
+Pour les infractions prévues par le présent titre et par les textes pris pour son application, l'autorité administrative de
+l'Etat compétente en matière d'aviation civile a le droit de transiger, après accord du procureur de la République, selon les
+modalités fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Créé par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 12 () JORF 11 juillet 1989
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6433-1 (V)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R330-18 (V)
 
 
 ### TITRE IV : COMPAGNIE NATIONALE AIR FRANCE<a id=44></a>
@@ -4541,6 +4694,11 @@ _Cité par_:
 Les conditions d'application des articles L. 330-3, L. 330-4, L. 330-6 du titre III et L. 342-1, L. 342-2 et L. 342-3 du
 titre IV sont déterminés par décret en Conseil d'Etat.
 
+" Par dérogation aux dispositions des articles L. 433-2 et L. 435-4 du code du travail, les personnels navigants
+professionnels constituent un collège spécial pour l'élection des représentants du personnel au sein des comités
+d'établissement de la Compagnie nationale Air France et disposent d'une représentation spécifique au comité central
+d'entreprise. Un décret en Conseil d'Etat fixe les conditions d'application du présent alinéa. ".
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -4553,8 +4711,14 @@ _Codifié par_:
 
   - Décret n°67-333 1967-03-30
 
+_Modifié par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 19 () JORF 11 juillet 1989
+
 _Cite_:
 
+  - Code du travail - art. L433-2 (M)
+  - Code du travail - art. L435-4 (M)
   - Code de l'aviation civile - art. L330-3 (M)
   - Code de l'aviation civile - art. L330-4 (V)
   - Code de l'aviation civile - art. L330-6 (M)
