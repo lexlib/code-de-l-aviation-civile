@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1990-02-17
+Version Consolidée au 1990-03-09
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -10842,6 +10842,38 @@ _Cité par_:
 _Cite_:
 
   - Code de l'aviation civile - art. R330-15 (M)
+
+
+###### Article R330-18
+
+I. - Les modalités, autres que celles relatives à l'autorité compétente pour faire la proposition de transaction, de la
+transaction prévue à l'article L. 330-9 sont celles fixées par les II, III et IV de l'article R. 151-8.
+
+II. - La proposition de transaction est faite :
+
+1. Lorsque l'infraction a été commise outre-mer, dans les conditions prévues au I de l'article R. 151-8 ;
+
+2. Par le ministre chargé de l'aviation civile dans les autres cas.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°91-262 du 4 mars 1991 - art. 10 () JORF 9 mars 1991
+
+_Cité par_:
+
+  - Décret n°91-262 du 4 mars 1991 - art. 13 (VD)
+  - Décret n°97-1199 du 24 décembre 1997 - art. 5 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L330-9 (V)
+  - Code de l'aviation civile - art. R151-8 (V)
 
 
 #### Section 1 : Entreprises autorisées et entreprises agréées.<a id=123></a>
