@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 1972-11-07
+Version Consolidée au 1972-12-09
 ## Contenu: 
   - [Partie législative (art. L110-1 à L611-4)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 1972-11-07
         - [CHAPITRE Ier : DROIT DE CIRCULATION (art. L131-1 à L131-3)](#9)
       - [TITRE IV : DOMMAGES ET RESPONSABILITES (art. L141-1 à L142-3)](#10)
         - [CHAPITRE Ier : RESPONSABILITE DES EQUIPAGES ET DES EXPLOITANTS. (art. L141-1 à L141-4)](#11)
-        - [CHAPITRE II : ASSISTANCE ET SAUVETAGE  - DECOUVERTE D'EPAVES  - DISPARITION. (art. L142-2 à L142-3)](#12)
+        - [CHAPITRE II : ASSISTANCE ET SAUVETAGE  - DECOUVERTE D'EPAVES  - DISPARITION. (art. L142-1 à L142-3)](#12)
       - [TITRE V : DISPOSITIONS PENALES. (art. L150-1 à L150-16)](#13)
     - [LIVRE II : AERODROMES (art. L221-1 à L281-4)](#14)
       - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE (art. L221-1 à L223-1)](#15)
@@ -1429,6 +1429,40 @@ _Cité par_:
 
 #### CHAPITRE II : ASSISTANCE ET SAUVETAGE  - DECOUVERTE D'EPAVES  - DISPARITION.<a id=12></a>
 
+###### Article L142-1
+
+Les chapitres Ier et II de la loi n° 67-545 du 7 juillet 1967 relative aux événements de mer sont applicables aux aéronefs en
+péril et aux pilotes des aéronefs qui peuvent prêter assistance aux personnes en péril.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Cite_:
+
+  - Loi n°67-545 du 7 juillet 1967
+
+_Modifié par_:
+
+  - Loi n°72-1090 1972-12-08 art. 2 JORF 9 décembre 1972
+
+_Cité par_:
+
+  - Loi n°72-1090 du 8 décembre 1972 - art. 2 (V)
+  - Code de l'aviation civile - art. R142-1 (Ab)
+  - Code de l'aviation civile - art. R722-1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6132-1 (V)
+
+
 ###### Article L142-2
 
 Les règles relatives aux épaves maritimes s'appliquent seules aux épaves d'aéronefs trouvés en mer ou sur le littoral
@@ -1847,6 +1881,44 @@ _Codifié par_:
 _Cite_:
 
   - Code pénal 406
+
+
+###### Article L150-12
+
+La récidive des infractions aux dispositions de l'article R. 150-1 punies de peines de police est constituée lorsqu'il a été
+rendu contre le contrevenant dans l'année précédente un premier jugement pour l'une de ces contraventions.
+
+Dans les territoires d'outre-mer, la récidive des infractions aux dispositions de l'article L. 150-17 est constituée
+lorsqu'il a été rendu contre le contrevenant, dans les douze mois précédents, un premier jugement pour l'une de ces
+infractions.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 51
+  - Loi n°1924-05-31, 2e alinéa dernière phrase
+
+_Codifié par_:
+
+  - Décret n°67-333 1967-03-30
+
+_Modifié par_:
+
+  - Loi n°72-1090 1972-12-08 art. 8 JORF 9 décembre 1972
+
+_Cité par_:
+
+  - Loi n°72-1090 du 8 décembre 1972 - art. 8 (V)
+
+_Abrogé par_:
+
+  - Loi n°89-467 du 10 juillet 1989 - art. 8 () JORF 11 juillet 1989
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L150-17 (Ab)
+  - Code de l'aviation civile L150-17, R150-1
 
 
 ###### Article L150-15
@@ -2412,6 +2484,40 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L321-2
+
+Le contrat de transport de marchandises par air est constaté par une lettre de voiture ou un récépissé. Ce titre doit
+contenir, outre les énonciations prévues par l'article 102 du code de commerce, l'indication que le transport est effectué
+par aéronef.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Modifié par_:
+
+  - Loi n°72-1090 1972-12-08 art. 6 JORF 9 décembre 1972
+
+_Cité par_:
+
+  - Loi n°72-1090 du 8 décembre 1972 - art. 6 (V)
+  - Code de l'environnement - art. Annexe I à l'article R123-1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6422-1 (V)
+
+_Cite_:
+
+  - Code de commerce
 
 
 ###### Article L321-3
