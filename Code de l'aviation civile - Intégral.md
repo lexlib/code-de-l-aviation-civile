@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2005-07-29
+Version Consolidée au 2005-08-05
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -11207,9 +11207,8 @@ _Anciens textes_:
 
 ###### Article R211-3
 
-Les travaux de création ou d'extension d'infrastructure dont le coût total est supérieur au montant fixé au C de l'article 3
-du décret n° 77-1141 du 12 octobre 1977 donnent lieu à l'établissement préalable de l'étude d'impact définie à l'article 2 du
-même décret.
+Les travaux de création ou d'extension d'infrastructure dont le coût total est supérieur au montant fixé à l'article R. 122-8
+du code de l'environnement donnent lieu à l'établissement préalable de l'étude d'impact définie à l'article 2 du même décret.
 
 **Liens relatifs à cet article**
 
@@ -11217,13 +11216,13 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-1141 1977-10-12 art. 14-I JORF 13 octobre 1977 en vigueur le 1er janvier 1978
+  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 _Cite_:
 
-  - Décret n°77-1141 1977-10-12 art. 3
+  - Code de l'environnement - art. R122-8 (M)
 
 
 ###### Article R211-4
