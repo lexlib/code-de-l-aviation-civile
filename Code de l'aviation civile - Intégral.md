@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-01-24
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -20,7 +20,7 @@ Version Consolidée au 2006-01-06
     - [LIVRE II : AERODROMES (art. L211-1 à L283-1)](#17)
       - [TITRE Ier : DISPOSITIONS GENERALES (art. L211-1 à L216-1)](#18)
         - [CHAPITRE Ier : DEFINITIONS.- REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. L211-1 à L211-3)](#19)
-        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. L213-1 à L213-4)](#20)
+        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. L213-1 à L213-5)](#20)
         - [CHAPITRE V : DISPOSITIONS SANITAIRES. (art. L215-1)](#21)
         - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. L216-1)](#22)
       - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE (art. L221-1 à L228-2)](#23)
@@ -45,7 +45,7 @@ Version Consolidée au 2006-01-06
     - [LIVRE III : TRANSPORT AERIEN (art. L310-1 à L360-4)](#42)
       - [TITRE Ier : DISPOSITIONS GENERALES - DEFINITION. (art. L310-1)](#43)
       - [TITRE II : CONTRAT DE TRANSPORT (art. L321-1 à L324-1)](#44)
-        - [CHAPITRE Ier : TRANSPORT DES MARCHANDISES. (art. L321-1 à L321-7)](#45)
+        - [CHAPITRE Ier : TRANSPORT DES MARCHANDISES. (art. L321-1 à L321-8)](#45)
         - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. L322-1 à L322-5)](#46)
         - [CHAPITRE III : AFFRETEMENT D'AERONEFS. (art. L323-1 à L323-2)](#47)
         - [CHAPITRE IV : PRIX ABUSIVEMENT BAS EN MATIERE DE TRANSPORT AERIEN. (art. L324-1)](#48)
@@ -3104,6 +3104,47 @@ _Cite_:
   - Code de l'aviation civile - art. L282-11
 
 
+###### Article L213-5
+
+L'accès aux lieux de préparation et de stockage des biens et produits visés au premier alinéa de l'article L. 213-4 est
+soumis à la possession d'une habilitation délivrée par le représentant de l'Etat dans le département et, à Paris, par le
+préfet de police.
+
+L'enquête administrative diligentée aux fins d'instruction de la demande d'habilitation peut donner lieu à consultation du
+bulletin n° 2 du casier judiciaire et des traitements automatisés de données à caractère personnel gérés par les services de
+police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-333 du 30 mars 1967
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 26
+  - Code de l'aviation civile - art. L213-4
+
+_Créé par_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 26 () JORF 24 janvier 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6342-3 (V)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R213-15 (Ab)
+  - Code de l'aviation civile - art. R213-17 (Ab)
+  - Code de l'aviation civile - art. R213-7 (M)
+
+
 #### CHAPITRE V : DISPOSITIONS SANITAIRES.<a id=21></a>
 
 ###### Article L215-1
@@ -5437,6 +5478,43 @@ _Cite_:
 _Modifié par_:
 
   - Loi n°2002-3 du 3 janvier 2002 - art. 9 () JORF 4 janvier 2002
+
+
+###### Article L321-8
+
+L'accès aux lieux de traitement, de conditionnement et de stockage du fret et des colis postaux visés aux sixième et septième
+alinéas de l'article L. 321-7 est soumis à la possession d'une habilitation délivrée par le représentant de l'Etat dans le
+département et, à Paris, par le préfet de police.
+
+L'enquête administrative diligentée aux fins d'instruction de la demande d'habilitation peut donner lieu à consultation du
+bulletin n° 2 du casier judiciaire et des traitements automatisés de données à caractère personnel gérés par les services de
+police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 26
+  - Code de l'aviation civile - art. L321-7
+
+_Créé par_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 26 () JORF 24 janvier 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6343-3 (Ab)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R321-12 (Ab)
+  - Code de l'aviation civile - art. R321-12-1 (Ab)
+  - Code de l'aviation civile - art. R321-6 (Ab)
 
 
 #### CHAPITRE II : TRANSPORT DE PERSONNES.<a id=46></a>
