@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-03-24 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -8060,13 +8060,24 @@ Le paiement des cotisations est garanti pendant un an, à dater de leur exigibil
 
 a) Par un privilège mobilier qui prend rang concurremment avec celui établi par l'article 2331 (4°) du code civil ;
 
-b) Par une hypothèque légale prenant rang du jour de son inscription au bureau des hypothèques.
+b) Par une hypothèque légale prenant rang du jour de son inscription au bureau des hypothèques (1).
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne les deuxième
+et troisième alinéas de l'article L. 426-5 (Fin de vigueur : date indéterminée).
+
+(1) L'ordonnance n° 2010-638, article 13, a modifié l'article L. 426-5 du code de l'aviation civile en remplaçant les mots
+"au bureau des hypothèques" par les mots "au fichier immobilier". Cette mise à jour sera reportée au 1er janvier 2013 (entrée
+en vigueur différée) à l'article L. 6527-10 du code des transports qui a remplacé l'article L. 426-5 du code de l'aviation
+civile.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-333 1967-03-30
+  - Décret n°67-333 du 30 mars 1967
 
 _Cité par_:
 
@@ -8076,12 +8087,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 13
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
-  - Code civil - art. 2331 (V)
-  - Code de l'aviation civile - art. L426-1 (V)
+  - Code civil - art. 2331
+  - Code de l'aviation civile - art. L426-1
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6527-10 (VT)
 
 
 #### CHAPITRE VII : DISPOSITIONS PENALES.<a id=63></a>
