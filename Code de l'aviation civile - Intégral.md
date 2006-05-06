@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-05-04
+Version Consolidée au 2006-05-07
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -11001,7 +11001,7 @@ _Créé par_:
 
 ###### Article R151-1
 
-Seront punis des peines prévues par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe :
+Seront punis des peines prévues par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5e classe :
 
 1° Le pilote qui n'aura pas tenu son carnet de vol ou le carnet de route de l'aéronef lorsque ce document est exigé par la
 réglementation en vigueur ;
@@ -11009,12 +11009,19 @@ réglementation en vigueur ;
 2° Le propriétaire qui aura omis de conserver le carnet de route de l'aéronef pendant les trois ans qui suivent la dernière
 inscription ;
 
-3° Ceux qui auront contrevenu aux articles R. 131-1 et R. 131-2 ;
+3° Ceux qui ont contrevenu aux articles R. 131-1 et R. 131-2 ;
 
 4° Les organisateurs de spectacles publics d'évolution d'aéronefs qui n'auront pas obtenu l'autorisation requise par
 l'article R. 131-3 et les pilotes qui auront participé à ces manifestations ;
 
-5° Ceux qui auront contrevenu à l'article R. 131-5.
+5° Ceux qui auront contrevenu à l'article R. 131-5 ;
+
+6° Ceux qui auront réalisé des enregistrements d'images ou de données dans le champ du spectre visible au-dessus du
+territoire national sans avoir souscrit une déclaration dans les délais et conditions prévus par l'article D. 133-10.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des contraventions prévues au présent article. La peine encourue par les personnes morales est l'amende, selon les
+modalités prévues par l'article 131-41 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -11033,15 +11040,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°94-304 du 13 avril 1994 - art. 2 () JORF 21 avril 1994
+  - Décret n°2006-521 du 5 mai 2006 - art. 1 () JORF 7 mai 2006
 
 _Cite_:
 
+  - Code pénal - art. 121-2 (M)
   - Code pénal - art. 131-13 (M)
+  - Code pénal - art. 131-41 (V)
+  - Code de l'aviation civile - art. D133-10 (M)
   - Code de l'aviation civile - art. R131-1 (V)
   - Code de l'aviation civile - art. R131-2 (V)
   - Code de l'aviation civile - art. R131-3 (M)
-  - Code de l'aviation civile - art. R133-12 (Ab)
+  - Code de l'aviation civile - art. R131-5 (V)
 
 
 ###### Article R151-5
