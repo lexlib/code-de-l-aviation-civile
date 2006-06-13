@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-05-07
+Version Consolidée au 2006-06-14
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -2485,9 +2485,9 @@ livre et des décrets pris pour son application les agents des contributions ind
 forêts ou des douanes, les gendarmes, les ingénieurs de l'armement, affectés à l'aéronautique, les techniciens d'études et de
 fabrication des constructions aéronautiques, les ingénieurs des ponts et chaussées, les ingénieurs des travaux publics de
 l'Etat (ponts et chaussées) chargés des bases aériennes, les ingénieurs des mines, les ingénieurs des travaux publics de
-l'Etat (mines), les fonctionnaires des corps techniques de l'aviation civile, les personnels navigants effectuant des
-contrôles en vol pour le compte de l'administration, les militaires, marins et agents de l'autorité militaire ou maritime,
-commissionnés à cet effet et assermentés.
+l'Etat (mines), les inspecteurs de la sûreté nucléaire, les fonctionnaires des corps techniques de l'aviation civile, les
+personnels navigants effectuant des contrôles en vol pour le compte de l'administration, les militaires, marins et agents de
+l'autorité militaire ou maritime, commissionnés à cet effet et assermentés.
 
 **Liens relatifs à cet article**
 
@@ -2498,11 +2498,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-333 1967-03-30
+  - Décret n°67-333 du 30 mars 1967
 
 _Modifié par_:
 
-  - Loi n°89-467 du 10 juillet 1989 - art. 9 () JORF 11 juillet 1989
+  - Loi n°2006-686 du 13 juin 2006 - art. 60 () JORF 14 juin 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cité par_:
 
@@ -2514,6 +2518,10 @@ _Cité par_:
   - Code de l'aviation civile - art. R160-2 (V)
   - Code de l'aviation civile - art. R226-2 (V)
   - Code de l'aviation civile - art. R330-21 (M)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6142-1 (V)
 
 
 ###### Article L150-14
@@ -5441,8 +5449,8 @@ pour éviter des dépôts et des expéditions anonymes.
 
 Les entreprises ou organismes titulaires d'un agrément au titre des dispositions de l'article L. 321-7 en vigueur
 antérieurement à la publication de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et systèmes
-de transport, aux enquêtes techniques après événement de mer, accident ou incident de transport terrestre ou aérien et au
-stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques conservent le bénéfice de leur agrément.
+de transport, aux enquêtes techniques et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques
+conservent le bénéfice de leur agrément.
 
 Les dispositions du présent article sont applicables dans la collectivité départementale de Mayotte, en Polynésie française,
 en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
@@ -5476,7 +5484,14 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2002-3 du 3 janvier 2002 - art. 9 () JORF 4 janvier 2002
+  - Loi n°2006-686 du 13 juin 2006 - art. 61 (V) JORF 14 juin 2006
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6343-1 (Ab)
+  - Code des transports - art. L6343-2 (Ab)
+  - Code des transports - art. L6343-4 (Ab)
+  - Code des transports - art. L6343-5 (Ab)
 
 
 ###### Article L321-8
