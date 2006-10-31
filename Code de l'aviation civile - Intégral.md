@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-07-11
+Version Consolidée au 2006-11-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -16112,7 +16112,7 @@ _Modifié par_:
 
 Les fonctions de membre de la Commission nationale de prévention des nuisances sont gratuites. Toutefois, les membres de la
 commission peuvent être remboursés de leurs frais de transport et de séjour dans les conditions fixées pour les déplacements
-temporaires par les décrets n° 89-271 du 12 avril 1989 et n° 90-437 du 28 mai 1990.
+temporaires par le décret du 3 juillet 2006.
 
 **Liens relatifs à cet article**
 
@@ -16122,12 +16122,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°89-271 1989-04-12
-  - Décret n°90-437 1990-05-28
+  - Décret n°2006-781 2006-07-03
 
 _Modifié par_:
 
-  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V) JORF 4 août 2006 en vigueur le 1er novembre 2006
 
 
 ###### Article R227-5
