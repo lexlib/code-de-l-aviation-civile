@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-11-01
+Version Consolidée au 2006-11-23
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -18295,6 +18295,36 @@ _Modifié par_:
   - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
 
 
+###### Article R330-2-1
+
+L'article L. 342-4 du code du travail est applicable aux entreprises de transport aérien au titre de leurs bases
+d'exploitation situées sur le territoire français.
+
+Une base d'exploitation est un ensemble de locaux ou d'infrastructures à partir desquels une entreprise exerce de façon
+stable, habituelle et continue une activité de transport aérien avec des salariés qui y ont le centre effectif de leur
+activité professionnelle. Au sens des dispositions qui précèdent, le centre de l'activité professionnelle d'un salarié est le
+lieu où, de façon habituelle, il travaille ou celui où il prend son service et retourne après l'accomplissement de sa
+mission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2006-1425 du 21 novembre 2006 - art. 1 () JORF 23 novembre 2006
+
+_Cite_:
+
+  - Code du travail - art. L342-4 (Ab)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R330-6 (V)
+
+
 ###### Article R330-3
 
 Les transporteurs aériens titulaires d'une licence d'exploitation délivrée par la France et les autres transporteurs aériens
@@ -18414,25 +18444,31 @@ _Cité par_:
 
 ###### Article R330-6
 
-I. - L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par la France, de services
-aériens réguliers ou non réguliers sur des liaisons auxquelles ne s'applique pas le règlement (CEE) n° 2408/92 du 23 juillet
-1992 est autorisée par le ministre chargé de l'aviation civile. L'avis du Conseil supérieur de l'aviation marchande, émis
-après que le transporteur a été invité à présenter ses observations, est requis pour l'autorisation des services réguliers.
-Il porte notamment sur l'opportunité d'autoriser un service nouveau de transport aérien ou de remplacer un transporteur par
-un autre compte tenu du réseau existant et de l'adaptation des capacités offertes aux besoins des usagers. Le retrait partiel
-ou total des autorisations mentionnées au présent article est décidé dans les mêmes conditions.
+I. - L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par la France, ou par un
+transporteur aérien établi en France titulaire d'une licence d'exploitation délivrée par un autre Etat membre de la
+Communauté européenne, de services aériens réguliers ou non réguliers sur des liaisons comportant au moins un point d'escale
+en France et pour lesquelles le règlement (CEE) n° 2408/92 du 23 juillet 1992 ne s'applique pas est autorisée par le ministre
+chargé de l'aviation civile. Un arrêté du ministre précise, notamment, les conditions dans lesquelles l'avis du Conseil
+supérieur de l'aviation marchande peut être requis pour l'autorisation d'exploitation de services réguliers, ainsi que les
+critères selon lesquels sont appréciées les demandes concurrentes émanant de différents transporteurs dans le cas d'une
+limitation des droits de trafic ou du nombre de transporteurs aériens susceptibles de les exploiter. Le silence gardé pendant
+plus de trois mois par le ministre sur une demande vaut décision de rejet.
 
 Les zones dans lesquelles le transporteur est autorisé à assurer des services non réguliers, les lignes régulières qu'il est
 autorisé à exploiter ainsi que la durée et, le cas échéant, les conditions associées à ces autorisations sont fixées par
 l'arrêté d'autorisation.
 
-Les dispositions qui précèdent sont applicables sous réserve de celles de l'article R. 330-19.
+Un transporteur aérien titulaire d'une licence d'exploitation délivrée par un Etat membre de la Communauté européenne autre
+que la France est établi au sens du premier alinéa lorsqu'il exerce de façon stable, habituelle et continue une activité de
+transport aérien à partir d'une base d'exploitation située sur le territoire national telle que définie à l'article R.
+330-2-1.
 
-II. - L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par un Etat, autre que la
-France, membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant
-la même portée en matière de transport aérien, de services aériens réguliers ou non réguliers sur des liaisons comportant au
-moins un point d'escale en France et pour lesquelles le règlement (CEE) n° 2408/92 ne s'applique pas est soumise à
-autorisation dans des conditions fixées par arrêté du ministre chargé de l'aviation civile.
+II. - L'exploitation, par un transporteur aérien titulaire d'une licence d'exploitation délivrée par un autre Etat membre de
+la Communauté et qui n'est pas établi en France, ou par un transporteur titulaire d'une licence d'exploitation délivrée par
+un Etat partie à l'accord sur l'Espace économique européen ou à tout autre accord ayant la même portée en matière de
+transport aérien, de services aériens réguliers ou non réguliers sur des liaisons comportant au moins un point d'escale en
+France et pour lesquelles le règlement (CEE) n° 2408/92 ne s'applique pas est soumise à autorisation dans des conditions
+fixées par arrêté du ministre chargé de l'aviation civile.
 
 III. - L'exploitation par un transporteur aérien, autre que ceux visés aux I et II, de services aériens réguliers ou non
 réguliers comportant au moins un point d'escale en France est soumise à autorisation dans des conditions fixées par arrêté du
@@ -18454,12 +18490,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-230 du 13 mars 2003 - art. 4 () JORF 16 mars 2003
-  - Décret n°2003-230 du 13 mars 2003 - art. 7 (V) JORF 16 mars 2003
+  - Décret n°2006-1425 du 21 novembre 2006 - art. 2 () JORF 23 novembre 2006
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R330-19 (M)
+  - Code de l'aviation civile - art. R330-2-1 (V)
   - Règlement CEE 2408-92 1992-07-23
 
 
