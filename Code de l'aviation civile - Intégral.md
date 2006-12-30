@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2006-12-08
+Version Consolidée au 2006-12-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -21605,9 +21605,8 @@ _Cite_:
 ###### Article R426-9
 
 Sur demande des intéressés, les cotisations des personnels navigants des essais réception, des parachutistes professionnels
-et des personnels navigants contractuels de la sécurité civile régis par le décret n° 94-1047 du 6 décembre 1994 et engagés à
-titre principal dans les opérations aériennes de lutte contre les feux de forêt sont majorées de 50 p. 100. Dans ce cas, les
-cotisations des employeurs sont majorées dans la même proportion.
+et des personnels navigants contractuels de la sécurité civile sont majorées de 50 %. Dans ce cas, les cotisations des
+employeurs sont majorées dans la même proportion.
 
 Les majorations prévues ci-dessus ne sont plus appliquées lorsque le nombre d'annuités calculé en fonction des dispositions
 de l'article R. 426-13 atteint le nombre nécessaire pour l'ouverture du droit à pension à taux plein, conformément aux
@@ -21633,15 +21632,6 @@ _Cite_:
   - Code de l'aviation civile - art. R426-7 (V)
   - Code de l'aviation civile - art. R426-8 (M)
 
-_Modifié par_:
-
-  - Décret n°95-825 du 30 juin 1995 - art. 5 () JORF 1er juillet 1995
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°97-124 1997-02-06 art. 1er II, article applicable dans les territoires d'outre-mer
-  - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
-
 _Cité par_:
 
   - Décret n°97-124 du 6 février 1997 - art. 1 (V)
@@ -21649,6 +21639,10 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-13 (V)
   - Code de l'aviation civile - art. R426-14 (M)
   - Code de l'aviation civile - art. R426-15-2 (M)
+
+_Modifié par_:
+
+  - Décret n°2006-1809 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 
 ###### Article R426-10
