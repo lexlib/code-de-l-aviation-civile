@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2007-05-04
+Version Consolidée au 2007-05-11
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -99,186 +99,185 @@ Version Consolidée au 2007-05-04
     - [LIVRE II : AERODROMES. (art. R211-1 à R282-8)](#96)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. R211-1 à R217-5)](#97)
         - [CHAPITRE Ier : DEFINITIONS, REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. R211-1 à R211-15)](#98)
-        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R213-1 à R213-16)](#99)
-          - [Section 1 : Champ d'application et compétence (art. R213-1)](#100)
-          - [Section 2 : Police de la conservation (art. R213-1-1)](#101)
-          - [Section 3 : Police de l'exploitation (art. R213-2 à R213-16)](#102)
-        - [CHAPITRE IV : LE GROUPE INTERMINISTERIEL DE SURETE (art. R214-1 à R214-3)](#103)
-        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. Annexe art. R216-1 à R216-16)](#104)
-        - [CHAPITRE VII : SANCTIONS ADMINISTRATIVES (art. R217-1 à R217-5)](#105)
-      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R221-1 à R227-15)](#106)
-        - [CHAPITRE Ier : CREATION ET OUVERTURE. (art. R221-1 à R221-12)](#107)
-          - [Section 1 : Dispositions générales. (art. R221-1 à R221-3)](#108)
-          - [Section 2 : Création et gestion des aérodromes. (art. R221-4 à R221-11)](#109)
-          - [Section 3 : Coordination des aérodromes. (art. R221-12)](#110)
-        - [CHAPITRE II : CLASSIFICATION. (art. R222-1 à R222-8)](#111)
-        - [CHAPITRE III : EXPLOITATION. (art. R223-1 à R223-7)](#112)
-        - [CHAPITRE IV : REDEVANCES. (art. R224-1 à R224-6)](#113)
-          - [Section 1 : Dispositions générales (art. R224-1 à R224-3-1)](#114)
-          - [Section 2 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris (art. R224-4 à R224-4-3)](#115)
-          - [Section 3 : Dispositions applicables aux autres aérodromes (art. R224-5)](#116)
-          - [Section 4 : Dispositions particulières applicables aux aérodromes exploités par une chambre de commerce et d'industrie (art. R224-6)](#117)
-        - [CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE. (art. R225-1 à R225-5)](#118)
-        - [CHAPITRE VI : SANCTIONS ADMINISTRATIVES. (art. R226-1 à R226-6)](#119)
-        - [CHAPITRE VII : ENVIRONNEMENT DES AERODROMES. (art. R227-1 à R227-15)](#120)
-          - [Section 1 : Commission nationale de prévention des nuisances (art. R227-1 à R227-6)](#121)
-          - [Section 2 : Modification de la circulation aérienne (art. R227-7)](#122)
-          - [Section 3 : Restrictions d'exploitation liées au bruit des aéronefs (art. R227-8 à R227-15)](#123)
-      - [TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R231-1 à R232-2)](#124)
-        - [CHAPITRE Ier : DEFINITIONS. (art. R231-1)](#125)
-        - [CHAPITRE II : AERODROMES A USAGE RESTREINT. (art. R232-1 à R232-2)](#126)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. R241-1 à R245-2)](#127)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. R241-1 à R241-3)](#128)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. R242-1 à R242-3)](#129)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. R243-1 à R243-3)](#130)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. R244-1)](#131)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. R245-1 à R245-2)](#132)
-      - [TITRE V : AEROPORTS DE PARIS. (art. R251-1 à R251-3)](#133)
-      - [TITRE VI : AEROPORT DE BALE-MULHOUSE. (art. R260-1 à R260-2)](#134)
-      - [TITRE VIII : DISPOSITIONS PENALES (art. R281-1 à R282-8)](#135)
-        - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. R281-1 à R281-3)](#136)
-        - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R282-1 à R282-8)](#137)
-    - [LIVRE III : TRANSPORT AERIEN (art. R321-1 à R360-5)](#138)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-6)](#139)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1 à R321-13)](#140)
-        - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-6)](#141)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-1 à R330-22)](#142)
-      - [TITRE IV : SOCIETE AIR FRANCE. (art. R342-1 à R342-2)](#143)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. R342-1 à R342-2)](#144)
-      - [TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES (art. R351-1 à R351-2)](#145)
-        - [Section 1 : Transports sanitaires. (art. R351-1)](#146)
-        - [Section 2 : Transports par moyens militaires. (art. R351-2)](#147)
-      - [TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE. (art. R360-1 à R360-5)](#148)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. R410-1 à R428-1)](#149)
-      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R410-1 à R410-3)](#150)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#151)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#152)
-          - [Section 1 : Catégories. (art. R421-1 à R421-4)](#153)
-          - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-17)](#154)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#155)
-        - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-6)](#156)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. R424-1 à R424-7)](#157)
-        - [CHAPITRE V : DISCIPLINE. (art. R425-1 à R425-19)](#158)
-        - [CHAPITRE VI : RETRAITES. (art. R426-1 à R426-28)](#159)
-          - [Section 1 : Définitions. (art. R426-5)](#160)
-          - [Section 2 : Cotisations. (art. R426-6 à R426-10)](#161)
-          - [Section 3 : Constitution du droit à pension. (art. R426-11 à R426-15-4)](#162)
-          - [Section 4 : Calcul de la pension. (art. R426-16-1 à R426-18-1)](#163)
-          - [Section 5 : Pension de réversion. (art. R426-19 à R426-23)](#164)
-          - [Section 6 : Dispositions diverses. (art. R426-24 à R426-27-1)](#165)
-          - [Section 7 : Dispositions transitoires. (art. R426-28)](#166)
-        - [CHAPITRE VII : DISPOSITIONS PENALES. (art. R427-1)](#167)
-        - [CHAPITRE VIII : DISPOSITIONS COMMUNES. (art. R428-1)](#168)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#169)
-      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#170)
-        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#171)
-        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#172)
-    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-6)](#173)
-    - [LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION (art. R711-1 à R741-1)](#174)
-      - [TITRE Ier : DISPOSITIONS GENERALES. (art. R711-1 à R711-10)](#175)
-      - [TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS (art. R722-1 à R722-7)](#176)
-      - [TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE. (art. R731-1 à R731-3)](#177)
-      - [TITRE IV : DISPOSITIONS PENALES. (art. R741-1)](#178)
-  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#179)
-    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-20)](#180)
-      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#181)
-        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-36)](#182)
-        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#183)
-        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#184)
-      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-1 à D133-20)](#185)
-        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-1 à D131-15)](#186)
-          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-1 à D131-14)](#187)
-            - [Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne. (art. D131-1 à D131-8)](#188)
-            - [Paragraphe 2 : Attributions et surveillance des organismes de la circulation aérienne. (art. D131-9 à D131-10)](#189)
-            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#190)
-          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#191)
-        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-12)](#192)
-          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#193)
-          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#194)
-          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6)](#195)
-          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#196)
-        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#197)
-          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#198)
-            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-5)](#199)
-            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#200)
-          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#201)
-          - [Section 3 : Radiocommunications intéressant la circulation des aéronefs. (art. D133-19 à D133-19-10)](#202)
-          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#203)
-    - [LIVRE II : AERODROMES. (art. D211-1 à D251-2)](#204)
-      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#205)
-        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#206)
-        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#207)
-        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-6)](#208)
-          - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-13)](#209)
-            - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#210)
-            - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#211)
-              - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#212)
-              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#213)
-              - [3. Règles d'intervention (art. D213-1-9)](#214)
-            - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#215)
-            - [Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie (art. D213-1-13)](#216)
-          - [Section 2 : Prévention du péril animalier (art. D213-1-14 à D213-1-25)](#217)
-          - [Section 3 : Sûreté de l'aviation civile (art. D213-2 à D213-4)](#218)
-          - [Section 4 : Dispositions financières (art. D213-5 à D213-6)](#219)
-        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#220)
-      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D228-7)](#221)
-        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#222)
-        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#223)
-        - [CHAPITRE IV : REDEVANCES. (art. D224-1 à D224-4)](#224)
-        - [CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE. (art. D228-1 à D228-7)](#225)
-      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#226)
-        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#227)
-        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#228)
-        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#229)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#230)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#231)
-          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#232)
-          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#233)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#234)
-          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#235)
-          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#236)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#237)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#238)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#239)
-      - [TITRE V : AEROPORTS DE PARIS (art. D251 à D251-2)](#240)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251 à D251-2)](#241)
-          - [Section 1 : Aérodromes constituant Aéroports de Paris. (art. D251-1 à D251-2)](#242)
-    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#243)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#244)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#245)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#246)
-        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#247)
-      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#248)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#249)
-      - [TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE. (art. D370-1 à D370-11)](#250)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#251)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-3)](#252)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#253)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#254)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#255)
-          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#256)
-          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#257)
-          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#258)
-          - [Section 4 : Période de transition (art. D422-14)](#259)
-          - [Section 5 : Mesures de contrôle (art. D422-15)](#260)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#261)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#262)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#263)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#264)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#265)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#266)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#267)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#268)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#269)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#270)
-      - [Section 1 : Avions photographes. (art. D611-1)](#271)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#272)
-  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#273)
-    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#274)
-      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#275)
-    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#276)
-      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#277)
-    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#278)
+        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R213-1 à R213-17)](#99)
+          - [Section 1 : Champ d'application et compétence (art. R213-1 à R213-1-4)](#100)
+          - [Section 2 : Police de la conservation (art. R213-1-5)](#101)
+          - [Section 3 : Police de l'exploitation (art. R213-2 à R213-17)](#102)
+        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. Annexe art. R216-1 à R216-16)](#103)
+        - [CHAPITRE VII : SANCTIONS ADMINISTRATIVES (art. R217-1 à R217-5)](#104)
+      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R221-1 à R227-15)](#105)
+        - [CHAPITRE Ier : CREATION ET OUVERTURE. (art. R221-1 à R221-12)](#106)
+          - [Section 1 : Dispositions générales. (art. R221-1 à R221-3)](#107)
+          - [Section 2 : Création et gestion des aérodromes. (art. R221-4 à R221-11)](#108)
+          - [Section 3 : Coordination des aérodromes. (art. R221-12)](#109)
+        - [CHAPITRE II : CLASSIFICATION. (art. R222-1 à R222-8)](#110)
+        - [CHAPITRE III : EXPLOITATION. (art. R223-1 à R223-7)](#111)
+        - [CHAPITRE IV : REDEVANCES. (art. R224-1 à R224-6)](#112)
+          - [Section 1 : Dispositions générales (art. R224-1 à R224-3-1)](#113)
+          - [Section 2 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris (art. R224-4 à R224-4-3)](#114)
+          - [Section 3 : Dispositions applicables aux autres aérodromes (art. R224-5)](#115)
+          - [Section 4 : Dispositions particulières applicables aux aérodromes exploités par une chambre de commerce et d'industrie (art. R224-6)](#116)
+        - [CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE. (art. R225-1 à R225-5)](#117)
+        - [CHAPITRE VI : SANCTIONS ADMINISTRATIVES. (art. R226-1 à R226-6)](#118)
+        - [CHAPITRE VII : ENVIRONNEMENT DES AERODROMES. (art. R227-1 à R227-15)](#119)
+          - [Section 1 : Commission nationale de prévention des nuisances (art. R227-1 à R227-6)](#120)
+          - [Section 2 : Modification de la circulation aérienne (art. R227-7)](#121)
+          - [Section 3 : Restrictions d'exploitation liées au bruit des aéronefs (art. R227-8 à R227-15)](#122)
+      - [TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R231-1 à R232-2)](#123)
+        - [CHAPITRE Ier : DEFINITIONS. (art. R231-1)](#124)
+        - [CHAPITRE II : AERODROMES A USAGE RESTREINT. (art. R232-1 à R232-2)](#125)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. R241-1 à R245-2)](#126)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. R241-1 à R241-3)](#127)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. R242-1 à R242-3)](#128)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. R243-1 à R243-3)](#129)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. R244-1)](#130)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. R245-1 à R245-2)](#131)
+      - [TITRE V : AEROPORTS DE PARIS. (art. R251-1 à R251-3)](#132)
+      - [TITRE VI : AEROPORT DE BALE-MULHOUSE. (art. R260-1 à R260-2)](#133)
+      - [TITRE VIII : DISPOSITIONS PENALES (art. R281-1 à R282-8)](#134)
+        - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. R281-1 à R281-3)](#135)
+        - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R282-1 à R282-8)](#136)
+    - [LIVRE III : TRANSPORT AERIEN (art. R321-1 à R360-5)](#137)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-6)](#138)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1 à R321-13)](#139)
+        - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-6)](#140)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-1 à R330-22)](#141)
+      - [TITRE IV : SOCIETE AIR FRANCE. (art. R342-1 à R342-2)](#142)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. R342-1 à R342-2)](#143)
+      - [TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES (art. R351-1 à R351-2)](#144)
+        - [Section 1 : Transports sanitaires. (art. R351-1)](#145)
+        - [Section 2 : Transports par moyens militaires. (art. R351-2)](#146)
+      - [TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE. (art. R360-1 à R360-5)](#147)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. R410-1 à R428-1)](#148)
+      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R410-1 à R410-3)](#149)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#150)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#151)
+          - [Section 1 : Catégories. (art. R421-1 à R421-4)](#152)
+          - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-17)](#153)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#154)
+        - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-6)](#155)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. R424-1 à R424-7)](#156)
+        - [CHAPITRE V : DISCIPLINE. (art. R425-1 à R425-19)](#157)
+        - [CHAPITRE VI : RETRAITES. (art. R426-1 à R426-28)](#158)
+          - [Section 1 : Définitions. (art. R426-5)](#159)
+          - [Section 2 : Cotisations. (art. R426-6 à R426-10)](#160)
+          - [Section 3 : Constitution du droit à pension. (art. R426-11 à R426-15-4)](#161)
+          - [Section 4 : Calcul de la pension. (art. R426-16-1 à R426-18-1)](#162)
+          - [Section 5 : Pension de réversion. (art. R426-19 à R426-23)](#163)
+          - [Section 6 : Dispositions diverses. (art. R426-24 à R426-27-1)](#164)
+          - [Section 7 : Dispositions transitoires. (art. R426-28)](#165)
+        - [CHAPITRE VII : DISPOSITIONS PENALES. (art. R427-1)](#166)
+        - [CHAPITRE VIII : DISPOSITIONS COMMUNES. (art. R428-1)](#167)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#168)
+      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#169)
+        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#170)
+        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#171)
+    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-6)](#172)
+    - [LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION (art. R711-1 à R741-1)](#173)
+      - [TITRE Ier : DISPOSITIONS GENERALES. (art. R711-1 à R711-10)](#174)
+      - [TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS (art. R722-1 à R722-7)](#175)
+      - [TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE. (art. R731-1 à R731-3)](#176)
+      - [TITRE IV : DISPOSITIONS PENALES. (art. R741-1)](#177)
+  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#178)
+    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-20)](#179)
+      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#180)
+        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-36)](#181)
+        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#182)
+        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#183)
+      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-1 à D133-20)](#184)
+        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-1 à D131-15)](#185)
+          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-1 à D131-14)](#186)
+            - [Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne. (art. D131-1 à D131-8)](#187)
+            - [Paragraphe 2 : Attributions et surveillance des organismes de la circulation aérienne. (art. D131-9 à D131-10)](#188)
+            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#189)
+          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#190)
+        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-12)](#191)
+          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#192)
+          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#193)
+          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6)](#194)
+          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#195)
+        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#196)
+          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#197)
+            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-5)](#198)
+            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#199)
+          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#200)
+          - [Section 3 : Radiocommunications intéressant la circulation des aéronefs. (art. D133-19 à D133-19-10)](#201)
+          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#202)
+    - [LIVRE II : AERODROMES. (art. D211-1 à D251-2)](#203)
+      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#204)
+        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#205)
+        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#206)
+        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-6)](#207)
+          - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-13)](#208)
+            - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#209)
+            - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#210)
+              - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#211)
+              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#212)
+              - [3. Règles d'intervention (art. D213-1-9)](#213)
+            - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#214)
+            - [Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie (art. D213-1-13)](#215)
+          - [Section 2 : Prévention du péril animalier (art. D213-1-14 à D213-1-25)](#216)
+          - [Section 3 : Sûreté de l'aviation civile (art. D213-2 à D213-4)](#217)
+          - [Section 4 : Dispositions financières (art. D213-5 à D213-6)](#218)
+        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#219)
+      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D228-7)](#220)
+        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#221)
+        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#222)
+        - [CHAPITRE IV : REDEVANCES. (art. D224-1 à D224-4)](#223)
+        - [CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE. (art. D228-1 à D228-7)](#224)
+      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#225)
+        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#226)
+        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#227)
+        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#228)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#229)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#230)
+          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#231)
+          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#232)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#233)
+          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#234)
+          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#235)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#236)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#237)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#238)
+      - [TITRE V : AEROPORTS DE PARIS (art. D251 à D251-2)](#239)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251 à D251-2)](#240)
+          - [Section 1 : Aérodromes constituant Aéroports de Paris. (art. D251-1 à D251-2)](#241)
+    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#242)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#243)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#244)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#245)
+        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#246)
+      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#247)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#248)
+      - [TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE. (art. D370-1 à D370-11)](#249)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#250)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-3)](#251)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#252)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#253)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#254)
+          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#255)
+          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#256)
+          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#257)
+          - [Section 4 : Période de transition (art. D422-14)](#258)
+          - [Section 5 : Mesures de contrôle (art. D422-15)](#259)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#260)
+          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#261)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#262)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#263)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#264)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#265)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#266)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#267)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#268)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#269)
+      - [Section 1 : Avions photographes. (art. D611-1)](#270)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#271)
+  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#272)
+    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#273)
+      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#274)
+    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#275)
+      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#276)
+    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#277)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -12282,38 +12281,6 @@ _Cite_:
 La police de la conservation et la police de l'exploitation des aérodromes et des installations à usage aéronautique
 mentionnées à l'article L. 213-1 sont exercées dans les conditions définies par le présent chapitre.
 
-Les exploitants d'aérodromes, les entreprises de transport aérien, les entreprises qui leur sont liées par un contrat de
-louage de services visé au deuxième alinéa de l'article L. 282-8 et les autres personnes autorisées à occuper ou utiliser la
-zone réservée définie à l'article R. 213-2 sont tenus de respecter les mesures édictées en vue de prévenir toute intervention
-illicite pouvant compromettre la sûreté des vols et des personnes. Ils tiennent à jour pour chaque aérodrome où ils exercent
-leur activité un programme de sûreté qui comprend obligatoirement la description de leur activité et de l'organisation qu'ils
-adoptent pour satisfaire à leurs obligations en matière de sûreté et assurer la qualité des mesures qui leur incombent, ainsi
-que des modalités de recours à la sous-traitance.
-
-Les employeurs ne peuvent faire exécuter les tâches concourant à la mise en oeuvre de ces mesures en zone réservée que par
-des personnes ayant bénéficié de formations initiales et continues et d'entraînements périodiques qu'ils leur dispensent. Ces
-formations et ces entraînements portent sur les principes généraux de sûreté et les techniques de prévention contre
-l'introduction de substances et objets illicites dans la zone réservée.
-
-Sans préjudice des pouvoirs dévolus aux préfets par l'article L. 213-2 du présent code, les mesures mentionnées au deuxième
-alinéa ci-dessus font l'objet d'arrêtés pris :
-
-- par le ministre chargé des transports en ce qui concerne les conditions techniques relatives aux infrastructures et
-matériels ;
-
-- conjointement par les ministres chargés des transports, de la défense, de l'intérieur et des douanes, pour les autres
-dispositions, notamment en ce qui concerne les procédures, dans le respect des dispositions de l'article L. 282-8.
-
-Les dispositions de ces arrêtés peuvent être communes à plusieurs aérodromes ou différentes selon le trafic des plates-
-formes, la destination des vols ou l'existence de circonstances spécifiques locales au regard des objectifs de sûreté des
-vols et des personnes.
-
-Le ministre chargé des transports prend les mesures urgentes rendues nécessaires par une situation particulière mettant en
-cause la sûreté des vols et des personnes.
-
-Les infractions aux arrêtés et mesures pris en application du présent article sont passibles des sanctions prévues à
-l'article R. 217-1.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -12340,30 +12307,102 @@ _Cité par_:
   - Code de l'aviation civile - art. R282-5 (Ab)
   - Code de l'aviation civile - art. R611-5 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 1 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 1 () JORF 11 mai 2007
 
 _Cite_:
 
   - Code de l'aviation civile - art. L213-1 (M)
-  - Code de l'aviation civile - art. L213-2 (M)
-  - Code de l'aviation civile - art. L282-8 (M)
-  - Code de l'aviation civile - art. R213-2 (M)
 
-
-##### Section 2 : Police de la conservation<a id=101></a>
 
 ###### Article R213-1-1
 
-Sans préjudice des compétences reconnues aux officiers et agents de police judiciaire, ainsi qu'aux agents mentionnés à
-l'article 2 de la loi du 29 floréal an X, les contraventions de grande voirie sur les aérodromes peuvent être constatées par
-les ingénieurs de l'aviation civile et les ingénieurs des études et de l'exploitation de l'aviation civile, ainsi que par les
-agents de l'exploitant de l'aérodrome assermentés et habilités à cet effet.
+I. - Les exploitants des aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse 70 000 passagers
+ou figurant sur une liste fixée par le ministre chargé des transports sont tenus :
+
+- de mettre en oeuvre un service d'inspection filtrage des passagers et des bagages de cabine (IFPBC) ;
+
+- de mettre en oeuvre un service d'inspection filtrage des bagages de soute (IFBS) et de maintenir leur intégrité jusqu'à
+leur remise aux entreprises de transport aérien ;
+
+- de mettre en oeuvre un dispositif de protection et de surveillance des limites des parties communes de la zone réservée et
+d'équiper certaines zones de dispositifs destinés à en faciliter la surveillance ;
+
+- de mettre en oeuvre un service d'inspection filtrage des personnes, biens, produits et véhicules pénétrant dans la zone
+réservée par un des accès communs de cette zone ou dans les parties critiques de cette zone au sens de la réglementation
+communautaire ;
+
+- d'aménager les infrastructures qu'ils exploitent en tenant compte des impératifs de sûreté.
+
+II. - Les entreprises de transport aérien opérant au départ des aérodromes mentionnés au I sont tenues :
+
+- de mettre en oeuvre des mesures de sûreté relatives aux passagers et à leurs bagages lors de leur enregistrement, de leur
+prise en charge et de leur embarquement ;
+
+- de maintenir l'intégrité des bagages de soute après leur remise par l'exploitant d'aérodrome jusqu'à leur chargement dans
+l'aéronef ;
+
+- de mettre en oeuvre des mesures de sûreté relatives aux biens et produits utilisés à bord des aéronefs ainsi qu'au fret,
+colis et matériel transporté par l'entreprise de transport aérien pour son propre compte ;
+
+- de protéger les aéronefs qu'elles exploitent et de procéder aux opérations de sûreté ;
+
+- d'établir les cartes de navigants prévues à l'article R. 213-4 et de soumettre leurs équipages, ainsi que leurs bagages, à
+des procédures d'inspection filtrage.
+
+III. - Les entreprises ou organismes autorisés à occuper ou utiliser la zone réservée des aérodromes mentionnés au I sont
+tenus, lorsqu'ils occupent des lieux à usage exclusif :
+
+- de mettre en oeuvre le contrôle d'accès à ces lieux ;
+
+- de mettre en oeuvre l'inspection filtrage des personnes, biens, produits et véhicules accédant à la zone réservée par ces
+lieux ;
+
+- d'appliquer les prescriptions liées à cette occupation qui font l'objet d'un arrêté préfectoral.
+
+IV. - Les entreprises ou organismes mentionnés aux I, II et III du présent article sont tenus :
+
+- d'établir, de mettre à jour et d'appliquer un programme de sûreté décrivant les mesures qu'ils mettent en oeuvre
+conformément à la réglementation applicable, et de désigner un responsable sûreté ;
+
+- d'établir, de mettre à jour et d'appliquer un programme d'assurance qualité décrivant l'organisation et les procédures
+adoptées pour assurer la conformité et la qualité des mesures précitées.
+
+Les programmes de sûreté sont modifiés, le cas échéant, pour tenir compte des changements de la réglementation et des
+prescriptions particulières imposées par l'autorité administrative.
+
+V. - Les entreprises ou organismes qui utilisent des équipements de détection doivent être en mesure de justifier à tout
+moment qu'elles respectent les règles applicables à l'utilisation de ces équipements, concernant notamment la certification
+ou la justification des performances ainsi que les procédures d'utilisation.
+
+VI. - Les employeurs des personnes qui exécutent les tâches concourant à la mise en oeuvre des mesures requises au titre des
+I, II et III du présent article, des personnes agréées en application de l'article L. 282-8 et des personnes qui effectuent
+les vérifications spéciales mentionnées à l'article R. 321-10 sont tenus d'établir, de mettre à jour et d'appliquer, dans les
+conditions fixées à l'article R. 213-10, un plan relatif aux formations initiales et continues, ainsi que, le cas échéant,
+aux entraînements périodiques, dispensés aux personnes chargées des tâches suivantes :
+
+- enregistrement et embarquement des passagers et de leurs bagages ;
+
+- transport, réception, conditionnement, manutention, vérification et surveillance des bagages de soute, du fret, de la
+poste, des biens et produits utilisés à bord des aéronefs ;
+
+- préparation des biens et produits utilisés à bord ;
+
+- maintenance des aéronefs en exploitation ;
+
+- vérification et fouille de sûreté des aéronefs ;
+
+- surveillance et contrôle de l'accès aux aéronefs en exploitation ;
+
+- surveillance et contrôle des accès aux installations ;
+
+- contrôle de l'exécution des mesures de sûreté ;
+
+- visite des personnes, des bagages, du fret, des colis postaux, des aéronefs et des véhicules pénétrant ou se trouvant dans
+les zones non librement accessibles au public des aérodromes et de leurs dépendances ;
+
+- vérification spéciale du fret et des colis postaux.
 
 **Liens relatifs à cet article**
 
@@ -12392,15 +12431,163 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-244 du 23 février 2007 - art. 3 () JORF 25 février 2007
+  - Décret n°2007-775 du 9 mai 2007 - art. 3 () JORF 11 mai 2007
 
-_Transféré par_:
+_Cite_:
 
-  - Décret n°2007-775 du 9 mai 2007 - art. 2 () JORF 11 mai 2007
+  - Code de l'aviation civile - art. L282-8 (M)
+  - Code de l'aviation civile - art. R321-10 (M)
 
 _Nouveaux textes_:
 
   - Code de l'aviation civile - art. R213-1-5 (V)
+
+
+###### Article R213-1-2
+
+Sans préjudice des pouvoirs dévolus aux préfets par l'article L. 213-2, les modalités d'application de l'article R. 213-1-1
+font l'objet d'arrêtés pris :
+
+- par le ministre chargé des transports, en ce qui concerne les conditions techniques relatives aux infrastructures et
+matériels ;
+
+- conjointement par les ministres chargés des transports, de la défense, de l'intérieur et des douanes, pour les autres
+dispositions, notamment en ce qui concerne les procédures, dans le respect des dispositions de l'article L. 282-8.
+
+- les dispositions de ces arrêtés peuvent être communes à plusieurs aérodromes ou différentes selon le trafic des plates-
+formes, la destination des vols ou l'existence de circonstances spécifiques locales au regard des objectifs de sûreté des
+vols et des personnes ;
+
+- les ministres chargés des transports et de l'intérieur prennent conjointement les mesures urgentes rendues nécessaires par
+une situation particulière mettant en cause la sûreté des vols et des personnes. Ces mesures urgentes ne peuvent être
+prorogées au-delà de dix jours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2007-775 du 9 mai 2007 - art. 3 () JORF 11 mai 2007
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L213-2 (M)
+  - Code de l'aviation civile - art. L282-8 (M)
+  - Code de l'aviation civile - art. R213-1-1 (M)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R213-7 (Ab)
+  - Code de l'aviation civile - art. R217-3 (VT)
+
+
+###### Article R213-1-3
+
+I. - Le programme de sûreté des exploitants d'aérodrome mentionnés au I de l'article R. 213-1-1 et ses modifications
+ultérieures font l'objet d'une approbation pour une durée maximale de cinq ans par le préfet exerçant les pouvoirs de police
+sur l'aérodrome après instruction des services de l'aviation civile.
+
+II. - Le programme de sûreté des entreprises de transport aérien mentionnées au II de l'article R. 213-1-1 comporte un volet
+décrivant les procédures communes applicables à l'ensemble des escales et un ou plusieurs volets décrivant les procédures
+spécifiques à chaque escale. Le volet commun du programme de sûreté est approuvé pour une durée maximale de cinq ans ainsi
+que ses modifications ultérieures par le préfet du lieu où l'entreprise a sa principale base d'exploitation, après
+instruction technique des services de l'aviation civile. Le volet local concernant les escales dont le trafic est supérieur à
+un seuil fixé par arrêté pris par le ministre chargé des transports est approuvé pour une durée maximale de cinq ans par le
+préfet exerçant les pouvoirs de police sur l'aérodrome concerné après instruction des services de l'aviation civile et après
+consultation des services locaux compétents de l'Etat.
+
+III. - Les modalités d'approbation des programmes de sûreté, notamment les conditions dans lesquelles les approbations
+délivrées par les autorités étrangères peuvent être reconnues, font l'objet, en tant que de besoin, d'un arrêté du ministre
+chargé des transports.
+
+IV. - Lorsque des manquements aux dispositions prévues par un programme de sûreté mentionné au I et au II du présent article
+sont constatés, l'autorité administrative ayant approuvé le programme de sûreté ou le préfet territorialement compétent
+peuvent imposer des mesures de nature à compenser le manquement constaté, ou restrictives d'exploitation. L'entreprise
+concernée est préalablement avisée de la mesure envisagée et dispose d'un délai de quinze jours pour présenter ses
+observations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2007-775 du 9 mai 2007 - art. 3 () JORF 11 mai 2007
+
+_Cité par_:
+
+  - Arrêté du 29 août 2007 - art. 1 (Ab)
+  - Arrêté du 29 août 2007 - art. 2 (Ab)
+  - Code de l'aviation civile - art. R213-7 (Ab)
+  - Code de l'aviation civile - art. R217-1 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R213-1-1 (M)
+
+
+###### Article R213-1-4
+
+Pour les aérodromes autres que ceux mentionnés au I de l'article R. 213-1-1, les mesures de sûreté sont définies par le
+préfet dans les conditions fixées à l'article R. 213-3. Les arrêtés préfectoraux peuvent rendre applicable tout ou partie des
+mesures prévues aux articles R. 213-1-1 à R. 213-1-3 et édicter des prescriptions spéciales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2007-775 du 9 mai 2007 - art. 3 () JORF 11 mai 2007
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R213-1-1 (M)
+  - Code de l'aviation civile - art. R213-3 (M)
+  - Code de l'aviation civile R213-1-1, R213-3, R213-1-1 à R213-1-3
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R213-1-6 (V)
+  - Code de l'aviation civile - art. R217-2 (V)
+  - Code de l'aviation civile - art. R282-2 (V)
+
+
+##### Section 2 : Police de la conservation<a id=101></a>
+
+###### Article R213-1-5
+
+Sans préjudice des compétences reconnues aux officiers et agents de police judiciaire, ainsi qu'aux agents mentionnés à
+l'article 2 de la loi du 29 floréal an X, les contraventions de grande voirie sur les aérodromes peuvent être constatées par
+les ingénieurs de l'aviation civile et les ingénieurs des études et de l'exploitation de l'aviation civile, ainsi que par les
+agents de l'exploitant de l'aérodrome assermentés et habilités à cet effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2007-775 du 9 mai 2007 - art. 2 () JORF 11 mai 2007
+
+_Anciens textes_:
+
+  - Code de l'aviation civile - art. R213-1-1 (M)
+  - Code de l'aviation civile - art. R213-1-1 (T)
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R217-3 (V)
+  - Code de l'aviation civile - art. R282-3 (V)
 
 _Cite_:
 
@@ -12528,18 +12715,20 @@ _Cite_:
 
 ###### Article R213-4
 
-I. - L'accès en zone réservée d'un aérodrome des personnes autres que celles visées aux II et III est soumis à la possession
-d'une habilitation valable sur l'ensemble du territoire national et d'un titre de circulation permettant la circulation dans
-un ou plusieurs secteurs de cette zone.
+I. - L'accès en zone réservée d'un aérodrome mentionné au I de l'article R. 213-1-1, des personnes autres que celles
+mentionnées aux II, III et IV du présent article est soumis à la possession d'une habilitation valable sur l'ensemble du
+territoire national et d'un titre de circulation permettant la circulation dans un ou plusieurs secteurs de cette zone.
 
-Les entreprises ou les organismes autorisés à occuper ou utiliser la zone réservée de l'aérodrome formulent les demandes
-d'habilitation et du titre de circulation au profit de leurs salariés ou des personnes agissant pour leur compte.
+Les entreprises ou les organismes autorisés par l'exploitant d'aérodrome à occuper ou utiliser la zone réservée de
+l'aérodrome formulent les demandes d'habilitation et du titre de circulation au profit de leurs salariés ou des personnes
+agissant pour leur compte.
 
-Ces entreprises ou ces organismes leur dispensent les connaissances relatives aux principes généraux de sûreté et aux règles
-particulières à respecter à l'intérieur de la zone réservée d'un aérodrome et leur délivrent l'attestation correspondante.
+Les personnes mentionnées au premier alinéa bénéficient d'une sensibilisation aux principes généraux de sûreté et aux règles
+particulières à respecter à l'intérieur de la zone réservée de l'aérodrome, dispensée par les entreprises ou organismes
+précités qui leur délivrent l'attestation correspondante.
 
-II. - L'accès des personnels navigants professionnels en zone réservée d'un aérodrome figurant sur une liste fixée par le
-ministre chargé des transports est soumis :
+II. - L'accès des personnels navigants professionnels en zone réservée d'un aérodrome mentionné au I de l'article R. 213-1-1,
+est soumis :
 
 - à la possession et au port apparent d'une carte de navigant établie selon les modalités fixées par un arrêté du ministre
 chargé des transports ;
@@ -12550,16 +12739,33 @@ de navigant.
 
 Les employeurs ou, à défaut d'employeur, les intéressés formulent les demandes d'habilitation.
 
-III. - Dans le cadre défini par un arrêté conjoint des ministres chargés des transports, de la défense, de l'intérieur et des
+III. - L'accès des élèves pilotes en zone réservée des mêmes aérodromes est soumis à la possession de l'habilitation
+mentionnée au I. Les organismes de formation au pilotage formulent les demandes d'habilitation.
+
+IV. - Dans le cadre défini par un arrêté conjoint des ministres chargés des transports, de la défense, de l'intérieur et des
 douanes, l'arrêté préfectoral mentionné à l'article R. 213-3 fixe les conditions particulières d'accès en zone réservée des
-passagers, des personnels navigants autres que ceux visés au II, des élèves pilotes, des fonctionnaires et agents de l'Etat
-et des personnes admises pour une durée inférieure à une semaine.
+passagers, des personnels navigants autres que ceux mentionnés au II, des personnes admises pour une durée inférieure à une
+semaine et des fonctionnaires et agents de l'Etat en uniforme ou munis d'un ordre de mission ou d'une commission d'emploi.
+
+V. - Les agents de l'Etat justifiant d'une activité sur plusieurs aérodromes ainsi que les personnes identifiées dans les
+programmes de sûreté au sens du IV de l'article R. 213-1-1 ayant un rôle de supervision sur plusieurs aérodromes qui
+disposent de l'habilitation mentionnée au I peuvent bénéficier d'un titre de circulation valable sur tous les aérodromes
+considérés.
+
+VI. - Un arrêté du ministre des transports fixe celles des installations mentionnées au cinquième alinéa de l'article L.
+213-1 dont l'accès est soumis à la possession d'une habilitation valable sur l'ensemble du territoire national et d'un titre
+de circulation.
+
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 4 du décret 2007-775 modifiant le présent
+article.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -12583,39 +12789,55 @@ _Cité par_:
   - Code de l'aviation civile - art. R282-4 (M)
   - Code de l'aviation civile - art. R321-12-1 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 4 () JORF 3 août 2002 en vigueur le 1er mai 2003
+  - Décret n°2007-775 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R213-3 (M)
+  - Code de l'aviation civile - art. L213-1
+  - Code de l'aviation civile - art. R213-3
 
 
 ###### Article R213-5
 
-L'habilitation visée au I de l'article R. 213-4 est délivrée par le préfet exerçant les pouvoirs de police sur l'aérodrome
-sur lequel le bénéficiaire de l'habilitation exerce son activité à titre principal. Lorsqu'elle concerne un navigant visé au
-troisième alinéa du II de l'article R. 213-4, l'habilitation est délivrée par le préfet du lieu où l'entreprise a son siège
-social ou, à défaut, son principal établissement. A Paris, la compétence appartient au préfet de police.
+I. - L'habilitation mentionnée au I de l'article R. 213-4 est délivrée par le préfet exerçant les pouvoirs de police sur
+l'aérodrome sur lequel le bénéficiaire exerce son activité à titre principal.
 
-L'habilitation est valable pour une durée qui ne peut excéder cinq ans.
+L'habilitation mentionnée au VI de l'article R. 213-4 est délivrée par le préfet territorialement compétent sur le lieu de
+l'installation dans lequel le bénéficiaire exerce son activité à titre principal.
 
-Elle peut être refusée, retirée ou suspendue par l'autorité de délivrance, dans les formes édictées à l'article 24 de la loi
-du 12 avril 2000 susvisée, lorsque la moralité de la personne ou son comportement ne présentent pas les garanties requises au
-regard de l'ordre public ou sont incompatibles avec l'exercice d'une activité dans la zone réservée de l'aérodrome.
+II. - Lorsqu'elle concerne un navigant mentionné au troisième alinéa du II de l'article R. 213-4, l'habilitation est délivrée
+par le préfet du lieu où l'entreprise a son siège social ou, à défaut, son principal établissement. A Paris, la compétence
+appartient au préfet de police.
+
+III. - Lorsqu'elle concerne un élève pilote, l'habilitation est délivrée par le préfet du lieu où l'organisme de formation a
+son siège ou, à défaut, du lieu de domicile de l'élève pilote. A Paris, la compétence appartient au préfet de police.
+
+IV. - Lorsqu'elle concerne une personne mentionnée au V de l'article R. 213-4, l'habilitation est délivrée par le préfet du
+lieu où celle-ci est affectée. A Paris, la compétence appartient au préfet de police.
+
+V. - L'habilitation est valable pour une durée qui ne peut excéder trois ans.
+
+VI. - L'habilitation peut être refusée, retirée ou suspendue par le préfet territorialement compétent lorsque la moralité ou
+le comportement de la personne titulaire de cette habilitation ne présentent pas les garanties requises au regard de la
+sûreté de l'Etat, de la sécurité publique, de la sécurité des personnes, de l'ordre public ou sont incompatibles avec
+l'exercice d'une activité dans les zones réservées des aérodromes ainsi que dans les installations mentionnées au VI de
+l'article R. 213-4. Le retrait et la suspension s'effectuent dans les formes édictées à l'article 24 de la loi du 12 avril
+2000 susvisée.
 
 En cas d'urgence, l'habilitation peut être suspendue immédiatement pour une durée maximale de deux mois.
 
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 4 du décret 2007-775 modifiant le présent
+article.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-01 art. 25 : champ d'application
 
 _Codifié par_:
 
@@ -12626,30 +12848,34 @@ _Cite_:
   - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
   - Code de l'aviation civile - art. R213-4 (M)
 
-_Modifié par_:
-
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 5 () JORF 3 août 2002
-
 _Cité par_:
 
   - Arrêté du 25 février 2004 - art. 3 (V)
   - Décret n°2017-567 du 19 avril 2017 - art. 10 (V)
   - Code de l'aviation civile - art. R213-6-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2007-775 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
+
 
 ###### Article R213-6
 
-Le titre de circulation prévu au I de l'article R. 213-4 est délivré par le préfet exerçant les pouvoirs de police sur
-l'aérodrome pour lequel le titre est sollicité pour la durée de l'activité en zone réservée de son bénéficiaire.
+I. - La délivrance du titre de circulation prévu au I de l'article R. 213-4, par le préfet exerçant les pouvoirs de police
+sur l'aérodrome pour lequel le titre est sollicité, est subordonnée :
 
-La délivrance du titre de circulation en zone réservée de l'aérodrome est subordonnée :
-
-a) A la justification de l'habilitation prévue à l'article R. 213-4 ;
+a) A la justification de l'habilitation prévue au I de l'article R. 213-4 ;
 
 b) A la justification d'une activité en zone réservée de l'aérodrome et, le cas échéant, dans les secteurs sollicités ;
 
-c) A la présentation d'une attestation de connaissances datant de moins de deux ans telle que prévue au troisième alinéa du I
-de l'article R. 213-4.
+c) A la présentation de l'attestation prévue au troisième alinéa du I de l'article R. 213-4, la sensibilisation ayant été
+suivie depuis moins de six mois.
+
+La délivrance du titre de circulation prévu au VI de l'article R. 213-4 par le préfet territorialement compétent est
+subordonnée à la justification de l'habilitation prévue au VI de l'article R. 213-4.
+
+Le titre de circulation est délivré pour une durée qui n'excède ni la durée de l'habilitation ni la durée envisagée de
+l'activité en zone réservée de son bénéficiaire.
 
 Un arrêté conjoint des ministres chargés de l'intérieur, de la défense, des transports et des douanes fixe la liste des
 titres de circulation en zone réservée, leurs règles de port, d'utilisation et de restitution ainsi que les connaissances
@@ -12657,6 +12883,17 @@ mentionnées au troisième alinéa du I de l'article R. 213-4.
 
 Le préfet retire le titre de circulation, dans les formes édictées à l'article 24 de la loi du 12 avril 2000 susvisée, dès
 lors que l'une des conditions indiquées aux a ou b ci-dessus n'est plus remplie par son bénéficiaire.
+
+II. - Les titres de circulation prévus au V de l'article R. 213-4 sont délivrés par le ministre chargé de l'aviation civile.
+
+III. - En cas d'urgence, le titre de circulation peut être suspendu et sa remise exigée immédiatement par le préfet
+territorialement compétent pour une durée maximale de deux mois, reconductible une fois au cas où les circonstances
+l'exigent.
+
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 4 du décret 2007-775 modifiant le présent
+article.
 
 **Liens relatifs à cet article**
 
@@ -12681,23 +12918,44 @@ _Cite_:
   - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
   - Code de l'aviation civile - art. R213-4 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-24 du 3 janvier 2002 - art. 2 () JORF 6 janvier 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 4 () JORF 11 mai 2007
+
+
+###### Article R213-6-1
+
+Sur les aérodromes autres que ceux mentionnés au I de l'article R. 213-1-1, l'accès en zone réservée est réglementé par le
+préfet dans les conditions fixées à l'article R. 213-3. Les arrêtés préfectoraux peuvent rendre applicables tout ou partie
+des mesures prévues aux articles R. 213-4 à R. 213-6 et édicter des prescriptions spéciales. Lorsqu'une habilitation est
+requise, elle est délivrée, refusée, retirée ou suspendue dans les conditions fixées à l'article R. 213-5.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Créé par_:
+
+  - Décret n°2007-775 du 9 mai 2007 - art. 5 () JORF 11 mai 2007
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R213-1-1 (M)
+  - Code de l'aviation civile - art. R213-3 (M)
+  - Code de l'aviation civile - art. R213-5 (M)
+  - Code de l'aviation civile R213-1-1, R213-3, R213-4 à R213-6, R213-5
 
 
 ###### Article R213-7
 
-L'exécution des arrêtés ministériels ou interministériels mentionnés, notamment, aux articles R. 213-1, R. 213-4-II, R.
-213-6, R. 213-10, R. 213-11, R. 213-12 et R. 282-6, et des arrêtés pris par le préfet en application de l'article R. 213-3
-est assurée par les fonctionnaires de police, les fonctionnaires et agents de la direction générale de l'aviation civile, par
-les militaires de la gendarmerie, ainsi que par les fonctionnaires des douanes dans les domaines relevant de leur compétence.
-Le préfet dispose également du concours des agents des collectivités et établissements publics chargés d'une exploitation
-aéroportuaire, dans les limites des fonctions qui sont confiées à ces collectivités et établissements.
+L'exécution des arrêtés ministériels ou interministériels mentionnés, notamment, aux articles R. 213-1-2, R. 213-1-3, R.
+213-4, R. 213-6, R. 213-10, R. 213-11, R. 213-12 et R. 282-6, et des arrêtés pris par le préfet en application de l'article
+R. 213-3 est assurée par les fonctionnaires de police, les fonctionnaires et agents de la direction générale de l'aviation
+civile, par les militaires de la gendarmerie, ainsi que par les fonctionnaires des douanes dans les domaines relevant de leur
+compétence. Le préfet dispose également du concours des agents des collectivités et établissements publics chargés d'une
+exploitation aéroportuaire, dans les limites des fonctions qui sont confiées à ces collectivités et établissements.
 
 **Liens relatifs à cet article**
 
@@ -12711,19 +12969,25 @@ _Cité par_:
   - Arrêté du 4 avril 1996 - art. 38 (V)
   - Arrêté du 4 avril 1996 - art. 64 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-24 du 3 janvier 2002 - art. 2 () JORF 6 janvier 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 6 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R213-1 (M)
-  - Code de l'aviation civile - art. R213-3 (M)
-  - Code de l'aviation civile - art. R213-4 (M)
+  - Code de l'aviation civile - art. R213-1-2
+  - Code de l'aviation civile - art. R213-1-3
+  - Code de l'aviation civile - art. R213-10
+  - Code de l'aviation civile - art. R213-11
+  - Code de l'aviation civile - art. R213-12
+  - Code de l'aviation civile - art. R213-3
+  - Code de l'aviation civile - art. R213-4
+  - Code de l'aviation civile - art. R213-6
+  - Code de l'aviation civile - art. R282-6
 
 
 ###### Article R213-8
@@ -12779,8 +13043,8 @@ _Abrogé par_:
 
 ###### Article R213-10
 
-I. - L'employeur des personnes visées aux articles R. 213-1 (3e alinéa), R. 282-6, R. 321-6, R. 321-8 et R. 321-10 s'assure
-des compétences de son personnel dans le domaine de la sûreté du transport aérien requises pour l'exercice des tâches qui lui
+I. - L'employeur des personnes visées aux articles R. 213-1-1 (VI), R. 282-6, R. 321-6, R. 321-8 et R. 321-10 s'assure des
+compétences de son personnel dans le domaine de la sûreté du transport aérien requises pour l'exercice des tâches qui lui
 sont confiées.
 
 A cette fin, il met en oeuvre un plan destiné à dispenser au personnel concerné les formations initiales et continues ainsi
@@ -12790,7 +13054,9 @@ des services compétents de l'Etat.
 L'employeur atteste par écrit de la participation de chacun des personnels et, le cas échéant, des personnels intérimaires à
 ces formations et à ces entraînements. Il présente les attestations aux services compétents de l'Etat.
 
-Ces entraînements et formations sont dispensés par des entreprises ou organismes liés par une convention avec l'Etat.
+Ces entraînements et formations sont dispensés par des entreprises ou organismes liés par une convention avec l'Etat. Cette
+convention est signée par le préfet du lieu de l'établissement après instruction des services de l'aviation civile. A Paris,
+la compétence appartient au préfet de police.
 
 II. - Le plan comprend notamment :
 
@@ -12828,23 +13094,9 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 6 () JORF 3 août 2002
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R213-1 (M)
-  - Code de l'aviation civile - art. R213-11 (V)
-  - Code de l'aviation civile - art. R213-12 (M)
-  - Code de l'aviation civile - art. R282-6 (M)
-  - Code de l'aviation civile - art. R321-10 (M)
-  - Code de l'aviation civile - art. R321-6 (M)
-  - Code de l'aviation civile - art. R321-8 (M)
+  - Décret n°2007-775 du 9 mai 2007 - art. 7 () JORF 11 mai 2007
 
 _Cité par_:
 
@@ -12852,6 +13104,15 @@ _Cité par_:
   - Code de l'aviation civile - art. R213-7 (Ab)
   - Code de l'aviation civile - art. R217-1 (V)
   - Code de l'aviation civile - art. R217-3 (VT)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R213-11 (V)
+  - Code de l'aviation civile - art. R213-12 (M)
+  - Code de l'aviation civile - art. R282-6 (M)
+  - Code de l'aviation civile - art. R321-10 (M)
+  - Code de l'aviation civile - art. R321-6 (M)
+  - Code de l'aviation civile - art. R321-8 (M)
 
 
 ###### Article R213-11
@@ -12893,7 +13154,7 @@ _Cite_:
 ###### Article R213-12
 
 Les formations initiales et continues ainsi que les entraînements périodiques que reçoivent les personnes mentionnées aux
-articles R. 213-1 (3e alinéa), R. 321-6 et R. 321-8 répondent à des objectifs pédagogiques et respectent des durées minimales
+articles R. 213-1-1 (VI), R. 321-6 et R. 321-8 répondent à des objectifs pédagogiques et respectent des durées minimales
 définis par un arrêté du ministre chargé des transports, compte tenu des fonctions devant être exercées et des compétences
 techniques exigées. Les objectifs pédagogiques fixent les notions, les situations, les techniques et les procédures que la
 personne doit maîtriser à l'issue de chaque formation ou entraînement. Le contenu de ces formations peut être différent selon
@@ -12906,17 +13167,13 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
-_Créé par_:
-
-  - Décret n°2002-24 du 3 janvier 2002 - art. 3 () JORF 6 janvier 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 8 () JORF 11 mai 2007
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R213-1 (M)
+  - Code de l'aviation civile - art. R213-1-1 (M)
   - Code de l'aviation civile - art. R321-6 (M)
   - Code de l'aviation civile - art. R321-8 (M)
 
@@ -12929,40 +13186,56 @@ _Cité par_:
 
 ###### Article R213-13
 
-La demande d'agrément en qualité d'"établissement connu" porte sur chaque établissement du demandeur implanté à l'extérieur
-d'une zone réservée d'un aérodrome.
+I. - La demande d'agrément en qualité d'"établissement connu" précise l'établissement ou les établissements concernés de
+l'entreprise ou de l'organisme, implantés à l'extérieur de la zone réservée, qui sollicitent l'agrément.
 
 Elle doit comporter :
 
-a) Un programme de sûreté respectant les dispositions d'un arrêté du ministre de l'intérieur, du ministre de la défense, du
-ministre chargé des douanes et du ministre chargé des transports ;
+a) Un programme de sûreté ainsi qu'un programme d'assurance qualité ;
 
-b) Un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité visé au troisième alinéa de
-l'article L. 213-4.
+b) Pour chaque établissement, le rapport d'une évaluation effectuée par l'organisme technique habilité mentionné au troisième
+alinéa de l'article L. 213-4 moins de trois mois avant la demande d'agrément.
 
-Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'établissement, des
-modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci, ainsi que des dispositions prises en
-application des points a, b, c et d de l'article R. 213-15.
+II. - Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'entreprise ou de
+l'organisme, des modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci, ainsi que des dispositions
+prises pour chaque établissement en application des points a, b, c et d de l'article R. 213-15.
 
-L'agrément est délivré, pour une durée de cinq ans, par le préfet du lieu de l'établissement.
+Le programme d'assurance qualité prévoit notamment la mise en place de dispositifs d'analyse des incidents relatifs aux
+mesures de sûreté, de vérification de conformité des moyens mis en oeuvre et, le cas échéant, de supervision des sous-
+traitants et la présentation de bilans synthétisant le suivi et les évolutions des dispositifs mis en place.
+
+III. - L'agrément est délivré pour une durée maximale de cinq ans par l'autorité administrative compétente après instruction
+des services de l'aviation civile.
+
+Si la demande d'agrément porte sur un seul établissement, l'autorité administrative compétente est :
+
+- le préfet exerçant les pouvoirs de police sur l'aérodrome, lorsque l'établissement est implanté sur l'emprise d'un
+aérodrome ;
+
+- le préfet du lieu de l'établissement dans les autres cas.
+
+Si la demande d'agrément porte sur plusieurs établissements, l'autorité administrative compétente est le préfet du lieu où
+l'entreprise a son siège social ou, à défaut, son principal établissement.
+
+A Paris, la compétence appartient au préfet de police.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
+  - Décret n°2007-775 du 9 mai 2007 - art. 9 () JORF 11 mai 2007
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L213-4 (V)
+  - Code de l'aviation civile - art. L213-4
 
 _Cité par_:
 
@@ -12972,32 +13245,34 @@ _Cité par_:
 
 ###### Article R213-14
 
-L'agrément prévu à l'article L. 213-4 est retiré par le préfet qui l'a délivré ou par le préfet exerçant les pouvoirs de
-police sur l'aérodrome sur lequel le titulaire de l'agrément exerce son activité, lorsque des manquements aux dispositions du
-présent code sont constatés. Le titulaire de l'agrément est préalablement avisé de la mesure envisagée et dispose d'un délai
-d'un mois pour présenter ses observations.
+Lorsque des manquements aux obligations découlant du VI de l'article R. 213-1-1 et de l'article R. 213-15 ainsi qu'aux
+dispositions du programme de sûreté prévu au I de l'article R. 213-13 sont constatés, l'autorité administrative compétente
+définie au III de l'article R. 213-13 ou le préfet territorialement compétent peuvent imposer des mesures de nature à
+compenser le manquement constaté, ou restrictives d'exploitation, ou retirer l'agrément. Sauf en cas d'urgence, le titulaire
+de l'agrément est préalablement avisé de la mesure envisagée et dispose d'un délai d'un mois pour présenter ses observations.
 
-En cas d'urgence, l'une ou l'autre des autorités administratives précitées peut prononcer la suspension de l'agrément pour
-une durée maximale de deux mois, par décision motivée. La notification de la mesure de suspension au titulaire de l'agrément
-indique également si une mesure de retrait est envisagée.
+En cas d'urgence, les autorités administratives précitées peuvent prononcer la suspension de l'agrément pour une durée
+maximale de deux mois par décision motivée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
+  - Décret n°2007-775 du 9 mai 2007 - art. 9 () JORF 11 mai 2007
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L213-4 (V)
+  - Code de l'aviation civile - art. R213-1-1
+  - Code de l'aviation civile - art. R213-13
+  - Code de l'aviation civile - art. R213-15
 
 _Cité par_:
 
@@ -13010,10 +13285,11 @@ L'"établissement connu" est tenu :
 
 a) De sécuriser les endroits utilisés pour préparer les biens et produits destinés à être utilisés à bord des aéronefs ;
 
-b) De faire exécuter la préparation et la manipulation de ces biens et produits par des personnes dont il tient à jour la
-liste nominative ayant reçu une formation initiale et continue de sûreté portant sur les principes généraux de sûreté et les
-techniques de prévention contre l'introduction de substances et objets illicites dans les biens et produits pendant les
-phases de conditionnement, de transport, de manutention et de stockage ;
+b) De faire exécuter la préparation, la vérification et la manipulation de ces biens et produits par des personnes dont il
+tient à jour la liste nominative, qui sont titulaires de l'habilitation prévue à l'article L. 213-5 et qui ont reçu une
+formation initiale et continue de sûreté portant sur les principes généraux de sûreté et les techniques de prévention contre
+l'introduction de substances et objets illicites dans les biens et produits pendant les phases de conditionnement, de
+transport, de manutention et de stockage ;
 
 c) De mettre en oeuvre des mesures appropriées pendant la préparation et le conditionnement des biens et produits dans le but
 de s'assurer que les biens et produits ne compromettent pas la sûreté des vols ;
@@ -13021,28 +13297,25 @@ de s'assurer que les biens et produits ne compromettent pas la sûreté des vols
 d) De protéger les biens et produits contre l'introduction de substances et objets illicites pouvant compromettre la sûreté
 des vols, pendant leur stockage et leur acheminement jusqu'à la zone réservée ;
 
-e) De fournir au préfet ayant délivré l'agrément, chaque année au plus tard à la date anniversaire de la délivrance de
-l'agrément, un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité en application de
-l'article L. 213-4 ;
+e) De fournir au préfet ayant délivré l'agrément, pour chaque établissement, chaque année au plus tard à la date anniversaire
+de la délivrance de l'agrément, le rapport d'une évaluation effectuée par l'organisme technique habilité mentionné au
+troisième alinéa de l'article L. 213-4 moins de trois mois avant cette date ;
 
 f) De s'assurer du respect par les sous-traitants des dispositions du programme de sûreté mentionnées au cinquième alinéa de
 l'article R. 213-13.
 
 Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article.
 
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 10 du décret 2007-775 modifiant le présent
+article.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
-_Créé par_:
-
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -13053,9 +13326,18 @@ _Cité par_:
   - Code de l'aviation civile - art. R213-13 (Ab)
   - Code de l'aviation civile - art. R213-14 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2007-775 du 9 mai 2007 - art. 10 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
 _Cite_:
 
-  - Code de l'aviation civile - art. L213-4 (V)
+  - Code de l'aviation civile - art. L213-4
+  - Code de l'aviation civile - art. L213-5
 
 
 ###### Article R213-16
@@ -13070,7 +13352,7 @@ b) La liste des personnes de l'organisme chargées de conduire les évaluations 
 
 c) Les dispositions prises en application du III.
 
-II. - L'habilitation est délivrée pour une durée de cinq ans par le ministre chargé des transports.
+II. - L'habilitation est délivrée pour une durée maximale de cinq ans par le ministre chargé des transports.
 
 L'habilitation est retirée par le ministre chargé des transports lorsque des manquements aux dispositions du présent code
 sont constatés. Le titulaire de l'habilitation est préalablement avisé de la mesure envisagée et dispose d'un délai d'un mois
@@ -13121,107 +13403,60 @@ _Cité par_:
   - Décret n°2002-1026 du 31 juillet 2002 - art. 27 (V)
   - Arrêté du 1 septembre 2003 - art. 44 (Ab)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application et art. 27
+  - Décret n°2007-775 du 9 mai 2007 - art. 11 () JORF 11 mai 2007
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 7 () JORF 3 août 2002 en vigueur le 1er mai 2003
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L213-4 (V)
-  - Code de l'aviation civile - art. L321-7 (M)
+  - Code de l'aviation civile - art. L213-4
+  - Code de l'aviation civile - art. L321-7
 
 
-#### CHAPITRE IV : LE GROUPE INTERMINISTERIEL DE SURETE<a id=103></a>
+###### Article R213-17
 
-###### Article R214-1
+I. - L'habilitation mentionnée à l'article R. 213-4 vaut habilitation au titre de l'article L. 213-5.
 
-Le groupe interministériel de sûreté présidé par le ministre chargé des transports ou son représentant, comprend en outre dix
-membres appartenant aux administrations centrales de l'Etat désignés par leur ministre respectif :
+II. - L'habilitation au titre de l'article L. 213-5 est demandée par l'entreprise agréée. Elle est délivrée par le préfet
+exerçant les pouvoirs de police sur l'aérodrome lorsque l'établissement est situé sur l'emprise de celui-ci, ou par le préfet
+territorialement compétent dans les autres cas.
 
-- deux représentants du ministre chargé des transports ;
+III. - Elle peut être refusée, retirée ou suspendue lorsque la moralité de la personne ou son comportement ne présentent pas
+les garanties requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des personnes, de l'ordre
+public ou sont incompatibles avec l'exercice d'une activité dans les lieux de préparation et de stockage des biens et
+produits destinés à être utilisés à bord des aéronefs.
 
-- deux représentants du ministre de l'intérieur ;
-
-- deux représentants du ministre de la défense ;
-
-- deux représentants du ministre de la justice ;
-
-- deux représentants du ministre chargé des douanes.
-
-Lorsqu'une situation particulière nécessite la consultation d'un ministre non représenté, celui-ci, à la demande du président
-du groupe interministériel de sûreté, désigne un délégué pour assister aux travaux du groupe.
+Sa durée, au maximum de trois ans, ne peut dépasser l'échéance de l'agrément de l'entreprise ou de l'organisme, ni celle du
+contrat de travail de la personne concernée. Le retrait et la suspension s'effectuent dans les formes édictées à l'article 24
+de la loi du 12 avril 2000. En cas d'urgence, l'habilitation peut être suspendue par le préfet territorialement compétent
+pour une durée maximale de deux mois, reconductible une fois au cas où les circonstances l'exigent.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-333 1967-03-30
+  - Décret n°67-334 1967-03-30
+
+_Cite_:
+
+  - Loi n°2000-321 du 12 avril 2000 - art. 24
+  - Code de l'aviation civile - art. L213-5
+  - Code de l'aviation civile - art. R213-4
 
 _Créé par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 8 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 12 () JORF 11 mai 2007
 
 _Abrogé par_:
 
-  - Décret n°2007-775 du 9 mai 2007 - art. 24 () JORF 11 mai 2007
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 
-###### Article R214-2
-
-Le groupe interministériel de sûreté, sur saisine d'un des ministres représentés au sein du groupe, est chargé de donner un
-avis sur le risque que peut représenter une menace potentielle à l'encontre des vols et des personnes et les mesures
-générales de sûreté susceptibles d'être mises en place.
-
-Il peut proposer, en outre, les mesures urgentes rendues nécessaires par une situation particulière mettant en cause la
-sûreté des vols et des personnes.
-
-Il est chargé d'établir, pour chaque aéroport, un bilan sur la mise en oeuvre des mesures de sûreté, prises par le ministre
-chargé des transports.
-
-Il peut faire appel à des personnalités qualifiées et à des experts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-333 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 8 () JORF 3 août 2002
-
-_Abrogé par_:
-
-  - Décret n°2007-775 du 9 mai 2007 - art. 24 () JORF 11 mai 2007
-
-
-###### Article R214-3
-
-Le groupe interministériel de sûreté se réunit au moins trois fois par an sur convocation de son président. Son secrétariat
-est assuré par la direction générale de l'aviation civile.
-
-Il élabore son règlement intérieur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-333 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 8 () JORF 3 août 2002
-
-_Abrogé par_:
-
-  - Décret n°2007-775 du 9 mai 2007 - art. 24 () JORF 11 mai 2007
-
-
-#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=104></a>
+#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=103></a>
 
 ###### Article Annexe art. R216-1
 
@@ -14095,7 +14330,7 @@ _Cite_:
   - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
 
 
-#### CHAPITRE VII : SANCTIONS ADMINISTRATIVES<a id=105></a>
+#### CHAPITRE VII : SANCTIONS ADMINISTRATIVES<a id=104></a>
 
 ###### Article R217-1
 
@@ -14108,7 +14343,11 @@ b) De l'article R. 213-4 et des textes pris pour son application ;
 
 c) De l'article R. 213-6 en matière de port, d'utilisation et de restitution du titre de circulation en zone réservée ;
 
-d) Des arrêtés et mesures pris en application de l'article R. 213-1.
+d) Des arrêtés et mesures pris en application de l'article R. 213-1-1 ;
+
+e) Du règlement (CE) n° 2320/2002 du 16 décembre 2002 du Parlement européen et du Conseil relatif à l'instauration de règles
+communes dans le domaine de la sûreté de l'aviation civile, de son annexe et des règlements pris par la Commission en
+application de son article 9.
 
 Le préfet peut, en tenant compte de la nature et de la gravité des manquements et éventuellement des avantages qui en sont
 tirés, après avis de la commission instituée à l'article R. 217-4 :
@@ -14116,10 +14355,13 @@ tirés, après avis de la commission instituée à l'article R. 217-4 :
 - soit prononcer à l'encontre de la personne physique auteur du manquement une amende administrative d'un montant maximum de
 750 euros ;
 
-- soit suspendre le titre de circulation prévu à l'article R. 213-6 pour une durée ne pouvant pas excéder trente jours.
+- soit suspendre le titre de circulation prévu à l'article R. 213-6 pour une durée ne pouvant pas excéder trente jours. Dans
+ce cas, il en exige la remise immédiate.
 
 Toutefois, l'amende ne peut excéder 150 euros et la durée de la suspension six jours, en cas de défaut de port apparent ou de
 l'utilisation en dehors de leur zone de validité du titre de circulation ou d'une autorisation de circulation de véhicule.
+Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature commis dans le délai d'un an à compter de la
+notification de la décision du préfet.
 
 II. - En cas de manquement constaté aux dispositions :
 
@@ -14130,14 +14372,22 @@ b) Du premier alinéa de l'article L. 213-4, de l'article L. 282-8 en ce qu'il p
 de sûreté sont agréés, des articles R. 213-4, R. 213-10, R. 213-11, R. 213-12, R. 282-6, R. 321-8, R. 321-9 et R. 321-10 et
 des textes pris pour leur application ;
 
-c) Des arrêtés et mesures pris en application de l'article R. 213-1.
+c) Des arrêtés et mesures pris en application de l'article R. 213-1-1 ;
+
+d) Du règlement (CE) n° 2320/2002 du 16 décembre 2002 du Parlement européen et du Conseil relatif à l'instauration de règles
+communes dans le domaine de la sûreté de l'aviation civile, de son annexe et des règlements pris par la Commission en
+application de son article 9 ;
+
+e) Des mesures de nature à compenser le manquement constaté, ou restrictives d'exploitation, prévues au IV de l'article R.
+213-1-3, à l'article R. 213-14 ou à l'article R. 321-5.
 
 Le préfet peut, en tenant compte de la nature et de la gravité des manquements et éventuellement des avantages qui en sont
 tirés, après avis de la commission instituée à l'article R. 217-4, prononcer à l'encontre de la personne morale responsable
 une amende administrative d'un montant maximum de 7 500 euros.
 
 Toutefois, l'amende ne peut excéder 1 500 euros en cas de défaut de présentation des documents exigibles par la
-réglementation.
+réglementation. Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature commis dans le délai d'un an à
+compter de la notification de la décision du préfet.
 
 **Liens relatifs à cet article**
 
@@ -14145,29 +14395,30 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 9 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 13 () JORF 11 mai 2007
 
 _Cite_:
 
   - Code de l'aviation civile - art. L213-4 (V)
   - Code de l'aviation civile - art. L282-8 (M)
+  - Code de l'aviation civile - art. R213-1-1 (M)
+  - Code de l'aviation civile - art. R213-1-3 (V)
   - Code de l'aviation civile - art. R213-10 (M)
   - Code de l'aviation civile - art. R213-11 (V)
   - Code de l'aviation civile - art. R213-12 (M)
+  - Code de l'aviation civile - art. R213-14 (M)
   - Code de l'aviation civile - art. R213-3 (M)
   - Code de l'aviation civile - art. R213-4 (M)
   - Code de l'aviation civile - art. R213-6 (M)
   - Code de l'aviation civile - art. R217-4 (M)
   - Code de l'aviation civile - art. R282-6 (M)
   - Code de l'aviation civile - art. R321-10 (M)
+  - Code de l'aviation civile - art. R321-5 (M)
   - Code de l'aviation civile - art. R321-8 (M)
   - Code de l'aviation civile - art. R321-9 (M)
+  - Règlement CE 2320/2002 2002-12-16
 
 _Cité par_:
 
@@ -14225,25 +14476,44 @@ _Cite_:
 
 ###### Article R217-2-1
 
-Par dérogation aux dispositions des articles R. 217-1 et R. 217-2, le préfet peut, à l'expiration du délai donné à la
-personne concernée pour présenter ses observations, et après avis du délégué permanent de la commission, prononcer une amende
-pour les manquements suivants :
+Par dérogation aux dispositions des articles R. 217-1 et R. 217-2, pour les manquements suivants :
 
-- utilisation d'un titre de circulation en dehors de sa zone de validité ;
+- pénétration en zone réservée sans titre de circulation apparent et valide pour le moment, le lieu et le motif où il est
+utilisé, ou sans les documents exigibles par la réglementation, ou sans se soumettre à l'inspection filtrage ;
 
-- utilisation d'un véhicule en dehors de la zone de validité de son autorisation de circulation ;
+- non-respect des procédures relatives aux palpations et à la fouille des effets personnels et des bagages de cabine ;
 
-- défaut de port apparent du titre de circulation ;
+- défaut de protection des accès en zone réservée et des comptoirs d'enregistrement ;
 
-- défaut d'affichage sur le véhicule de son autorisation de circulation ;
+- non-respect de l'application des mesures de vérification de concordance entre le passager et son identité ou des mesures de
+rapprochement entre le passager et ses bagages de soute ;
 
-- défaut de présentation des documents exigibles par la réglementation.
+- non-présentation des documents exigibles par la réglementation,
 
-Cette procédure ne peut être mise en oeuvre qu'à condition que la possibilité en ait été mentionnée sur le constat dressé en
-application du premier alinéa de l'article R. 217-2.
+le préfet peut prononcer une sanction administrative à l'expiration du délai donné à la personne concernée pour présenter ses
+observations et après avis du délégué permanent de la commission.
 
-Les amendes infligées en application du présent article ne peuvent excéder 150 euros pour les personnes physiques et 1 500
-euros pour les personnes morales.
+Cette procédure ne peut être mise en oeuvre qu'à condition que la possibilité en ait été mentionnée sur le constat prévu au
+premier alinéa de l'article R. 217-2.
+
+En application du présent article, le préfet peut, en tenant compte de la nature et de la gravité des manquements et
+éventuellement des avantages qui en sont tirés :
+
+a) Si l'auteur du manquement est une personne physique, soit prononcer à son encontre une amende administrative d'un montant
+maximum de 750 euros, soit suspendre le titre de circulation prévu à l'article R. 213-6 pour une durée ne pouvant excéder
+trente jours.
+
+Toutefois, l'amende ne peut excéder 150 euros et la durée de la suspension six jours en cas de défaut de port apparent ou de
+l'utilisation en dehors de leur zone de validité du titre de circulation ou d'une autorisation de circulation de véhicule ;
+
+b) Si l'auteur du manquement est une personne morale, prononcer à son encontre une amende administrative d'un montant maximum
+de 7 500 euros.
+
+Toutefois, l'amende ne peut excéder 1 500 euros en cas de défaut de présentation des documents exigibles par la
+réglementation.
+
+Ces plafonds peuvent être doublés en cas de nouveau manquement de même nature commis dans le délai d'un an à compter de la
+notification de la décision du préfet.
 
 **Liens relatifs à cet article**
 
@@ -14251,16 +14521,13 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
-_Créé par_:
-
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 11 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 14 () JORF 11 mai 2007
 
 _Cite_:
 
+  - Code de l'aviation civile - art. R213-6 (M)
   - Code de l'aviation civile - art. R217-1 (M)
   - Code de l'aviation civile - art. R217-2 (M)
 
@@ -14298,11 +14565,19 @@ _Cité par_:
 Les membres de la commission sûreté d'un aérodrome ainsi que leurs suppléants à raison de deux suppléants pour un titulaire
 sont nommés par arrêté du préfet pour une période de trois ans renouvelable.
 
-La commission est présidée, selon le cas, par le directeur de l'aviation civile ou son représentant, le directeur régional de
-l'aviation civile Antilles-Guyane ou son représentant, le chef du service de l'aviation civile ou son représentant à la
-Réunion, à Saint-Pierre-et-Miquelon et à Mayotte. Elle comprend en outre huit membres pour les aérodromes dont le trafic est
-égal ou supérieur à 200 000 passagers par an et quatre membres pour les aérodromes dont le trafic est inférieur à 200 000
-passagers par an, répartis à parts égales entre :
+La commission est présidée par le directeur de l'aviation civile ou le directeur du service de l'aviation civile ou son
+représentant. Elle comprend en outre :
+
+- huit membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse cinq millions de
+passagers ;
+
+- six membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années dépasse 200 000 passagers
+mais est inférieure à cinq millions de passagers ;
+
+- et quatre membres pour les aérodromes dont la moyenne du trafic commercial des trois dernières années est inférieure à 200
+000 passagers,
+
+répartis à parts égales entre :
 
 1° D'une part, des représentants de l'Etat désignés sur proposition des différents chefs de service territorialement
 compétents parmi les services de police, de gendarmerie, de l'aviation civile ou des douanes intervenant sur l'aérodrome et,
@@ -14317,10 +14592,10 @@ le cas échéant, de l'autorité militaire ayant qualité d'affectataire seconda
 - des personnels navigants et des autres catégories de personnel employées sur l'aérodrome.
 
 Dans tous les cas, cette commission comprend au moins un représentant de l'exploitant d'aérodrome et, sur les aérodromes dont
-le trafic est supérieur à 200 000 passagers par an, un représentant des compagnies aériennes et un représentant des
-personnels navigants et des autres catégories de personnel employés sur l'aérodrome. En outre, sur les aérodromes où le
-ministère de la défense est affectataire principal, cette commission comprend le représentant de l'autorité militaire
-assurant la direction de l'aérodrome. La commission élit en son sein un délégué permanent.
+la moyenne du trafic commercial des trois dernières années dépasse 200 000 passagers, un représentant des compagnies
+aériennes et un représentant des personnels navigants et des autres catégories de personnel employés sur l'aérodrome. En
+outre, sur les aérodromes où le ministère de la défense est affectataire principal, cette commission comprend le représentant
+de l'autorité militaire assurant la direction de l'aérodrome. La commission élit en son sein un délégué permanent.
 
 Dans les départements comportant plus d'un aérodrome, le préfet peut désigner une commission unique sur plusieurs aérodromes.
 Le nombre des membres de cette commission est déterminé au regard de l'aérodrome ayant le trafic le plus important.
@@ -14331,13 +14606,9 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 12 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 15 () JORF 11 mai 2007
 
 _Cité par_:
 
@@ -14384,11 +14655,11 @@ _Cite_:
   - Code de l'aviation civile - art. R217-4 (M)
 
 
-### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=106></a>
+### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=105></a>
 
-#### CHAPITRE Ier : CREATION ET OUVERTURE.<a id=107></a>
+#### CHAPITRE Ier : CREATION ET OUVERTURE.<a id=106></a>
 
-##### Section 1 : Dispositions générales.<a id=108></a>
+##### Section 1 : Dispositions générales.<a id=107></a>
 
 ###### Article R221-1
 
@@ -14503,7 +14774,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R321-6 (Ab)
 
 
-##### Section 2 : Création et gestion des aérodromes.<a id=109></a>
+##### Section 2 : Création et gestion des aérodromes.<a id=108></a>
 
 ###### Article R221-4
 
@@ -14730,7 +15001,7 @@ _Cite_:
   - Code de l'aviation civile - art. L221-1 (VT)
 
 
-##### Section 3 : Coordination des aérodromes.<a id=110></a>
+##### Section 3 : Coordination des aérodromes.<a id=109></a>
 
 ###### Article R221-12
 
@@ -14787,7 +15058,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R221-14 (V)
 
 
-#### CHAPITRE II : CLASSIFICATION.<a id=111></a>
+#### CHAPITRE II : CLASSIFICATION.<a id=110></a>
 
 ###### Article R222-1
 
@@ -14953,7 +15224,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### CHAPITRE III : EXPLOITATION.<a id=112></a>
+#### CHAPITRE III : EXPLOITATION.<a id=111></a>
 
 ###### Article R223-1
 
@@ -15141,9 +15412,9 @@ _Créé par_:
   - Décret n°2007-244 du 23 février 2007 - art. 5 () JORF 25 février 2007
 
 
-#### CHAPITRE IV : REDEVANCES.<a id=113></a>
+#### CHAPITRE IV : REDEVANCES.<a id=112></a>
 
-##### Section 1 : Dispositions générales<a id=114></a>
+##### Section 1 : Dispositions générales<a id=113></a>
 
 ###### Article R224-1
 
@@ -15524,7 +15795,7 @@ _Cite_:
   - Code de l'aviation civile - art. R224-1 (An)
 
 
-##### Section 2 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris<a id=115></a>
+##### Section 2 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris<a id=114></a>
 
 ###### Article R224-4
 
@@ -15763,7 +16034,7 @@ _Cite_:
   - Code de l'aviation civile - art. R224-4-1 (Ab)
 
 
-##### Section 3 : Dispositions applicables aux autres aérodromes<a id=116></a>
+##### Section 3 : Dispositions applicables aux autres aérodromes<a id=115></a>
 
 ###### Article R224-5
 
@@ -15792,7 +16063,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-3 (V)
 
 
-##### Section 4 : Dispositions particulières applicables aux aérodromes exploités par une chambre de commerce et d'industrie<a id=117></a>
+##### Section 4 : Dispositions particulières applicables aux aérodromes exploités par une chambre de commerce et d'industrie<a id=116></a>
 
 ###### Article R224-6
 
@@ -15825,7 +16096,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R260-1 (V)
 
 
-#### CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE.<a id=118></a>
+#### CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE.<a id=117></a>
 
 ###### Article R225-1
 
@@ -15941,7 +16212,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R225-4 (V)
 
 
-#### CHAPITRE VI : SANCTIONS ADMINISTRATIVES.<a id=119></a>
+#### CHAPITRE VI : SANCTIONS ADMINISTRATIVES.<a id=118></a>
 
 ###### Article R226-1
 
@@ -16165,9 +16436,9 @@ _Cite_:
   - Code de l'aviation civile - art. R226-5 (V)
 
 
-#### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.<a id=120></a>
+#### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.<a id=119></a>
 
-##### Section 1 : Commission nationale de prévention des nuisances<a id=121></a>
+##### Section 1 : Commission nationale de prévention des nuisances<a id=120></a>
 
 ###### Article R227-1
 
@@ -16317,7 +16588,7 @@ _Abrogé par_:
   - Décret n°2010-405 du 27 avril 2010 - art. 1
 
 
-##### Section 2 : Modification de la circulation aérienne<a id=122></a>
+##### Section 2 : Modification de la circulation aérienne<a id=121></a>
 
 ###### Article R227-7
 
@@ -16356,7 +16627,7 @@ _Cite_:
   - Code de l'aviation civile - art. L227-10 (M)
 
 
-##### Section 3 : Restrictions d'exploitation liées au bruit des aéronefs<a id=123></a>
+##### Section 3 : Restrictions d'exploitation liées au bruit des aéronefs<a id=122></a>
 
 ###### Article R227-8
 
@@ -16574,9 +16845,9 @@ _Cite_:
   - Code de l'aviation civile - art. R227-8 (V)
 
 
-### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=124></a>
+### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=123></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=125></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=124></a>
 
 ###### Article R231-1
 
@@ -16601,7 +16872,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-1 (V)
 
 
-#### CHAPITRE II : AERODROMES A USAGE RESTREINT.<a id=126></a>
+#### CHAPITRE II : AERODROMES A USAGE RESTREINT.<a id=125></a>
 
 ###### Article R232-1
 
@@ -16655,9 +16926,9 @@ _Anciens textes_:
   - Code de l'aviation civile - art. R232-1 (T)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=127></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=126></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=128></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=127></a>
 
 ###### Article R241-1
 
@@ -16778,7 +17049,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R242-1 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=129></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=128></a>
 
 ###### Article R242-1
 
@@ -16927,7 +17198,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R244-1 (V)
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=130></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=129></a>
 
 ###### Article R243-1
 
@@ -17048,7 +17319,7 @@ _Cite_:
   - Code de l'aviation civile - art. R243-1
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=131></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=130></a>
 
 ###### Article R244-1
 
@@ -17113,7 +17384,7 @@ _Nouveaux textes_:
   - Code des transports - art. L6352-1 (V)
 
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=132></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=131></a>
 
 ###### Article R245-1
 
@@ -17170,7 +17441,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-### TITRE V : AEROPORTS DE PARIS.<a id=133></a>
+### TITRE V : AEROPORTS DE PARIS.<a id=132></a>
 
 ###### Article R251-1
 
@@ -17222,7 +17493,7 @@ _Créé par_:
   - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
-### TITRE VI : AEROPORT DE BALE-MULHOUSE.<a id=134></a>
+### TITRE VI : AEROPORT DE BALE-MULHOUSE.<a id=133></a>
 
 ###### Article R260-1
 
@@ -17267,9 +17538,9 @@ _Créé par_:
   - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
 
 
-### TITRE VIII : DISPOSITIONS PENALES<a id=135></a>
+### TITRE VIII : DISPOSITIONS PENALES<a id=134></a>
 
-#### CHAPITRE Ier : SERVITUDES AERONAUTIQUES.<a id=136></a>
+#### CHAPITRE Ier : SERVITUDES AERONAUTIQUES.<a id=135></a>
 
 ###### Article R281-1
 
@@ -17355,13 +17626,14 @@ _Cite_:
   - Code de l'aviation civile - art. L281-1 (M)
 
 
-#### CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=137></a>
+#### CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=136></a>
 
 ###### Article R282-1
 
 Sans préjudice de l'application des dispositions régissant le cas des contraventions de grande voirie et le cas des
 contraventions au code de la route en zone publique, ceux qui ont contrevenu aux dispositions de l'arrêté préfectoral pris en
-application des points c, h et i de l'article R. 213-3 sont punis :
+application des points c, d en ce qui concerne la conduite, la circulation et le stationnement des véhicules, g, h et i de
+l'article R. 213-3 sont punis :
 
 1. De l'amende prévue pour les contraventions de la 4e classe, lorsque l'infraction aura été commise dans la zone réservée ;
 
@@ -17373,13 +17645,9 @@ _Codifié par_:
 
   - Décret n°67-334 1967-03-30
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-24 2002-01-03 art. 12 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-24 du 3 janvier 2002 - art. 5 () JORF 6 janvier 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 16 () JORF 11 mai 2007
 
 _Cite_:
 
@@ -17484,10 +17752,12 @@ _Cite_:
 L'employeur constitue, pour chaque agent présenté en vue de l'agrément pour l'exercice des visites de sûreté prévues à
 l'article L. 282-8, un dossier qui comprend l'identité de l'agent, sa nationalité, les tâches qu'il devra exercer et son
 expérience professionnelle, le nom de l'aérodrome sur lequel ces tâches seront effectuées, les pièces établissant la raison
-sociale du gestionnaire d'aérodrome ou de l'entreprise de transport aérien. Si l'employeur n'est pas un gestionnaire
-d'aérodrome ou une entreprise de transport aérien, il fournit également un extrait du registre K bis mentionnant sa raison
-sociale et une copie de son autorisation administrative prévue dans les dispositions législatives et réglementaires régissant
-les activités privées de surveillance, de gardiennage et de transport de fonds.
+sociale de son entreprise. Si l'employeur n'agit pas pour son propre compte, il fournit également une copie de son
+autorisation administrative prévue par les dispositions législatives et réglementaires régissant les activités privées de
+surveillance, de gardiennage et de transport de fonds.
+
+Les entreprises faisant réaliser les visites de sûreté par leurs propres agents devront en décrire les modalités dans le
+programme de sûreté prévu au IV de l'article R. 213-1.
 
 L'agrément prévu par le deuxième alinéa de l'article L. 282-8 est délivré, refusé et retiré par le préfet compétent sur
 l'aérodrome dans lequel l'agent accomplit ses fonctions et par le procureur de la République près le tribunal de grande
@@ -17495,9 +17765,6 @@ instance dans le ressort duquel est situé cet aérodrome.
 
 L'agrément est valable sur l'ensemble du territoire national. L'agrément est valable pour une durée qui ne peut excéder cinq
 ans.
-
-La suspension immédiate en cas d'urgence prévue au troisième alinéa de l'article L. 282-8 ne peut être prononcée pour une
-durée excédant trois mois. En ce cas, le retrait envisagé et la suspension sont notifiés simultanément à l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -17510,17 +17777,18 @@ _Cité par_:
   - Arrêté du 22 décembre 1997 - art. 1 (V)
   - Décret n°2002-1026 du 31 juillet 2002 - art. 25 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 13 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 17 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L282-8 (M)
+  - Code de l'aviation civile - art. L282-8
+  - Code de l'aviation civile - art. R213-1
 
 
 ###### Article R282-6
@@ -17596,11 +17864,11 @@ _Cite_:
   - Code de l'aviation civile - art. L282-8
 
 
-## LIVRE III : TRANSPORT AERIEN<a id=138></a>
+## LIVRE III : TRANSPORT AERIEN<a id=137></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=139></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=138></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES.<a id=140></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES.<a id=139></a>
 
 ###### Article R321-1
 
@@ -17654,21 +17922,38 @@ _Cite_:
 
 ###### Article R321-3
 
-Une demande d'agrément en qualité d'"agent habilité" est présentée pour chaque établissement que le demandeur souhaite faire
-agréer. Elle doit comporter un programme de sûreté du fret aérien.
+I. - La demande d'agrément en qualité d'" agent habilité" précise l'établissement ou les établissements concernés de
+l'entreprise ou de l'organisme qui sollicite l'agrément. Elle doit comporter un programme de sûreté du fret aérien ainsi
+qu'un programme d'assurance qualité.
 
-Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'établissement, des
-modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions prises en application
-des articles R. 321-6, R. 321-7 et R. 321-10.
+II. - Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'entreprise ou de
+l'organisme, des modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions
+prises pour chaque établissement en application des articles R. 321-6, R. 321-7 et R. 321-10.
 
-L'agrément est délivré pour une durée de cinq ans par le préfet du lieu de l'établissement. A Paris, la compétence appartient
-au préfet de police.
+Le programme d'assurance qualité prévoit notamment la mise en place de dispositifs d'analyse des incidents relatifs aux
+mesures de sûreté, de vérification de conformité des moyens mis en oeuvre et, le cas échéant, de supervision des sous-
+traitants et la présentation de bilans synthétisant le suivi et les évolutions des dispositifs mis en place.
+
+III. - L'agrément est délivré pour une durée maximale de cinq ans par l'autorité administrative compétente après instruction
+des services de l'aviation civile.
+
+Si la demande d'agrément porte sur un seul établissement, l'autorité administrative compétente est :
+
+- le préfet exerçant les pouvoirs de police sur l'aérodrome, lorsque l'établissement est implanté sur l'emprise d'un
+aérodrome ;
+
+- le préfet du lieu de l'établissement dans les autres cas.
+
+Si la demande d'agrément porte sur plusieurs établissements, l'autorité administrative compétente est le préfet du lieu où
+l'entreprise a son siège social ou, à défaut, son principal établissement.
+
+A Paris, la compétence appartient au préfet de police.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -17678,35 +17963,52 @@ _Cité par_:
   - Code de l'aviation civile - art. R321-5 (Ab)
   - Code de l'aviation civile - art. R321-6 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 16 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 18 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R321-10 (M)
-  - Code de l'aviation civile - art. R321-7 (M)
+  - Code de l'aviation civile - art. R321-10
+  - Code de l'aviation civile - art. R321-7
 
 
 ###### Article R321-4
 
-La demande d'agrément en qualité de "chargeur connu" porte sur chaque établissement du demandeur. Elle doit comporter :
+I. - La demande d'agrément en qualité de "chargeur connu" précise l'établissement ou les établissements concernés de
+l'entreprise ou de l'organisme qui sollicite l'agrément. Elle doit comporter :
 
-a) Un programme de sûreté du fret aérien ;
+a) Un programme de sûreté ainsi qu'un programme d'assurance qualité ;
 
-b) Un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité visé au onzième alinéa de
-l'article L. 321-7.
+b) Pour chaque établissement, un rapport d'une évaluation effectuée par l'organisme technique habilité mentionné au onzième
+alinéa de l'article L. 321-7 moins de trois mois avant la demande d'agrément.
 
-Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'établissement, des
-modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions prises en application
-des points a, b, c, d et e de l'article R. 321-12.
+II. - Le programme de sûreté comprend obligatoirement la description de l'activité et de l'organisation de l'entreprise ou de
+l'organisme, des modalités de recours à des sous-traitants, des contrôles appliqués à ceux-ci ainsi que des dispositions
+prises pour chaque établissement en application des points a, b, c, d et e de l'article R. 321-12.
 
-L'agrément est délivré pour une durée de cinq ans par le préfet du lieu de l'établissement. A Paris, la compétence appartient
-au préfet de police.
+Le programme d'assurance qualité prévoit notamment la mise en place de dispositifs d'analyse des incidents relatifs aux
+mesures de sûreté, de vérification de conformité des moyens mis en oeuvre et, le cas échéant, de supervision des sous-
+traitants et la présentation de bilans synthétisant le suivi et les évolutions des dispositifs mis en place.
+
+III. - L'agrément est délivré pour une durée maximale de cinq ans par l'autorité administrative compétente après instruction
+des services de l'aviation civile.
+
+Si la demande d'agrément porte sur un seul établissement, l'autorité administrative compétente est :
+
+- le préfet exerçant les pouvoirs de police sur l'aérodrome, lorsque l'établissement est implanté sur l'emprise d'un
+aérodrome ;
+
+- le préfet du lieu de l'établissement dans les autres cas.
+
+Si la demande d'agrément porte sur plusieurs établissements, l'autorité administrative compétente est le préfet du lieu où
+l'entreprise a son siège social ou, à défaut, son principal établissement.
+
+A Paris, la compétence appartient au préfet de police.
 
 **Liens relatifs à cet article**
 
@@ -17721,35 +18023,36 @@ _Cité par_:
   - Code de l'aviation civile - art. R321-13 (Ab)
   - Code de l'aviation civile - art. R321-5 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 16 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 18 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L321-7 (M)
+  - Code de l'aviation civile - art. L321-7
 
 
 ###### Article R321-5
 
-L'agrément en qualité d'"agent habilité" ou de "chargeur connu" prévu à l'article L. 321-7 est retiré par le préfet qui l'a
-délivré ou par le préfet compétent sur l'aérodrome lorsque des manquements aux dispositions du présent code sont constatés.
-Le titulaire de l'agrément est préalablement avisé de la mesure envisagée et dispose d'un délai d'un mois pour présenter ses
-observations.
+Lorsque des manquements aux obligations découlant des III, V et VI de l'article R. 213-1-1, des articles R. 321-6, R. 321-7,
+R. 321-10 et R. 321-12 ainsi qu'aux dispositions du programme de sûreté prévu au I des articles R. 321-3 et R. 321-4 sont
+constatés, l'autorité administrative compétente définie au III des articles R. 321-3 et R. 321-4 ou le préfet
+territorialement compétent peuvent imposer des mesures de nature à compenser le manquement constaté, ou restrictives
+d'exploitation, ou retirer l'agrément. Sauf en cas d'urgence, le titulaire de l'agrément est préalablement avisé de la mesure
+de retrait envisagée et dispose d'un délai d'un mois pour présenter ses observations. 
 
-En cas d'urgence, l'une ou l'autre des autorités administratives précitées peut prononcer la suspension de l'agrément pour
-une durée maximale de deux mois, par décision motivée. La notification de la mesure de suspension au titulaire de l'agrément
-indique également qu'une mesure de retrait est envisagée.
+En cas d'urgence, les autorités administratives précitées peuvent prononcer la suspension de l'agrément pour une durée
+maximale de deux mois, par décision motivée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -17758,36 +18061,47 @@ _Cité par_:
   - Code de l'aviation civile - art. R321-7 (M)
   - Code de l'aviation civile - art. R321-7-2 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 16 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 18 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L321-7 (M)
+  - Code de l'aviation civile - art. R213-1-1
+  - Code de l'aviation civile - art. R321-10
+  - Code de l'aviation civile - art. R321-12
+  - Code de l'aviation civile - art. R321-3
+  - Code de l'aviation civile - art. R321-4
+  - Code de l'aviation civile - art. R321-6
 
 
 ###### Article R321-6
 
 L'"agent habilité" est tenu :
 
-a) De s'assurer que les expéditions qui lui sont remises ne sont accessibles qu'au personnel autorisé par lui, depuis leur
-réception jusqu'à leur livraison au transporteur aérien ou à son représentant ;
+a) De sécuriser les endroits utilisés pour traiter et stocker le fret ou les colis postaux ;
 
-b) D'effectuer ou de faire effectuer la réception, la manutention, la surveillance du fret et la livraison au transporteur
-aérien ou à son représentant par des personnes ayant reçu une formation initiale et continue de sûreté portant sur les
-principes généraux de sûreté et les techniques de prévention contre l'introduction de substances et objets illicites dans les
-marchandises pendant les phases de transport, de manutention et de stockage ;
+b) D'effectuer ou de faire effectuer la réception, la manutention, la vérification spéciale mentionnée à l'article R. 321-10,
+la surveillance des expéditions et la livraison au transporteur aérien ou à son représentant par des personnes, dont il tient
+à jour la liste nominative, qui sont titulaires de l'habilitation prévue à l'article L. 321-8 et qui ont reçu une formation
+initiale et continue de sûreté portant sur les principes généraux de sûreté et les techniques de prévention contre
+l'introduction de substances et objets illicites dans les marchandises pendant les phases de transport, réception,
+conditionnement, manutention, vérification et surveillance ;
 
 c) Lorsqu'il assure l'acheminement des expéditions qui lui sont confiées par un "chargeur connu" ou un autre "agent
 habilité", de les protéger contre l'introduction de substances et objets illicites pouvant compromettre la sûreté des vols ;
 
 d) De s'assurer du respect par les sous-traitants des dispositions du programme de sûreté mentionnées au deuxième alinéa de
 l'article R. 221-3.
+
+**Nota:**
+
+Décret 2007-775 du 9 mai 2007 art. 25 : spécificité d'application pour l'article 19 du décret 2007-775 modifiant le présent
+article.
 
 **Liens relatifs à cet article**
 
@@ -17809,22 +18123,24 @@ _Cité par_:
   - Code de l'aviation civile - art. R321-3 (Ab)
   - Code de l'aviation civile - art. R321-5 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 17 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 19 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R221-3 (V)
+  - Code de l'aviation civile - art. L321-8
+  - Code de l'aviation civile - art. R221-3
+  - Code de l'aviation civile - art. R321-10
 
 
 ###### Article R321-7
 
-I. - Pour chaque expédition qui lui est confiée, l'"agent habilité" doit :
+I.-Pour chaque expédition qui lui est confiée, l'" agent habilité " doit :
 
 - enregistrer l'identité et l'adresse du déposant et de l'expéditeur ;
 
@@ -17837,41 +18153,41 @@ I. - Pour chaque expédition qui lui est confiée, l'"agent habilité" doit :
 - établir le certificat de sûreté de l'expédition qui en est dépourvue ;
 
 - porter sur le certificat de sûreté accompagnant l'expédition la mention des opérations qu'il effectue en application des
-dispositions du présent article ;
+dispositions des paragraphes II, III ou IV du présent article ;
 
 - remettre l'expédition accompagnée de son certificat de sûreté ;
 
 - conserver pendant au moins trois mois l'identité et l'adresse du déposant, de l'expéditeur ainsi qu'une copie du certificat
-de sûreté.
+de sûreté. 
 
-II. - L'"agent habilité" peut livrer une expédition au transporteur aérien ou à son représentant, sans effectuer d'autres
+II.-L'" agent habilité " peut livrer une expédition au transporteur aérien ou à son représentant, sans effectuer d'autres
 vérifications sur l'expédition, si l'état de l'emballage ne révèle pas d'anomalie et si les documents accompagnant
 l'expédition, notamment le certificat de sûreté lorsqu'il a été établi, lui permettent d'établir qu'elle entre dans l'un des
-cas suivants :
+cas suivants : 
 
 a) L'expédition provient d'un Etat mettant en oeuvre un programme similaire de la sûreté du fret aérien et est apte au
-transport aérien en application de ce programme ;
+transport aérien en application de ce programme ; 
 
-b) L'expédition est remise par un autre "agent habilité" qui l'a déclarée apte au transport aérien en application des
-dispositions du présent article ;
+b) L'expédition est remise par un autre " agent habilité " qui l'a déclarée apte au transport aérien en application des
+dispositions du présent article ; 
 
-c) L'expédition est remise par un "chargeur connu" qui l'a déclarée apte au transport aérien en application des dispositions
-de l'article R. 321-12.
+c) L'expédition est remise par un " chargeur connu " qui l'a déclarée apte au transport aérien en application des
+dispositions de l'article R. 321-12. 
 
-III. - L'"agent habilité" peut également livrer une expédition au transporteur aérien ou à son représentant, sans effectuer
+III.-L'" agent habilité " peut également livrer une expédition au transporteur aérien ou à son représentant, sans effectuer
 d'autres vérifications sur l'expédition, si l'état de l'emballage ne révèle pas d'anomalie et s'il la déclare apte au
-transport aérien en application des exemptions prévues à l'article R. 321-11.
+transport aérien en application des exemptions prévues à l'article R. 321-11. 
 
-IV. - Dans tous les autres cas que ceux visés au II et au III, l'"agent habilité" ne peut livrer une expédition au
+IV.-Dans tous les autres cas que ceux visés au II et au III, l'" agent habilité " ne peut livrer une expédition au
 transporteur aérien ou à son représentant qu'après avoir procédé à des vérifications spéciales, selon les modalités prévues
-par l'article R. 321-10, et, le cas échéant, selon les procédures particulières prévues à l'article R. 321-11.
+par l'article R. 321-10, et, le cas échéant, selon les procédures particulières prévues à l'article R. 321-11. 
 
 L'expédition pour laquelle il n'a pas pu établir l'aptitude au transport aérien est tenue à la disposition de celui qui en
-est à l'origine. Elle peut être remise à un autre "agent habilité" ou à un transporteur aérien aux fins de sécurisation.
+est à l'origine. Elle peut être remise à un autre " agent habilité " ou à un transporteur aérien aux fins de sécurisation.
 
 **Nota:**
 
-: Décret 2002-1026 du 31 juillet 2002 article 24 : les dispositions de l'article R321-7 n'entreront en vigueur que le 1er mai
+Décret 2002-1026 du 31 juillet 2002 article 24 : les dispositions de l'article R321-7 n'entreront en vigueur que le 1er mai
 2003 en tant qu'ils font obligation, respectivement, aux agents habilités et aux transporteurs aériens d'établir et de
 compléter le certificat de sûreté en application des articles R. 321-7 et R. 321-9.
 
@@ -17900,13 +18216,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 18 () JORF 3 août 2002
+  - Décret n°2007-775 du 9 mai 2007 - art. 20 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R321-10 (M)
-  - Code de l'aviation civile - art. R321-11 (V)
-  - Code de l'aviation civile - art. R321-12 (M)
+  - Code de l'aviation civile - art. R321-10
+  - Code de l'aviation civile - art. R321-11
+  - Code de l'aviation civile - art. R321-12
 
 
 ###### Article R321-8
@@ -18123,10 +18443,11 @@ Le "chargeur connu" est tenu :
 
 a) De sécuriser les endroits utilisés pour préparer les expéditions de fret aérien ou de colis postaux ;
 
-b) D'exécuter ou de faire exécuter la préparation et la manipulation des expéditions par des personnes dont il tient à jour
-la liste nominative, ayant reçu une formation initiale et continue de sûreté portant sur les principes généraux de sûreté et
-les techniques de prévention contre l'introduction de substances et objets illicites dans les marchandises pendant les phases
-de conditionnement, de transport, de manutention et de stockage ;
+b) D'exécuter ou de faire exécuter la préparation, la vérification et la manipulation des expéditions par des personnes, dont
+il tient à jour la liste nominative, qui sont titulaires de l'habilitation prévue à l'article L. 321-8 et qui ont reçu une
+formation initiale et continue de sûreté portant sur les principes généraux de sûreté et les techniques de prévention contre
+l'introduction de substances et objets illicites dans les marchandises pendant les phases de transport, réception,
+conditionnement, manutention, vérification et surveillance ;
 
 c) De mettre en oeuvre des mesures appropriées pendant la préparation et le conditionnement des expéditions dans le but de
 s'assurer que les expéditions ne compromettent pas la sûreté des vols ;
@@ -18138,9 +18459,9 @@ e) D'établir, pour les seules expéditions aptes au transport aérien qui ne pe
 conditionnement du fait de leurs caractéristiques, un "certificat de sûreté" sur lequel il fait porter la mention des
 opérations effectuées en application des dispositions du présent article ;
 
-f) De fournir au préfet ayant délivré l'agrément, chaque année au plus tard à la date anniversaire de la délivrance de
-l'agrément, un rapport d'évaluation établi depuis moins d'un mois par l'organisme technique habilité visé au onzième alinéa
-de l'article L. 321-7 ;
+f) De fournir au préfet ayant délivré l'agrément, pour chaque établissement, chaque année au plus tard à la date anniversaire
+de la délivrance de l'agrément, le rapport d'une évaluation effectuée par l'organisme technique habilité mentionné au onzième
+alinéa de l'article L. 321-7 moins de trois mois avant cette date ;
 
 g) De s'assurer du respect par les sous-traitants des dispositions du programme de sûreté au quatrième alinéa de l'article R.
 321-4.
@@ -18150,14 +18471,6 @@ g) De s'assurer du respect par les sous-traitants des dispositions du programme 
 _Codifié par_:
 
   - Décret n°67-334 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-1026 2002-07-31 art. 25 : champ d'application
-
-_Créé par_:
-
-  - Décret n°2002-1026 du 31 juillet 2002 - art. 23 () JORF 3 août 2002
 
 _Cité par_:
 
@@ -18169,9 +18482,60 @@ _Cité par_:
   - Code de l'aviation civile - art. R321-5 (Ab)
   - Code de l'aviation civile - art. R321-7 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2007-775 du 9 mai 2007 - art. 21 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
+
 _Cite_:
 
-  - Code de l'aviation civile - art. L321-7 (M)
+  - Code de l'aviation civile - art. L321-7
+  - Code de l'aviation civile - art. L321-8
+
+
+###### Article R321-12-1
+
+I. - L'habilitation mentionnée à l'article R. 213-4 vaut habilitation au titre de l'article L. 321-8.
+
+II. - L'habilitation au titre de l'article L. 321-8 est demandée par l'entreprise agréée. Elle est délivrée par le préfet
+exerçant les pouvoirs de police sur l'aérodrome lorsque l'établissement est situé sur l'emprise de celui-ci telle que définie
+à l'article R. 213-2 ou par le préfet territorialement compétent dans les autres cas.
+
+III. - Elle peut être refusée, retirée ou suspendue lorsque la moralité de la personne ou son comportement ne présentent pas
+les garanties requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des personnes, de l'ordre
+public ou sont incompatibles avec l'exercice d'une activité dans les lieux de traitement, de conditionnement et de stockage
+du fret et des colis postaux.
+
+Sa durée, au maximum de trois ans, ne peut dépasser l'échéance de l'agrément de l'entreprise ou de l'organisme ni celle du
+contrat de travail de la personne concernée.
+
+Le retrait et la suspension s'effectuent dans les formes édictées à l'article 24 de la loi du 12 avril 2000. En cas
+d'urgence, l'habilitation peut être suspendue par le préfet territorialement compétent pour une durée maximale de deux mois,
+reconductible une fois au cas où les circonstances l'exigent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Cite_:
+
+  - Loi n°2000-321 du 12 avril 2000 - art. 24
+  - Code de l'aviation civile - art. L321-8
+  - Code de l'aviation civile - art. R213-2
+  - Code de l'aviation civile - art. R213-4
+
+_Créé par_:
+
+  - Décret n°2007-775 du 9 mai 2007 - art. 22 () JORF 11 mai 2007
+
+_Abrogé par_:
+
+  - Décret n°2012-832 du 29 juin 2012 - art. 17
 
 
 ###### Article R321-13
@@ -18219,7 +18583,7 @@ _Cite_:
   - Code de l'aviation civile - art. R321-9
 
 
-#### CHAPITRE II : TRANSPORT DE PERSONNES.<a id=141></a>
+#### CHAPITRE II : TRANSPORT DE PERSONNES.<a id=140></a>
 
 ###### Article R322-1
 
@@ -18369,7 +18733,7 @@ _Créé par_:
   - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
 
 
-### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.<a id=142></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.<a id=141></a>
 
 ###### Article R330-1
 
@@ -19413,9 +19777,9 @@ _Cite_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-### TITRE IV : SOCIETE AIR FRANCE.<a id=143></a>
+### TITRE IV : SOCIETE AIR FRANCE.<a id=142></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=144></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=143></a>
 
 ###### Article R342-1
 
@@ -19498,9 +19862,9 @@ _Cite_:
   - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 14
 
 
-### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES<a id=145></a>
+### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES<a id=144></a>
 
-#### Section 1 : Transports sanitaires.<a id=146></a>
+#### Section 1 : Transports sanitaires.<a id=145></a>
 
 ###### Article R351-1
 
@@ -19543,7 +19907,7 @@ _Créé par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 5 () JORF 21 novembre 1980
 
 
-#### Section 2 : Transports par moyens militaires.<a id=147></a>
+#### Section 2 : Transports par moyens militaires.<a id=146></a>
 
 ###### Article R351-2
 
@@ -19587,7 +19951,7 @@ _Cité par_:
   - Arrêté du 29 octobre 2012 - art. 4 (V)
 
 
-### TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE.<a id=148></a>
+### TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE.<a id=147></a>
 
 ###### Article R360-1
 
@@ -19768,9 +20132,9 @@ _Cite_:
   - Code de l'aviation civile - art. L360-4 (M)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=149></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=148></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES<a id=150></a>
+### TITRE Ier : DISPOSITIONS COMMUNES<a id=149></a>
 
 ###### Article R410-1
 
@@ -19875,11 +20239,11 @@ _Cité par_:
   - Code de l'aviation civile - art. R421-7 (V)
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=151></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=150></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=152></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=151></a>
 
-##### Section 1 : Catégories.<a id=153></a>
+##### Section 1 : Catégories.<a id=152></a>
 
 ###### Article R421-1
 
@@ -20060,7 +20424,7 @@ _Cite_:
   - Code de l'aviation civile - art. L421-5
 
 
-##### Section 2 : Conseil du personnel navigant professionnel.<a id=154></a>
+##### Section 2 : Conseil du personnel navigant professionnel.<a id=153></a>
 
 ###### Article R421-7
 
@@ -20352,7 +20716,7 @@ _Modifié par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE.<a id=155></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE.<a id=154></a>
 
 ###### Article R422-1
 
@@ -20401,7 +20765,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### CHAPITRE III : CONTRAT DE TRAVAIL.<a id=156></a>
+#### CHAPITRE III : CONTRAT DE TRAVAIL.<a id=155></a>
 
 ###### Article R423-1
 
@@ -20555,7 +20919,7 @@ _Cite_:
   - Code de l'aviation civile - art. L424-6 (V)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=157></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=156></a>
 
 ###### Article R424-1
 
@@ -20762,7 +21126,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### CHAPITRE V : DISCIPLINE.<a id=158></a>
+#### CHAPITRE V : DISCIPLINE.<a id=157></a>
 
 ###### Article R425-1
 
@@ -21320,7 +21684,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D435-1 (M)
 
 
-#### CHAPITRE VI : RETRAITES.<a id=159></a>
+#### CHAPITRE VI : RETRAITES.<a id=158></a>
 
 ###### Article R426-1
 
@@ -21488,7 +21852,7 @@ _Nouveaux textes_:
   - Code des transports - art. L6527-8 (V)
 
 
-##### Section 1 : Définitions.<a id=160></a>
+##### Section 1 : Définitions.<a id=159></a>
 
 ###### Article R426-5
 
@@ -21655,7 +22019,7 @@ _Modifié par_:
   - Décret n°2005-609 du 27 mai 2005 - art. 1 () JORF 29 mai 2005 en vigueur le 1er janvier 2005
 
 
-##### Section 2 : Cotisations.<a id=161></a>
+##### Section 2 : Cotisations.<a id=160></a>
 
 ###### Article R426-6
 
@@ -21823,7 +22187,7 @@ _Cite_:
   - Code de l'aviation civile - art. R426-5 (M)
 
 
-##### Section 3 : Constitution du droit à pension.<a id=162></a>
+##### Section 3 : Constitution du droit à pension.<a id=161></a>
 
 ###### Article R426-11
 
@@ -22395,7 +22759,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 
-##### Section 4 : Calcul de la pension.<a id=163></a>
+##### Section 4 : Calcul de la pension.<a id=162></a>
 
 ###### Article R426-16-1
 
@@ -22641,7 +23005,7 @@ _Abrogé par_:
   - Décret n°2011-1500 du 10 novembre 2011 - art. 25
 
 
-##### Section 5 : Pension de réversion.<a id=164></a>
+##### Section 5 : Pension de réversion.<a id=163></a>
 
 ###### Article R426-19
 
@@ -22851,7 +23215,7 @@ _Abrogé par_:
   - Décret n°2011-1500 du 10 novembre 2011 - art. 25
 
 
-##### Section 6 : Dispositions diverses.<a id=165></a>
+##### Section 6 : Dispositions diverses.<a id=164></a>
 
 ###### Article R426-24
 
@@ -23056,7 +23420,7 @@ _Cite_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-##### Section 7 : Dispositions transitoires.<a id=166></a>
+##### Section 7 : Dispositions transitoires.<a id=165></a>
 
 ###### Article R426-28
 
@@ -23083,7 +23447,7 @@ _Cite_:
   - Code de l'aviation civile - art. R426-6 (V)
 
 
-#### CHAPITRE VII : DISPOSITIONS PENALES.<a id=167></a>
+#### CHAPITRE VII : DISPOSITIONS PENALES.<a id=166></a>
 
 ###### Article R427-1
 
@@ -23119,7 +23483,7 @@ _Cite_:
   - Code du travail - art. L212-2 (M)
 
 
-#### CHAPITRE VIII : DISPOSITIONS COMMUNES.<a id=168></a>
+#### CHAPITRE VIII : DISPOSITIONS COMMUNES.<a id=167></a>
 
 ###### Article R428-1
 
@@ -23153,11 +23517,11 @@ _Cité par_:
   - Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=169></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=168></a>
 
-### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=170></a>
+### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=169></a>
 
-#### Section 1 : Organisation et fonctionnement.<a id=171></a>
+#### Section 1 : Organisation et fonctionnement.<a id=170></a>
 
 ###### Article R530-1
 
@@ -23273,7 +23637,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### Section 2 : Attribution et paiement des indemnités.<a id=172></a>
+#### Section 2 : Attribution et paiement des indemnités.<a id=171></a>
 
 ###### Article R530-5
 
@@ -23472,7 +23836,7 @@ _Modifié par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES.<a id=173></a>
+## LIVRE VI : DISPOSITIONS DIVERSES.<a id=172></a>
 
 ###### Article R611-1
 
@@ -23779,9 +24143,9 @@ _Cite_:
   - Code de l'aviation civile - art. R611-3 (V)
 
 
-## LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION<a id=174></a>
+## LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION<a id=173></a>
 
-### TITRE Ier : DISPOSITIONS GENERALES.<a id=175></a>
+### TITRE Ier : DISPOSITIONS GENERALES.<a id=174></a>
 
 ###### Article R711-1
 
@@ -24072,7 +24436,7 @@ _Cite_:
   - Code de l'aviation civile - art. L711-2
 
 
-### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS<a id=176></a>
+### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS<a id=175></a>
 
 ###### Article R722-1
 
@@ -24294,7 +24658,7 @@ _Cite_:
   - Code de l'aviation civile - art. R216-1 (V)
 
 
-### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.<a id=177></a>
+### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.<a id=176></a>
 
 ###### Article R731-1
 
@@ -24373,7 +24737,7 @@ _Modifié par_:
   - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 
-### TITRE IV : DISPOSITIONS PENALES.<a id=178></a>
+### TITRE IV : DISPOSITIONS PENALES.<a id=177></a>
 
 ###### Article R741-1
 
@@ -24395,13 +24759,13 @@ _Cite_:
   - Code de l'aviation civile - art. R722-1 (V)
 
 
-# Partie réglementaire - Décrets simples<a id=179></a>
+# Partie réglementaire - Décrets simples<a id=178></a>
 
-## LIVRE Ier : AERONEFS.<a id=180></a>
+## LIVRE Ier : AERONEFS.<a id=179></a>
 
-### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=181></a>
+### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=180></a>
 
-#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=182></a>
+#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=181></a>
 
 ###### Article D121-1
 
@@ -25339,7 +25703,7 @@ _Abrogé par_:
   - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 
-#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=183></a>
+#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=182></a>
 
 ###### Article D122-1
 
@@ -25557,7 +25921,7 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 2 JORF 5 mars 1971
 
 
-#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=184></a>
+#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=183></a>
 
 ###### Article D123-1
 
@@ -25594,13 +25958,13 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 3 JORF 5 mars 1971
 
 
-### TITRE III : CIRCULATION DES AERONEFS.<a id=185></a>
+### TITRE III : CIRCULATION DES AERONEFS.<a id=184></a>
 
-#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=186></a>
+#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=185></a>
 
-##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=187></a>
+##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=186></a>
 
-##### Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne.<a id=188></a>
+##### Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne.<a id=187></a>
 
 ###### Article D131-1
 
@@ -25856,7 +26220,7 @@ _Modifié par_:
   - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
 
-##### Paragraphe 2 : Attributions et surveillance des organismes de la circulation aérienne.<a id=189></a>
+##### Paragraphe 2 : Attributions et surveillance des organismes de la circulation aérienne.<a id=188></a>
 
 ###### Article D131-9
 
@@ -25960,7 +26324,7 @@ _Modifié par_:
   - Décret n°2005-1349 du 31 octobre 2005 - art. 1 () JORF 1er novembre 2005
 
 
-##### Paragraphe 3 : Météorologie.<a id=190></a>
+##### Paragraphe 3 : Météorologie.<a id=189></a>
 
 ###### Article D131-11
 
@@ -26030,7 +26394,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Aéronefs étrangers.<a id=191></a>
+##### Section 2 : Aéronefs étrangers.<a id=190></a>
 
 ###### Article D131-15
 
@@ -26054,9 +26418,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : ATTERRISSAGE.<a id=192></a>
+#### CHAPITRE II : ATTERRISSAGE.<a id=191></a>
 
-##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=193></a>
+##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=192></a>
 
 ###### Article D132-1
 
@@ -26119,7 +26483,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=194></a>
+##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=193></a>
 
 ###### Article D132-4
 
@@ -26175,7 +26539,7 @@ _Cite_:
   - Code de l'aviation civile - art. D132-4 (V)
 
 
-##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=195></a>
+##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=194></a>
 
 ###### Article D132-6
 
@@ -26230,7 +26594,7 @@ _Anciens textes_:
   - Décret n°1959-03-06 art. 1
 
 
-##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=196></a>
+##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=195></a>
 
 ###### Article D132-7
 
@@ -26397,11 +26761,11 @@ _Créé par_:
   - Décret n°85-770 1985-07-17 art. 1 JORF 25 juillet 1985
 
 
-#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=197></a>
+#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=196></a>
 
-##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=198></a>
+##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=197></a>
 
-##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances<a id=199></a>
+##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances<a id=198></a>
 
 ###### Article D133-1
 
@@ -26574,7 +26938,7 @@ _Créé par_:
   - Décret n°93-921 1993-07-13 art. 1 JORF 21 juillet 1993
 
 
-##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=200></a>
+##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=199></a>
 
 ###### Article D133-7
 
@@ -26745,7 +27109,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=201></a>
+##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=200></a>
 
 ###### Article D133-10
 
@@ -26896,7 +27260,7 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 9 JORF 21 novembre 1980
 
 
-##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.<a id=202></a>
+##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.<a id=201></a>
 
 ###### Article D133-19
 
@@ -27188,7 +27552,7 @@ _Cite_:
   - Code de l'aviation civile - art. D133-19-5 (V)
 
 
-##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=203></a>
+##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=202></a>
 
 ###### Article D133-20
 
@@ -27220,11 +27584,11 @@ _Cité par_:
   - Décret n°2018-13 du 8 janvier 2018 (V)
 
 
-## LIVRE II : AERODROMES.<a id=204></a>
+## LIVRE II : AERODROMES.<a id=203></a>
 
-### TITRE Ier : DISPOSITIONS GENERALES.<a id=205></a>
+### TITRE Ier : DISPOSITIONS GENERALES.<a id=204></a>
 
-#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=206></a>
+#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=205></a>
 
 ###### Article D211-1
 
@@ -27394,7 +27758,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=207></a>
+#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=206></a>
 
 ###### Article D212-1
 
@@ -27511,9 +27875,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=208></a>
+#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=207></a>
 
-##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs<a id=209></a>
+##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs<a id=208></a>
 
 ###### Article D213-1
 
@@ -27566,7 +27930,7 @@ _Cite_:
   - Code de l'aviation civile - art. R221-1 (V)
 
 
-##### Sous-section 1 : Définition des moyens<a id=210></a>
+##### Sous-section 1 : Définition des moyens<a id=209></a>
 
 ###### Article D213-1-1
 
@@ -27726,9 +28090,9 @@ _Cite_:
   - Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 2 : Organisation du service<a id=211></a>
+##### Sous-section 2 : Organisation du service<a id=210></a>
 
-##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs<a id=212></a>
+##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs<a id=211></a>
 
 ###### Article D213-1-4
 
@@ -27846,7 +28210,7 @@ _Cité par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=213></a>
+##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=212></a>
 
 ###### Article D213-1-7
 
@@ -27904,7 +28268,7 @@ _Créé par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### 3. Règles d'intervention<a id=214></a>
+##### 3. Règles d'intervention<a id=213></a>
 
 ###### Article D213-1-9
 
@@ -27951,7 +28315,7 @@ _Cite_:
   - Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 3 : Contrôle de l'Etat<a id=215></a>
+##### Sous-section 3 : Contrôle de l'Etat<a id=214></a>
 
 ###### Article D213-1-10
 
@@ -28043,7 +28407,7 @@ _Créé par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie<a id=216></a>
+##### Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie<a id=215></a>
 
 ###### Article D213-1-13
 
@@ -28071,7 +28435,7 @@ _Cite_:
   - Code de l'aviation civile D213-1 à D213-1-11
 
 
-##### Section 2 : Prévention du péril animalier<a id=217></a>
+##### Section 2 : Prévention du péril animalier<a id=216></a>
 
 ###### Article D213-1-14
 
@@ -28451,7 +28815,7 @@ _Cite_:
   - Code de l'aviation civile D213-1-14 à D213-1-24
 
 
-##### Section 3 : Sûreté de l'aviation civile<a id=218></a>
+##### Section 3 : Sûreté de l'aviation civile<a id=217></a>
 
 ###### Article D213-2
 
@@ -28554,7 +28918,7 @@ _Cite_:
   - Code de l'aviation civile - art. D213-3 (MMN)
 
 
-##### Section 4 : Dispositions financières<a id=219></a>
+##### Section 4 : Dispositions financières<a id=218></a>
 
 ###### Article D213-5
 
@@ -28648,7 +29012,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D213-5 (V)
 
 
-#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=220></a>
+#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=219></a>
 
 ###### Article D216-1
 
@@ -28840,9 +29204,9 @@ _Créé par_:
   - Décret n°98-211 du 23 mars 1998 - art. 1 () JORF 25 mars 1998
 
 
-### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=221></a>
+### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=220></a>
 
-#### CHAPITRE Ier : CREATION.<a id=222></a>
+#### CHAPITRE Ier : CREATION.<a id=221></a>
 
 ###### Article D221-1
 
@@ -28976,7 +29340,7 @@ _Cité par_:
   - Décret n°2017-1490 du 24 octobre 2017 (V)
 
 
-#### CHAPITRE II : CLASSEMENT.<a id=223></a>
+#### CHAPITRE II : CLASSEMENT.<a id=222></a>
 
 ###### Article D222-1
 
@@ -29028,7 +29392,7 @@ _Cite_:
   - Code de l'aviation civile - art. R222-5 (V)
 
 
-#### CHAPITRE IV : REDEVANCES.<a id=224></a>
+#### CHAPITRE IV : REDEVANCES.<a id=223></a>
 
 ###### Article D224-1
 
@@ -29203,7 +29567,7 @@ _Cite_:
   - Code de l'aviation civile - art. R224-4-2 (V)
 
 
-#### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.<a id=225></a>
+#### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.<a id=224></a>
 
 ###### Article D228-1
 
@@ -29342,9 +29706,9 @@ _Créé par_:
   - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
 
 
-### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=226></a>
+### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=225></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=227></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=226></a>
 
 ###### Article D231-1
 
@@ -29381,7 +29745,7 @@ _Cite_:
   - Code de l'aviation civile - art. D211-2 (V)
 
 
-#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=228></a>
+#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=227></a>
 
 ###### Article D232-1
 
@@ -29601,7 +29965,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-6 (V)
 
 
-#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=229></a>
+#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=228></a>
 
 ###### Article D233-1
 
@@ -29746,11 +30110,11 @@ _Cite_:
   - Code de l'aviation civile - art. R131-3 (V)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=230></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=229></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=231></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=230></a>
 
-##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=232></a>
+##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=231></a>
 
 ###### Article D241-1
 
@@ -29822,7 +30186,7 @@ _Abrogé par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=233></a>
+##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=232></a>
 
 ###### Article D241-4
 
@@ -29843,9 +30207,9 @@ _Cité par_:
   - Code de l'aviation civile - art. D242-7 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=234></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=233></a>
 
-##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=235></a>
+##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=234></a>
 
 ###### Article D242-1
 
@@ -29951,7 +30315,7 @@ _Cite_:
   - Code de l'aviation civile R241-5, D242-2
 
 
-##### Section 2 : Application du plan de dégagement.<a id=236></a>
+##### Section 2 : Application du plan de dégagement.<a id=235></a>
 
 ###### Article D242-6
 
@@ -30155,7 +30519,7 @@ _Créé par_:
   - Décret n°73-309 1973-03-09 art. 2 JORF 20 mars 1973
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=237></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=236></a>
 
 ###### Article D243-1
 
@@ -30363,7 +30727,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-5 (V)
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=238></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=237></a>
 
 ###### Article D244-1
 
@@ -30482,7 +30846,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=239></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=238></a>
 
 ###### Article D245-1
 
@@ -30556,9 +30920,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE V : AEROPORTS DE PARIS<a id=240></a>
+### TITRE V : AEROPORTS DE PARIS<a id=239></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=241></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=240></a>
 
 ###### Article D251
 
@@ -30579,7 +30943,7 @@ _Créé par_:
   - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
 
 
-##### Section 1 : Aérodromes constituant Aéroports de Paris.<a id=242></a>
+##### Section 1 : Aérodromes constituant Aéroports de Paris.<a id=241></a>
 
 ###### Article D251-1
 
@@ -30644,11 +31008,11 @@ _Modifié par_:
   - Loi n°99-409 1999-05-21 art. 2 JORF 26 mai 1999
 
 
-## LIVRE III : TRANSPORT AERIEN.<a id=243></a>
+## LIVRE III : TRANSPORT AERIEN.<a id=242></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=244></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=243></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=245></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=244></a>
 
 ###### Article D321-1
 
@@ -30687,9 +31051,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=246></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=245></a>
 
-#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=247></a>
+#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=246></a>
 
 ###### Article D330-1
 
@@ -30724,9 +31088,9 @@ _Cite_:
   - Code de l'aviation civile - art. R330-4 (V)
 
 
-### TITRE IV : SOCIETE AIR FRANCE.<a id=248></a>
+### TITRE IV : SOCIETE AIR FRANCE.<a id=247></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=249></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=248></a>
 
 ###### Article D342-1
 
@@ -30747,7 +31111,7 @@ _Modifié par_:
   - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
-### TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE.<a id=250></a>
+### TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE.<a id=249></a>
 
 ###### Article D370-1
 
@@ -31141,9 +31505,9 @@ _Anciens textes_:
   - Code de l'aviation civile - art. D360-11 (T)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=251></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=250></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=252></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=251></a>
 
 ###### Article D410-1
 
@@ -31290,9 +31654,9 @@ _Abrogé par_:
   - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=253></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=252></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=254></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=253></a>
 
 ###### Article D421-1
 
@@ -31615,9 +31979,9 @@ _Cite_:
   - Code de l'aviation civile - art. L421-9 (VT)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=255></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=254></a>
 
-##### Section 1 : Dispositions générales<a id=256></a>
+##### Section 1 : Dispositions générales<a id=255></a>
 
 ###### Article D422-1
 
@@ -32150,7 +32514,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-4-1 (V)
 
 
-##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=257></a>
+##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=256></a>
 
 ###### Article D422-8
 
@@ -32199,7 +32563,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D241-22 (Ab)
 
 
-##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=258></a>
+##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=257></a>
 
 ###### Article D422-9
 
@@ -32453,7 +32817,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-11 (V)
 
 
-##### Section 4 : Période de transition<a id=259></a>
+##### Section 4 : Période de transition<a id=258></a>
 
 ###### Article D422-14
 
@@ -32485,7 +32849,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Section 5 : Mesures de contrôle<a id=260></a>
+##### Section 5 : Mesures de contrôle<a id=259></a>
 
 ###### Article D422-15
 
@@ -32536,9 +32900,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=261></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=260></a>
 
-##### Section 2 : Conseil médical<a id=262></a>
+##### Section 2 : Conseil médical<a id=261></a>
 
 ###### Article D424-1
 
@@ -32914,9 +33278,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=263></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=262></a>
 
-#### CHAPITRE V : DISCIPLINE.<a id=264></a>
+#### CHAPITRE V : DISCIPLINE.<a id=263></a>
 
 ###### Article D435-1
 
@@ -33324,9 +33688,9 @@ _Abrogé par_:
   - Décret n°2011-484 du 3 mai 2011 - art. 2
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=265></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=264></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=266></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=265></a>
 
 ###### Article D510-1
 
@@ -33576,9 +33940,9 @@ _Cité par_:
   - Arrêté du 8 janvier 2018 - art. 3 (V)
 
 
-### TITRE II : AIDE AUX JEUNES<a id=267></a>
+### TITRE II : AIDE AUX JEUNES<a id=266></a>
 
-#### Section 1 : Aide aux jeunes.<a id=268></a>
+#### Section 1 : Aide aux jeunes.<a id=267></a>
 
 ###### Article D521-1
 
@@ -33667,7 +34031,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=269></a>
+#### Section 2 : Aide à la construction amateur.<a id=268></a>
 
 ###### Article D521-4
 
@@ -33733,9 +34097,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=270></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=269></a>
 
-### Section 1 : Avions photographes.<a id=271></a>
+### Section 1 : Avions photographes.<a id=270></a>
 
 ###### Article D611-1
 
@@ -33760,7 +34124,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=272></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=271></a>
 
 ###### Article D611-2
 
@@ -33872,11 +34236,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-# Annexes<a id=273></a>
+# Annexes<a id=272></a>
 
-## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=274></a>
+## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=273></a>
 
-### REGLES DE l'AIR<a id=275></a>
+### REGLES DE l'AIR<a id=274></a>
 
 ###### Article Annexe I : Appendice 1
 
@@ -36992,9 +37356,9 @@ _Modifié par_:
   - Arrêté du 3 mars 2006, v. init.
 
 
-## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=276></a>
+## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=275></a>
 
-### SERVICES DE LA CIRCULATION AERIENNE<a id=277></a>
+### SERVICES DE LA CIRCULATION AERIENNE<a id=276></a>
 
 ###### Article Annexe II : Appendice 1
 
@@ -40514,7 +40878,7 @@ _Créé par_:
   - Arrêté du 3 mars 2006 - art. 1, v. init.
 
 
-## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=278></a>
+## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=277></a>
 
 ###### Article Annexe III
 
