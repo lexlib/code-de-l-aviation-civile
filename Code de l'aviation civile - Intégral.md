@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2007-05-15
+Version Consolidée au 2007-07-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -14999,8 +14999,8 @@ _Cité par_:
 ###### Article R221-8
 
 Sur les aérodromes qui appartiennent à l'Etat, l'exécution du programme d'équipement peut être subordonnée à une
-participation financière des collectivités locales, des syndicats de communes, des régions économiques, des chambres de
-commerce, des ports autonomes et des établissements publics intéressés.
+participation financière des collectivités locales, des syndicats de communes, des régions économiques, des ports autonomes
+et des établissements publics intéressés.
 
 **Liens relatifs à cet article**
 
@@ -15009,14 +15009,18 @@ _Anciens textes_:
   - Ancien code de l'aviation civile 79
   - Décret n°53-893 1953-09-24 art. 9
 
+_Codifié par_:
+
+  - Décret n°67-334 1967-03-30
+
+_Modifié par_:
+
+  - Décret n°2007-574 du 19 avril 2007 - art. 9 () JORF 20 avril 2007 en vigueur le 1er juillet 2007
+
 _Cité par_:
 
   - Code de l'aviation civile - art. R224-5 (M)
   - Code de l'aviation civile - art. R224-6 (V)
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
 
 
 ###### Article R221-9
@@ -16156,14 +16160,10 @@ _Cité par_:
 
 ###### Article R224-6
 
-Au cas où les ressources provenant de l'exploitation de l'aérodrome sont insuffisantes pour permettre aux chambres de
-commerce, ports autonomes ou tous autres établissements publics d'assurer le financement de la participation mise à leur
-charge par les articles R. 221-8 et R. 223-5, ces établissements peuvent, à titre exceptionnel et avec l'accord des ministres
-intéressés, payer les dépenses restant à couvrir au moyen de toutes recettes qu'ils sont autorisés à percevoir et, notamment
-en ce qui concerne les chambres de commerce, au moyen du produit des centimes additionnels à la patente.
-
-Ces établissements publics peuvent financer, dans les mêmes conditions, la part des dépenses d'équipement, d'entretien et
-d'exploitation leur incombant sur les aérodromes qu'ils ont créés ou dont ils sont concessionnaires.
+Au cas où les ressources provenant de l'exploitation de l'aérodrome sont insuffisantes pour permettre aux ports autonomes ou
+tous autres établissements publics d'assurer le financement de la participation mise à leur charge par les articles R. 221-8
+et R. 223-5, ces établissements peuvent, à titre exceptionnel et avec l'accord des ministres intéressés, payer les dépenses
+restant à couvrir au moyen de toutes recettes qu'ils sont autorisés à percevoir.
 
 **Liens relatifs à cet article**
 
@@ -16173,7 +16173,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-827 du 20 juillet 2005 - art. 2 () JORF 22 juillet 2005
+  - Décret n°2007-574 du 19 avril 2007 - art. 9 () JORF 20 avril 2007 en vigueur le 1er juillet 2007
 
 _Cite_:
 
