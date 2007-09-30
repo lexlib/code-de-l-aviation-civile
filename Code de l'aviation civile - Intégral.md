@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2007-07-28
+Version Consolidée au 2007-10-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -17493,7 +17493,7 @@ réservés à cette destination par un plan d'occupation des sols, rendu public 
 plan d'aménagement communal ou intercommunal, pris en considération ou approuvé, peuvent être déclarés réservés par décret en
 Conseil d'Etat après enquête publique dans les formes fixée par le code de l'expropriation pour cause d'utilité publique.
 
-Les dispositions de l'article L. 123-9 du code de l'urbanisme sont dans ce cas applicables.
+Les dispositions du titre III du livre II du code de l'urbanisme sont alors applicables.
 
 La réserve des terrains peut être complétée par l'institution de servitudes aéronautiques conformément à un plan de
 dégagement établi comme il est dit à l'article R. 241-4 ci-dessus.
@@ -17510,12 +17510,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°80-909 1980-11-17 art. 7-XI JORF 21 novembre 1980
+  - Décret n°2007-18 du 5 janvier 2007 - art. 15 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L6353-1 (V)
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L123-9 (M)
-  - CODE DE L'AVIATION CIVILE R241-4
+  - Code de l'aviation civile
 
 _Cité par_:
 
