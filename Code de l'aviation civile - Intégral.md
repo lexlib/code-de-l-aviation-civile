@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2009-05-29
+Version Consolidée au 2009-06-09
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -211,7 +211,7 @@ Version Consolidée au 2009-05-29
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#208)
         - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#209)
         - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#210)
-        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-6)](#211)
+        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-5)](#211)
           - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-13)](#212)
             - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#213)
             - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#214)
@@ -222,7 +222,7 @@ Version Consolidée au 2009-05-29
             - [Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie (art. D213-1-13)](#219)
           - [Section 2 : Prévention du péril animalier (art. D213-1-14 à D213-1-25)](#220)
           - [Section 3 : Sûreté de l'aviation civile (art. D213-2 à D213-4)](#221)
-          - [Section 4 : Dispositions financières (art. D213-5 à D213-6)](#222)
+          - [Section 4 : Dispositions financières (art. D213-5)](#222)
         - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#223)
       - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D228-7)](#224)
         - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#225)
@@ -245,42 +245,41 @@ Version Consolidée au 2009-05-29
         - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#242)
       - [TITRE V : AEROPORTS DE PARIS (art. D251)](#243)
         - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251)](#244)
-    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#245)
+    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D342-1)](#245)
       - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#246)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#247)
       - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#248)
         - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#249)
       - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#250)
         - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#251)
-      - [TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE. (art. D370-1 à D370-11)](#252)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#253)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-3)](#254)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#255)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#256)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#257)
-          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#258)
-          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#259)
-          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#260)
-          - [Section 4 : Période de transition (art. D422-14)](#261)
-          - [Section 5 : Mesures de contrôle (art. D422-15)](#262)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#263)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#264)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#265)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#266)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#267)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#268)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#269)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#270)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#271)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#272)
-      - [Section 1 : Avions photographes. (art. D611-1)](#273)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#274)
-  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#275)
-    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#276)
-      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#277)
-    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#278)
-      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#279)
-    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#280)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#252)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-3)](#253)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#254)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#255)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#256)
+          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#257)
+          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#258)
+          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#259)
+          - [Section 4 : Période de transition (art. D422-14)](#260)
+          - [Section 5 : Mesures de contrôle (art. D422-15)](#261)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#262)
+          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#263)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#264)
+        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#265)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#266)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#267)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#268)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#269)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#270)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#271)
+      - [Section 1 : Avions photographes. (art. D611-1)](#272)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#273)
+  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#274)
+    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#275)
+      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#276)
+    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#277)
+      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#278)
+    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#279)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -29350,71 +29349,6 @@ _Cite_:
   - Code de l'aviation civile - art. L213-3 (M)
 
 
-###### Article D213-6
-
-Il est créé un comité consultatif des subventions aux exploitants d'aérodromes pour les missions mentionnées à l'article D.
-213-5.
-
-Ce comité peut être consulté par le ministre chargé de l'aviation civile sur toute question relative au financement de ces
-missions.
-
-Le comité consultatif est présidé par le ministre chargé de l'aviation civile ou son représentant.
-
-Il comprend, outre son président :
-
-- un sénateur ;
-
-- un député ;
-
-- le ministre chargé du budget ou son représentant ;
-
-- le ministre chargé de l'économie ou son représentant ;
-
-- le chef de l'inspection générale de l'aviation civile et de la météorologie ou son représentant ;
-
-- un fonctionnaire de la direction générale de l'aviation civile désigné par son directeur général ;
-
-- deux personnalités, nommées pour trois ans renouvelables, choisies par le ministre chargé de l'aviation civile en raison de
-leur connaissance du transport aérien ou des activités aéroportuaires.
-
-Le membre du corps du contrôle général économique et financier central des services de l'aviation civile participe aux
-réunions du comité, avec voix consultative.
-
-Le comité consultatif se réunit sur convocation de son président, à l'initiative de celui-ci ou à la demande de la moitié au
-moins des membres du comité. Le président fixe l'ordre du jour des réunions.
-
-Le président du comité consultatif peut inviter à participer aux réunions du comité toute personne dont la présence est jugée
-utile en fonction de l'ordre du jour. Les fonctions de membre du comité consultatif sont gratuites.
-
-En cas de besoin, l'avis des membres du comité consultatif peut être recueilli par consultation écrite.
-
-La direction de la régulation économique de la direction générale de l'aviation civile assure le secrétariat du comité
-consultatif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'aviation D213-3
-  - Code de l'aviation civile - art. D213-3 (T)
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Créé par_:
-
-  - Décret n°2007-433 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D213-5 (V)
-
-
 #### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=223></a>
 
 ###### Article D216-1
@@ -31441,403 +31375,9 @@ _Modifié par_:
   - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
-### TITRE VII : ORGANISATION ET FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE.<a id=252></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=252></a>
 
-###### Article D370-1
-
-Un Conseil supérieur de l'aviation marchande est placé auprès du ministre chargé de l'aviation civile.
-
-Celui-ci lui soumet les affaires pour lesquelles sa consultation est requise en application du présent code.
-
-Le conseil peut, en outre, être consulté par le ministre chargé de l'aviation civile sur toutes questions intéressant le
-transport aérien.
-
-Le ministre chargé de l'aviation civile saisit le Conseil supérieur de l'aviation marchande de tout avis du Conseil national
-des transports qui intéresse le transport aérien.
-
-Les avis du Conseil supérieur de l'aviation marchande sur toutes questions relevant également de la compétence du Conseil
-national des transports sont transmis à ce dernier par le ministre chargé de l'aviation civile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Cité par_:
-
-  - Décret n°2014-589 du 6 juin 2014 - art. (V)
-  - Décret n°2015-622 du 5 juin 2015 - art. Annexe 1 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-1 (T)
-
-
-###### Article D370-2
-
-Le Conseil supérieur de l'aviation marchande peut, lorsqu'il en décide à la majorité des deux tiers de ses membres, présenter
-au ministre chargé de l'aviation civile toutes propositions portant sur des questions intéressant le transport aérien.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-2 (T)
-
-
-###### Article D370-3
-
-Le président du Conseil supérieur de l'aviation marchande est nommé par décret pris sur le rapport du ministre chargé de
-l'aviation civile.
-
-Il est assisté d'un vice-président, nommé dans les mêmes conditions et choisi parmi les membres du conseil appartenant au
-premier collège.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-3 (T)
-
-
-###### Article D370-4
-
-Outre le président, le Conseil supérieur de l'aviation marchande comprend quarante-trois autres membres répartis en deux
-collèges, qui sont nommés par arrêté du ministre chargé de l'aviation civile, dans les conditions suivantes :
-
-Premier collège :
-
-1° Un député et un sénateur désignés par l'assemblée à laquelle ils appartiennent, un conseiller régional et un conseiller
-général, désignés sur proposition du ministre de l'intérieur ;
-
-2° Onze membres représentant l'Etat :
-
-- un membre du Conseil d'Etat désigné sur proposition du vice-président du Conseil d'Etat ;
-
-- un magistrat de la Cour des comptes désigné sur proposition du premier président de la Cour des comptes ;
-
-- un représentant du ministre chargé de l'économie et des finances ;
-
-- un représentant du ministre chargé du budget ;
-
-- un représentant du ministre chargé de l'aviation civile ;
-
-- un représentant du ministre chargé des relations extérieures ;
-
-- un représentant du ministre de la défense ;
-
-- un représentant du ministre chargé de la tutelle des chambres de commerce et d'industrie ;
-
-- un représentant du ministre chargé de la poste ;
-
-- un représentant du ministre chargé de l'aménagement du territoire ;
-
-- un représentant du ministre chargé des départements et territoires d'outre-mer.
-
-Les représentants des ministres sont désignés sur proposition de chacun d'entre eux ;
-
-3° Cinq personnalités choisies en raison de leur compétence dans le domaine du transport aérien ;
-
-4° Le président du Conseil national des transports ou son représentant.
-
-Deuxième collège :
-
-1° Huit représentants des entreprises de transport aérien désignés après avis des organisations professionnelles
-intéressées ;
-
-2° Huit représentants des salariés désignés sur proposition des organisations syndicales représentatives au plan national
-dans le domaine du transport aérien, à raison de :
-
-- trois pour le personnel navigant ;
-
-- cinq pour le personnel au sol ;
-
-3° Trois représentants des usagers du transport aérien ;
-
-4° Deux représentants des gestionnaires d'aéroports, dont un représentant d'Aéroports de Paris ;
-
-5° Un représentant des industries françaises aéronautiques et spatiales.
-
-Le conseil supérieur de l'aviation marchande comprend des membres suppléants désignés dans les mêmes conditions que les
-membres titulaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-4 (T)
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D370-6 (V)
-
-
-###### Article D370-5
-
-La durée du mandat des membres du Conseil supérieur de l'aviation marchande est de trois ans. Le mandat est renouvelable.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-5 (T)
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D370-9 (V)
-
-
-###### Article D370-6
-
-Tout membre ayant perdu la qualité en raison de laquelle il a été désigné cesse de plein droit d'appartenir au Conseil
-supérieur de l'aviation marchande. Il est remplacé pour la durée du mandat restant à courir par une personne désignée
-conformément aux dispositions de l'article D. 370-4. Il en est de même en cas de décès ou de démission.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-6 (T)
-
-_Cite_:
-
-  - Code de l'aviation civile - art. D370-4 (M)
-
-
-###### Article D370-7
-
-Le Conseil supérieur de l'aviation marchande se réunit soit en séance plénière à laquelle participent les membres des deux
-collèges, soit en séance ordinaire à laquelle participent les membres du premier collège. Le conseil ne peut valablement
-siéger, selon les cas, que si la moitié au moins des membres composant l'une ou l'autre de ces formations plénière ou
-ordinaire sont présents ou suppléés. Si cette condition n'est pas remplie, les membres sont convoqués pour une nouvelle
-réunion au cours de laquelle le conseil peut siéger quel que soit le nombre des membres présents ou suppléés.
-
-Les délibérations sont prises à la majorité des suffrages exprimés. En cas de partage, la voix du président est
-prépondérante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-7 (T)
-
-
-###### Article D370-8
-
-Les affaires dont le conseil est saisi en application du titre III du livre III de la deuxième partie du présent code donnent
-lieu à une instruction contradictoire en séance plénière et à un rapport écrit communiqué avant chaque séance aux membres du
-conseil et aux parties intéressées. Le conseil délibère, en séance ordinaire, sur ces affaires.
-
-Les autres affaires soumises au conseil font l'objet de délibérations en séance plénière.
-
-Chaque délibération du Conseil supérieur de l'aviation marchande donne lieu à la rédaction d'un avis. Les avis émis par les
-différentes formations du conseil sont transmis par le président au ministre chargé de l'aviation civile. Un procès-verbal
-des réunions est établi.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-8 (T)
-
-
-###### Article D370-9
-
-Le directeur général de l'aviation civile et les directeurs ou chefs de service de la direction générale de l'aviation civile
-peuvent assister, avec voix consultative, à toutes les séances plénières du conseil supérieur de l'aviation marchande.
-
-Les directeurs des autres services du ministère chargé des transports et des autres ministères intéressés peuvent, lorsqu'ils
-ne sont pas déjà membres du conseil, assister avec voix consultative, ou se faire représenter, aux séances plénières du
-conseil où sont examinées des affaires ressortissant à leurs attributions.
-
-Le président peut, en outre, en fonction de l'ordre du jour, appeler des personnes qualifiées à participer, à titre
-consultatif, aux séances plénières du conseil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-9 (T)
-
-
-###### Article D370-10
-
-Les rapporteurs devant le Conseil supérieur de l'aviation marchande sont choisis soit parmi ses membres ou leurs suppléants,
-soit parmi les membres du Conseil d'Etat, de la Cour des comptes, de l'inspection générale des finances ou parmi les
-ingénieurs des corps de l'Etat ou fonctionnaires de l'Etat ayant au moins un grade équivalant à celui d'administrateur civil
-de 2e classe.
-
-Lorsqu'ils n'appartiennent pas au conseil, les rapporteurs sont désignés sur proposition du président, par arrêté du ministre
-de l'aviation civile.
-
-Les rapporteurs ont voix délibérative dans les affaires qu'ils rapportent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-10 (T)
-
-
-###### Article D370-11
-
-Le secrétariat du Conseil supérieur de l'aviation marchande est assuré par un secrétaire permanent recruté, ainsi que les
-autres membres de son personnel, parmi les agents du ministère chargé de l'aviation civile. Les emplois correspondants sont
-tenus à titre d'activité exclusive ou accessoire.
-
-Le secrétaire permanent du conseil est nommé par arrêté du ministre chargé de l'aviation civile. Il dirige, sous l'autorité
-du président, les services du secrétariat et assure le fonctionnement du conseil. Il peut en outre assurer, concurremment
-avec les rapporteurs, l'instruction des affaires soumises au conseil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2003-312 du 4 avril 2003 - art. 1 () JORF 5 avril 2003
-  - Décret n°2003-312 du 4 avril 2003 - art. 2 () JORF 5 avril 2003
-
-_Abrogé par_:
-
-  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. D360-11 (T)
-
-
-## LIVRE IV : PERSONNEL NAVIGANT<a id=253></a>
-
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=254></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=253></a>
 
 ###### Article D410-1
 
@@ -31984,9 +31524,9 @@ _Abrogé par_:
   - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=255></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=254></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=256></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=255></a>
 
 ###### Article D421-1
 
@@ -32309,9 +31849,9 @@ _Cite_:
   - Code de l'aviation civile - art. L421-9 (VT)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=257></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=256></a>
 
-##### Section 1 : Dispositions générales<a id=258></a>
+##### Section 1 : Dispositions générales<a id=257></a>
 
 ###### Article D422-1
 
@@ -32844,7 +32384,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-4-1 (V)
 
 
-##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=259></a>
+##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=258></a>
 
 ###### Article D422-8
 
@@ -32893,7 +32433,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D241-22 (Ab)
 
 
-##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=260></a>
+##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=259></a>
 
 ###### Article D422-9
 
@@ -33147,7 +32687,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-11 (V)
 
 
-##### Section 4 : Période de transition<a id=261></a>
+##### Section 4 : Période de transition<a id=260></a>
 
 ###### Article D422-14
 
@@ -33179,7 +32719,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Section 5 : Mesures de contrôle<a id=262></a>
+##### Section 5 : Mesures de contrôle<a id=261></a>
 
 ###### Article D422-15
 
@@ -33230,9 +32770,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=263></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=262></a>
 
-##### Section 2 : Conseil médical<a id=264></a>
+##### Section 2 : Conseil médical<a id=263></a>
 
 ###### Article D424-1
 
@@ -33608,9 +33148,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=265></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=264></a>
 
-#### CHAPITRE V : DISCIPLINE.<a id=266></a>
+#### CHAPITRE V : DISCIPLINE.<a id=265></a>
 
 ###### Article D435-1
 
@@ -34018,9 +33558,9 @@ _Abrogé par_:
   - Décret n°2011-484 du 3 mai 2011 - art. 2
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=267></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=266></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=268></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=267></a>
 
 ###### Article D510-1
 
@@ -34270,9 +33810,9 @@ _Cité par_:
   - Arrêté du 8 janvier 2018 - art. 3 (V)
 
 
-### TITRE II : AIDE AUX JEUNES<a id=269></a>
+### TITRE II : AIDE AUX JEUNES<a id=268></a>
 
-#### Section 1 : Aide aux jeunes.<a id=270></a>
+#### Section 1 : Aide aux jeunes.<a id=269></a>
 
 ###### Article D521-1
 
@@ -34361,7 +33901,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=271></a>
+#### Section 2 : Aide à la construction amateur.<a id=270></a>
 
 ###### Article D521-4
 
@@ -34427,9 +33967,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=272></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=271></a>
 
-### Section 1 : Avions photographes.<a id=273></a>
+### Section 1 : Avions photographes.<a id=272></a>
 
 ###### Article D611-1
 
@@ -34454,7 +33994,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=274></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=273></a>
 
 ###### Article D611-2
 
@@ -34566,11 +34106,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-# Annexes<a id=275></a>
+# Annexes<a id=274></a>
 
-## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=276></a>
+## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=275></a>
 
-### REGLES DE l'AIR<a id=277></a>
+### REGLES DE l'AIR<a id=276></a>
 
 ###### Article Annexe I : Appendice 1
 
@@ -37686,9 +37226,9 @@ _Modifié par_:
   - Arrêté du 3 mars 2006, v. init.
 
 
-## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=278></a>
+## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=277></a>
 
-### SERVICES DE LA CIRCULATION AERIENNE<a id=279></a>
+### SERVICES DE LA CIRCULATION AERIENNE<a id=278></a>
 
 ###### Article Annexe II : Appendice 1
 
@@ -41208,7 +40748,7 @@ _Créé par_:
   - Arrêté du 3 mars 2006 - art. 1, v. init.
 
 
-## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=280></a>
+## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=279></a>
 
 ###### Article Annexe III
 
