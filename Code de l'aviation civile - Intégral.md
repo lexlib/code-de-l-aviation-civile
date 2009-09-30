@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2009-06-09
+Version Consolidée au 2009-10-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -31102,38 +31102,30 @@ _Anciens textes_:
 Les demandes visant l'établissement des installations mentionnées à l'article D. 244-1, et exemptées du permis de construire,
 à l'exception de celles relevant de la loi du 15 juin 1906 sur les distributions d'énergie et de celles pour lesquelles les
 arrêtés visés à l'article précédent institueront des procédures spéciales, devront être adressées à l'ingénieur en chef des
-ponts et chaussées du département dans lequel les installations sont situées. Récépissé en sera délivré.
+ponts, des eaux et des forêts du département dans lequel les installations sont situées. Récépissé en sera délivré. 
 
 Elles mentionneront la nature des travaux à entreprendre, leur destination, la désignation d'après les documents cadastraux
 des terrains sur lesquels les travaux doivent être entrepris et tous les renseignements susceptibles d'intéresser
-spécialement la navigation aérienne.
+spécialement la navigation aérienne. 
 
-Si le dossier de demande est incomplet, le demandeur sera invité à produire les pièces complémentaires.
+Si le dossier de demande est incomplet, le demandeur sera invité à produire les pièces complémentaires. 
 
 La décision doit être notifiée dans le délai de deux mois à compter de la date de dépôt de la demande ou, le cas échéant, du
-dépôt des pièces complémentaires.
+dépôt des pièces complémentaires. 
 
 Si la décision n'a pas été notifiée dans le délai ainsi fixé, l'autorisation est réputée accordée pour les travaux décrits
 dans la demande, sous réserve toutefois de se conformer aux autres dispositions législatives et réglementaires.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
 _Cite_:
 
-  - Code de l'aviation civile - art. D244-1 (V)
-  - Loi n°1906-06-15
+  - Loi du 15 juin 1906 (VT)
+  - Code de l'aviation civile - art. D244-1 (Ab)
 
 _Cité par_:
 
   - Code de l'urbanisme - art. II (M)
-
-_Anciens textes_:
-
-  - Décret n°60-1059 1960-09-24 art. 25
 
 
 ###### Article D244-3
