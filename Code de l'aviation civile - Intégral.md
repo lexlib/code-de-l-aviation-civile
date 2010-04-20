@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-04-01
+Version Consolidée au 2010-04-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -29706,6 +29706,8 @@ Il comprend, outre son président :
 - des représentants du ministre de l'intérieur, du ministre de la défense, du ministre chargé des transports et du ministre
 chargé du budget ;
 
+- des représentants des collectivités territoriales propriétaires des aérodromes ; 
+
 - des représentants des entreprises ou organismes assurant ou concourant à la mise en oeuvre des mesures de sûreté sur les
 aérodromes ;
 
@@ -29718,13 +29720,9 @@ Le conseil rend compte de ses travaux à la commission interministérielle de la
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
 _Modifié par_:
 
-  - Décret n°2007-433 du 25 mars 2007 - art. 2 () JORF 27 mars 2007
+  - Décret n°2010-388 du 19 avril 2010 - art. 1
 
 _Cité par_:
 
