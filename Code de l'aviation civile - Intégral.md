@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-30
 ## Contenu: 
   - [Partie législative (art. L110-1 à L741-3)](#1)
     - [LIVRE Ier : AERONEFS (art. L110-1 à L150-16-1)](#2)
@@ -16168,56 +16168,6 @@ _Cité par_:
   - Décret n°2007-244 du 23 février 2007 - art. 2 (V)
   - Code de l'aviation civile - art. R223-4 (Ab)
   - Code de l'aviation civile - art. R232-1 (V)
-
-
-###### Article R223-3
-
-Sous réserve des droits des concessionnaires, des autorisations d'outillage privé avec obligation de service public peuvent
-être accordées sur un aérodrome appartenant à l'Etat en vue de créer et de gérer des installations commerciales ou
-industrielles intéressant le trafic aérien et l'exploitation de l'aérodrome. Ces autorisations sont délivrées dans les
-conditions prévues pour les concessions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Cité par_:
-
-  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
-
-_Abrogé par_:
-
-  - Décret n°2010-561 du 27 mai 2010 - art. 8
-
-
-###### Article R223-4
-
-Les collectivités publiques autres que l'Etat peuvent, sur les aérodromes qu'elles ont créés, être autorisées, par arrêté du
-ministre chargé de l'aviation civile et du ministre chargé de la tutelle de la collectivité intéressée, à octroyer des
-concessions ou des autorisations d'outillage privé avec obligation de service public.
-
-Lorsque le cahier des charges est conforme à l'un des cahiers des charges type correspondants prévus à l'article R. 223-2,
-les concessions ou autorisations d'outillage privé avec obligation de service public sont accordées selon les règles propres
-aux concessions de la collectivité publique intéressée.
-
-En cas de dérogation au cahier des charges, les concessions ou autorisations sont accordées par décret rendu en Conseil
-d'Etat, sur le rapport du ministre chargé de l'aviation civile et du ministre de tutelle.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Abrogé par_:
-
-  - Décret n°2010-561 du 27 mai 2010 - art. 8
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R223-2
 
 
 ###### Article R223-5
