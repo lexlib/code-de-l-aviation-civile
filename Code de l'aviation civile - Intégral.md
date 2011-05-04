@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2011-01-26
+Version Consolidée au 2011-05-05
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -119,7 +119,7 @@ Version Consolidée au 2011-01-26
         - [Section 1 : Transports sanitaires. (art. R351-1)](#116)
         - [Section 2 : Transports par moyens militaires. (art. R351-2)](#117)
       - [TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE. (art. R360-1 à R360-5)](#118)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. R410-1 à R428-1)](#119)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. R410-1 à R431-10)](#119)
       - [TITRE Ier : DISPOSITIONS COMMUNES (art. R410-1 à R410-3)](#120)
       - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#121)
         - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#122)
@@ -139,115 +139,117 @@ Version Consolidée au 2011-01-26
           - [Section 7 : Dispositions transitoires. (art. R426-28)](#136)
         - [CHAPITRE VII : DISPOSITIONS PENALES. (art. R427-1)](#137)
         - [CHAPITRE VIII : DISPOSITIONS COMMUNES. (art. R428-1)](#138)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#139)
-      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#140)
-        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#141)
-        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#142)
-    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-6)](#143)
-    - [LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION (art. R711-1 à R741-1)](#144)
-      - [TITRE Ier : DISPOSITIONS GENERALES. (art. R711-1 à R711-10)](#145)
-      - [TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS (art. R722-1 à R722-7)](#146)
-      - [TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE. (art. R731-1 à R731-3)](#147)
-      - [TITRE IV : DISPOSITIONS PENALES. (art. R741-1)](#148)
-  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#149)
-    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-20)](#150)
-      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#151)
-        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-35)](#152)
-        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#153)
-        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#154)
-      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-1 à D133-20)](#155)
-        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-1 à D131-15)](#156)
-          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-1 à D131-14)](#157)
-            - [Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne. (art. D131-1 à D131-8)](#158)
-            - [Paragraphe 2 : Désignation, attributions et surveillance des prestataires de services de la circulation aérienne. (art. D131-9 à D131-10)](#159)
-            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#160)
-          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#161)
-        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-12)](#162)
-          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#163)
-          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#164)
-          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6 à D132-6-1)](#165)
-          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#166)
-        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#167)
-          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#168)
-            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-5)](#169)
-            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#170)
-          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#171)
-          - [Section 3 : Radiocommunications intéressant la circulation des aéronefs. (art. D133-19 à D133-19-10)](#172)
-          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#173)
-    - [LIVRE II : AERODROMES. (art. D211-1 à D251)](#174)
-      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#175)
-        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#176)
-        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#177)
-        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-5)](#178)
-          - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-13)](#179)
-            - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#180)
-            - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#181)
-              - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#182)
-              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#183)
-              - [3. Règles d'intervention (art. D213-1-9)](#184)
-            - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#185)
-            - [Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie (art. D213-1-13)](#186)
-          - [Section 2 : Prévention du péril animalier (art. D213-1-14 à D213-1-25)](#187)
-          - [Section 3 : Sûreté de l'aviation civile (art. D213-2 à D213-4)](#188)
-          - [Section 4 : Dispositions financières (art. D213-5)](#189)
-        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#190)
-      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D228-7)](#191)
-        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#192)
-        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#193)
-        - [CHAPITRE IV : REDEVANCES. (art. D224-1 à D224-4)](#194)
-        - [CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE. (art. D228-1 à D228-7)](#195)
-      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#196)
-        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#197)
-        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#198)
-        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#199)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#200)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#201)
-          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#202)
-          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#203)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#204)
-          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#205)
-          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#206)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#207)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#208)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#209)
-      - [TITRE V : AEROPORTS DE PARIS (art. D251)](#210)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251)](#211)
-    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#212)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#213)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#214)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#215)
-        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#216)
-      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#217)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#218)
-      - [TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE. (art. D370-1 à D370-11)](#219)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D435-10)](#220)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-3)](#221)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#222)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#223)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#224)
-          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#225)
-          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#226)
-          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#227)
-          - [Section 4 : Période de transition (art. D422-14)](#228)
-          - [Section 5 : Mesures de contrôle (art. D422-15)](#229)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#230)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#231)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D435-1 à D435-10)](#232)
-        - [CHAPITRE V : DISCIPLINE. (art. D435-1 à D435-10)](#233)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#234)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#235)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#236)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#237)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#238)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#239)
-      - [Section 1 : Avions photographes. (art. D611-1)](#240)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#241)
-  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#242)
-    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#243)
-      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#244)
-    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#245)
-      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#246)
-    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#247)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. R431-1 à R431-10)](#139)
+        - [CHAPITRE Ier : Discipline (art. R431-1 à R431-10)](#140)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#141)
+      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#142)
+        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#143)
+        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#144)
+    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-6)](#145)
+    - [LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION (art. R711-1 à R741-1)](#146)
+      - [TITRE Ier : DISPOSITIONS GENERALES. (art. R711-1 à R711-10)](#147)
+      - [TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS (art. R722-1 à R722-7)](#148)
+      - [TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE. (art. R731-1 à R731-3)](#149)
+      - [TITRE IV : DISPOSITIONS PENALES. (art. R741-1)](#150)
+  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#151)
+    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-20)](#152)
+      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#153)
+        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-35)](#154)
+        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#155)
+        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#156)
+      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-1 à D133-20)](#157)
+        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-1 à D131-15)](#158)
+          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-1 à D131-14)](#159)
+            - [Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne. (art. D131-1 à D131-8)](#160)
+            - [Paragraphe 2 : Désignation, attributions et surveillance des prestataires de services de la circulation aérienne. (art. D131-9 à D131-10)](#161)
+            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#162)
+          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#163)
+        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-12)](#164)
+          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#165)
+          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#166)
+          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6 à D132-6-1)](#167)
+          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#168)
+        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#169)
+          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#170)
+            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-5)](#171)
+            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#172)
+          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#173)
+          - [Section 3 : Radiocommunications intéressant la circulation des aéronefs. (art. D133-19 à D133-19-10)](#174)
+          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#175)
+    - [LIVRE II : AERODROMES. (art. D211-1 à D251)](#176)
+      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#177)
+        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#178)
+        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#179)
+        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-5)](#180)
+          - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-13)](#181)
+            - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#182)
+            - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#183)
+              - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#184)
+              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#185)
+              - [3. Règles d'intervention (art. D213-1-9)](#186)
+            - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#187)
+            - [Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie (art. D213-1-13)](#188)
+          - [Section 2 : Prévention du péril animalier (art. D213-1-14 à D213-1-25)](#189)
+          - [Section 3 : Sûreté de l'aviation civile (art. D213-2 à D213-4)](#190)
+          - [Section 4 : Dispositions financières (art. D213-5)](#191)
+        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#192)
+      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D228-7)](#193)
+        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#194)
+        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#195)
+        - [CHAPITRE IV : REDEVANCES. (art. D224-1 à D224-4)](#196)
+        - [CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE. (art. D228-1 à D228-7)](#197)
+      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#198)
+        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#199)
+        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#200)
+        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#201)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#202)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#203)
+          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#204)
+          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#205)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#206)
+          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#207)
+          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#208)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#209)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#210)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#211)
+      - [TITRE V : AEROPORTS DE PARIS (art. D251)](#212)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251)](#213)
+    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#214)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#215)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#216)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#217)
+        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#218)
+      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#219)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#220)
+      - [TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE. (art. D370-1 à D370-11)](#221)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D431-3)](#222)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-3)](#223)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#224)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#225)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#226)
+          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#227)
+          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#228)
+          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#229)
+          - [Section 4 : Période de transition (art. D422-14)](#230)
+          - [Section 5 : Mesures de contrôle (art. D422-15)](#231)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#232)
+          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#233)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D431-3)](#234)
+        - [CHAPITRE Ier : Discipline (art. D431-3)](#235)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#236)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#237)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#238)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#239)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#240)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#241)
+      - [Section 1 : Avions photographes. (art. D611-1)](#242)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#243)
+  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#244)
+    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#245)
+      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#246)
+    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#247)
+      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#248)
+    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#249)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -16787,11 +16789,238 @@ _Cité par_:
   - Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=139></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=139></a>
 
-### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=140></a>
+#### CHAPITRE Ier : Discipline<a id=140></a>
 
-#### Section 1 : Organisation et fonctionnement.<a id=141></a>
+###### Article R431-1
+
+Les personnels navigants non professionnels de l'aéronautique civile titulaires d'un titre délivré ou validé par le ministre
+chargé de l'aviation civile à l'encontre desquels auront été relevées des infractions aux règles édictées en vue d'assurer la
+sécurité par le code des transports et par le code de l'aviation civile ainsi que par les textes pris pour leur application
+sont passibles de sanctions disciplinaires dans les conditions prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-2
+
+Les sanctions disciplinaires qui peuvent être prononcées à l'encontre des personnels navigants non professionnels sont : 
+
+1° Le blâme ; 
+
+2° La suspension du privilège d'effectuer des vols en qualité de commandant de bord tant qu'un complément de formation
+pratique ou théorique, dans les conditions spécifiées par la décision de sanction, n'a pas été réalisé ; 
+
+3° La suspension des licences ou qualifications, assortie ou non d'un sursis ou d'une obligation d'un complément de formation
+pratique ou théorique, dans les conditions spécifiées par la décision de sanction ; 
+
+4° Le retrait des licences ou qualifications, assorti, le cas échéant, de l'interdiction d'en solliciter une nouvelle
+délivrance pendant une durée déterminée et qui ne peut excéder cinq ans ; 
+
+5° La suspension de la validation d'une ou plusieurs licences étrangères ; 
+
+6° Le retrait de la validation d'une ou plusieurs licences étrangères.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R431-5 (V)
+
+
+###### Article R431-3
+
+Ces sanctions disciplinaires sont prononcées, après avis d'une commission de discipline des personnels navigants non
+professionnels, par le ministre chargé de l'aviation civile et, en Polynésie française, en Nouvelle-Calédonie et à Saint-
+Pierre-et-Miquelon, par le représentant de l'Etat et, à Wallis-et-Futuna, par le représentant de l'Etat en Nouvelle-
+Calédonie.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
+  - Code de l'aviation civile - art. D431-3 (V)
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-4
+
+I. ― Il est institué auprès du directeur de chaque échelon local de la direction de la sécurité de l'aviation civile une
+commission de discipline des personnels navigants non professionnels composée ainsi qu'il suit : 
+
+a) Deux représentants de la direction de la sécurité de l'aviation civile, dont un président ; 
+
+b) Une personnalité compétente en matière de navigation aérienne choisie par le directeur de l'échelon local de la direction
+de la sécurité de l'aviation civile ; 
+
+c) Trois représentants des fédérations nationales des disciplines aéronautiques désignés dans des conditions fixées par
+arrêté du ministre chargé de l'aviation civile. 
+
+Ces fédérations désignent leurs représentants, titulaires ou suppléants. Si une fédération ne désigne pas son représentant,
+celui-ci est désigné par le directeur de l'échelon local de la direction de la sécurité de l'aviation civile dans les
+conditions fixées par l'arrêté susmentionné. 
+
+II. ― En Polynésie française, en Nouvelle-Calédonie et à Saint-Pierre-et-Miquelon, il est institué auprès du représentant de
+l'Etat une commission de discipline des personnels navigants non professionnels composée ainsi qu'il suit : 
+
+a) Le chef du service de l'aviation civile ou le directeur du service d'Etat de l'aviation civile, ou le directeur de
+l'aviation civile en Nouvelle-Calédonie, président ; 
+
+b) Un représentant du service de l'aviation civile chargé des affaires d'aviation générale ; 
+
+c) Une personnalité compétente en matière de navigation aérienne choisie par le chef du service de l'aviation civile ou le
+directeur du service d'Etat de l'aviation civile, ou le directeur de l'aviation civile en Nouvelle-Calédonie ; 
+
+d) Trois personnalités proposées par les aéro-clubs locaux dans des conditions fixées par arrêté du représentant de l'Etat. 
+
+III. ― Les membres de la commission mentionnés au I du présent article sont nommés par le directeur de l'échelon local de la
+direction de la sécurité de l'aviation civile. 
+
+Les membres de la commission mentionnés au II du présent article sont nommés par le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 3 mai 2011 - art. 1 (V)
+  - Code de l'aviation civile - art. R431-5 (V)
+
+
+###### Article R431-5
+
+Les membres des commissions de discipline sont nommés pour trois ans. Leur mandat est renouvelable. Des membres suppléants
+peuvent être nommés en même temps et dans les mêmes formes que les membres titulaires. 
+
+Les personnes ayant fait l'objet d'une des sanctions prévues à l'article R. 431-2 depuis moins de trois ans ne peuvent être
+membres d'une commission de discipline. 
+
+Cessent de faire partie d'une commission de discipline les membres qui viennent à perdre la qualité en vertu de laquelle ils
+ont été désignés ou qui se démettent de leurs fonctions. Tout membre dont le mandat est interrompu est remplacé selon les
+formes prévues à l'article R. 431-4 et pour la durée restant à courir jusqu'à l'expiration de son mandat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R431-2
+  - Code de l'aviation civile - art. R431-4
+
+
+###### Article R431-6
+
+La commission de discipline est saisie par l'autorité auprès de laquelle elle a été instituée. 
+
+La commission de discipline compétente est celle du ressort territorial de l'échelon local de la direction de la sécurité de
+l'aviation civile ou du service d'Etat de l'aviation civile ou de la direction de l'aviation civile en Nouvelle-Calédonie où
+a été commise l'infraction. 
+
+A la demande de l'intéressé, la commission de discipline compétente est celle du ressort territorial du domicile de ce
+dernier. 
+
+A Wallis-et-Futuna, la commission de discipline compétente est celle placée auprès du représentant de l'Etat en Nouvelle-
+Calédonie. 
+
+Au cas où l'infraction a été commise à l'étranger ou dans les Terres australes et antarctiques françaises, le directeur de la
+sécurité de l'aviation civile désigne la commission de discipline.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-7
+
+Le président désigne le secrétaire de la commission qui assiste aux séances et aux délibérations, sans voix délibérative, et
+qui est tenu au secret. Il peut également désigner un ou plusieurs experts qui sont entendus par la commission. 
+
+Le président de la commission notifie par écrit à l'intéressé les manquements qui lui sont reprochés ainsi que les sanctions
+qu'il encourt. Il l'invite à présenter ses observations par écrit dans un délai qu'il fixe et qui ne peut être inférieur à un
+mois à compter de la date à laquelle l'intéressé a reçu la notification des griefs. 
+
+Le président convoque les membres de la commission ainsi que l'intéressé, qui peut se faire assister ou représenter par une
+personne de son choix. 
+
+Le secrétariat de la commission communique à l'intéressé l'ensemble des pièces du dossier. L'intéressé dispose d'un délai de
+dix jours à compter de cette notification pour présenter ses observations éventuelles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-8
+
+Le président choisit un rapporteur sur une liste établie par l'autorité auprès de laquelle la commission est instituée. Le
+rapporteur entend toute personne et il recueille toute information utile à l'instruction de l'affaire. Son rapport est versé
+au dossier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-9
+
+La commission de discipline ne peut siéger valablement que si quatre au moins de ses membres sont présents. En cas de partage
+égal des voix, le président a voix prépondérante. 
+
+Les délibérations de la commission ont lieu hors de la présence de l'intéressé et de son représentant. Le rapporteur ne prend
+pas part au vote. Les délibérations sont secrètes. L'autorité auprès de laquelle la commission est instituée met fin aux
+fonctions des membres qui auraient violé le secret des délibérations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+###### Article R431-10
+
+En cas d'urgence l'autorité compétente pour prononcer la sanction peut suspendre, à titre conservatoire, pour une durée
+maximum de trois mois, les licences ou qualifications 
+
+Elle saisit sans délai la commission de discipline.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-484 du 3 mai 2011 - art. 1
+
+
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=141></a>
+
+### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=142></a>
+
+#### Section 1 : Organisation et fonctionnement.<a id=143></a>
 
 ###### Article R530-1
 
@@ -16907,7 +17136,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### Section 2 : Attribution et paiement des indemnités.<a id=142></a>
+#### Section 2 : Attribution et paiement des indemnités.<a id=144></a>
 
 ###### Article R530-5
 
@@ -17106,7 +17335,7 @@ _Modifié par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES.<a id=143></a>
+## LIVRE VI : DISPOSITIONS DIVERSES.<a id=145></a>
 
 ###### Article R611-1
 
@@ -17413,9 +17642,9 @@ _Cite_:
   - Code de l'aviation civile - art. R611-3 (V)
 
 
-## LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION<a id=144></a>
+## LIVRE VII : ENQUETE TECHNIQUE RELATIVE AUX ACCIDENTS ET INCIDENTS, PROTECTION DE L'INFORMATION<a id=146></a>
 
-### TITRE Ier : DISPOSITIONS GENERALES.<a id=145></a>
+### TITRE Ier : DISPOSITIONS GENERALES.<a id=147></a>
 
 ###### Article R711-1
 
@@ -17706,7 +17935,7 @@ _Cite_:
   - Code de l'aviation civile - art. L711-2
 
 
-### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS<a id=146></a>
+### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS<a id=148></a>
 
 ###### Article R722-1
 
@@ -17921,7 +18150,7 @@ _Cite_:
   - Code de l'aviation civile - art. R216-1 (V)
 
 
-### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.<a id=147></a>
+### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.<a id=149></a>
 
 ###### Article R731-1
 
@@ -18000,7 +18229,7 @@ _Modifié par_:
   - Décret n°2006-1544 du 7 décembre 2006 - art. 3 () JORF 8 décembre 2006
 
 
-### TITRE IV : DISPOSITIONS PENALES.<a id=148></a>
+### TITRE IV : DISPOSITIONS PENALES.<a id=150></a>
 
 ###### Article R741-1
 
@@ -18022,13 +18251,13 @@ _Cite_:
   - Code de l'aviation civile - art. R722-1 (V)
 
 
-# Partie réglementaire - Décrets simples<a id=149></a>
+# Partie réglementaire - Décrets simples<a id=151></a>
 
-## LIVRE Ier : AERONEFS.<a id=150></a>
+## LIVRE Ier : AERONEFS.<a id=152></a>
 
-### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=151></a>
+### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=153></a>
 
-#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=152></a>
+#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=154></a>
 
 ###### Article D121-1
 
@@ -18928,7 +19157,7 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
 
 
-#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=153></a>
+#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=155></a>
 
 ###### Article D122-1
 
@@ -19146,7 +19375,7 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 2 JORF 5 mars 1971
 
 
-#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=154></a>
+#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=156></a>
 
 ###### Article D123-1
 
@@ -19183,13 +19412,13 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 3 JORF 5 mars 1971
 
 
-### TITRE III : CIRCULATION DES AERONEFS.<a id=155></a>
+### TITRE III : CIRCULATION DES AERONEFS.<a id=157></a>
 
-#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=156></a>
+#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=158></a>
 
-##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=157></a>
+##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=159></a>
 
-##### Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne.<a id=158></a>
+##### Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne.<a id=160></a>
 
 ###### Article D131-1
 
@@ -19498,7 +19727,7 @@ _Modifié par_:
   - Décret n°2010-641 du 10 juin 2010 - art. 1
 
 
-##### Paragraphe 2 : Désignation, attributions et surveillance des prestataires de services de la circulation aérienne.<a id=159></a>
+##### Paragraphe 2 : Désignation, attributions et surveillance des prestataires de services de la circulation aérienne.<a id=161></a>
 
 ###### Article D131-9
 
@@ -19592,7 +19821,7 @@ _Modifié par_:
   - Décret n°2010-641 du 10 juin 2010 - art. 1
 
 
-##### Paragraphe 3 : Météorologie.<a id=160></a>
+##### Paragraphe 3 : Météorologie.<a id=162></a>
 
 ###### Article D131-11
 
@@ -19650,7 +19879,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Aéronefs étrangers.<a id=161></a>
+##### Section 2 : Aéronefs étrangers.<a id=163></a>
 
 ###### Article D131-15
 
@@ -19674,9 +19903,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : ATTERRISSAGE.<a id=162></a>
+#### CHAPITRE II : ATTERRISSAGE.<a id=164></a>
 
-##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=163></a>
+##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=165></a>
 
 ###### Article D132-1
 
@@ -19739,7 +19968,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=164></a>
+##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=166></a>
 
 ###### Article D132-4
 
@@ -19795,7 +20024,7 @@ _Cite_:
   - Code de l'aviation civile - art. D132-4 (V)
 
 
-##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=165></a>
+##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=167></a>
 
 ###### Article D132-6
 
@@ -19872,7 +20101,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R151-1 (V)
 
 
-##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=166></a>
+##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=168></a>
 
 ###### Article D132-7
 
@@ -20039,11 +20268,11 @@ _Créé par_:
   - Décret n°85-770 1985-07-17 art. 1 JORF 25 juillet 1985
 
 
-#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=167></a>
+#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=169></a>
 
-##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=168></a>
+##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=170></a>
 
-##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances<a id=169></a>
+##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances<a id=171></a>
 
 ###### Article D133-1
 
@@ -20216,7 +20445,7 @@ _Créé par_:
   - Décret n°93-921 1993-07-13 art. 1 JORF 21 juillet 1993
 
 
-##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=170></a>
+##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=172></a>
 
 ###### Article D133-7
 
@@ -20387,7 +20616,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=171></a>
+##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=173></a>
 
 ###### Article D133-10
 
@@ -20538,7 +20767,7 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 9 JORF 21 novembre 1980
 
 
-##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.<a id=172></a>
+##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.<a id=174></a>
 
 ###### Article D133-19
 
@@ -20831,7 +21060,7 @@ _Cite_:
   - Code de l'aviation civile - art. D133-19-5 (V)
 
 
-##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=173></a>
+##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=175></a>
 
 ###### Article D133-20
 
@@ -20863,11 +21092,11 @@ _Cité par_:
   - Décret n°2018-13 du 8 janvier 2018 (V)
 
 
-## LIVRE II : AERODROMES.<a id=174></a>
+## LIVRE II : AERODROMES.<a id=176></a>
 
-### TITRE Ier : DISPOSITIONS GENERALES.<a id=175></a>
+### TITRE Ier : DISPOSITIONS GENERALES.<a id=177></a>
 
-#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=176></a>
+#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=178></a>
 
 ###### Article D211-1
 
@@ -21037,7 +21266,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=177></a>
+#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=179></a>
 
 ###### Article D212-1
 
@@ -21154,9 +21383,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=178></a>
+#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=180></a>
 
-##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs<a id=179></a>
+##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs<a id=181></a>
 
 ###### Article D213-1
 
@@ -21209,7 +21438,7 @@ _Cite_:
   - Code de l'aviation civile - art. R221-1 (V)
 
 
-##### Sous-section 1 : Définition des moyens<a id=180></a>
+##### Sous-section 1 : Définition des moyens<a id=182></a>
 
 ###### Article D213-1-1
 
@@ -21369,9 +21598,9 @@ _Cite_:
   - Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 2 : Organisation du service<a id=181></a>
+##### Sous-section 2 : Organisation du service<a id=183></a>
 
-##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs<a id=182></a>
+##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs<a id=184></a>
 
 ###### Article D213-1-4
 
@@ -21489,7 +21718,7 @@ _Cité par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=183></a>
+##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=185></a>
 
 ###### Article D213-1-7
 
@@ -21547,7 +21776,7 @@ _Créé par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### 3. Règles d'intervention<a id=184></a>
+##### 3. Règles d'intervention<a id=186></a>
 
 ###### Article D213-1-9
 
@@ -21594,7 +21823,7 @@ _Cite_:
   - Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 3 : Contrôle de l'Etat<a id=185></a>
+##### Sous-section 3 : Contrôle de l'Etat<a id=187></a>
 
 ###### Article D213-1-10
 
@@ -21686,7 +21915,7 @@ _Créé par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie<a id=186></a>
+##### Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie<a id=188></a>
 
 ###### Article D213-1-13
 
@@ -21714,7 +21943,7 @@ _Cite_:
   - Code de l'aviation civile D213-1 à D213-1-11
 
 
-##### Section 2 : Prévention du péril animalier<a id=187></a>
+##### Section 2 : Prévention du péril animalier<a id=189></a>
 
 ###### Article D213-1-14
 
@@ -22094,7 +22323,7 @@ _Cite_:
   - Code de l'aviation civile D213-1-14 à D213-1-24
 
 
-##### Section 3 : Sûreté de l'aviation civile<a id=188></a>
+##### Section 3 : Sûreté de l'aviation civile<a id=190></a>
 
 ###### Article D213-2
 
@@ -22195,7 +22424,7 @@ _Cite_:
   - Code de l'aviation civile - art. D213-3 (MMN)
 
 
-##### Section 4 : Dispositions financières<a id=189></a>
+##### Section 4 : Dispositions financières<a id=191></a>
 
 ###### Article D213-5
 
@@ -22224,7 +22453,7 @@ _Cite_:
   - Code de l'aviation civile - art. L213-3 (M)
 
 
-#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=190></a>
+#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=192></a>
 
 ###### Article D216-1
 
@@ -22408,9 +22637,9 @@ _Créé par_:
   - Décret n°98-211 du 23 mars 1998 - art. 1 () JORF 25 mars 1998
 
 
-### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=191></a>
+### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=193></a>
 
-#### CHAPITRE Ier : CREATION.<a id=192></a>
+#### CHAPITRE Ier : CREATION.<a id=194></a>
 
 ###### Article D221-1
 
@@ -22544,7 +22773,7 @@ _Cité par_:
   - Décret n°2017-1490 du 24 octobre 2017 (V)
 
 
-#### CHAPITRE II : CLASSEMENT.<a id=193></a>
+#### CHAPITRE II : CLASSEMENT.<a id=195></a>
 
 ###### Article D222-1
 
@@ -22596,7 +22825,7 @@ _Cite_:
   - Code de l'aviation civile - art. R222-5 (V)
 
 
-#### CHAPITRE IV : REDEVANCES.<a id=194></a>
+#### CHAPITRE IV : REDEVANCES.<a id=196></a>
 
 ###### Article D224-1
 
@@ -22771,7 +23000,7 @@ _Cite_:
   - Code de l'aviation civile - art. R224-4-2 (V)
 
 
-#### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.<a id=195></a>
+#### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.<a id=197></a>
 
 ###### Article D228-1
 
@@ -22910,9 +23139,9 @@ _Créé par_:
   - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
 
 
-### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=196></a>
+### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=198></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=197></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=199></a>
 
 ###### Article D231-1
 
@@ -22945,7 +23174,7 @@ _Cite_:
   - Code de l'aviation civile - art. D211-2 (V)
 
 
-#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=198></a>
+#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=200></a>
 
 ###### Article D232-1
 
@@ -23165,7 +23394,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-6 (V)
 
 
-#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=199></a>
+#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=201></a>
 
 ###### Article D233-1
 
@@ -23310,11 +23539,11 @@ _Cite_:
   - Code de l'aviation civile - art. R131-3 (V)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=200></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=202></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=201></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=203></a>
 
-##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=202></a>
+##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=204></a>
 
 ###### Article D241-1
 
@@ -23386,7 +23615,7 @@ _Abrogé par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=203></a>
+##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=205></a>
 
 ###### Article D241-4
 
@@ -23407,9 +23636,9 @@ _Cité par_:
   - Code de l'aviation civile - art. D242-7 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=204></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=206></a>
 
-##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=205></a>
+##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=207></a>
 
 ###### Article D242-1
 
@@ -23515,7 +23744,7 @@ _Cite_:
   - Code de l'aviation civile R241-5, D242-2
 
 
-##### Section 2 : Application du plan de dégagement.<a id=206></a>
+##### Section 2 : Application du plan de dégagement.<a id=208></a>
 
 ###### Article D242-6
 
@@ -23719,7 +23948,7 @@ _Créé par_:
   - Décret n°73-309 1973-03-09 art. 2 JORF 20 mars 1973
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=207></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=209></a>
 
 ###### Article D243-1
 
@@ -23927,7 +24156,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-5 (V)
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=208></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=210></a>
 
 ###### Article D244-1
 
@@ -24038,7 +24267,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=209></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=211></a>
 
 ###### Article D245-1
 
@@ -24112,9 +24341,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE V : AEROPORTS DE PARIS<a id=210></a>
+### TITRE V : AEROPORTS DE PARIS<a id=212></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=211></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=213></a>
 
 ###### Article D251
 
@@ -24135,11 +24364,11 @@ _Créé par_:
   - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
 
 
-## LIVRE III : TRANSPORT AERIEN.<a id=212></a>
+## LIVRE III : TRANSPORT AERIEN.<a id=214></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=213></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=215></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=214></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=216></a>
 
 ###### Article D321-1
 
@@ -24178,9 +24407,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=215></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=217></a>
 
-#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=216></a>
+#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=218></a>
 
 ###### Article D330-1
 
@@ -24215,9 +24444,9 @@ _Cite_:
   - Code de l'aviation civile - art. R330-4 (V)
 
 
-### TITRE IV : SOCIETE AIR FRANCE.<a id=217></a>
+### TITRE IV : SOCIETE AIR FRANCE.<a id=219></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=218></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=220></a>
 
 ###### Article D342-1
 
@@ -24238,7 +24467,7 @@ _Modifié par_:
   - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
-### TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE.<a id=219></a>
+### TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE.<a id=221></a>
 
 ###### Article D370-1
 
@@ -24582,9 +24811,9 @@ _Anciens textes_:
   - Code de l'aviation civile - art. D360-11 (T)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=220></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=222></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=221></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=223></a>
 
 ###### Article D410-1
 
@@ -24731,9 +24960,9 @@ _Abrogé par_:
   - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=222></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=224></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=223></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=225></a>
 
 ###### Article D421-1
 
@@ -25056,9 +25285,9 @@ _Cite_:
   - Code de l'aviation civile - art. L421-9 (VT)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=224></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=226></a>
 
-##### Section 1 : Dispositions générales<a id=225></a>
+##### Section 1 : Dispositions générales<a id=227></a>
 
 ###### Article D422-1
 
@@ -25591,7 +25820,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-4-1 (V)
 
 
-##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=226></a>
+##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=228></a>
 
 ###### Article D422-8
 
@@ -25640,7 +25869,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D241-22 (Ab)
 
 
-##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=227></a>
+##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=229></a>
 
 ###### Article D422-9
 
@@ -25894,7 +26123,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-11 (V)
 
 
-##### Section 4 : Période de transition<a id=228></a>
+##### Section 4 : Période de transition<a id=230></a>
 
 ###### Article D422-14
 
@@ -25926,7 +26155,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Section 5 : Mesures de contrôle<a id=229></a>
+##### Section 5 : Mesures de contrôle<a id=231></a>
 
 ###### Article D422-15
 
@@ -25977,9 +26206,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=230></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=232></a>
 
-##### Section 2 : Conseil médical<a id=231></a>
+##### Section 2 : Conseil médical<a id=233></a>
 
 ###### Article D424-1
 
@@ -26355,419 +26584,39 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=232></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=234></a>
 
-#### CHAPITRE V : DISCIPLINE.<a id=233></a>
+#### CHAPITRE Ier : Discipline<a id=235></a>
 
-###### Article D435-1
+###### Article D431-3
 
-Les personnels navigants de l'aéronautique civile titulaires d'un titre aéronautique non professionnel à l'encontre desquels
-auront été relevées des infractions aux règles édictées en vue d'assurer la sécurité par le code de l'aviation civile ainsi
-qu'aux textes pris pour son application sont passibles de sanctions disciplinaires dans les conditions prévues aux articles
-ci-après.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-_Cité par_:
-
-  - Arrêté du 4 avril 1996 - art. 23 (V)
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 7 () JORF 2 septembre 2004
-
-_Abrogé par_:
-
-  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-2
-
-Les sanctions disciplinaires qui peuvent être prononcées à l'encontre des personnels navigants non professionnels sont :
-
-- le blâme ;
-
-- la suspension du privilège d'effectuer des vols en qualité de commandant de bord tant qu'un complément de formation
-pratique ou/et théorique, dans les conditions spécifiées par la décision de sanction, n'a pas été réalisé ;
-
-- la suspension des licences ou qualifications, assortie ou non d'un sursis ou/et d'une obligation d'un complément de
-formation pratique ou/et théorique, dans les conditions spécifiées par la décision de sanction ;
-
-- l'annulation des licences ou qualifications, assortie le cas échéant de l'interdiction d'en solliciter une nouvelle
-délivrance pendant une durée déterminée et qui ne peut excéder cinq ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 8 () JORF 2 septembre 2004
-
-_Abrogé par_:
-
-  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D435-6 (Ab)
-
-
-###### Article D435-3
-
-Ces sanctions disciplinaires sont prononcées, après avis d'une commission de discipline des personnels navigants non
-professionnels, par :
-
-- le directeur de l'aviation civile en métropole et le directeur régional de l'aviation civile pour l'ensemble des trois
-régions de Guadeloupe, de Guyane et de Martinique ;
-
-- le représentant de l'Etat dans le département de la Réunion, la Polynésie française, la Nouvelle-Calédonie, la collectivité
-départementale de Mayotte et la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
-L'autorité compétente pour prononcer la sanction est celle de la circonscription territoriale dans le ressort de laquelle a
-été commise l'infraction.
-
-A la demande du contrevenant, l'autorité compétente est celle de la circonscription territoriale dans le ressort de laquelle
-est domicilié le contrevenant.
-
-Au cas où l'infraction a été commise à l'étranger, le ministre chargé de l'aviation civile désigne l'autorité qui sera
-compétente pour prononcer la sanction.
+L'autorité mentionnée à l'article R. 431-3 qui prononce une sanction disciplinaire doit notifier cette dernière au navigant
+qui en est l'objet au plus tard trois mois à compter de la date à laquelle la commission de discipline a été saisie, laquelle
+dispose de deux mois pour donner son avis. Elle en informe les autorités administratives concernées.
 
 **Nota:**
 
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 9 () JORF 2 septembre 2004
-
-_Cité par_:
-
-  - Décret n°2009-620 du 6 juin 2009 - art. Annexe (VD)
-  - Décret n°2014-589 du 6 juin 2014 - art. (V)
-  - Code de l'aviation civile - art. D435-4 (Ab)
-  - Code de l'aviation civile - art. D435-6 (Ab)
-  - Code de l'aviation civile - art. D435-8 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-4
-
-Il est institué auprès de chacune des autorités mentionnées à l'article D. 435-3 une commission de discipline des personnels
-navigants non professionnels composée ainsi qu'il suit :
-
-I. - En métropole et dans l'ensemble des trois régions de Guadeloupe, de Guyane et de Martinique :
-
-a) Deux membres représentant, selon le cas, le directeur de l'aviation civile ou le directeur régional de l'aviation civile
-pour l'ensemble des trois régions de Guadeloupe, de Guyane et de Martinique, dont un président ;
-
-b) Un membre choisi en raison de sa compétence en matière de navigation aérienne, selon le cas, par le directeur de
-l'aviation civile ou par le directeur régional de l'aviation civile pour l'ensemble des trois régions de Guadeloupe, de
-Guyane et de Martinique ;
-
-c) Un membre représentant l'Aéro-club de France ;
-
-d) Un membre représentant la Fédération nationale aéronautique ou la Fédération française de vol à voile ;
-
-e) Un membre représentant la fédération couvrant l'activité du contrevenant.
-
-Les fédérations reconnues au plan national conformément à l'article D. 510-3 désignent leurs représentants, titulaires ou
-suppléants. Si une ou plusieurs fédérations ne désignent pas de représentant, le directeur de l'aviation civile ou le
-directeur régional de l'aviation civile pour l'ensemble des trois régions de Guadeloupe, de Guyane et de Martinique pourra
-désigner un ou plusieurs membres choisis en raison de leur compétence dans le ou les domaines considérés.
-
-II. - Dans le département de la Réunion, la Polynésie française, la Nouvelle-Calédonie, la collectivité départementale de
-Mayotte et la collectivité territoriale de Saint-Pierre-et-Miquelon :
-
-a) Le directeur du service de l'aviation civile ou le chef du service de l'aviation civile ou le directeur du service d'Etat
-de l'aviation civile, président ;
-
-b) L'agent du service de l'aviation civile chargé des affaires d'aviation générale ;
-
-c) Un membre choisi en raison de sa compétence en matière de navigation aérienne ;
-
-d) Trois membres représentant les aéro-clubs locaux.
-
-Les membres mentionnés aux b, c et d sont nommés par le délégué du Gouvernement sur proposition, en ce qui concerne ceux
-mentionnés aux b et c, du président de la commission et, en ce qui concerne les représentants mentionnés au d, des aéro-clubs
-locaux.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Cité par_:
-
-  - Décret n°98-264 du 2 avril 1998 - art. 9 (V)
-  - Code de l'aviation civile - art. D435-6 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 10 () JORF 2 septembre 2004
-
-_Abrogé par_:
-
-  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-_Cite_:
-
-  - Code de l'aviation civile - art. D435-3
-  - Code de l'aviation civile - art. D510-3
-
-
-###### Article D435-5
-
-Assistent aux séances et aux délibérations, sans voix délibérative, et sont tenus au secret :
-
-- le secrétaire de la commission choisi par le président de la commission de discipline ;
-
-- le cas échéant, un ou plusieurs experts, désignés par le président de la commission de discipline.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
-_Modifié par_:
-
-  - Décret n°98-264 du 2 avril 1998 - art. 5 () JORF 7 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-6
-
-Les membres des commissions de discipline sont nommés pour trois ans par l'autorité compétente prévue à l'article D. 435-3.
-Leur mandat est renouvelable. Des membres suppléants peuvent être nommés en même temps et dans les mêmes formes que les
-membres titulaires.
-
-Les personnes ayant fait l'objet d'une condamnation définitive inscrite au bulletin n° 2 du casier judiciaire ou d'une des
-sanctions prévues à l'article D. 435-2 ne peuvent être membres d'une commission de discipline.
-
-Cessent de faire partie d'une commission de discipline les membres qui viennent à perdre la qualité en vertu de laquelle ils
-ont été désignés, qui se démettent de leurs fonctions ou qui sont déclarés démissionnaires pour absence non justifiée à deux
-séances consécutives. Tout membre dont le mandat est interrompu est remplacé selon les formes prévues à l'article D. 435-4 et
-pour la durée restant à courir jusqu'à l'expiration de son mandat.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 11 () JORF 2 septembre 2004
-
-_Abrogé par_:
-
-  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-_Cite_:
-
-  - Code de l'aviation civile - art. D435-2
-  - Code de l'aviation civile - art. D435-3
-  - Code de l'aviation civile - art. D435-4
-
-
-###### Article D435-7
-
-La commission de discipline est saisie par l'autorité auprès de laquelle elle a été instituée.
-
-Le président de la commission notifie par écrit à la personne traduite devant la commission les poursuites dont elle fait
-l'objet en lui faisant connaître les manquements qui lui sont reprochés ainsi que les sanctions qu'elle encoure. Il l'invite
-à présenter ses observations par écrit dans un délai qu'il fixe et qui ne peut être inférieur à un mois à compter de la date
-à laquelle l'intéressé a reçu la notification des poursuites.
-
-Le secrétariat de la commission communique à l'intéressé, s'il y a lieu, les pièces complémentaires non adressées au moment
-de la notification. L'intéressé dispose d'un délai de dix jours à compter de cette notification pour présenter ses
-observations éventuelles sur ces pièces complémentaires.
-
-En complément de la convocation, le président de la commission de discipline adresse à ses membres les pièces en sa
-possession.
-
-Il choisit un rapporteur sur une liste nominative établie par l'autorité auprès de laquelle la commission est instituée et
-convoque les membres de la commission ainsi que l'intéressé, qui peut se faire assister ou représenter par une personne de
-son choix. Le rapporteur entend toute personne et recueille toute information utile à l'instruction de l'affaire. A l'issue
-de l'instruction, le rapporteur remet au président de la commission un rapport écrit, qui est versé au dossier de la personne
-traduite devant la commission.
-
-La commission de discipline ne peut siéger valablement que si quatre au moins de ses membres sont présents. En cas de partage
-égal des voix, le président a voix prépondérante.
-
-Les délibérations de la commission ont lieu hors de la présence de l'intéressé, de son représentant et du rapporteur. Les
-délibérations sont secrètes. L'autorité auprès de laquelle la commission est instituée met fin aux fonctions des membres qui
-auraient violé le secret des délibérations.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 12 () JORF 2 septembre 2004
-
-_Abrogé par_:
-
-  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-8
-
-Les avis des commissions de discipline sont transmis dans un délai maximum de trois mois à compter de la date à laquelle
-elles ont été saisies à l'autorité compétente désignée à l'article D. 435-3.
-
-Dans le cas où le délai ne peut être respecté, le président de la commission doit solliciter de cette autorité un délai
-supplémentaire.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, les Commissions de discipline des personnels navigants non
+professionnels sont renouvelées pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°77-1140 1977-10-05 art. 1er. JORF 12 octobre 1977
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-_Abrogé par_:
-
   - Décret n°2011-484 du 3 mai 2011 - art. 2
+
+_Cité par_:
+
+  - Décret n°2015-622 du 5 juin 2015 - art. Annexe 1 (V)
 
 _Cite_:
 
-  - Code de l'aviation civile - art. D435-3
+  - Code de l'aviation civile - art. R431-3
 
 
-###### Article D435-9
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=236></a>
 
-L'autorité qui prononce la sanction la notifie au navigant qui en est l'objet le plus tôt possible et dans un délai maximum
-de quarante-cinq jours après la tenue de la commission de discipline.
-
-Les autorités administratives concernées en sont informées dans le même délai.
-
-La décision de sanction peut faire l'objet d'un recours hiérarchique auprès du ministre chargé de l'aviation civile dans un
-délai de deux mois courant à compter de la notification de la décision.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
-_Modifié par_:
-
-  - Décret n°98-264 du 2 avril 1998 - art. 7 () JORF 7 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-###### Article D435-10
-
-En cas de faute grave l'autorité compétente pour prononcer la sanction peut, s'il y a urgence, procéder, pour une durée
-maximum de deux mois, au retrait provisoire des licences ou qualifications après avis du président de la commission de
-discipline compétente ou, en son absence, de son suppléant.
-
-Elle rend compte immédiatement au ministre chargé de l'aviation civile de cette décision et saisit sans délai la commission
-de discipline qui doit émettre son avis dans les deux mois.
-
-**Nota:**
-
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-discipline des personnels navigants non professionnels).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-_Cite_:
-
-  - Décret n°79-445 du 1 juin 1979
-  - Code de l'aviation civile
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-264 du 2 avril 1998 - art. 10 (V)
-
-_Modifié par_:
-
-  - Décret n°98-264 du 2 avril 1998 - art. 8 () JORF 7 avril 1998
-
-_Abrogé par_:
-
-  - Décret n°2011-484 du 3 mai 2011 - art. 2
-
-
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=234></a>
-
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=235></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=237></a>
 
 ###### Article D510-1
 
@@ -27021,9 +26870,9 @@ _Cité par_:
   - Arrêté du 8 janvier 2018 - art. 3 (V)
 
 
-### TITRE II : AIDE AUX JEUNES<a id=236></a>
+### TITRE II : AIDE AUX JEUNES<a id=238></a>
 
-#### Section 1 : Aide aux jeunes.<a id=237></a>
+#### Section 1 : Aide aux jeunes.<a id=239></a>
 
 ###### Article D521-1
 
@@ -27112,7 +26961,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=238></a>
+#### Section 2 : Aide à la construction amateur.<a id=240></a>
 
 ###### Article D521-4
 
@@ -27178,9 +27027,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=239></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=241></a>
 
-### Section 1 : Avions photographes.<a id=240></a>
+### Section 1 : Avions photographes.<a id=242></a>
 
 ###### Article D611-1
 
@@ -27205,7 +27054,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=241></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=243></a>
 
 ###### Article D611-2
 
@@ -27317,11 +27166,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-# Annexes<a id=242></a>
+# Annexes<a id=244></a>
 
-## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=243></a>
+## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=245></a>
 
-### REGLES DE l'AIR<a id=244></a>
+### REGLES DE l'AIR<a id=246></a>
 
 ###### Article Annexe I : Appendice 1
 
@@ -30437,9 +30286,9 @@ _Modifié par_:
   - Arrêté du 3 mars 2006, v. init.
 
 
-## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=245></a>
+## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=247></a>
 
-### SERVICES DE LA CIRCULATION AERIENNE<a id=246></a>
+### SERVICES DE LA CIRCULATION AERIENNE<a id=248></a>
 
 ###### Article Annexe II : Appendice 1
 
@@ -33959,7 +33808,7 @@ _Créé par_:
   - Arrêté du 3 mars 2006 - art. 1, v. init.
 
 
-## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=247></a>
+## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=249></a>
 
 ###### Article Annexe III
 
