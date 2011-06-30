@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2011-05-05
+Version Consolidée au 2011-07-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -123,7 +123,7 @@ Version Consolidée au 2011-05-05
       - [TITRE Ier : DISPOSITIONS COMMUNES (art. R410-1 à R410-3)](#120)
       - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#121)
         - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#122)
-          - [Section 1 : Catégories. (art. R421-1 à R421-4)](#123)
+          - [Section 1 : Catégories. (art. R421-1 à R421-3)](#123)
           - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-17)](#124)
         - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#125)
         - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-6)](#126)
@@ -13698,53 +13698,6 @@ _Cite_:
 _Cité par_:
 
   - Code de l'aviation civile - art. R426-1 (VD)
-
-
-###### Article R421-4
-
-L'autorisation d'exercer une activité professionnelle en métropole ou dans les départements et territoires d'outre-mer
-susceptible d'être accordée aux personnes n'ayant pas la nationalité française par application de l'article L. 421-5 fait
-l'objet dans chaque cas particulier d'une décision prise dans le cadre des lois et règlements relatifs au contrôle du séjour
-et de l'emploi par :
-
-Le ministre des armées pour la catégorie Essais et réceptions ;
-
-Le ministre chargé de l'aviation civile, pour les catégories Transport aérien et Travail aérien.
-
-A titre exceptionnel, leur inscription sur les registres du personnel navigant professionnel de l'aéronautique civile peut,
-dans chaque cas particulier, être autorisée par arrêté contresigné :
-
-Par le ministre des affaires étrangères, le ministre chargé de l'aviation civile et le ministre des armées, pour la catégorie
-Essais et réceptions ;
-
-Par le ministre des affaires étrangères et le ministre chargé de l'aviation civile, pour les catégories Transport aérien et
-Travail aérien.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ancien code de l'aviation civile 152 alinéas 2 et suivants
-  - Loi n°53-285 1953-04-04 art. 7, alinéas 2 et suivants
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Cité par_:
-
-  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
-  - Arrêté du 21 janvier 1998 - art. 3 (V)
-  - Code de l'aviation civile - art. D421-4 (V)
-  - Code de l'aviation civile - art. R421-3 (V)
-
-_Abrogé par_:
-
-  - Décret n°2011-759 du 28 juin 2011 - art. 7 (V)
-
-_Cite_:
-
-  - Code de l'aviation civile - art. L421-5
 
 
 ##### Section 2 : Conseil du personnel navigant professionnel.<a id=124></a>
