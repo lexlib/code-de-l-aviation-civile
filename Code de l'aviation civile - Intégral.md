@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2011-07-03
+Version Consolidée au 2011-09-11
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -202,54 +202,53 @@ Version Consolidée au 2011-07-03
         - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#199)
         - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#200)
         - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#201)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-1 à D245-3)](#202)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-1 à D241-4)](#203)
-          - [Section 1 : Commission centrale des servitudes aéronautiques. (art. D241-1 à D241-3)](#204)
-          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#205)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#206)
-          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#207)
-          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#208)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#209)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-1 à D244-4)](#210)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#211)
-      - [TITRE V : AEROPORTS DE PARIS (art. D251)](#212)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251)](#213)
-    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#214)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#215)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#216)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#217)
-        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#218)
-      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#219)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#220)
-      - [TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE. (art. D370-1 à D370-11)](#221)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D431-3)](#222)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-3)](#223)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#224)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#225)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#226)
-          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#227)
-          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#228)
-          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#229)
-          - [Section 4 : Période de transition (art. D422-14)](#230)
-          - [Section 5 : Mesures de contrôle (art. D422-15)](#231)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#232)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#233)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D431-3)](#234)
-        - [CHAPITRE Ier : Discipline (art. D431-3)](#235)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#236)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#237)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#238)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#239)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#240)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#241)
-      - [Section 1 : Avions photographes. (art. D611-1)](#242)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#243)
-  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#244)
-    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#245)
-      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#246)
-    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#247)
-      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#248)
-    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#249)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-4 à D245-3)](#202)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-4)](#203)
+          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#204)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#205)
+          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#206)
+          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#207)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#208)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-2 à D244-4)](#209)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#210)
+      - [TITRE V : AEROPORTS DE PARIS (art. D251)](#211)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251)](#212)
+    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#213)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#214)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#215)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#216)
+        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#217)
+      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#218)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#219)
+      - [TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE. (art. D370-1 à D370-11)](#220)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D431-3)](#221)
+      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-3)](#222)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#223)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#224)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#225)
+          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#226)
+          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#227)
+          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#228)
+          - [Section 4 : Période de transition (art. D422-14)](#229)
+          - [Section 5 : Mesures de contrôle (art. D422-15)](#230)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#231)
+          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#232)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D431-3)](#233)
+        - [CHAPITRE Ier : Discipline (art. D431-3)](#234)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#235)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#236)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#237)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#238)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#239)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#240)
+      - [Section 1 : Avions photographes. (art. D611-1)](#241)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#242)
+  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#243)
+    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#244)
+      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#245)
+    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#246)
+      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#247)
+    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#248)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -5405,10 +5404,9 @@ Toute administration civile ou militaire de l'Etat, dont les services, forces ou
 pour l'exercice de leurs missions, font un usage aéronautique permanent d'un aérodrome et y disposent d'installations ou
 peuvent se trouver dans la nécessité d'en disposer, peut demander à être désignée comme affectataire.
 
-Les affectataires sont désignés après avis du Conseil supérieur de l'infrastructure et de la navigation aériennes par arrêté
-interministériel publié au Journal officiel. Cet arrêté désigne l'affectataire principal de l'aérodrome et, le cas échéant,
-les affectataires secondaires. Il précise en outre les services, forces ou établissements aux besoins desquels l'aérodrome
-est affecté ainsi que les activités aériennes autorisées.
+Les affectataires sont désignés par arrêté interministériel publié au Journal officiel. Cet arrêté désigne l'affectataire
+principal de l'aérodrome et, le cas échéant, les affectataires secondaires. Il précise en outre les services, forces ou
+établissements aux besoins desquels l'aérodrome est affecté ainsi que les activités aériennes autorisées.
 
 Les aérodromes sont affectés à titre principal soit au ministère chargé de l'aviation civile, soit au ministère chargé de la
 défense en fonction des activités aéronautiques auxquelles est voué l'aérodrome.
@@ -5427,11 +5425,11 @@ Ces dispositions ne s'appliquent pas aux aérodromes à usage privé.
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-134 du 31 janvier 2002 - art. 2 () JORF 3 février 2002
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 _Cité par_:
 
@@ -8619,8 +8617,7 @@ La longueur d'étape au départ de l'aérodrome ;
 
 La nécessité éventuelle d'assurer normalement le service en toutes circonstances.
 
-Les limites entre les étapes longues, moyennes et courtes sont fixées par le ministre chargé de l'aviation civile, après avis
-du conseil supérieur de l'infrastructure et de la navigation aériennes.
+Les limites entre les étapes longues, moyennes et courtes sont fixées par le ministre chargé de l'aviation civile.
 
 Un service est dit à grande distance s'il comporte au moins une étape longue, à moyenne distance s'il ne comporte pas d'étape
 longue mais s'il comporte au moins une étape moyenne, à courte distance s'il ne comporte que des étapes courtes.
@@ -8629,7 +8626,11 @@ longue mais s'il comporte au moins une étape moyenne, à courte distance s'il n
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 ###### Article R222-5
@@ -8689,30 +8690,35 @@ Un aérodrome peut, pour les besoins de la défense nationale, comporter des car
 catégorie dans laquelle il est classé en raison de son utilisation civile. Mention en est faite dans le décret de classement
 de l'aérodrome.
 
-Des arrêtés interministériels, pris après avis du conseil supérieur de l'infrastructure et de la navigation aériennes,
-détermineront les caractéristiques des aménagements et des équipements à réaliser pour satisfaire aux besoins particuliers de
-la défense nationale sur ces aérodromes.
+Des arrêtés interministériels détermineront les caractéristiques des aménagements et des équipements à réaliser pour
+satisfaire aux besoins particuliers de la défense nationale sur ces aérodromes.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 ###### Article R222-8
 
-Le décret de classement d'un aérodrome est pris après avis du conseil supérieur de l'infrastructure et de la navigation
-aériennes.
-
-En outre, lorsqu'il s'agit d'un aérodrome créé par une personne de droit public autre que l'Etat, ou par une personne de
-droit privé, le décret est pris après accord de la personne en cause ou de ses ayants droit et fait mention de cet accord.
+Lorsqu'il s'agit d'un aérodrome créé par une personne de droit public autre que l'Etat ou par une personne de droit privé, le
+décret de classement de cet aérodrome est pris après accord de la personne en cause ou de ses ayants droit et fait mention de
+cet accord.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 #### CHAPITRE III : EXPLOITATION.<a id=82></a>
@@ -10476,8 +10482,6 @@ _Cité par_:
 
 ###### Article R242-1
 
-Il est soumis à une commission centrale constituée pour donner son avis sur les servitudes aéronautiques.
-
 Il est approuvé et rendu exécutoire par décret en Conseil d'Etat, à moins que les conclusions du rapport d'enquête, les avis
 des services et des collectivités publiques intéressés ne soient favorables, auquel cas il est statué par arrêté du ministre
 chargé de l'aviation civile, en accord s'il y a lieu, avec le ministre des armées.
@@ -10494,10 +10498,9 @@ pour prononcer cette déclaration.
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 242-1 abrogé par l'article 7 de
-ladite ordonnance, la phrase "Il est soumis à une commission centrale constituée pour donner son avis sur les servitudes
-aéronautiques" et le 3ème alinéa sont maintenus en vigueur jusqu'à l'entrée en vigueur des dispositions réglementaires du
-code des transports.
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 242-1 modifié par l'article 7 de
+ladite ordonnance le 3ème alinéa (" Il est approuvé et rendu exécutoire ...) est maintenu en vigueur jusqu'à l'entrée en
+vigueur des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -10511,7 +10514,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 _Cité par_:
 
@@ -10521,8 +10524,7 @@ _Cité par_:
 
 ###### Article R242-2
 
-En cas d'urgence des mesures provisoires de sauvegarde peuvent être prises par arrêté ministériel après enquête publique et
-avis de la commission mentionnée à l'article précédent.
+En cas d'urgence des mesures provisoires de sauvegarde peuvent être prises par arrêté ministériel après enquête publique.
 
 Ces mesures provisoires cessent d'être applicables si, dans un délai de deux ans à compter de cet arrêté, elles n'ont pas été
 reprises dans un plan de dégagement régulièrement approuvé.
@@ -10535,27 +10537,13 @@ maintenus en vigueur jusqu'à l'entrée en vigueur des dispositions réglementai
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°59-92 1959-01-03 art. 12
-
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Modifié par_:
 
-  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
-
-_Nouveaux textes_:
-
-  - Code des transports - art. L6351-2 (V)
-  - Code des transports - art. L6351-4 (V)
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 #### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=100></a>
@@ -10613,7 +10601,7 @@ _Nouveaux textes_:
 
 A l'extérieur des zones grevées de servitudes de dégagement en application du présent titre, l'établissement de certaines
 installations qui, en raison de leur hauteur, pourraient constituer des obstacles à la navigation aérienne est soumis à une
-autorisation spéciale du ministre chargé de l'aviation civile et du ministre de la défense. 
+autorisation spéciale du ministre chargé de l'aviation civile et du ministre de la défense.
 
 Des arrêtés ministériels déterminent les installations soumises à autorisation ainsi que la liste des pièces qui doivent être
 annexées à la demande d'autorisation.
@@ -10626,18 +10614,22 @@ accord.
 
 Lorsque les installations en cause ainsi que les installations visées par la loi du 15 juin 1906 sur les distributions
 d'énergie qui existent à la date du 8 janvier 1959, constituent des obstacles à la navigation aérienne, leur suppression ou
-leur modification peut être ordonnée par décret pris après avis de la commission visée à l'article R. 242-1.
+leur modification peut être ordonnée par décret.
 
 Les dispositions de l'article R. 242-3 ci-dessus sont dans ce cas applicables.
 
 **Nota:**
 
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 244-1 les trois premiers alinéas
+Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 244-1 les deux premiers alinéas
 sont abrogés par l'article 7 de ladite ordonnance, au premier alinéa les mots "du ministre chargé de l'aviation civile et du
-ministre de la défense" ainsi que les 2 premiers alinéas sont maintenus en vigueur jusqu'à l'entrée en vigueur des
-dispositions réglementaires du code des transports.
+ministre de la défense" sont maintenus en vigueur jusqu'à l'entrée en vigueur des dispositions réglementaires du code des
+transports.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi du 15 juin 1906
 
 _Anciens textes_:
 
@@ -10662,13 +10654,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 1
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R242-1
-  - Code de l'aviation civile - art. R242-3
-  - Loi n°1906-06-15
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 #### CHAPITRE V : TERRAINS RESERVES.<a id=102></a>
@@ -21109,10 +21095,8 @@ _Cité par_:
 
 ###### Article D211-2
 
-La création d'un aérodrome par l'Etat est soumise à l'avis préalable du Conseil supérieur de l'infrastructure et de la
-navigation aériennes. Si aucune opposition ne se manifeste au conseil de la part des départements ministériels intéressés, la
-décision est prise par le ministre chargé de l'aviation civile, et, dans le cas contraire, par arrêté conjoint du ministre
-chargé de l'aviation civile, du ministre des armées et des autres ministres intéressés.
+La décision de création d'un aérodrome par l'Etat est prise par le ministre chargé de l'aviation civile ou, le cas échéant,
+par arrêté conjoint du ministre chargé de l'aviation civile et du ou des autres ministres intéressés. 
 
 La création d'un aérodrome par une personne autre que l'Etat est subordonnée à une autorisation administrative délivrée dans
 les conditions fixées aux titres II et III ci-après. Toutefois, lorsque l'aérodrome fait l'objet d'une convention conclue en
@@ -21122,13 +21106,13 @@ d'autorisation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°59-779 1959-06-22 art. 2
-
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 _Cité par_:
 
@@ -21137,9 +21121,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L221-1 (V)
-  - Code de l'aviation civile - art. R221-4 (V)
-  - Code de l'aviation civile - art. R222-3 (V)
+  - Code de l'aviation civile - art. L221-1
+  - Code de l'aviation civile - art. R221-4
+  - Code de l'aviation civile - art. R222-3
 
 
 ###### Article D211-3
@@ -21296,24 +21280,18 @@ _Modifié par_:
 ###### Article D212-3
 
 L'autorisation d'ouverture d'un aérodrome à la circulation aérienne publique ou de mise en service d'un aérodrome à usage
-restreint ne peut, sauf en cas d'urgence, être suspendue, restreinte ou retirée que par un arrêté ministériel pris après avis
-du Conseil supérieur de l'infrastructure et de la navigation aériennes, si cette mesure intervient en application des 1°, 2°,
-3° ou 4° de l'article D. 212-1. Dans tous les cas, l'arrêté doit être motivé ; il est publié au Journal officiel de la
-République française.
+restreint ne peut, sauf en cas d'urgence, être suspendue, restreinte ou retirée que par un arrêté ministériel. L'arrêté doit
+être motivé ; il est publié au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°59-779 1959-06-22 art. 30
-
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'aviation civile - art. D212-1 (V)
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 ###### Article D212-4
@@ -22627,20 +22605,22 @@ La demande d'autorisation de créer un aérodrome destiné à être ouvert à la
 circulation aérienne publique un aérodrome existant est adressée au ministre chargé de l'aviation civile, accompagnée d'un
 dossier dont la composition sera fixée par arrêté ministériel.
 
-Elle est soumise à l'avis du Conseil supérieur de l'infrastructure et de la navigation aériennes. Si aucune opposition ne se
-manifeste au conseil de la part des départements ministériels intéressés, la décision est prise par arrêté du ministre chargé
-de l'aviation civile et, dans le cas contraire, par arrêté conjoint du ministre chargé de l'aviation civile, du ministre des
-armées et des autres ministres intéressés.
+La décision est prise par arrêté du ministre chargé de l'aviation civile ou, le cas échéant, par arrêté conjoint du ministre
+chargé de l'aviation civile et du ou des autres ministres intéressés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
 
 _Cité par_:
 
   - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
+
+_Modifié par_:
+
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
 ###### Article D221-3
@@ -23173,26 +23153,29 @@ _Cite_:
 
 Sauf application du dernier alinéa de l'article D. 211-2, la demande d'autorisation de créer un aérodrome à usage restreint
 est adressée au ministre chargé de l'aviation civile, accompagnée d'un dossier dont la composition sera fixée par arrêté
-ministériel.
+ministériel. 
 
-Elle est soumise à une enquête technique et à l'avis du Conseil supérieur de l'infrastructure et de la navigation aériennes.
-Si aucune opposition ne se manifeste au conseil de la part des départements ministériels intéressés, la décision est prise
-par arrêté du ministre chargé de l'aviation civile, et dans le cas contraire, par arrêté conjoint du ministre chargé de
-l'aviation civile, du ministre des armées et des autres ministres intéressés.
+Elle est soumise à une enquête technique et, le cas échéant, à l'avis du ou des autres départements ministériels intéressés ;
+la décision est prise par arrêté du ministre chargé de l'aviation civile ou, le cas échéant, par arrêté conjoint du ministre
+chargé de l'aviation civile et du ou des autres ministres intéressés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
 
 _Cité par_:
 
   - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
 
+_Modifié par_:
+
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
+
 _Cite_:
 
-  - Code de l'aviation civile - art. D211-2 (V)
+  - Code de l'aviation civile - art. D211-2
 
 
 ###### Article D232-3
@@ -23489,91 +23472,22 @@ _Cite_:
 
 #### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=203></a>
 
-##### Section 1 : Commission centrale des servitudes aéronautiques.<a id=204></a>
-
-###### Article D241-1
-
-Il est créé une commission centrale des servitudes aéronautiques chargée de donner son avis sur toutes questions concernant
-l'établissement, la modification ou la suppression des servitudes qui lui sont soumises par le ou les ministres intéressés.
-
-Cette commission sera obligatoirement consultée sur l'opportunité d'admettre au bénéfice des dispositions du titre IV de la
-deuxième partie (décrets portant R.A.P. et décrets en Conseil d'Etat) les aérodromes, installations et emplacements visés aux
-b, c et d de l'article R. 241-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-_Abrogé par_:
-
-  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R241-2
-
-
-###### Article D241-2
-
-La commission centrale des servitudes aéronautiques est constituée au sein du Conseil supérieur de l'infrastructure et de la
-navigation aériennes.
-
-Elle est placée sous la présidence du président de cet organisme et comprend :
-
-Les membres du Conseil supérieur de l'infrastructure et de la navigation aériennes ;
-
-Les représentants du ministre chargé de la construction, du ministre de l'agriculture, du ministre de l'industrie et du
-ministre de l'intérieur et suivant l'ordre du jour ;
-
-Les représentants des départements ministériels intéressés autres que ceux visés ci-dessus.
-
-La commission peut entendre toute personnalité choisie en raison de sa compétence.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Abrogé par_:
-
-  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
-
-
-###### Article D241-3
-
-La commission centrale des servitudes aéronautiques se réunit sur convocation de son président, chaque fois que l'importance
-ou le nombre des affaires qui lui sont soumises le justifie.
-
-Les avis émis par la commission sont motivés. Ils sont pris à la majorité des membres présents, la voix du président étant
-prépondérante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-_Abrogé par_:
-
-  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
-
-
-##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=205></a>
+##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=204></a>
 
 ###### Article D241-4
 
 Les spécifications techniques destinées à servir de base à l'établissement des servitudes aéronautiques sont fixées par
-arrêté du ministre chargé de l'aviation civile ou du ministre des armées, après avis de la commission centrale des servitudes
-aéronautiques.
+arrêté du ministre chargé de l'aviation civile ou du ministre des armées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 _Cité par_:
 
@@ -23582,9 +23496,9 @@ _Cité par_:
   - Code de l'aviation civile - art. D242-7 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=206></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=205></a>
 
-##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=207></a>
+##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=206></a>
 
 ###### Article D242-1
 
@@ -23652,10 +23566,14 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-###### Article D242-4
+###### Article D242-5
 
-Le plan de dégagement accompagné des résultats de l'enquête publique et des résultats de la conférence entre services est
-soumis avant son approbation à l'avis de la commission centrale des servitudes aéronautiques.
+Lorsque des mesures provisoires de sauvegarde doivent être prises en application de l'article L. 6351-4 du code des
+transports, il est procédé à une enquête publique précédée d'une conférence entre services intéressés dans les conditions
+fixées à l'article D. 242-2. 
+
+L'arrêté approuvant les mesures provisoires de sauvegarde est pris par le ministre chargé de l'aviation civile ou par le
+ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -23663,34 +23581,17 @@ _Codifié par_:
 
   - Décret n°67-335 du 30 mars 1967
 
-_Abrogé par_:
+_Cite_:
+
+  - Code des transports - art. L6351-4
+  - Code de l'aviation civile - art. D242-2
+
+_Modifié par_:
 
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-###### Article D242-5
-
-Lorsque des mesures provisoires de sauvegarde doivent être prises en application de l'article R. 241-5, il est procédé à une
-enquête publique précédée d'une conférence entre services intéressés dans les conditions fixées à l'article D. 242-2. Les
-mesures envisagées ainsi que les résultats de l'enquête publique et de la conférence entre services sont soumis à l'avis de
-la commission centrale des servitudes aéronautiques.
-
-L'arrêté approuvant les mesures provisoires de sauvegarde est pris par le ministre chargé de l'aviation civile ou par le
-ministre des armées, après avis favorable de la commission centrale des servitudes aéronautiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Cite_:
-
-  - Code de l'aviation civile - art. D242-2 (V)
-  - Code de l'aviation civile R241-5, D242-2
-
-
-##### Section 2 : Application du plan de dégagement.<a id=208></a>
+##### Section 2 : Application du plan de dégagement.<a id=207></a>
 
 ###### Article D242-6
 
@@ -23741,9 +23642,9 @@ _Cité par_:
 ###### Article D242-8
 
 Par dérogation à l'article D. 242-7, le préfet peut autoriser, dans les mêmes zones, des installations et équipements
-concourant à la sécurité de la navigation aérienne et du transport aérien public, après avis préalable de la Commission
-centrale des servitudes aéronautiques et sous réserve qu'une étude technique démontre que la sécurité et la régularité de
-l'exploitation des aéronefs ne sont pas affectées.
+concourant à la sécurité de la navigation aérienne et du transport aérien public sous réserve qu'une étude technique
+approuvée par les services de l'aviation civile démontre que la sécurité et la régularité de l'exploitation des aéronefs ne
+sont pas affectées. 
 
 Cette autorisation, qui est annexée au plan de servitudes aéronautiques, est transmise au maire de la commune concernée.
 
@@ -23751,11 +23652,7 @@ Cette autorisation, qui est annexée au plan de servitudes aéronautiques, est t
 
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2004-1177 du 28 octobre 2004 - art. 2 () JORF 6 novembre 2004
+  - Décret n°67-335 du 30 mars 1967
 
 _Cité par_:
 
@@ -23763,13 +23660,13 @@ _Cité par_:
   - Décret n°2012-1495 du 27 décembre 2012 - art. 3 (V)
   - Code de l'aviation civile - art. D242-10 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
+
 _Cite_:
 
-  - Code de l'aviation civile - art. D242-7 (M)
-
-_Anciens textes_:
-
-  - Décret n°60-1059 1960-09-24 art. 12
+  - Code de l'aviation civile - art. D242-7
 
 
 ###### Article D242-11
@@ -23894,7 +23791,7 @@ _Créé par_:
   - Décret n°73-309 1973-03-09 art. 2 JORF 20 mars 1973
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=209></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=208></a>
 
 ###### Article D243-1
 
@@ -24102,36 +23999,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-5 (V)
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=210></a>
-
-###### Article D244-1
-
-Les arrêtés ministériels prévus à l'article R. 244-1 pour définir les installations soumises à autorisation à l'extérieur des
-zones grevées de servitudes de dégagement seront pris après avis de la commission centrale des servitudes aéronautiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Abrogé par_:
-
-  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D244-2 (V)
-  - Code de l'urbanisme - art. II (M)
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R244-1
-
-_Anciens textes_:
-
-  - Décret n°60-1059 1960-09-24 art. 24
-
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=209></a>
 
 ###### Article D244-2
 
@@ -24187,33 +24055,29 @@ _Codifié par_:
 ###### Article D244-4
 
 Les décrets visant à ordonner la suppression ou la modification d'installations constituant des obstacles à la navigation
-aérienne dans les conditions prévues au quatrième alinéa de l'article R. 244-1 sont pris après avis de la commission centrale
-des servitudes aéronautiques et contresignés par le ministre chargé de l'aviation civile et par les ministres intéressés.
-
-**Nota:**
-
-Décret n° 80-562 du 18 juillet 1980 (art. 2) concerne l'article R. 244-1 alinéa 4.
+aérienne dans les conditions prévues au quatrième alinéa de l'article R. 244-1 sont contresignés par le ministre chargé de
+l'aviation civile et par les ministres intéressés.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°67-335 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
+
 _Cite_:
 
-  - Code de l'aviation civile - art. R244-1 (M)
+  - Code de l'aviation civile - art. R244-1
 
 _Cité par_:
 
   - Code de l'urbanisme - art. II (M)
 
-_Anciens textes_:
 
-  - Décret n°60-1059 1960-09-24 art. 27
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-
-#### CHAPITRE V : TERRAINS RESERVES.<a id=211></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=210></a>
 
 ###### Article D245-1
 
@@ -24287,9 +24151,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE V : AEROPORTS DE PARIS<a id=212></a>
+### TITRE V : AEROPORTS DE PARIS<a id=211></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=213></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=212></a>
 
 ###### Article D251
 
@@ -24310,11 +24174,11 @@ _Créé par_:
   - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
 
 
-## LIVRE III : TRANSPORT AERIEN.<a id=214></a>
+## LIVRE III : TRANSPORT AERIEN.<a id=213></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=215></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=214></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=216></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=215></a>
 
 ###### Article D321-1
 
@@ -24353,9 +24217,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=217></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=216></a>
 
-#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=218></a>
+#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=217></a>
 
 ###### Article D330-1
 
@@ -24390,9 +24254,9 @@ _Cite_:
   - Code de l'aviation civile - art. R330-4 (V)
 
 
-### TITRE IV : SOCIETE AIR FRANCE.<a id=219></a>
+### TITRE IV : SOCIETE AIR FRANCE.<a id=218></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=220></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=219></a>
 
 ###### Article D342-1
 
@@ -24413,7 +24277,7 @@ _Modifié par_:
   - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
-### TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE.<a id=221></a>
+### TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE.<a id=220></a>
 
 ###### Article D370-1
 
@@ -24757,9 +24621,9 @@ _Anciens textes_:
   - Code de l'aviation civile - art. D360-11 (T)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=222></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=221></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=223></a>
+### TITRE Ier : DISPOSITIONS COMMUNES.<a id=222></a>
 
 ###### Article D410-1
 
@@ -24906,9 +24770,9 @@ _Abrogé par_:
   - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=224></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=223></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=225></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=224></a>
 
 ###### Article D421-1
 
@@ -25231,9 +25095,9 @@ _Cite_:
   - Code de l'aviation civile - art. L421-9 (VT)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=226></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=225></a>
 
-##### Section 1 : Dispositions générales<a id=227></a>
+##### Section 1 : Dispositions générales<a id=226></a>
 
 ###### Article D422-1
 
@@ -25766,7 +25630,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-4-1 (V)
 
 
-##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=228></a>
+##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=227></a>
 
 ###### Article D422-8
 
@@ -25815,7 +25679,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D241-22 (Ab)
 
 
-##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=229></a>
+##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=228></a>
 
 ###### Article D422-9
 
@@ -26069,7 +25933,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-11 (V)
 
 
-##### Section 4 : Période de transition<a id=230></a>
+##### Section 4 : Période de transition<a id=229></a>
 
 ###### Article D422-14
 
@@ -26101,7 +25965,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Section 5 : Mesures de contrôle<a id=231></a>
+##### Section 5 : Mesures de contrôle<a id=230></a>
 
 ###### Article D422-15
 
@@ -26152,9 +26016,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=232></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=231></a>
 
-##### Section 2 : Conseil médical<a id=233></a>
+##### Section 2 : Conseil médical<a id=232></a>
 
 ###### Article D424-1
 
@@ -26530,9 +26394,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=234></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=233></a>
 
-#### CHAPITRE Ier : Discipline<a id=235></a>
+#### CHAPITRE Ier : Discipline<a id=234></a>
 
 ###### Article D431-3
 
@@ -26560,9 +26424,9 @@ _Cite_:
   - Code de l'aviation civile - art. R431-3
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=236></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=235></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=237></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=236></a>
 
 ###### Article D510-1
 
@@ -26816,9 +26680,9 @@ _Cité par_:
   - Arrêté du 8 janvier 2018 - art. 3 (V)
 
 
-### TITRE II : AIDE AUX JEUNES<a id=238></a>
+### TITRE II : AIDE AUX JEUNES<a id=237></a>
 
-#### Section 1 : Aide aux jeunes.<a id=239></a>
+#### Section 1 : Aide aux jeunes.<a id=238></a>
 
 ###### Article D521-1
 
@@ -26907,7 +26771,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=240></a>
+#### Section 2 : Aide à la construction amateur.<a id=239></a>
 
 ###### Article D521-4
 
@@ -26973,9 +26837,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=241></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=240></a>
 
-### Section 1 : Avions photographes.<a id=242></a>
+### Section 1 : Avions photographes.<a id=241></a>
 
 ###### Article D611-1
 
@@ -27000,7 +26864,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=243></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=242></a>
 
 ###### Article D611-2
 
@@ -27112,11 +26976,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-# Annexes<a id=244></a>
+# Annexes<a id=243></a>
 
-## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=245></a>
+## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=244></a>
 
-### REGLES DE l'AIR<a id=246></a>
+### REGLES DE l'AIR<a id=245></a>
 
 ###### Article Annexe I : Appendice 1
 
@@ -30232,9 +30096,9 @@ _Modifié par_:
   - Arrêté du 3 mars 2006, v. init.
 
 
-## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=247></a>
+## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=246></a>
 
-### SERVICES DE LA CIRCULATION AERIENNE<a id=248></a>
+### SERVICES DE LA CIRCULATION AERIENNE<a id=247></a>
 
 ###### Article Annexe II : Appendice 1
 
@@ -33754,7 +33618,7 @@ _Créé par_:
   - Arrêté du 3 mars 2006 - art. 1, v. init.
 
 
-## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=249></a>
+## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=248></a>
 
 ###### Article Annexe III
 
