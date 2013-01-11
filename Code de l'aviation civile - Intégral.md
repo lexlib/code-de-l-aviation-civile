@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2013-01-02
+Version Consolidée au 2013-01-12
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -117,9 +117,9 @@ Version Consolidée au 2013-01-02
           - [Section 2 : Sécurité (art. R282-2)](#114)
           - [Section 3 : Sûreté (art. R282-3)](#115)
     - [LIVRE III : TRANSPORT AERIEN (art. R321-1 à R360-5)](#116)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-6)](#117)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-7)](#117)
         - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1)](#118)
-        - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-6)](#119)
+        - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-7)](#119)
       - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-1 à R330-24)](#120)
       - [TITRE IV : SOCIETE AIR FRANCE. (art. R342-1 à R342-2)](#121)
         - [CHAPITRE II : FONCTIONNEMENT. (art. R342-1 à R342-2)](#122)
@@ -11323,6 +11323,20 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2007-669 du 2 mai 2007 - art. 1 () JORF 4 mai 2007
+
+
+###### Article R322-7
+
+Les compagnies aériennes effectuant des transports à destination des zones du territoire national où la vaccination
+antiamarile est obligatoire vérifient, avant l'embarquement, que les voyageurs sont régulièrement autorisés à atterrir au
+point d'arrivée et aux escales prévues et sont à cet égard en possession d'un certificat de vaccination antiamarile ou d'un
+certificat de contre-indication médicale à cette vaccination.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-30 du 9 janvier 2013 - art. 4
 
 
 ### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.<a id=120></a>
