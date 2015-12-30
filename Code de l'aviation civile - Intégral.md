@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2015-04-05
+Version Consolidée au 2015-12-31
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -130,7 +130,7 @@ Version Consolidée au 2015-04-05
         - [Section 2 : Transports par moyens militaires. (art. R351-2)](#127)
       - [TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE. (art. R360-1 à R360-5)](#128)
     - [LIVRE IV : PERSONNEL NAVIGANT (art. R410-1 à R431-10)](#129)
-      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R410-1 à R410-3)](#130)
+      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R410-1 à R410-13)](#130)
       - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#131)
         - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#132)
           - [Section 1 : Catégories. (art. R421-1 à R421-3)](#133)
@@ -231,34 +231,33 @@ Version Consolidée au 2015-04-05
       - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#228)
         - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#229)
       - [TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE. (art. D370-1 à D370-11)](#230)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D410-1 à D431-3)](#231)
-      - [TITRE Ier : DISPOSITIONS COMMUNES. (art. D410-1 à D410-3)](#232)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#233)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#234)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#235)
-          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#236)
-          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#237)
-          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#238)
-          - [Section 4 : Période de transition (art. D422-14)](#239)
-          - [Section 5 : Mesures de contrôle (art. D422-15)](#240)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-1 à D424-8)](#241)
-          - [Section 2 : Conseil médical (art. D424-1 à D424-8)](#242)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D431-3)](#243)
-        - [CHAPITRE Ier : Discipline (art. D431-3)](#244)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#245)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#246)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#247)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#248)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#249)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#250)
-      - [Section 1 : Avions photographes. (art. D611-1)](#251)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#252)
-  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#253)
-    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#254)
-      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#255)
-    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#256)
-      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#257)
-    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#258)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D421-1 à D431-3)](#231)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#232)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#233)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#234)
+          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#235)
+          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#236)
+          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#237)
+          - [Section 4 : Période de transition (art. D422-14)](#238)
+          - [Section 5 : Mesures de contrôle (art. D422-15)](#239)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-8)](#240)
+          - [Section 2 : Conseil médical (art. D424-2 à D424-8)](#241)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D431-3)](#242)
+        - [CHAPITRE Ier : Discipline (art. D431-3)](#243)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#244)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#245)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#246)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#247)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#248)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#249)
+      - [Section 1 : Avions photographes. (art. D611-1)](#250)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#251)
+  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#252)
+    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#253)
+      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#254)
+    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#255)
+      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#256)
+    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#257)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -13228,6 +13227,284 @@ _Cité par_:
   - Code de l'aviation civile - art. R421-7 (V)
 
 
+###### Article R410-4
+
+Le conseil médical de l'aéronautique civile, qui constitue la commission médicale mentionnée à l'article L. 6511-4 du code
+des transports, est placé auprès du ministre chargé de l'aviation civile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code des transports - art. L6511-4 (V)
+
+
+###### Article R410-5
+
+Le conseil médical de l'aéronautique civile : 
+
+1° Etudie et coordonne les questions médicales ayant un impact sur la sécurité, en ce qui concerne le personnel navigant ; 
+
+2° Etudie et coordonne les questions d'ordre médico-social et d'hygiène intéressant l'aéronautique civile, les passagers et,
+d'une façon générale, le contrôle sanitaire ; 
+
+3° Analyse les données épidémiologiques concernant l'aptitude médicale des navigants ; 
+
+4° Est consulté sur les conditions dans lesquelles la médecine aéronautique et spatiale est enseignée ; 
+
+5° Assure dans les matières mentionnées aux 1° à 4° la liaison avec les organismes homologues étrangers ; 
+
+6° Se prononce sur le caractère définitif des inaptitudes déclarées lors des renouvellements d'aptitude par les différents
+centres d'expertise de médecine aéronautique à l'égard :
+
+- des personnels navigants titulaires d'un titre aéronautique ;
+
+- des candidats à l'obtention d'un de ces titres et détenteurs d'une carte de stagiaire ; 
+
+7° Prend les décisions prévues aux articles L. 6526-1, L. 6526-2, L. 6526-5 et L. 6526-7 du code des transports et par
+l'article R. 426-17 en matière de reconnaissance et d'imputabilité au service aérien d'une maladie ayant entrainé une
+incapacité temporaire ou permanente de travail ou le décès ; 
+
+8° Prend les décisions prévues aux articles L. 6526-1, L. 6526-2, L. 6526-5 et L. 6526-7 du code des transports et par
+l'article R. 426-17 en matière de reconnaissance et d'imputabilité au service aérien d'un accident aérien survenu en service
+ayant entrainé une incapacité temporaire ou permanente de travail ou le décès.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. D424-6 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R426-17 (V)
+  - Code des transports - art. L6526-1 (V)
+  - Code des transports - art. L6526-5 (V)
+  - Code des transports - art. L6526-7 (V)
+
+
+###### Article R410-6
+
+Le conseil médical de l'aéronautique civile statue sur les recours formés dans un délai de deux mois par les personnels
+navigants ou par les candidats à l'une de ces fonctions à l'encontre des décisions individuelles prises par :
+
+- les centres aéromédicaux et les examinateurs aéromédicaux mentionnés au point MED. A. 025 de l'annexe IV du règlement (UE)
+n° 1178/2011 de la Commission du 3 novembre 2011 ;
+
+- les évaluateurs médicaux mentionnés à l'article R. 410-12 ;
+
+- le directeur de la sécurité de l'aviation civile en application de l'article R. 410-8. 
+
+L'exercice de ce recours est un préalable obligatoire à la saisine du juge administratif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R410-11 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R410-12 (V)
+  - Code de l'aviation civile - art. R410-8 (V)
+
+
+###### Article R410-7
+
+I.-De sa propre initiative en application du point ARA. GEN. 355 a à d de l'annexe VI du règlement (UE) n° 1178/2011 de la
+Commission du 3 novembre 2011, le directeur de la sécurité de l'aviation civile peut saisir le conseil médical de
+l'aéronautique civile afin que ce dernier statue sur la décision d'aptitude aéromédicale d'un navigant. 
+
+II.-A la demande d'un employeur, et s'il l'estime justifié après avoir pris, au préalable, l'avis des médecins mentionnés aux
+quatrième et cinquième alinéas du III de l'article R. 410-10, le directeur de la sécurité de l'aviation civile peut saisir le
+conseil médical de l'aéronautique civile afin que ce dernier statue sur la décision d'aptitude aéromédicale d'un navigant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R410-10 (V)
+
+
+###### Article R410-8
+
+Le directeur de la sécurité de l'aviation civile peut, sur proposition d'un évaluateur médical, en cas de risque immédiat
+pour la sécurité des biens et des personnes résultant d'un doute sérieux sur l'aptitude médicale d'un navigant, prendre à
+titre conservatoire une mesure de suspension du certificat médical du navigant concerné pour une durée maximum de deux mois.
+Il saisit sans délai le conseil médical de l'aéronautique civile afin qu'il statue sur l'aptitude aéromédicale du navigant
+concerné.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R410-6 (V)
+
+
+###### Article R410-9
+
+Le président du conseil médical de l'aéronautique civile signe le cas échéant les certificats médicaux mentionnés à l'article
+5 du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 tirant les conséquences des décisions prises par cette
+instance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+
+###### Article R410-10
+
+I.-Le conseil médical de l'aéronautique civile comprend quinze membres, tous docteurs en médecine. 
+
+II.-Neuf membres sont nommés par le ministre chargé de l'aviation civile après appel à candidatures, parmi les personnes
+qualifiées dans l'une des disciplines essentielles à la médecine aéronautique, dont un membre qualifié dans le domaine de la
+formation en médecine aéronautique. 
+
+III.-Six membres sont nommés par le ministre chargé de l'aviation civile parmi les personnes justifiant d'une expérience de
+la pratique de la médecine aéronautique qui lui sont proposées dans les conditions suivantes : 
+
+- une sur proposition du ministre de la défense ; 
+
+- une sur proposition des fédérations françaises aéronautiques et sportives ; 
+
+- deux sur proposition des organisations représentant les entreprises de transport aérien ; 
+
+- deux sur proposition des organisations syndicales représentatives des personnels navigants de l'aviation civile. 
+
+IV.-Les membres du conseil médical de l'aéronautique civile sont, après dépôt d'une déclaration d'intérêts, nommés par arrêté
+du ministre chargé de l'aviation civile pour un mandat de trois ans renouvelable. Cet arrêté porte nomination du président et
+du vice-président, celui-ci assurant la suppléance du président en cas d'absence ou d'empêchement. 
+
+V.-Tout membre du conseil médical de l'aéronautique civile dont le mandat est interrompu est remplacé, dans les conditions
+prévues respectivement au II, III et IV, jusqu'au terme du mandat en cours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R410-7 (V)
+
+
+###### Article R410-11
+
+I.-Les membres du conseil médical de l'aéronautique civile sont convoqués individuellement à chaque séance par le président. 
+
+II.-Le conseil ne peut valablement délibérer que si au moins cinq de ses membres sont présents. 
+
+III.-Les membres du conseil exercent leurs fonctions en toute indépendance et impartialité. Lorsque le conseil délibère dans
+les cas mentionnés aux articles R. 410-6, R. 410-7 et R. 410-8, un membre s'abstient de prendre part aux délibérations et aux
+votes portant sur une décision dont il a déjà eu à connaître à l'occasion de son activité extérieure au conseil. Lorsqu'un
+membre s'abstient de siéger, il n'est pas pris en considération pour l'application de la règle de quorum. 
+
+IV.-Les délibérations ont lieu à huis clos. Les décisions et avis sont prononcés à la majorité des voix. En cas de partage
+des voix, celle du président de séance est prépondérante. 
+
+V.-Le président peut, sur proposition du conseil, désigner un ou plusieurs médecins experts. La mission de ces experts leur
+est précisée par lettre du président et l'auteur du recours est informé de cette désignation. 
+
+VI.-Les auteurs des recours mentionnés à l'article R. 410-6 sont informés de la date de la séance au cours de laquelle leur
+demande sera examinée. Ils peuvent demander à être entendus par le conseil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. D424-8 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R410-6 (V)
+
+
+###### Article R410-12
+
+I.-Le directeur de la sécurité de l'aviation civile est l'autorité compétente pour désigner les évaluateurs médicaux chargés
+des missions définies aux annexes IV, VI et VII du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 en tant
+qu'elles concernent l'aptitude médicale des personnels navigants. Ils répondent aux exigences fixées au point ARA. MED. 120
+de l'annexe VI du règlement (UE) n° 1178/2011 du 3 novembre 2011. 
+
+II.-Les médecins examinateurs aéromédicaux et les centres aéromédicaux peuvent demander l'avis des évaluateurs médicaux avant
+de statuer sur les cas litigieux en matière d'aptitude aéromédicale des personnels navigants ou des candidats à ces
+fonctions. 
+
+III.-Les évaluateurs médicaux sont compétents pour établir et signer les certificats, attestations et documents dont la
+production est prescrite par le règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R410-6 (V)
+
+
+###### Article R410-13
+
+I.-Sous réserve des dispositions du III, le directeur de la sécurité de l'aviation civile est l'autorité compétente chargée
+de l'application des règles relatives à l'aptitude technique et médicale des personnels navigants conformément aux
+dispositions du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011. 
+
+II.-Le directeur de la sécurité de l'aviation civile met en œuvre les exigences applicables aux autorités pour le personnel
+navigant prévues par le règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011. 
+
+Après avis du délégué général pour l'armement, le directeur de la sécurité de l'aviation civile : 
+
+- convertit une licence de pilote pour les opérations, essais et réceptions dans les conditions prévues aux articles 4 et 6
+du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 ; 
+
+- valide une licence de pilote pour les opérations, essais et réceptions, délivrée par un pays tiers, dans les conditions
+prévues à l'annexe III du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 ; 
+
+- délivre un certificat spécial à un pilote pour les cas de vols liés à l'introduction ou à la modification de types
+d'aéronefs dans les conditions prévues au paragraphe FCL 700 b du règlement (UE) n° 1178/2011 de la Commission du 3 novembre
+2011. 
+
+III.-Le délégué général pour l'armement est l'autorité compétente chargée de la délivrance et de la surveillance des
+agréments des organismes de formation aux essais en vol prévues par le règlement (UE) n° 1178/2011 de la Commission du 3
+novembre 2011. Dans le domaine de compétence ainsi défini, le délégué général pour l'armement met en œuvre les exigences
+applicables aux autorités pour le personnel navigant prévues par le règlement (UE) n° 1178/2011 de la Commission du 3
+novembre 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 2
+
+
 ### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=131></a>
 
 #### CHAPITRE Ier : REGLES GENERALES.<a id=132></a>
@@ -14165,23 +14442,23 @@ _Cite_:
 
 ###### Article R425-4
 
-Le conseil de discipline du personnel navigant professionnel de l'aéronautique civile est chargé de donner au ministre un
-avis sur l'application de sanctions à l'égard des personnes titulaires de titres aéronautiques de personnel navigant
-professionnel délivrés par le ministre chargé de l'aviation civile ou le ministre chargé de la défense ou validés par ces
-mêmes autorités, à l'encontre desquelles auront été relevés des manquements aux règles édictées par le présent code en vue
-d'assurer la sécurité et, le cas échéant, par les dispositions prises pour son application.
+Le conseil de discipline du personnel navigant professionnel de l'aéronautique civile est chargé de donner au ministre chargé
+de l'aviation civile un avis sur l'application de sanctions à l'égard des personnes titulaires de titres aéronautiques de
+personnel navigant professionnel soit délivrés par ce ministre ou par le ministre de la défense, soit validés par ces mêmes
+autorités, à l'encontre desquelles auront été relevés des manquements aux règles édictées en matière de sécurité par : 
+
+- le présent code et les textes pris pour son application ; 
+
+- le code des transports et les textes pris pour son application ; 
+
+- le règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 et les règlements pris pour son
+application ; 
+
+- le règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010.
 
 **Nota:**
 
-Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil de
-discipline du personnel navigant professionnel de l'aéronautique civile).
 
-Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
-du 8 juin 2014 (Conseil de discipline du personnel navigant professionnel de l'aéronautique civile).
-
-Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil de discipline du personnel navigant professionnel
-de l'aéronautique civile  est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -14192,7 +14469,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -14211,7 +14488,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1175 du 13 septembre 2005 - art. 4 () JORF 18 septembre 2005
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 3
 
 
 ###### Article R425-5
@@ -16335,16 +16612,24 @@ _Cité par_:
 
 ###### Article R431-1
 
-Les personnels navigants non professionnels de l'aéronautique civile titulaires d'un titre délivré ou validé par le ministre
-chargé de l'aviation civile à l'encontre desquels auront été relevées des infractions aux règles édictées en vue d'assurer la
-sécurité par le code des transports et par le code de l'aviation civile ainsi que par les textes pris pour leur application
-sont passibles de sanctions disciplinaires dans les conditions prévues au présent chapitre.
+Sont passibles de sanctions disciplinaires, dans les conditions prévues au présent chapitre, les personnels navigants non
+professionnels de l'aéronautique civile titulaires d'un titre délivré ou validé par le ministre chargé de l'aviation civile à
+l'encontre desquels auront été relevées des infractions aux règles édictées en matière de sécurité par : 
+
+- le présent code et les textes pris pour son application ; 
+
+- le code des transports et les textes pris pour son application ; 
+
+- le règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 et les règlements pris pour son
+application ; 
+
+- le règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-484 du 3 mai 2011 - art. 1
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 4
 
 
 ###### Article R431-2
@@ -24075,156 +24360,9 @@ _Anciens textes_:
 
 ## LIVRE IV : PERSONNEL NAVIGANT<a id=231></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES.<a id=232></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=232></a>
 
-###### Article D410-1
-
-L'agrément des centres d'expertise de médecine aéronautique prévu à l'article L. 410-2 du présent code est accordé par arrêté
-du ministre chargé de l'aviation civile après avis du conseil médical de l'aéronautique civile. 
-
-L'agrément est délivré pour une durée maximale de trois ans renouvelable. 
-
-Est susceptible d'être agréé comme centre d'expertise de médecine aéronautique tout groupement constitué de médecins qui : 
-
-a) Est situé sur le territoire français ; 
-
-b) Est composé d'une équipe de médecins remplissant les conditions générales d'exercice de la profession de médecin,
-spécifiquement formés et expérimentés en médecine aéronautique. Ils doivent avoir acquis une expérience et une connaissance
-pratique des conditions dans lesquelles les titulaires de licences et qualifications visées à l'article L. 410-1 du présent
-code exercent leurs activités ; 
-
-c) Est dirigé par un médecin-chef responsable des visites médicales. Le médecin-chef est signataire des rapports et
-certificats médicaux ; 
-
-d) Est doté des équipements spécialisés nécessaires à des examens approfondis en matière de médecine aéronautique ; la liste
-de ces équipements est fixée par arrêté. 
-
-L'agrément précise le cas échéant les types d'examens que le centre est habilité à effectuer. 
-
-Les conditions d'application du présent article sont déterminées par arrêté du ministre chargé de l'aviation civile. 
-
-Les centres d'expertises rattachés au ministre chargé de la défense peuvent être agréés comme centres d'expertise de médecine
-aéronautique, dans les conditions fixées par arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la
-défense.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 1 () JORF 2 septembre 2004
-
-_Cité par_:
-
-  - Arrêté du 26 octobre 2007 - art. 4 (Ab)
-  - Code de l'aviation civile - art. D410-2 (M)
-
-_Abrogé par_:
-
-  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
-
-_Cite_:
-
-  - Code de l'aviation civile - art. L410-1
-  - Code de l'aviation civile - art. L410-2
-
-
-###### Article D410-2
-
-L'agrément des médecins examinateurs prévu à l'article L. 410-2 du présent code est accordé par arrêté du ministre chargé de
-l'aviation civile après avis du conseil médical de l'aéronautique civile. 
-
-L'agrément est délivré pour une durée maximale de trois ans renouvelable. 
-
-Est susceptible d'être agréé comme médecin examinateur le médecin qui : 
-
-a) Remplit les conditions générales d'exercice de la profession de médecin, et notamment qui est inscrit au tableau de
-l'ordre des médecins. La radiation au tableau de l'ordre des médecins ou la suspension temporaire du droit d'exercer
-entraînent selon le cas le retrait de l'agrément ou la suspension temporaire de l'agrément. Les dispositions de cet alinéa ne
-sont pas applicables aux médecins des armées ; 
-
-b) Est titulaire du ou des titres de médecine aéronautique déterminés par arrêté. Il doit avoir acquis une expérience et une
-connaissance pratique des conditions dans lesquelles les titulaires de licences et qualifications visées à l'article L. 410-1
-du présent code exercent leurs activités ; 
-
-c) Dispose des équipements techniques nécessaires à la réalisation des examens médicaux. La liste de ces équipements est
-fixée par arrêté. 
-
-A l'issue de la période de trois ans, le renouvellement de l'agrément est accordé au médecin examinateur qui a effectué un
-nombre suffisant d'examens médicaux, dans le respect de la réglementation applicable, et qui a suivi des formations dont le
-contenu est défini par arrêté. 
-
-Les conditions d'application du présent article sont déterminées par arrêté du ministre chargé de l'aviation civile. 
-
-Les médecins des armées peuvent être agréés comme médecins examinateurs, dans les conditions fixées par arrêté conjoint du
-ministre chargé de l'aviation civile et du ministre de la défense.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 2 () JORF 2 septembre 2004
-
-_Cité par_:
-
-  - Arrêté du 7 février 2005 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
-
-_Cite_:
-
-  - Code de l'aviation civile - art. L410-1
-  - Code de l'aviation civile - art. L410-2
-
-
-###### Article D410-3
-
-Le ministre chargé de l'aviation civile prononce la suspension de l'agrément, pour une durée maximale de deux mois, dans le
-cas prévu à l'article L. 410-5, par lettre motivée adressée au médecin-chef du centre d'expertise de médecine aéronautique ou
-au médecin examinateur. 
-
-Le ministre chargé de l'aviation civile retire l'agrément dans les formes prévues à l'article 24 de la loi du 12 avril 2000
-relative aux droits des citoyens dans leurs relations avec les administrations et après avis du conseil médical de
-l'aéronautique civile.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Cite_:
-
-  - Loi n°2000-321 du 12 avril 2000 - art. 24
-  - Code de l'aviation civile - art. L410-5
-
-_Créé par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 3 () JORF 2 septembre 2004
-
-_Cité par_:
-
-  - Arrêté du 7 février 2005 - art. 6 (V)
-  - Arrêté du 7 février 2005 - art. 7 (V)
-  - Arrêté du 7 février 2005 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
-
-
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=233></a>
-
-#### CHAPITRE Ier : REGLES GENERALES.<a id=234></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=233></a>
 
 ###### Article D421-1
 
@@ -24547,9 +24685,9 @@ _Cite_:
   - Code de l'aviation civile - art. L421-9 (VT)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=235></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=234></a>
 
-##### Section 1 : Dispositions générales<a id=236></a>
+##### Section 1 : Dispositions générales<a id=235></a>
 
 ###### Article D422-1
 
@@ -25082,7 +25220,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-4-1 (V)
 
 
-##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=237></a>
+##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=236></a>
 
 ###### Article D422-8
 
@@ -25131,7 +25269,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D241-22 (Ab)
 
 
-##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=238></a>
+##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=237></a>
 
 ###### Article D422-9
 
@@ -25385,7 +25523,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-11 (V)
 
 
-##### Section 4 : Période de transition<a id=239></a>
+##### Section 4 : Période de transition<a id=238></a>
 
 ###### Article D422-14
 
@@ -25417,7 +25555,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Section 5 : Mesures de contrôle<a id=240></a>
+##### Section 5 : Mesures de contrôle<a id=239></a>
 
 ###### Article D422-15
 
@@ -25468,64 +25606,26 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=241></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=240></a>
 
-##### Section 2 : Conseil médical<a id=242></a>
-
-###### Article D424-1
-
-Un conseil médical de l'aéronautique civile est créé au ministère chargé de l'aviation civile (direction générale de
-l'aviation civile).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-1348 1955-10-05 art. 1
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
-
-_Cité par_:
-
-  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (M)
-  - Arrêté du 23 septembre 2009 (V)
-
-_Abrogé par_:
-
-  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
-
+##### Section 2 : Conseil médical<a id=241></a>
 
 ###### Article D424-2
 
-Le conseil médical de l'aéronautique civile : 
+Pour les personnels navigants titulaires de certificats médicaux délivrés selon les conditions d'aptitude médicale définie à
+l'article L. 6511-2 du code des transports et les textes pris pour son application, le conseil médical de l'aéronautique
+civile : 
 
-1. Etudie et coordonne toutes les questions d'ordre physiologique, médical, médico-social et d'hygiène intéressant
-l'aéronautique civile, notamment en ce qui concerne le personnel navigant, les passagers et, d'une façon générale, le
-contrôle sanitaire. Il assure en cette matière la liaison avec les organismes similaires étrangers. 
-
-2. Se prononce sur le caractère définitif des inaptitudes déclarées lors des renouvellements d'aptitude par les différents
-centres d'expertise de médecine aéronautique à l'égard :
-
-- des personnels navigants titulaires d'un titre aéronautique ;
-
-- des candidats à l'obtention d'un de ces titres et détenteurs d'une carte de stagiaire. 
-
-3. Prend les décisions prévues aux articles L. 424-1, 
+1°. Prend les décisions prévues aux articles L. 424-1, 
 L. 424-2, 
 L. 424-5 et par l'article R. 426-17 en matière de reconnaissance d'imputabilité au service aérien d'une maladie ayant
 entraîné une incapacité temporaire ou permanente de travail ou le décès. 
 
-4. Prend les décisions prévues aux articles L. 424-1, L. 424-2, L. 424-5 et par l'article R. 426-17 en matière de
+2°. Prend les décisions prévues aux articles L. 424-1, L. 424-2, L. 424-5 et par l'article R. 426-17 en matière de
 reconnaissance d'imputabilité au service aérien d'un accident aérien survenu en service ayant entraîné une incapacité
 temporaire ou permanente de travail ou le décès. 
 
-5. Se prononce sur : 
+3°. Se prononce sur : 
 
 a) Les recours interjetés par les candidats à la qualité de personnel navigant professionnel et non professionnel et par les
 personnels navigants professionnels et non professionnels déclarés médicalement inaptes au titre de l'aéronautique civile par
@@ -25541,30 +25641,26 @@ navigant.
 Les recours mentionnés aux a, b et c ci-dessus sont exercés dans un délai de deux mois suivant la date de la décision
 d'aptitude ou d'inaptitude. 
 
-6. Se prononce sur les demandes visant à obtenir une dérogation aux conditions d'aptitude médicale prévues par les règlements
-en vigueur présentées par les candidats à la qualité de personnel navigant professionnel et non professionnel et par les
-personnels navigants professionnels et non professionnels déclarés médicalement inaptes par un centre d'expertise de médecine
-aéronautique ou un médecin examinateur. 
+4°. Se prononce sur les demandes visant à obtenir une dérogation aux conditions d'aptitude médicale prévues par les
+règlements en vigueur présentées par les candidats à la qualité de personnel navigant professionnel et non professionnel et
+par les personnels navigants professionnels et non professionnels déclarés médicalement inaptes par un centre d'expertise de
+médecine aéronautique ou un médecin examinateur. 
 
 Toutefois, en cas de légère déficience par rapport à une norme médicale restant compatible avec la sécurité aérienne, le
 médecin-chef d'un centre d'expertise de médecine aéronautique ou le médecin examinateur peut, pour une durée maximale de
 quarante-cinq jours, déclarer les personnes visées à l'alinéa précédent aptes à exercer leurs fonctions jusqu'à la décision
 du conseil médical de l'aéronautique civile. 
 
-7. Se prononce sur les affaires soumises par des médecins-chefs des centres d'expertise de médecine aéronautique et par des
+5°. Se prononce sur les affaires soumises par des médecins-chefs des centres d'expertise de médecine aéronautique et par des
 médecins examinateurs qui, en présence d'un cas litigieux ou non prévu par les règlements d'aptitude physique et mentale en
 vigueur, estiment devoir prendre l'avis du conseil médical de l'aéronautique civile avant de formuler une décision d'aptitude
 ou d'inaptitude à une fonction du personnel navigant de l'aéronautique civile.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°55-1348 1955-10-05 art. 2
-
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
 
 _Cité par_:
 
@@ -25574,192 +25670,25 @@ _Cité par_:
   - Code de l'aviation civile - art. D424-2-1 (Ab)
   - Code de l'aviation civile - art. D424-4 (Ab)
   - Code de l'aviation civile - art. D424-6 (V)
-  - Code de l'aviation civile - art. D424-7 (M)
+  - Code de l'aviation civile - art. D424-7 (V)
 
 _Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 4 () JORF 2 septembre 2004
-
-_Cite_:
-
-  - Code de l'aviation civile - art. L424-1 (V)
-  - Code de l'aviation civile - art. L424-2 (V)
-  - Code de l'aviation civile - art. L424-5 (V)
-  - Code de l'aviation civile - art. R426-17 (V)
-
-
-###### Article D424-2-1
-
-Les recours interjetés en vertu du b du 5 de l'article D. 424-2 font l'objet d'un examen préalable par une commission nommée
-par le ministre chargé de l'aviation civile et composée :
-
-- d'une personnalité qualifiée, choisie en raison de ses compétences dans le domaine de l'aviation civile, nommée président
-par le ministre chargé de l'aviation civile pour une durée de trois ans renouvelable ;
-
-- de deux personnes désignées par le ministre chargé de l'aviation civile pour une même période, l'une sur proposition des
-exploitants du transport aérien, l'autre sur proposition des organisations représentatives au niveau national du personnel
-navigant professionnel de l'aviation civile. Chacune d'entre elles dispose d'un suppléant désigné dans les mêmes conditions ;
-
-- de deux membres docteurs en médecine, désignés par le ministre chargé de l'aviation civile pour chaque affaire, l'un sur
-proposition de l'employeur, l'autre sur proposition du navigant concerné. 
-
-La commission doit s'assurer que la procédure prévue au b du 5 de l'article D. 424-2 n'est pas utilisée à des fins autres que
-la sécurité des vols. Ses membres siègent en toute indépendance et ses délibérations demeurent secrètes.
-
-**Nota:**
-
-décret 2001-225 2001-03-12 art. 7 : Les dispositions de l'article 2 entreront en vigueur dans un délai de six mois à compter
-de la date de publication du présent décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 5 () JORF 2 septembre 2004
-
-_Abrogé par_:
 
   - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 _Cite_:
 
-  - Code de l'aviation civile - art. D424-2
-
-
-###### Article D424-3
-
-Le conseil médical de l'aéronautique civile est constitué comme suit :
-
-- un président et un vice-président, docteurs en médecine, expérimentés dans la pratique de la médecine aéronautique,
-désignés par le ministre chargé de l'aviation civile ;
-
-- neuf membres désignés par le ministre chargé de l'aviation civile parmi les docteurs en médecine particulièrement qualifiés
-dans l'une des disciplines essentielles à la médecine aéronautique ;
-
-- trois membres docteurs en médecine expérimentés dans la pratique de la médecine aéronautique désignés, deux, sur
-proposition du ministre de la défense, le troisième sur proposition du ministre de la santé ;
-
-- un membre, docteur en médecine, expérimenté dans la pratique de la médecine aéronautique, désigné par le ministre chargé de
-l'aviation civile sur proposition des fédérations françaises aéronautiques et sportives ;
-
-- quatre membres docteurs en médecine expérimentés dans la pratique de la médecine aéronautique, désignés par le ministre
-chargé de l'aviation civile, deux sur proposition des exploitants du transport aérien et deux sur proposition des
-organisations représentatives au niveau national du personnel navigant professionnel de l'aviation civile.
-
-Le président, le vice-président et les autres membres du conseil sont nommés pour trois ans, par mandats renouvelables, par
-arrêté du ministre chargé de l'aviation civile.
-
-Tout membre du conseil dont le mandat est interrompu est remplacé jusqu'à expiration dudit mandat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-1348 1955-10-05 art. 3
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-_Modifié par_:
-
-  - Décret n°2001-225 du 12 mars 2001 - art. 3 () JORF 13 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
-
-
-###### Article D424-4
-
-Les membres du conseil médical sont convoqués individuellement à chaque séance par le président. 
-
-En cas d'absence ou d'empêchement, le président est remplacé par le vice-président. 
-
-Le conseil ne peut valablement délibérer que si cinq au moins de ses membres à voix délibérative sont présents, compte tenu
-des cas d'incompatibilité prévus à l'alinéa ci-après. 
-
-Les membres du conseil exercent leurs fonctions en toute indépendance. Lorsque le conseil délibère dans le cadre des recours
-visés au 5 de l'article D. 424-2, ils ne peuvent prendre part aux délibérations et aux votes portant sur un recours contre
-une décision dont ils ont déjà eu à connaître à l'occasion de leur activité extérieure au conseil. 
-
-Les délibérations ont lieu à huis clos. Les décisions et avis sont prononcés à la majorité des voix. En cas de partage égal
-des voix, celle du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-1348 1955-10-05 art. 4
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-_Modifié par_:
-
-  - Décret n°2004-919 du 31 août 2004 - art. 6 () JORF 2 septembre 2004
-
-_Abrogé par_:
-
-  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
-
-_Cite_:
-
-  - Code de l'aviation civile - art. D424-2
-
-
-###### Article D424-5
-
-Le président du conseil médical peut appeler à siéger au conseil, avec voix consultative, des personnalités qu'il juge
-nécessaire d'entendre en raison de leur compétence ou de leurs fonctions quant aux questions inscrites à l'ordre du jour,
-notamment :
-
-Des représentants du ministre d'Etat chargé de la défense nationale ;
-
-Des représentants du ministre chargé de l'aviation civile ;
-
-Des délégués des organisations représentatives des entreprises et du personnel navigant professionnel de l'aéronautique
-civile.
-
-Le président peut, sur proposition du conseil, désigner un ou plusieurs médecins experts. La mission de ces experts doit leur
-être précisée et le personnel concerné en être informé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°55-1348 1955-10-05 art. 5
-
-_Codifié par_:
-
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2001-225 du 12 mars 2001 - art. 5 () JORF 13 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
-
-_Abrogé par_:
-
-  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
+  - Code de l'aviation civile - art. L424-1
+  - Code de l'aviation civile - art. L424-2
+  - Code de l'aviation civile - art. L424-5
+  - Code de l'aviation civile - art. R426-17
+  - Code des transports - art. L6511-2 (V)
 
 
 ###### Article D424-6
 
-Les affaires visées au 3 et au 4 de l'article D. 424-2 sont rapportées par le chef du bureau médical visé à l'article D.
-424-7. 
+Les affaires mentionnées aux 6° et 7° de l'article R. 410-5 et aux 1° et 2° de l'article D. 424-2 sont rapportées par le chef
+du bureau médical mentionné à l'article D. 424-7. 
 
 Pour ces affaires, peuvent être entendus un représentant de la caisse de retraite du personnel navigant et un médecin de
 cette caisse si le président le demande. 
@@ -25771,47 +25700,32 @@ médical.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°55-1348 1955-10-05 art. 6
-
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
 
 _Modifié par_:
 
-  - Décret n°2001-225 du 12 mars 2001 - art. 6 () JORF 13 mars 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-225 du 12 mars 2001 - art. 8 (V)
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 _Cite_:
 
   - Code de l'aviation civile - art. D424-2 (V)
   - Code de l'aviation civile - art. D424-7 (V)
+  - Code de l'aviation civile - art. R410-5 (V)
 
 
 ###### Article D424-7
 
 Le secrétariat du conseil médical de l'aéronautique civile est assuré par le bureau médical du personnel navigant. Les
-affaires mentionnées au second alinéa de l'article D. 424-2 seront rapportées par le chef du bureau médical qui est docteur
-en médecine et possède une compétence en médecine aéronautique.
+affaires mentionnées aux 1°, 2°, 3° et 4° de l'article R. 410-5 seront rapportées par le chef du bureau médical qui est
+docteur en médecine et possède une compétence en médecine aéronautique.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°55-1348 1955-10-05 art. 7
-
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°78-513 1978-04-04 art. 3 JORF 6 avril 1978
+  - Décret n°67-335 du 30 mars 1967
 
 _Cité par_:
 
@@ -25819,6 +25733,10 @@ _Cité par_:
   - Arrêté du 13 octobre 2014 - art. 15 (Ab)
   - Arrêté du 7 décembre 2015 - art. 17 (V)
   - Code de l'aviation civile - art. D424-6 (V)
+
+_Modifié par_:
+
+  - Décret n°2015-1788 du 28 décembre 2015 - art. 5
 
 _Cite_:
 
@@ -25846,9 +25764,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=243></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=242></a>
 
-#### CHAPITRE Ier : Discipline<a id=244></a>
+#### CHAPITRE Ier : Discipline<a id=243></a>
 
 ###### Article D431-3
 
@@ -25876,9 +25794,9 @@ _Cite_:
   - Code de l'aviation civile - art. R431-3
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=245></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=244></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=246></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=245></a>
 
 ###### Article D510-1
 
@@ -26132,9 +26050,9 @@ _Cité par_:
   - Arrêté du 8 janvier 2018 - art. 3 (V)
 
 
-### TITRE II : AIDE AUX JEUNES<a id=247></a>
+### TITRE II : AIDE AUX JEUNES<a id=246></a>
 
-#### Section 1 : Aide aux jeunes.<a id=248></a>
+#### Section 1 : Aide aux jeunes.<a id=247></a>
 
 ###### Article D521-1
 
@@ -26223,7 +26141,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=249></a>
+#### Section 2 : Aide à la construction amateur.<a id=248></a>
 
 ###### Article D521-4
 
@@ -26289,9 +26207,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=250></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=249></a>
 
-### Section 1 : Avions photographes.<a id=251></a>
+### Section 1 : Avions photographes.<a id=250></a>
 
 ###### Article D611-1
 
@@ -26316,7 +26234,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=252></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=251></a>
 
 ###### Article D611-2
 
@@ -26428,11 +26346,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-# Annexes<a id=253></a>
+# Annexes<a id=252></a>
 
-## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=254></a>
+## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=253></a>
 
-### REGLES DE l'AIR<a id=255></a>
+### REGLES DE l'AIR<a id=254></a>
 
 ###### Article Annexe I : Appendice 1
 
@@ -29548,9 +29466,9 @@ _Modifié par_:
   - Arrêté du 3 mars 2006, v. init.
 
 
-## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=256></a>
+## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=255></a>
 
-### SERVICES DE LA CIRCULATION AERIENNE<a id=257></a>
+### SERVICES DE LA CIRCULATION AERIENNE<a id=256></a>
 
 ###### Article Annexe II : Appendice 1
 
@@ -33070,7 +32988,7 @@ _Créé par_:
   - Arrêté du 3 mars 2006 - art. 1, v. init.
 
 
-## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=258></a>
+## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=257></a>
 
 ###### Article Annexe III
 
