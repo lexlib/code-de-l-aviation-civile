@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2016-05-01
+Version Consolidée au 2016-06-25
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -90,174 +90,175 @@ Version Consolidée au 2016-05-01
           - [Section 3 : Coordination des aérodromes. (art. R221-12)](#87)
         - [CHAPITRE II : CLASSIFICATION. (art. R222-1 à R222-8)](#88)
         - [CHAPITRE III : EXPLOITATION. (art. R223-1 à R223-7)](#89)
-        - [CHAPITRE IV : REDEVANCES. (art. R224-1 à R224-6)](#90)
-          - [Section 1 : Dispositions générales (art. R224-1 à R224-3-1)](#91)
-          - [Section 2 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris (art. R224-3-2 à R224-4-3)](#92)
-          - [Section 3 : Dispositions applicables aux autres aérodromes (art. R224-5)](#93)
-          - [Section 4 : Dispositions particulières applicables aux aérodromes exploités par une      chambre de commerce et d'industrie territoriale (art. R224-6)](#94)
-        - [CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE. (art. R225-1 à R225-5)](#95)
-        - [CHAPITRE VI : SANCTIONS ADMINISTRATIVES. (art. R226-1 à R226-6)](#96)
-        - [CHAPITRE VII : ENVIRONNEMENT DES AERODROMES. (art. R227-1 à R227-20)](#97)
-          - [Section 1 : Autorité de contrôle des nuisances sonores     aéroportuaires (ACNUSA) (art. R227-1 à R227-5)](#98)
-          - [Section 2 : Modification de la circulation aérienne (art. R227-7)](#99)
-          - [Section 3 : Restrictions d'exploitation liées au bruit des aéronefs (art. R227-8 à R227-20)](#100)
-      - [TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R231-1 à R232-2)](#101)
-        - [CHAPITRE Ier : DEFINITIONS. (art. R231-1)](#102)
-        - [CHAPITRE II : AERODROMES A USAGE RESTREINT. (art. R232-1 à R232-2)](#103)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. R241-3 à R245-2)](#104)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. R241-3)](#105)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. R242-1 à R242-2)](#106)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. R243-1)](#107)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. R244-1)](#108)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. R245-2)](#109)
-      - [TITRE V : AEROPORTS DE PARIS. (art. R251-1 à R251-3)](#110)
-      - [TITRE VI : AEROPORT DE BALE-MULHOUSE. (art. R260-1 à R260-2)](#111)
-      - [TITRE VIII : DISPOSITIONS PENALES (art. R281-1 à R282-3)](#112)
-        - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. R281-1 à R281-3)](#113)
-        - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R282-1 à R282-3)](#114)
-          - [Section 1 : Dispositions communes (art. R282-1 à R282-1-3)](#115)
-          - [Section 2 : Sécurité (art. R282-2)](#116)
-          - [Section 3 : Sûreté (art. R282-3)](#117)
-    - [LIVRE III : TRANSPORT AERIEN (art. R321-1 à R360-5)](#118)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-7)](#119)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1)](#120)
-        - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-7)](#121)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-1 à R330-24)](#122)
-      - [TITRE IV : SOCIETE AIR FRANCE. (art. R342-1 à R342-2)](#123)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. R342-1 à R342-2)](#124)
-      - [TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES (art. R351-1 à R351-2)](#125)
-        - [Section 1 : Transports sanitaires. (art. R351-1)](#126)
-        - [Section 2 : Transports par moyens militaires. (art. R351-2)](#127)
-      - [TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE. (art. R360-1 à R360-5)](#128)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. R410-1 à R431-10)](#129)
-      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R410-1 à R410-13)](#130)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#131)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#132)
-          - [Section 1 : Catégories. (art. R421-1 à R421-3)](#133)
-          - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-17)](#134)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#135)
-        - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-6)](#136)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. R424-1 à R424-7)](#137)
-        - [CHAPITRE V : DISCIPLINE. (art. R425-1 à R425-19)](#138)
-        - [CHAPITRE VI : RETRAITES. (art. R426-1 à R426-28)](#139)
-          - [Section 1 : Définitions. (art. R426-5)](#140)
-          - [Section 2 : Cotisations. (art. R426-6 à R426-10)](#141)
-          - [Section 3 : Constitution du droit à pension. (art. R426-11 à R426-15-4)](#142)
-          - [Section 4 : Calcul de la pension. (art. R426-16-1 à R426-17)](#143)
-          - [Section 5 : Pension de réversion. (art. R426-19 à R426-21)](#144)
-          - [Section 6 : Dispositions diverses. (art. R426-24 à R426-27-2)](#145)
-          - [Section 7 : Dispositions transitoires. (art. R426-28)](#146)
-        - [CHAPITRE VII : DISPOSITIONS PENALES. (art. R427-1)](#147)
-        - [CHAPITRE VIII : DISPOSITIONS COMMUNES. (art. R428-1)](#148)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. R431-1 à R431-10)](#149)
-        - [CHAPITRE Ier : Discipline (art. R431-1 à R431-10)](#150)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#151)
-      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#152)
-        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#153)
-        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#154)
-    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-6)](#155)
-    - [LIVRE VII : ENQUETE DE SECURITE RELATIVE AUX ACCIDENTS OU INCIDENTS (art. R711-3 à R741-1)](#156)
-      - [TITRE Ier : DISPOSITIONS GENERALES. (art. R711-3 à R711-9)](#157)
-      - [TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS (art. R722-1 à R722-7)](#158)
-      - [TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE. (art. R731-3)](#159)
-      - [TITRE IV : DISPOSITIONS PENALES. (art. R741-1)](#160)
-  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#161)
-    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-20)](#162)
-      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#163)
-        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-35)](#164)
-        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#165)
-        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#166)
-      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-1 à D133-20)](#167)
-        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-1 à D131-15)](#168)
-          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-1 à D131-14)](#169)
-            - [Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne. (art. D131-1 à D131-8)](#170)
-            - [Paragraphe 2 : Désignation, attributions et surveillance des prestataires de services de la circulation aérienne. (art. D131-9 à D131-10)](#171)
-            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#172)
-          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#173)
-        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-12)](#174)
-          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#175)
-          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#176)
-          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6 à D132-6-1)](#177)
-          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#178)
-        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#179)
-          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#180)
-            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-5)](#181)
-            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#182)
-          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#183)
-          - [Section 3 : Radiocommunications intéressant la circulation des aéronefs. (art. D133-19 à D133-19-10)](#184)
-          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#185)
-    - [LIVRE II : AERODROMES. (art. D211-1 à D251)](#186)
-      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#187)
-        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#188)
-        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#189)
-        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-5)](#190)
-          - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-13)](#191)
-            - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#192)
-            - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#193)
-              - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#194)
-              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#195)
-              - [3. Règles d'intervention (art. D213-1-9)](#196)
-            - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#197)
-            - [Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie (art. D213-1-13)](#198)
-          - [Section 2 : Prévention du péril animalier (art. D213-1-14 à D213-1-25)](#199)
-          - [Section 3 : Sûreté de l'aviation civile (art. D213-2 à D213-4)](#200)
-          - [Section 4 : Dispositions financières (art. D213-5)](#201)
-        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#202)
-      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D228-7)](#203)
-        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#204)
-        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#205)
-        - [CHAPITRE IV : REDEVANCES. (art. D224-1 à D224-4)](#206)
-        - [CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE. (art. D228-1 à D228-7)](#207)
-      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#208)
-        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#209)
-        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#210)
-        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#211)
-      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-4 à D245-3)](#212)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-4)](#213)
-          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#214)
-        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#215)
-          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#216)
-          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#217)
-        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#218)
-        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-2 à D244-4)](#219)
-        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#220)
-      - [TITRE V : AEROPORTS DE PARIS (art. D251)](#221)
-        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251)](#222)
-    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#223)
-      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#224)
-        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#225)
-      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#226)
-        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#227)
-      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#228)
-        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#229)
-      - [TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE. (art. D370-1 à D370-11)](#230)
-    - [LIVRE IV : PERSONNEL NAVIGANT (art. D421-1 à D431-3)](#231)
-      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#232)
-        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#233)
-        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#234)
-          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#235)
-          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#236)
-          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#237)
-          - [Section 4 : Période de transition (art. D422-14)](#238)
-          - [Section 5 : Mesures de contrôle (art. D422-15)](#239)
-        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-8)](#240)
-          - [Section 2 : Conseil médical (art. D424-2 à D424-8)](#241)
-      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D431-3)](#242)
-        - [CHAPITRE Ier : Discipline (art. D431-3)](#243)
-    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#244)
-      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#245)
-      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#246)
-        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#247)
-        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#248)
-    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#249)
-      - [Section 1 : Avions photographes. (art. D611-1)](#250)
-      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#251)
-  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#252)
-    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#253)
-      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#254)
-    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#255)
-      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#256)
-    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#257)
+        - [CHAPITRE IV : REDEVANCES. (art. R224-1 à R224-10)](#90)
+          - [Section 1 : Dispositions générales (art. R224-1 à R224-2-2)](#91)
+          - [Section 2 : Tarification, notification et homologation des redevances (art. R224-3 à R224-3-6)](#92)
+          - [Section 3 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris (art. R224-4)](#93)
+          - [Section 4 : Dispositions particulières applicables aux autres aérodromes (art. R224-5 à R224-6)](#94)
+          - [Section 5 : Autorité de supervision indépendante (art. R224-7 à R224-10)](#95)
+        - [CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE. (art. R225-1 à R225-5)](#96)
+        - [CHAPITRE VI : SANCTIONS ADMINISTRATIVES. (art. R226-1 à R226-6)](#97)
+        - [CHAPITRE VII : ENVIRONNEMENT DES AERODROMES. (art. R227-1 à R227-20)](#98)
+          - [Section 1 : Autorité de contrôle des nuisances sonores     aéroportuaires (ACNUSA) (art. R227-1 à R227-5)](#99)
+          - [Section 2 : Modification de la circulation aérienne (art. R227-7)](#100)
+          - [Section 3 : Restrictions d'exploitation liées au bruit des aéronefs (art. R227-8 à R227-20)](#101)
+      - [TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. R231-1 à R232-2)](#102)
+        - [CHAPITRE Ier : DEFINITIONS. (art. R231-1)](#103)
+        - [CHAPITRE II : AERODROMES A USAGE RESTREINT. (art. R232-1 à R232-2)](#104)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. R241-3 à R245-2)](#105)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. R241-3)](#106)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. R242-1 à R242-2)](#107)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. R243-1)](#108)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. R244-1)](#109)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. R245-2)](#110)
+      - [TITRE V : AEROPORTS DE PARIS. (art. R251-1 à R251-3)](#111)
+      - [TITRE VI : AEROPORT DE BALE-MULHOUSE. (art. R260-1 à R260-2)](#112)
+      - [TITRE VIII : DISPOSITIONS PENALES (art. R281-1 à R282-3)](#113)
+        - [CHAPITRE Ier : SERVITUDES AERONAUTIQUES. (art. R281-1 à R281-3)](#114)
+        - [CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. R282-1 à R282-3)](#115)
+          - [Section 1 : Dispositions communes (art. R282-1 à R282-1-3)](#116)
+          - [Section 2 : Sécurité (art. R282-2)](#117)
+          - [Section 3 : Sûreté (art. R282-3)](#118)
+    - [LIVRE III : TRANSPORT AERIEN (art. R321-1 à R360-5)](#119)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. R321-1 à R322-7)](#120)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES. (art. R321-1)](#121)
+        - [CHAPITRE II : TRANSPORT DE PERSONNES. (art. R322-1 à R322-7)](#122)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN. (art. R330-1 à R330-24)](#123)
+      - [TITRE IV : SOCIETE AIR FRANCE. (art. R342-1 à R342-2)](#124)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. R342-1 à R342-2)](#125)
+      - [TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES (art. R351-1 à R351-2)](#126)
+        - [Section 1 : Transports sanitaires. (art. R351-1)](#127)
+        - [Section 2 : Transports par moyens militaires. (art. R351-2)](#128)
+      - [TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE. (art. R360-1 à R360-5)](#129)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. R410-1 à R431-10)](#130)
+      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R410-1 à R410-13)](#131)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. R421-1 à R428-1)](#132)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. R421-1 à R421-17)](#133)
+          - [Section 1 : Catégories. (art. R421-1 à R421-3)](#134)
+          - [Section 2 : Conseil du personnel navigant professionnel. (art. R421-7 à R421-17)](#135)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE. (art. R422-1 à R422-2)](#136)
+        - [CHAPITRE III : CONTRAT DE TRAVAIL. (art. R423-1 à R423-6)](#137)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. R424-1 à R424-7)](#138)
+        - [CHAPITRE V : DISCIPLINE. (art. R425-1 à R425-19)](#139)
+        - [CHAPITRE VI : RETRAITES. (art. R426-1 à R426-28)](#140)
+          - [Section 1 : Définitions. (art. R426-5)](#141)
+          - [Section 2 : Cotisations. (art. R426-6 à R426-10)](#142)
+          - [Section 3 : Constitution du droit à pension. (art. R426-11 à R426-15-4)](#143)
+          - [Section 4 : Calcul de la pension. (art. R426-16-1 à R426-17)](#144)
+          - [Section 5 : Pension de réversion. (art. R426-19 à R426-21)](#145)
+          - [Section 6 : Dispositions diverses. (art. R426-24 à R426-27-2)](#146)
+          - [Section 7 : Dispositions transitoires. (art. R426-28)](#147)
+        - [CHAPITRE VII : DISPOSITIONS PENALES. (art. R427-1)](#148)
+        - [CHAPITRE VIII : DISPOSITIONS COMMUNES. (art. R428-1)](#149)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. R431-1 à R431-10)](#150)
+        - [CHAPITRE Ier : Discipline (art. R431-1 à R431-10)](#151)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. R530-1 à R530-11)](#152)
+      - [TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS. (art. R530-1 à R530-11)](#153)
+        - [Section 1 : Organisation et fonctionnement. (art. R530-1 à R530-4)](#154)
+        - [Section 2 : Attribution et paiement des indemnités. (art. R530-5 à R530-11)](#155)
+    - [LIVRE VI : DISPOSITIONS DIVERSES. (art. R611-1 à R611-6)](#156)
+    - [LIVRE VII : ENQUETE DE SECURITE RELATIVE AUX ACCIDENTS OU INCIDENTS (art. R711-3 à R741-1)](#157)
+      - [TITRE Ier : DISPOSITIONS GENERALES. (art. R711-3 à R711-9)](#158)
+      - [TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS (art. R722-1 à R722-7)](#159)
+      - [TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE. (art. R731-3)](#160)
+      - [TITRE IV : DISPOSITIONS PENALES. (art. R741-1)](#161)
+  - [Partie réglementaire - Décrets simples (art. D121-1 à D611-5)](#162)
+    - [LIVRE Ier : AERONEFS. (art. D121-1 à D133-20)](#163)
+      - [TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS. (art. D121-1 à D123-2)](#164)
+        - [CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS. (art. D121-1 à D121-35)](#165)
+        - [CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS. (art. D122-1 à D122-10)](#166)
+        - [CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS. (art. D123-1 à D123-2)](#167)
+      - [TITRE III : CIRCULATION DES AERONEFS. (art. D131-1 à D133-20)](#168)
+        - [CHAPITRE Ier : DROIT DE CIRCULATION (art. D131-1 à D131-15)](#169)
+          - [Section 1 : Règles relatives à la navigation aérienne et à la météorologie (art. D131-1 à D131-14)](#170)
+            - [Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne. (art. D131-1 à D131-8)](#171)
+            - [Paragraphe 2 : Désignation, attributions et surveillance des prestataires de services de la circulation aérienne. (art. D131-9 à D131-10)](#172)
+            - [Paragraphe 3 : Météorologie. (art. D131-11 à D131-14)](#173)
+          - [Section 2 : Aéronefs étrangers. (art. D131-15)](#174)
+        - [CHAPITRE II : ATTERRISSAGE. (art. D132-1 à D132-12)](#175)
+          - [Section 1 : Atterrissage et décollage des aéronefs en campagne. (art. D132-1 à D132-3)](#176)
+          - [Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome. (art. D132-4 à D132-5)](#177)
+          - [Section 3 : Atterrissage et décollage des hélicoptères. (art. D132-6 à D132-6-1)](#178)
+          - [Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien. (art. D132-7 à D132-12)](#179)
+        - [CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS. (art. D133-1 à D133-20)](#180)
+          - [Section 1 : Contrôle technique des aéronefs, frais de contrôle (art. D133-1 à D133-9)](#181)
+            - [Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances (art. D133-1 à D133-5)](#182)
+            - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#183)
+          - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#184)
+          - [Section 3 : Radiocommunications intéressant la circulation des aéronefs. (art. D133-19 à D133-19-10)](#185)
+          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#186)
+    - [LIVRE II : AERODROMES. (art. D211-1 à D251)](#187)
+      - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#188)
+        - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#189)
+        - [CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS. (art. D212-1 à D212-4)](#190)
+        - [CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE. (art. D213-1 à D213-5)](#191)
+          - [Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1 à D213-1-13)](#192)
+            - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#193)
+            - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#194)
+              - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#195)
+              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#196)
+              - [3. Règles d'intervention (art. D213-1-9)](#197)
+            - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#198)
+            - [Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie (art. D213-1-13)](#199)
+          - [Section 2 : Prévention du péril animalier (art. D213-1-14 à D213-1-25)](#200)
+          - [Section 3 : Sûreté de l'aviation civile (art. D213-2 à D213-4)](#201)
+          - [Section 4 : Dispositions financières (art. D213-5)](#202)
+        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. D216-1 à D216-6)](#203)
+      - [TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE. (art. D221-1 à D228-7)](#204)
+        - [CHAPITRE Ier : CREATION. (art. D221-1 à D221-5)](#205)
+        - [CHAPITRE II : CLASSEMENT. (art. D222-1 à D222-3)](#206)
+        - [CHAPITRE IV : REDEVANCES. (art. D224-1 à D224-4)](#207)
+        - [CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE. (art. D228-1 à D228-7)](#208)
+      - [TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE. (art. D231-1 à D233-8)](#209)
+        - [CHAPITRE Ier : DEFINITIONS. (art. D231-1)](#210)
+        - [CHAPITRE II : AERODROMES  A  USAGE  RESTREINT. (art. D232-1 à D232-8)](#211)
+        - [CHAPITRE III : AERODROMES A USAGE PRIVE. (art. D233-1 à D233-8)](#212)
+      - [TITRE IV : SERVITUDES AERONAUTIQUES. (art. D241-4 à D245-3)](#213)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D241-4)](#214)
+          - [Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques. (art. D241-4)](#215)
+        - [CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT. (art. D242-1 à D242-14)](#216)
+          - [Section 1 : Etablissement et approbation du plan de dégagement. (art. D242-1 à D242-5)](#217)
+          - [Section 2 : Application du plan de dégagement. (art. D242-6 à D242-14)](#218)
+        - [CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE. (art. D243-1 à D243-8)](#219)
+        - [CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS. (art. D244-2 à D244-4)](#220)
+        - [CHAPITRE V : TERRAINS RESERVES. (art. D245-1 à D245-3)](#221)
+      - [TITRE V : AEROPORTS DE PARIS (art. D251)](#222)
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES. (art. D251)](#223)
+    - [LIVRE III : TRANSPORT AERIEN. (art. D321-1 à D370-11)](#224)
+      - [TITRE II : CONTRAT DE TRANSPORT (art. D321-1 à D321-2)](#225)
+        - [CHAPITRE Ier : TRANSPORT DE MARCHANDISES (art. D321-1 à D321-2)](#226)
+      - [TITRE III : ENTREPRISES DE TRANSPORT AERIEN (art. D330-1)](#227)
+        - [CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION (art. D330-1)](#228)
+      - [TITRE IV : SOCIETE AIR FRANCE. (art. D342-1)](#229)
+        - [CHAPITRE II : FONCTIONNEMENT. (art. D342-1)](#230)
+      - [TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE. (art. D370-1 à D370-11)](#231)
+    - [LIVRE IV : PERSONNEL NAVIGANT (art. D421-1 à D431-3)](#232)
+      - [TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL (art. D421-1 à D424-8)](#233)
+        - [CHAPITRE Ier : REGLES GENERALES. (art. D421-1 à D421-10)](#234)
+        - [CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS (art. D422-1 à D422-15)](#235)
+          - [Section 1 : Dispositions générales (art. D422-1 à D422-7)](#236)
+          - [Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges (art. D422-8)](#237)
+          - [Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges (art. D422-9 à D422-13)](#238)
+          - [Section 4 : Période de transition (art. D422-14)](#239)
+          - [Section 5 : Mesures de contrôle (art. D422-15)](#240)
+        - [CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE. (art. D424-2 à D424-8)](#241)
+          - [Section 2 : Conseil médical (art. D424-2 à D424-8)](#242)
+      - [TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL (art. D431-3)](#243)
+        - [CHAPITRE Ier : Discipline (art. D431-3)](#244)
+    - [LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE. (art. D510-1 à D521-6)](#245)
+      - [TITRE Ier : AERO-CLUBS ET FEDERATIONS. (art. D510-1 à D510-7)](#246)
+      - [TITRE II : AIDE AUX JEUNES (art. D521-1 à D521-6)](#247)
+        - [Section 1 : Aide aux jeunes. (art. D521-1 à D521-3)](#248)
+        - [Section 2 : Aide à la construction amateur. (art. D521-4 à D521-6)](#249)
+    - [LIVRE VI : DISPOSITIONS DIVERSES (art. D611-1 à D611-5)](#250)
+      - [Section 1 : Avions photographes. (art. D611-1)](#251)
+      - [Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande. (art. D611-2 à D611-5)](#252)
+  - [Annexes (art. Annexe I : Appendice 1 à Annexe III)](#253)
+    - [Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#254)
+      - [REGLES DE l'AIR (art. Annexe I : Appendice 1 à Annexe I : Chapitre V)](#255)
+    - [Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#256)
+      - [SERVICES DE LA CIRCULATION AERIENNE (art. Annexe II : Appendice 1 à Annexe II : Chapitre 7)](#257)
+    - [Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10) (art. Annexe III)](#258)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : AERONEFS<a id=2></a>
@@ -9176,11 +9177,11 @@ _Créé par_:
 ###### Article R224-1
 
 Sur les aérodromes ouverts à la circulation aérienne publique et sur les aérodromes mentionnés aux articles R. 231-1 et R.
-232-2, les services publics aéroportuaires donnant lieu à la perception de redevances en application de l'article L. 224-2
-sont les services rendus aux exploitants d'aéronefs et à leurs prestataires de service à l'occasion de l'usage de terrains,
-d'infrastructures, d'installations, de locaux et d'équipements aéroportuaires fournis par l'exploitant d'aérodrome, dans la
-mesure où cet usage est directement nécessaire, sur l'aérodrome, à l'exploitation des aéronefs ou à celle d'un service de
-transport aérien. 
+232-2, les services publics aéroportuaires donnant lieu à la perception de redevances en application de l'article L. 6325-1
+du code des transports  sont les services rendus aux exploitants d'aéronefs et à leurs prestataires de service à l'occasion
+de l'usage de terrains, d'infrastructures, d'installations, de locaux et d'équipements aéroportuaires fournis par
+l'exploitant d'aérodrome, dans la mesure où cet usage est directement nécessaire, sur l'aérodrome, à l'exploitation des
+aéronefs ou à celle d'un service de transport aérien. 
 
 Ces services ne peuvent donner lieu à la perception d'autres sommes, sous quelque forme que ce soit. 
 
@@ -9219,11 +9220,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1965 du 23 décembre 2011 - art. 1 (V)
+  - Décret n°2016-825 du 23 juin 2016 - art. 1
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L224-2
   - Code de l'aviation civile - art. R231-1
   - Code des transports - art. L6325-1
 
@@ -9345,9 +9345,9 @@ _Modifié par_:
 
 ###### Article R224-2-2
 
-Les modulations limitées prévues au I de l'article L. 224-2 sont déterminées dans des conditions objectives, transparentes et
-non discriminatoires. L'amplitude et, le cas échéant, la durée d'application de ces modulations sont proportionnées à
-l'objectif d'intérêt général auquel elles répondent. Ces modulations peuvent viser :
+Les modulations limitées prévues  à l'article L. 6325-1 du code des transports  sont déterminées dans des conditions
+objectives, transparentes et non discriminatoires. L'amplitude et, le cas échéant, la durée d'application de ces modulations
+sont proportionnées à l'objectif d'intérêt général auquel elles répondent. Ces modulations peuvent viser :
 
 - à réduire ou à compenser les atteintes à l'environnement ; dans ce cas, la redevance d'atterrissage peut faire l'objet
 d'une modulation en fonction de la période de la journée, du jour de la semaine et de la performance des aéronefs en matière
@@ -9366,8 +9366,8 @@ chalandise au départ et à l'arrivée ne coïncident pas avec celles d'une autr
 
 - à répondre à des impératifs de continuité et d'aménagement du territoire ; dans ce cas, les tarifs des redevances peuvent
 faire l'objet d'une réduction pour les liaisons avec les départements et les collectivités d'outre-mer ainsi que pour les
-liaisons assujetties à des obligations de service public au sens du règlement (CEE) n° 2408/92 du Conseil du 23 juillet 1992
-concernant l'accès des transporteurs aériens communautaires aux liaisons aériennes intracommunautaires. 
+liaisons assujetties à des obligations de service public au sens du règlement (CE) n° 1008/2008 du Parlement européen et du
+Conseil du 24 septembre 2008 établissant des règles communes pour l'exploitation de services aériens dans la Communauté. 
 
 Préalablement à l'introduction d'une modulation nouvelle ou au changement substantiel apporté à une modulation existante, la
 personne chargée de la fixation des tarifs des redevances précise l'objectif d'intérêt général recherché, fixe la période
@@ -9388,51 +9388,53 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1965 du 23 décembre 2011 - art. 1 (V)
+  - Décret n°2016-825 du 23 juin 2016 - art. 1
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L224-2
+  - Code des transports - art. L6325-1 (M)
 
+
+##### Section 2 : Tarification, notification et homologation des redevances<a id=92></a>
 
 ###### Article R224-3
 
-I.-Pour les aérodromes mentionnés à l'article L. 251-2 et les aérodromes appartenant à l'Etat, les tarifs des redevances sont
-fixés par l'exploitant dans les conditions fixées au présent article et aux articles R. 224-4 à R. 224-4-3. Pour les autres
-aérodromes, le signataire de la convention prévue à l'article L. 221-1 peut soit fixer lui-même ces tarifs, dans les
-conditions fixées au présent article et à l'article R. 224-5, soit en charger l'exploitant de l'aérodrome, dans les mêmes
-conditions. 
+I.-Pour les aérodromes mentionnés à l'article L. 6323-2 du code des transports et les aérodromes appartenant à l'Etat,
+l'exploitant fixe les tarifs des redevances suivant les modalités prévues par la présente section et à l'article R. 224-4.
+Pour les autres aérodromes, le signataire de la convention prévue à l'article L. 6321-3 du code des transports peut soit
+fixer lui-même ces tarifs, soit en charger l'exploitant de l'aérodrome, suivant les modalités prévues par la présente section
+et à l'article R. 224-5. 
 
-II.-Sans préjudice des dispositions du III de l'article R. 224-4, une consultation des usagers mentionnés au premier alinéa
-de l'article R. 224-1 est engagée au moins quatre mois avant l'entrée en vigueur de nouvelles conditions tarifaires. Elle
-s'effectue dans le cadre de la commission consultative économique de l'aérodrome, lorsque celui-ci en est doté. 
+II.-Une consultation des usagers mentionnés au premier alinéa de l'article R. 224-1 est engagée au moins quatre mois avant
+l'entrée en vigueur de nouvelles conditions tarifaires. Elle s'effectue dans le cadre de la commission consultative
+économique de l'aérodrome, lorsque celui-ci en est doté. 
 
 III.-Les aérodromes dont le trafic annuel moyen des trois dernières années a dépassé 200 000 passagers, ou qui ont accueilli,
 pendant cette même période, au moins deux transporteurs aériens représentant en moyenne 50 000 passagers par an chacun, sont
 dotés d'une commission consultative économique où sont notamment représentés l'exploitant, les usagers aéronautiques et les
 représentants d'organisations professionnelles du transport aérien ; le nombre de représentants de ces deux dernières
 catégories est au moins égal à celui des représentants de l'exploitant. A l'exception des aérodromes mentionnés à l'article
-L. 251-2, le directeur de l'aviation civile territorialement compétent est invité, comme observateur, aux séances de cette
-commission. 
+L. 6323-2 du code des transports, le directeur interrégional de la sécurité de l'aviation civile territorialement compétent
+est invité, comme observateur, aux séances de cette commission. 
 
 Une même commission peut être commune à plusieurs aérodromes proches dont l'exploitant est identique. 
 
 La commission est créée selon le cas :
 
-- par le signataire de la convention prévue à l'article L. 221-1 ;
+- par le signataire de la convention prévue à l'article L. 6321-3 du code des transports ;
 
-- par décret, pour les aérodromes mentionnés à l'article L. 251-2 ;
+- par décret, pour les aérodromes mentionnés à l'article L. 6323-2 du code des transports ;
 
-- par le préfet de région, sur proposition du directeur de l'aviation civile ou du directeur du service de l'aviation civile,
-pour les aérodromes appartenant à l'Etat, lorsque leur emprise s'étend sur plusieurs départements ou lorsque la commission
-est compétente à l'égard d'aérodromes situés dans des départements différents ;
+- par le préfet de région, sur proposition du directeur interrégional de la sécurité de l'aviation civile, pour les
+aérodromes appartenant à l'Etat, lorsque leur emprise s'étend sur plusieurs départements ou lorsque la commission est
+compétente à l'égard d'aérodromes situés dans des départements différents ;
 
-- par le préfet de département, sur proposition du directeur de l'aviation civile ou du directeur du service de l'aviation
-civile, pour les aérodromes appartenant à l'Etat, dans les cas autres que ceux prévus à l'alinéa précédent. 
+- par le préfet de département, sur proposition du directeur interrégional de la sécurité de l'aviation civile, pour les
+aérodromes appartenant à l'Etat, dans les cas autres que ceux prévus à l'alinéa précédent. 
 
 Les membres de la commission sont désignés et le règlement intérieur est approuvé dans les mêmes conditions. Toutefois, pour
-les aérodromes mentionnés à l'article L. 251-2, le règlement intérieur est approuvé par le ministre chargé de l'aviation
-civile et les membres sont nommés par le préfet de la région Ile-de-France. 
+les aérodromes mentionnés à l'article L. 6323-2 du code des transports, le règlement intérieur est approuvé par le ministre
+chargé de l'aviation civile et les membres sont nommés par le préfet de la région Ile-de-France. 
 
 La commission est réunie au moins une fois par an pour émettre un avis sur les modalités d'établissement et d'application,
 sur l'aérodrome considéré, des redevances pour services rendus mentionnées à l'article R. 224-1 ainsi que sur les programmes
@@ -9451,7 +9453,18 @@ IV.-Les informations mentionnées au sixième alinéa du I de l'article L. 6325-
 l'article R. 224-2-1 et de l'article R. 224-2-2 sont portées à la connaissance des usagers dans le cadre des consultations
 prévues au II du présent article. 
 
-V.-Sans préjudice des dispositions des articles R. 224-4, R. 224-4-1 et R. 224-5, les tarifs des redevances sont rendus
+En outre, pour les aérodromes mentionnés à l'article L. 6323-2 du code des transports et les aérodromes appartenant à l'Etat,
+l'exploitant d'aérodrome transmet aux membres de la commission consultative économique de l'aérodrome, dans des conditions
+précisées par un arrêté du ministre chargé de l'aviation civile, les éléments suivants : 
+
+a) Des informations sur les résultats et les prévisions de trafic sur l'aérodrome ou les aérodromes concernés ; 
+
+b) Des informations sur les éléments servant de base à la détermination des tarifs des redevances sur l'aérodrome ou les
+aérodromes concernés ; 
+
+c) Des éléments sur les résultats et les prévisions d'investissement sur l'aérodrome ou les aérodromes concernés. 
+
+V.-Sans préjudice des dispositions des articles R. 224-3-3, R. 224-3-4 et R. 224-5, les tarifs des redevances sont rendus
 publics par l'exploitant de l'aérodrome et sont exécutoires au plus tôt, à l'exception des tarifs fixés par contrat dans les
 conditions du troisième alinéa du 2° de l'article R. 224-2, un mois après cette publication.
 
@@ -9472,7 +9485,6 @@ _Cité par_:
   - Code de l'aviation civile - art. D224-4 (V)
   - Code de l'aviation civile - art. R224-2 (V)
   - Code de l'aviation civile - art. R224-3-2 (V)
-  - Code de l'aviation civile - art. R224-3-3 (V)
   - Code de l'aviation civile - art. R224-3-4 (V)
   - Code de l'aviation civile - art. R224-4 (M)
   - Code de l'aviation civile - art. R224-4-1 (V)
@@ -9484,13 +9496,23 @@ _Codifié par_:
 
   - Décret n°67-334 du 30 mars 1967
 
+**Liens**:
+
+  - DEPLACE: Décret n°2016-825 du 23 juin 2016 - art. 2
+
 _Modifié par_:
 
-  - Décret n°2011-1965 du 23 décembre 2011 - art. 1 (V)
+  - Décret n°2016-825 du 23 juin 2016 - art. 3
 
 _Cite_:
 
-  - Code des transports - art. L6325-7 (V)
+  - Code de l'aviation civile - art. R224-1 (V)
+  - Code de l'aviation civile - art. R224-2-1 (V)
+  - Code de l'aviation civile - art. R224-3-3 (V)
+  - Code des transports - art. L6321-3
+  - Code des transports - art. L6323-2
+  - Code des transports - art. L6325-2
+  - Code des transports - art. L6325-7
 
 
 ###### Article R224-3-1
@@ -9536,46 +9558,29 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-4 (V)
   - Code de l'aviation civile - art. R224-4-1 (V)
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2011-1965 du 23 décembre 2011 - art. 1 (V)
+  - DEPLACE: Décret n°2016-825 du 23 juin 2016 - art. 2
 
 _Cite_:
 
   - Code de l'aviation civile - art. R224-1
 
 
-##### Section 2 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris<a id=92></a>
-
 ###### Article R224-3-2
 
-L'autorité de supervision indépendante, au sens de la directive 2009/12/ CE du Parlement européen et du Conseil du 11 mars
-2009 sur les redevances aéroportuaires, est la direction du transport aérien de la direction générale de l'aviation civile. 
+Pour les aérodromes mentionnés à l'article L. 6323-2 du code des transports, les aérodromes appartenant à l'Etat ainsi que
+tout aérodrome répondant au critère fixé à l'article R. 224-7, les tarifs des redevances perçues en application de l'article
+R. 224-2, hormis celles mentionnées au troisième alinéa du 2° de cet article, et, le cas échéant, leurs modulations, ainsi
+que les éventuels accords de qualité de service mentionnés à l'article R. 224-3, sont notifiés et homologués dans les
+conditions fixées aux articles R. 224-3-3 à R. 224-3-6. 
 
-Elle a notamment pour missions d'homologuer les tarifs des redevances mentionnées à l'article R. 224-2 et, le cas échéant,
-leurs modulations, ainsi que les éventuels accords de qualité de service mentionnés à l'article R. 224-3. Elle intervient
-dans l'élaboration des contrats prévus à l'article L. 6325-2 du code des transports selon les modalités précisées dans le
-présent article. 
+Pour tout aérodrome répondant au critère fixé à l'article R. 224-7, l'autorité administrative chargée de l'homologation est
+l'autorité de supervision indépendante mentionnée à l'article R. 224-8. 
 
-Dans le cadre de ses missions d'homologation des tarifs des redevances mentionnées à l'article R. 224-2 : 
-
-― elle veille à ce que la qualité des services publics rendus et les programmes d'investissements des exploitants
-d'aérodromes soient compatibles avec les exigences du transport aérien et de ses besoins actuels et futurs ; 
-
-― elle veille à ce que les tarifs précités et, le cas échéant, leurs modulations soient non discriminatoires, et que leur
-évolution soit modérée ; 
-
-― elle s'assure que l'exploitant d'aérodrome reçoit une juste rémunération des capitaux investis, appréciée au regard de son
-coût moyen pondéré du capital calculé sur le périmètre d'activités mentionné à l'article R. 224-3-1 du code de l'aviation
-civile. 
-
-Cette autorité publie un rapport annuel sur ses activités.
+Dans les autres cas, l'autorité administrative chargée de l'homologation est le ministre chargé de l'aviation civile.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-1965 du 23 décembre 2011 - art. 1 (V)
 
 _Cité par_:
 
@@ -9583,15 +9588,172 @@ _Cité par_:
   - Arrêté du 12 juillet 2018 - art. 3 (V)
   - Code de l'aviation civile - art. R224-8 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 4
+
 _Cite_:
 
-  - Code des transports - art. L6325-2 (V)
+  - Code de l'aviation civile - art. R224-2 (V)
+  - Code de l'aviation civile - art. R224-3 (V)
+  - Code de l'aviation civile - art. R224-3-3 (V)
+  - Code de l'aviation civile - art. R224-7 (V)
+  - Code des transports - art. L6323-2
 
+
+###### Article R224-3-3
+
+En vue de leur homologation, l'exploitant ou, le cas échéant, le signataire de la convention prévue à l'article L. 6321-3 du
+code des transports, notifie les tarifs des redevances mentionnées à l'article R. 224-2, hormis celles mentionnées au
+troisième alinéa du 2° de cet article, et, le cas échéant, leurs modulations, ainsi que les éventuels accords de qualité de
+service mentionnés à l'article R. 224-3 au ministre chargé de l'aviation civile et à la direction générale de la concurrence,
+de la consommation et de la répression des fraudes, ainsi qu'à l'autorité de supervision indépendante mentionnée à l'article
+R. 224-8 lorsqu'elle est compétente en application de l'article R. 224-7. 
+
+La notification est effectuée par lettre recommandée avec demande d'avis de réception, quatre mois au moins avant le début de
+chaque période tarifaire annuelle. Ce délai est ramené à deux mois lorsqu'un contrat a été conclu en application de l'article
+R. 224-4. 
+
+Cette notification est accompagnée des éléments mentionnés à l'article R. 224-3-1 et au IV de l'article R. 224-3, de l'avis
+de la commission consultative économique de l'aérodrome, ainsi que, lorsqu'un contrat a été conclu en application de
+l'article R. 224-4, des éléments permettant de vérifier le respect du contrat. 
+
+Les tarifs des redevances ainsi notifiés et, le cas échéant, leurs modulations, ainsi que les éventuels accords de qualité de
+service mentionnés à l'article R. 224-3, sont rendus publics par l'exploitant au moins deux mois avant le début de chaque
+période tarifaire. 
+
+Dans un délai de quinze jours à compter de la réception de la notification, la direction générale de la concurrence, de la
+consommation et de la répression des fraudes transmet à l'autorité administrative chargée de leur homologation un avis motivé
+sur les tarifs ainsi notifiés. L'absence d'avis vaut accord de la direction générale de la concurrence, de la consommation et
+de la répression des fraudes sur les tarifs notifiés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 5
+
+_Cité par_:
+
+  - Arrêté du 12 juillet 2018 - art. 3 (V)
+  - Code de l'aviation civile - art. R224-3 (V)
+  - Code de l'aviation civile - art. R224-3-2 (V)
+  - Code de l'aviation civile - art. R224-3-4 (V)
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R224-2 (V)
+  - Code de l'aviation civile - art. R224-3-1 (V)
+  - Code de l'aviation civile - art. R224-4 (V)
+  - Code de l'aviation civile - art. R224-7 (V)
+  - Code de l'aviation civile - art. R224-8 (V)
+  - Code des transports - art. L6321-3
+
+
+###### Article R224-3-4
+
+I.-Lorsque l'autorité administrative homologue les tarifs des redevances mentionnées à l'article R. 224-2 et, le cas échéant,
+leurs modulations, ainsi que les éventuels accords de qualité de service mentionnés à l'article R. 224-3, elle s'assure :
+
+- du respect de la procédure de consultation prévue au II de l'article R. 224-3 ;
+
+- que les tarifs précités et le cas échéant leurs modulations respectent les règles générales applicables aux redevances,
+qu'ils sont non discriminatoires et que leur évolution est modérée ;
+
+- lorsqu'un contrat a été conclu en application de l'article L. 6325-2 du code des transports, du respect du contrat ;
+
+- en l'absence de contrat pris en application de l'article L. 6325-2 du code des transports, que l'exploitant d'aérodrome
+reçoit une juste rémunération des capitaux investis, appréciée au regard du coût moyen pondéré de son capital calculé sur le
+périmètre d'activités précisé par l'arrêté mentionné à l'article R. 224-3-1. 
+
+II.-L'autorité administrative chargée de l'homologation peut demander à l'exploitant d'aérodrome de lui transmettre tout
+élément permettant de justifier sa proposition tarifaire. Toute partie intéressée qui le demande est entendue par cette
+autorité avant qu'elle ne prenne sa décision. 
+
+III.-Les tarifs, modulations et accords de qualité de service mentionnés au I sont réputés homologués par l'autorité
+administrative et deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3 à moins qu'elle n'y fasse
+opposition dans un délai d'un mois suivant la réception de la notification. 
+
+L'exploitant d'aérodrome peut, dans le mois qui suit l'opposition de l'autorité administrative et sans nouvelle consultation
+des usagers, lui notifier, par lettre recommandée avec demande d'avis de réception, de nouveaux tarifs de redevances et, le
+cas échéant, modulations et accords de qualité de service. 
+
+Ces tarifs et, le cas échéant, modulations et accords de qualité de service sont alors réputés homologués par l'autorité
+administrative et deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3 à moins qu'elle n'y fasse
+opposition dans un délai de quinze jours suivant la réception de la notification. 
+
+Dans le cas où les tarifs des redevances, leurs modulations ou les éventuels accords de qualité de service mentionnés à
+l'article R. 224-3 ne sont pas homologués, ou en l'absence de l'une des notifications prévues à l'article R. 224-3-3, les
+tarifs précédemment en vigueur demeurent applicables. 
+
+IV.-Dans le cas où les tarifs des redevances ou leurs modulations ou les éventuels accords de qualité de service mentionnés à
+l'article R. 224-3 ne sont pas homologués pendant deux années consécutives, l'autorité chargée de l'homologation peut, avec
+un préavis d'au moins quarante-cinq jours, fixer les tarifs des redevances et, le cas échéant, en encadrer les modulations.
+La décision est rendue publique. L'exploitant d'aérodrome met en œuvre les tarifs des redevances et leurs modulations, qui
+deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 5
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R224-2 (V)
+  - Code de l'aviation civile - art. R224-3 (V)
+  - Code de l'aviation civile - art. R224-3-1 (V)
+  - Code de l'aviation civile - art. R224-3-3 (V)
+  - Code des transports - art. L6325-2
+
+
+###### Article R224-3-5
+
+Sur demande motivée présentée par un tiers au moins des membres de la commission consultative économique d'un aérodrome, par
+l'autorité de supervision indépendante mentionnée à l'article R. 224-8 lorsqu'elle est compétente en application de l'article
+R. 224-7, ou de sa propre initiative, le ministre chargé de l'aviation civile peut saisir pour avis la commission
+consultative aéroportuaire en cas de différends opposant l'exploitant de l'aérodrome et ses usagers sur la politique de
+tarification des redevances. 
+
+Le ministre peut en outre saisir cette commission, quand un contrat a été conclu en application de l'article L. 6325-2 du
+code des transports, sur le respect des dispositions du contrat ou sur les circonstances pouvant motiver sa révision ou sa
+fin anticipée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 5
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R224-7 (V)
+  - Code de l'aviation civile - art. R224-8 (V)
+  - Code des transports - art. L6325-2
+
+
+###### Article R224-3-6
+
+L'application  par un exploitant d'aérodrome de tarifs de redevances non homologués  dans les conditions fixées par la
+présente section est passible d'une  sanction pécuniaire, prononcée par le ministre chargé de l'aviation  civile après avis
+de la commission consultative aéroportuaire, dont le  montant est égal à 120 % de la différence entre le chiffre d'affaires
+annuel résultant des tarifs pratiqués par l'exploitant et des tarifs  homologués, sans pouvoir excéder 1 % du chiffre
+d'affaires hors taxes du  dernier exercice clos de l'exploitant. Préalablement à son avis, la  commission consultative
+aéroportuaire entend les observations de  l'exploitant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 5
+
+
+##### Section 3 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris<a id=93></a>
 
 ###### Article R224-4
 
-I.-Les contrats prévus au II de l'article L. 224-2 sont passés entre l'Etat, représenté par            le ministre chargé de
-l'aviation civile, et l'exploitant de l'aérodrome ou des aérodromes considérés. Ils déterminent :
+I.-Les contrats prévus à l'article L. 6325-2 du code des transports sont passés entre l'Etat, représenté par le ministre
+chargé de l'aviation civile, et l'exploitant de l'aérodrome ou des aérodromes considérés. Ils déterminent :
 
 - celles des redevances mentionnées à l'article R. 224-1 dont les conditions d'évolution font l'objet du contrat ; celles-ci
 comprennent obligatoirement les redevances mentionnées au 1° de l'article R. 224-2 et les principales redevances accessoires,
@@ -9611,9 +9773,9 @@ Ces contrats prévoient les conditions dans lesquelles est vérifié le caractè
 coûts correspondants. 
 
 Ces contrats déterminent également, en tant que de besoin, les limites à l'amplitude et à la durée des modulations
-mentionnées à l'article R. 224-2-2. Toutefois, les contrats ne peuvent fixer de limites particulières aux possibilités de
-modulation visant à réduire ou à compenser les atteintes à l'environnement, prévues au deuxième alinéa de l'article R.
-224-2-2. 
+mentionnées à l'article R. 224-2-2. Toutefois, les contrats ne peuvent fixer de limites particulières aux possibilités
+prévues au deuxième alinéa de l'article R. 224-2-2 de modulation visant à réduire ou à compenser les atteintes à
+l'environnement. 
 
 Ils fixent les objectifs de qualité de service, assortis de mécanismes d'incitation financière. 
 
@@ -9625,9 +9787,9 @@ commission consultative aéroportuaire, notamment lorsque des circonstances exce
 par un bouleversement de l'économie du contrat. 
 
 Ils peuvent prévoir que les redevances sont perçues, sur les aérodromes d'Aéroports de Paris, par les tiers auxquels cette
-société a délégué l'exécution de certaines de ses missions en application du neuvième alinéa de l'article L. 251-2. 
+société a délégué l'exécution de certaines de ses missions en application de l'article L. 6323-4 du code des transports. 
 
-Un arrêté du ministre chargé de l'aviation civile  précise les conditions d'application du présent paragraphe. 
+Un arrêté du ministre chargé de l'aviation civile précise les conditions d'application du présent paragraphe. 
 
 II.-L'élaboration de tels contrats inclut les phases successives suivantes : 
 
@@ -9648,63 +9810,30 @@ services, d'évolution des tarifs des redevances et, le cas échéant, de modula
 Le contenu de ce dossier est précisé par arrêté du ministre chargé de l'aviation civile ; 
 
 b) Dans un délai d'un mois suivant la publication de ce dossier, pouvant être étendu de quinze jours par décision du ministre
-chargé de l'aviation civile, les usagers et les autres parties intéressées adressent leurs observations à l'autorité de
-supervision indépendante mentionnée au I du présent article, au ministre chargé de l'aviation civile, et à la direction
-générale de la concurrence, de la consommation et de la répression des fraudes. L'autorité de supervision indépendante
-mentionnée au I du présent article communique ces observations à l'exploitant d'aérodrome ; 
+chargé de l'aviation civile, les usagers et les autres parties intéressées adressent leurs observations au ministre chargé de
+l'aviation civile, et à la direction générale de la concurrence, de la consommation et de la répression des fraudes. Le
+ministre chargé de l'aviation civile communique ces observations à l'exploitant d'aérodrome ; 
 
 c) Le ministre chargé de l'aviation civile saisit la commission consultative aéroportuaire mentionnée à l'article L. 228-1 ;
 la commission consultative aéroportuaire auditionne notamment la direction générale de la concurrence, de la consommation et
 de la répression des fraudes ; l'avis de la commission est rendu public par ce même ministre ; 
 
-d) Sur la base des éléments ci-dessus, le contrat est négocié entre l'Etat et l'exploitant d'aérodrome ; 
+d) Sur la base des éléments ci-dessus, le contrat est négocié entre le ministre chargé de l'aviation civile et l'exploitant
+d'aérodrome ; 
 
-Dans le cadre de la préparation des contrats, l'exploitant d'aérodrome transmet à l'autorité de supervision indépendante
-mentionnée au I du présent article, au ministre chargé de l'aviation civile et au président de la commission consultative
-aéroportuaire, à leur demande, tout élément permettant d'évaluer l'impact économique et financier susmentionné, y compris le
-plan d'affaires, sous format électronique modifiable avec accès aux formules et aux données, permettant à l'exploitant
-d'aérodrome d'établir sa proposition d'évolution des tarifs des redevances. Dans le cas où des instruments financiers émis
-par l'exploitant sont admis aux négociations sur un marché réglementé et où ces éléments d'évaluation constituent des
-informations privilégiées au sens de l'article 621-1 du règlement général de l'Autorité des marchés financiers, ceux-ci ne
-peuvent être communiqués à des tiers ; 
+Dans le cadre de la préparation des contrats, l'exploitant d'aérodrome transmet au ministre chargé de l'aviation civile et au
+président de la commission consultative aéroportuaire, à leur demande, tout élément permettant d'évaluer l'impact économique
+et financier susmentionné, y compris le plan d'affaires, sous format électronique modifiable avec accès aux formules et aux
+données, permettant à l'exploitant d'aérodrome d'établir sa proposition d'évolution des tarifs des redevances. Dans le cas où
+des instruments financiers émis par l'exploitant sont admis aux négociations sur un marché réglementé et où ces éléments
+d'évaluation constituent des informations privilégiées au sens de l'article 621-1 du règlement général de l'Autorité des
+marchés financiers, ceux-ci ne peuvent être communiqués à des tiers ; 
 
-e) Une fois conclu, le contrat est rendu public. 
+e) Lorsque l'autorité de supervision indépendante mentionnée à l'article R. 224-8 est compétente en application de l'article
+R. 224-7, le ministre chargé de l'aviation civile signe le contrat après son avis conforme. L'autorité de supervision
+indépendante est saisie et rend son avis dans les conditions prévues par l'article R. 224-10 ; 
 
-III. - Lorsqu'un contrat a été conclu, l'exploitant engage la consultation des usagers au moins quatre mois avant le début de
-chaque période tarifaire. 
-
-Il notifie les tarifs des redevances mentionnées à l'article R. 224-2 hormis celles mentionnées au troisième alinéa du 2°,
-et, le cas échéant, les modulations de celles-ci, ainsi que les éventuels accords de qualité de service mentionnés à
-l'article R. 224-3, par lettre recommandée avec avis de réception et deux mois au moins avant le début de chaque période
-tarifaire, à l'autorité de supervision indépendante mentionnée au I du présent article et à la direction générale de la
-concurrence, de la consommation et de la répression des fraudes. Cette notification est accompagnée de l'avis de la
-commission consultative économique de l'aérodrome, des éléments permettant de vérifier le respect du contrat et des
-informations mentionnées au IV de l'article R. 224-3. Les tarifs des redevances et, le cas échéant, leurs modulations, ainsi
-que les éventuels accords de qualité de service mentionnés à l'article R. 224-3, notifiés à l'autorité de supervision
-indépendante mentionnée au I du présent article sont rendus publics par l'exploitant au moins deux mois avant le début de
-chaque période tarifaire. La direction générale de la concurrence, de la consommation et de la répression des fraudes rend un
-avis motivé sur les tarifs susmentionnés à l'autorité de supervision indépendante mentionnée au I du présent article dans les
-quinze jours qui suivent la réception de la notification. L'absence d'avis vaut accord de la direction générale de la
-concurrence, de la consommation et de la répression des fraudes sur les tarifs susmentionnés. 
-
-Les tarifs des redevances et, le cas échéant, leurs modulations ainsi que les éventuels accords de qualité de service
-mentionnés à l'article R. 224-3 sont réputés homologués et deviennent exécutoires pour la période tarifaire considérée dans
-les conditions fixées au V de l'article R. 224-3 à moins que l'autorité de supervision indépendante mentionnée au I du
-présent article n'y fasse opposition dans un délai d'un mois suivant la réception de la notification, en cas de manquement
-aux règles générales applicables aux redevances ou aux stipulations du contrat.
-
-IV. - Lorsqu'une commission consultative économique est réunie pour émettre un avis sur les modalités d'établissement et
-d'application, sur l'aérodrome ou les aérodromes concernés, des redevances pour services rendus mentionnées à l'article R.
-224-1, l'exploitant d'aérodrome transmet aux membres de ladite commission les éléments suivants :
-
-a) Des informations sur les résultats et les prévisions de trafic sur l'aérodrome ou les aérodromes concernés ;
-
-b) Des informations sur les éléments servant de base à la détermination des tarifs des redevances sur l'aérodrome ou les
-aérodromes concernés ;
-
-c) Des éléments sur les résultats et les prévisions d'investissement sur l'aérodrome ou les aérodromes concernés.
-
-Un arrêté du ministre chargé de l'aviation civile précise les conditions d'application du présent paragraphe.
+f) Une fois conclu, le contrat est rendu public ainsi que, le cas échéant, l'avis de l'autorité de supervision indépendante.
 
 **Liens relatifs à cet article**
 
@@ -9724,200 +9853,74 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1965 du 23 décembre 2011 - art. 1 (V)
+  - Décret n°2016-825 du 23 juin 2016 - art. 6
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L224-2
   - Code de l'aviation civile - art. L228-1
-  - Code de l'aviation civile - art. L251-2
   - Code de l'aviation civile - art. R224-1
   - Code de l'aviation civile - art. R224-2
   - Code de l'aviation civile - art. R224-2-2
   - Code de l'aviation civile - art. R224-3-1
+  - Code de l'aviation civile - art. R224-7 (V)
+  - Code de l'aviation civile - art. R224-8 (V)
+  - Code des transports - art. L6323-4 (V)
+  - Code des transports - art. L6325-2 (V)
 
 
-###### Article R224-4-1
-
-I. - En l'absence de contrat, l'exploitant notifie, par lettre recommandée avec avis de réception, et quatre mois au moins
-avant le début de chaque période annuelle, les tarifs des redevances mentionnées à l'article R. 224-2 hormis celles
-mentionnées au troisième alinéa du 2°, et, le cas échéant, leurs modulations, ainsi que les éventuels accords de qualité de
-service mentionnés à l'article R. 224-3, à la direction générale de la concurrence, de la consommation et de la répression
-des fraudes et, en vue de leur homologation, à l'autorité de supervision indépendante mentionnée au I de l'article R. 224-4.
-Cette notification est accompagnée des éléments mentionnés à l'article R. 224-3-1 et au IV de l'article R. 224-3 ainsi que de
-l'avis de la commission consultative économique de l'aérodrome. Les tarifs des redevances et, le cas échéant, leurs
-modulations, ainsi que les éventuels accords de qualité de service mentionnés à l'article R. 224-3, notifiés à l'autorité de
-supervision indépendante mentionnée au I du présent article sont rendus publics par l'exploitant au moins deux mois avant le
-début de chaque période tarifaire. La direction générale de la concurrence, de la consommation et de la répression des
-fraudes rend un avis motivé sur les tarifs susmentionnés à l'autorité de supervision indépendante mentionnée au I du présent
-article dans les quinze jours qui suivent la réception de la notification. L'absence d'avis vaut accord de la direction
-générale de la concurrence, de la consommation et de la répression des fraudes sur les tarifs susmentionnés.
-
-Les tarifs des redevances et, le cas échéant, leurs modulations, ainsi que les éventuels accords de qualité de service
-mentionnés à l'article R. 224-3, sont réputés homologués et deviennent exécutoires dans les conditions fixées au V de
-l'article R. 224-3 à moins que l'autorité de supervision indépendante mentionnée au I de l'article R. 224-4 n'y fasse
-opposition dans un délai d'un mois suivant la réception de la notification.
-
-II. - L'exploitant peut, dans le mois qui suit l'opposition et sans nouvelle consultation des usagers, notifier à l'autorité
-de supervision indépendante mentionnée au I de l'article R. 224-4, par lettre recommandée avec avis de réception, de nouveaux
-tarifs de redevances et, le cas échéant, de nouvelles modulations de celles-ci.
-
-Ces tarifs et, le cas échéant, ces modulations sont alors réputés homologués et deviennent exécutoires dans les conditions
-fixées au V de l'article R. 224-3 à moins que l'autorité de supervision indépendante mentionnée au I de l'article R. 224-4
-n'y fasse  opposition dans un délai de quinze jours suivant la réception de la notification.
-
-Dans ce dernier cas, ou en l'absence de l'une des notifications prévues au présent article, les tarifs précédemment en
-vigueur demeurent applicables.
-
-III. - Toutefois, lorsqu'en application du précédent alinéa, les tarifs des redevances sont restés inchangés pendant deux
-années consécutives, l'autorité de supervision indépendante mentionnée au I de l'article R. 224-4 peut, par décision et au
-moins quarante-cinq jours avant le début de la période annuelle concernée, fixer le taux moyen d'évolution des redevances et,
-le cas échéant, en encadrer les modulations. Cette décision est rendue publique. L'exploitant fixe en conséquence les tarifs
-des redevances et leurs modulations, qui deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-334 du 30 mars 1967
-
-_Cité par_:
-
-  - Arrêté du 16 septembre 2005 - art. 2 (M)
-  - Code de l'aviation civile - art. R224-3 (V)
-  - Code de l'aviation civile - art. R224-4-3 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2011-1965 du 23 décembre 2011 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Décret n°2016-825 du 23 juin 2016 - art. 6
-
-
-###### Article R224-4-2
-
-Sur demande motivée présentée par un tiers au moins des membres de la commission consultative économique d'un aérodrome, le
-ministre chargé de l'aviation civile peut saisir pour avis la commission consultative aéroportuaire en cas de différends
-opposant l'exploitant de l'aérodrome et ses usagers sur la politique de tarification des redevances. 
-
-Le ministre peut en outre saisir cette commission, quand un contrat a été conclu en application du II de l'article L. 224-2,
-sur le respect des dispositions du contrat ou sur les circonstances pouvant motiver sa révision ou sa fin anticipée. 
-
-Sur demande motivée présentée par l'autorité de supervision indépendante mentionnée au I de l'article R. 224-4, le ministre
-chargé de l'aviation civile peut saisir pour avis la commission consultative aéroportuaire en cas de différends opposant
-l'exploitant d'un aérodrome et ses usagers sur la politique de tarification des redevances.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-334 du 30 mars 1967
-
-_Modifié par_:
-
-  - Décret n°2011-1965 du 23 décembre 2011 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Décret n°2016-825 du 23 juin 2016 - art. 6
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D224-4 (V)
-
-_Cite_:
-
-  - Code de l'aviation civile - art. L224-2
-  - Code de l'aviation civile - art. R224-4
-
-
-###### Article R224-4-3
-
-L'application par un exploitant d'aérodrome de tarifs de redevances non homologués dans les conditions des articles R. 224-4
-ou R. 224-4-1 est passible d'une sanction pécuniaire, prononcée par le ministre chargé de l'aviation civile après avis de la
-commission consultative aéroportuaire, dont le montant est égal à 120 % de la différence entre le chiffre d'affaires annuel
-résultant des tarifs pratiqués par l'exploitant et des tarifs homologués, sans pouvoir excéder 1 % du chiffre d'affaires hors
-taxe du dernier exercice clos de l'exploitant.
-
-Est passible de la même sanction, prononcée après avis de la commission consultative aéroportuaire, le fait, pour
-l'exploitant, de ne pas respecter les dispositions de l'arrêté mentionné au dernier alinéa de l'article R. 224-4-1.
-
-Pour l'application des deux alinéas précédents, la commission consultative aéroportuaire entend les observations de
-l'exploitant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
-
-_Abrogé par_:
-
-  - Décret n°2016-825 du 23 juin 2016 - art. 6
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R224-4
-  - Code de l'aviation civile - art. R224-4-1 (Ab)
-
-
-##### Section 3 : Dispositions applicables aux autres aérodromes<a id=93></a>
+##### Section 4 : Dispositions particulières applicables aux autres aérodromes<a id=94></a>
 
 ###### Article R224-5
 
-Les tarifs des redevances mentionnées au 1° de l'article R. 224-2 et, le cas échéant, leurs modulations, sont notifiés par la
-personne chargée de leur fixation au représentant de l'Etat dans le département au moins deux mois avant leur entrée en
-vigueur. Cette notification, communiquée par lettre recommandée avec avis de réception, est accompagnée de l'avis de la
-commission consultative économique ou, à défaut, du compte rendu de la consultation des usagers, ainsi que des informations
-mentionnées au IV de l'article R. 224-3.
+Pour les aérodromes qui n'appartiennent pas à l'Etat et qui ne relèvent pas de l'article L. 6323-2 du code des transports, à
+l'exception des aérodromes répondant au critère fixé à l'article R. 224-7, les tarifs des redevances mentionnées au 1° de
+l'article R. 224-2 et, le cas échéant, leurs modulations, sont notifiés par la personne chargée de leur fixation au
+représentant de l'Etat dans le département au moins deux mois avant leur entrée en vigueur. Cette notification, communiquée
+par lettre recommandée avec avis de réception, est accompagnée de l'avis de la commission consultative économique ou, à
+défaut, du compte rendu de la consultation des usagers, ainsi que des informations mentionnées au IV de l'article R. 224-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Modifié par_:
 
-  - Décret n°2005-827 du 20 juillet 2005 - art. 1 () JORF 22 juillet 2005
+  - Décret n°2016-825 du 23 juin 2016 - art. 7
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R224-2 (An)
+  - Code de l'aviation civile - art. R224-2 (V)
+  - Code de l'aviation civile - art. R224-7 (V)
+  - Code des transports - art. L6323-2
 
 _Cité par_:
 
   - Code de l'aviation civile - art. R224-3 (V)
 
 
-##### Section 4 : Dispositions particulières applicables aux aérodromes exploités par une      chambre de commerce et d'industrie territoriale<a id=94></a>
-
 ###### Article R224-6
 
-Au cas où les ressources provenant de l'exploitation de l'aérodrome sont insuffisantes pour permettre aux ports autonomes ou
-tous autres établissements publics d'assurer le financement de la participation mise à leur charge par les articles R. 221-8
-et R. 223-5, ces établissements peuvent, à titre exceptionnel et avec l'accord des ministres intéressés, payer les dépenses
-restant à couvrir au moyen de toutes recettes qu'ils sont autorisés à percevoir.
+Pour les aérodromes exploités par une chambre de commerce et d'industrie, au cas où les ressources provenant de
+l'exploitation de l'aérodrome sont insuffisantes pour permettre aux ports autonomes ou tous autres établissements publics
+d'assurer le financement de la participation mise à leur charge par les articles R. 221-8 et R. 223-5, ces établissements
+peuvent, à titre exceptionnel et avec l'accord des ministres intéressés, payer les dépenses restant à couvrir au moyen de
+toutes recettes qu'ils sont autorisés à percevoir.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Modifié par_:
 
-  - Décret n°2007-574 du 19 avril 2007 - art. 9 () JORF 20 avril 2007 en vigueur le 1er juillet 2007
+  - Décret n°2016-825 du 23 juin 2016 - art. 8
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R221-8 (M)
+  - Code de l'aviation civile - art. R221-8 (V)
   - Code de l'aviation civile - art. R223-5 (V)
 
 _Cité par_:
@@ -9925,7 +9928,169 @@ _Cité par_:
   - Code de l'aviation civile - art. R260-1 (V)
 
 
-#### CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE.<a id=95></a>
+##### Section 5 : Autorité de supervision indépendante<a id=95></a>
+
+###### Article R224-7
+
+Les dispositions de la présente section s'appliquent aux aérodromes dont le trafic annuel de la dernière année calendaire
+achevée dépasse cinq millions de passagers.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 11 (V)
+  - Code de l'aviation civile - art. R224-3-2 (V)
+  - Code de l'aviation civile - art. R224-3-3 (V)
+  - Code de l'aviation civile - art. R224-3-5 (V)
+  - Code de l'aviation civile - art. R224-4 (V)
+  - Code de l'aviation civile - art. R224-5 (V)
+  - Code de l'aviation civile - art. R224-8 (V)
+
+_Créé par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 9
+
+
+###### Article R224-8
+
+Une autorité de supervision indépendante est placée auprès du vice-président du Conseil général de l'environnement et du
+développement durable. 
+
+Elle est chargée, pour les aérodromes répondant au critère fixé à l'article R. 224-7, de rendre un avis conforme au ministre
+chargé de l'aviation civile sur tout projet de contrat régi par l'article L. 6325-2 du code des transports, dans les
+conditions fixées à l'article R. 224-10 et d'homologuer, dans les conditions fixées aux articles R. 224-3-2 à R. 224-3-4, les
+tarifs des redevances mentionnées à l'article R. 224-2 et, le cas échéant, leurs modulations, ainsi que les éventuels accords
+de qualité de service mentionnés à l'article R. 224-3. 
+
+Dans l'exercice de ces fonctions, elle ne peut recevoir aucune instruction du ministre chargé de l'aviation civile. Elle
+exerce ses compétences d'une manière impartiale et transparente et arrête librement ses décisions selon le règlement
+intérieur qu'elle adopte. 
+
+Elle dispose des services du ministre chargé de l'aviation civile, placés sous son autorité fonctionnelle pour l'instruction
+des affaires dont elle est saisie, selon des modalités précisées par son règlement intérieur. 
+
+Elle dispose des moyens humains, sur lesquels elle a autorité, financiers et matériels suffisants pour le plein exercice de
+ses missions. 
+
+Elle publie un rapport annuel sur ses activités.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 11 (V)
+  - Code de l'aviation civile - art. R224-3-2 (V)
+  - Code de l'aviation civile - art. R224-3-3 (V)
+  - Code de l'aviation civile - art. R224-3-5 (V)
+  - Code de l'aviation civile - art. R224-4 (V)
+
+_Créé par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 9
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R224-10 (V)
+  - Code de l'aviation civile - art. R224-2 (V)
+  - Code de l'aviation civile - art. R224-3 (V)
+  - Code de l'aviation civile - art. R224-7 (V)
+  - Code des transports - art. L6325-2
+
+
+###### Article R224-9
+
+L'autorité de supervision indépendante est composée de cinq membres. Son président et deux autres de ses membres sont choisis
+parmi les membres permanents du Conseil général de l'environnement et du développement durable. Les deux autres membres sont
+des personnalités reconnues pour leur expertise dans le domaine de la régulation économique ou du transport aérien. Le
+président et les membres de l'autorité sont désignés pour une durée de cinq ans par le ministre présidant le Conseil général
+de l'environnement et du développement durable, sur proposition du vice-président.
+
+Aucun membre de l'autorité de supervision indépendante ne peut exercer de fonction liée à la propriété, au contrôle ou à la
+direction d'aéroports, d'entités gestionnaires d'aéroports ou de transporteurs aériens. Aucun membre ne peut participer à une
+décision de l'autorité de supervision indépendante s'il se trouve en situation de conflit d'intérêts au sens des dispositions
+de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, à raison d'un intérêt
+public ou privé détenu au cours des trois années précédant la décision.
+
+Les dispositions de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique
+s'appliquent aux membres de l'autorité de supervision indépendante.
+
+Il ne peut être mis fin à leurs fonctions avant l'expiration de leur mandat que sur leur demande, en cas d'empêchement
+permanent, de cessation de leur qualité de membre permanent du Conseil général de l'environnement et du développement
+durable, ou afin de se conformer aux incompatibilités de fonctions mentionnées au deuxième alinéa. Leur mandat peut être
+renouvelé une fois.
+
+Les fonctions de membre de l'autorité de supervision indépendante exercées par des personnalités reconnues pour leur
+expertise dans le domaine de la régulation économique ou du transport aérien donnent lieu à indemnité lorsqu'ils n'ont pas la
+qualité d'agent public.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2013-907 du 11 octobre 2013 - art. 2
+
+_Créé par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 9
+
+
+###### Article R224-10
+
+I.-L'autorité de supervision indépendante rend un avis conforme au ministre chargé de l'aviation civile dans les meilleurs
+délais et au plus tard deux mois après avoir été saisie, en application du e du II de l'article R. 224-4, d'un projet de
+contrat régi par l'article L. 6325-2 du code des transports. A la demande de l'autorité de supervision indépendante, le
+ministre chargé de l'aviation civile peut prolonger ce délai de deux mois dans des cas exceptionnels et dûment motivés. 
+
+II.-Lorsqu'il saisit l'autorité de supervision indépendante en application du e du II de l'article R. 224-4, le ministre
+chargé de l'aviation civile lui transmet, outre le projet de contrat :
+
+- le dossier de l'exploitant aéroportuaire mentionné au a du II de l'article R. 224-4 ;
+
+- les observations des usagers et des autres parties intéressées recueillies en application du b du II de l'article R.
+224-4 ;
+
+- l'avis de la commission consultative aéroportuaire rendu en application du c du II de l'article R. 224-4 ;
+
+- les éléments recueillis en application du deuxième alinéa du d, y compris ceux ne pouvant pas être communiqués à des
+tiers. 
+
+A la demande de l'autorité de supervision indépendante, le ministre chargé de l'aviation civile et l'exploitant d'aérodrome
+lui transmettent tout élément permettant de justifier leur proposition de contrat. 
+
+L'autorité de supervision indépendante peut consulter toute partie intéressée avant de rendre son avis. Toute partie
+intéressée peut demander à être entendue par cette autorité avant qu'elle ne rende son avis. 
+
+III.-Dans son avis, l'autorité de supervision indépendante se prononce sur l'application de la procédure prévue au II de
+l'article R. 224-4. 
+
+Sur la base des dispositions du projet de contrat relatives au taux moyen d'évolution des redevances, à l'ajustement de ce
+plafond, aux limites à l'amplitude et à la durée des modulations et aux incitations financières liées aux objectifs de
+qualité de service, l'autorité de supervision indépendante se prononce également sur :
+
+- la juste rémunération des capitaux investis par l'exploitant d'aérodrome, appréciée au regard du coût moyen pondéré de son
+capital calculé sur le périmètre d'activités précisé par l'arrêté mentionné à l'article R. 224-3-1 ;
+
+- l'absence de discrimination et la modération de l'évolution des tarifs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-825 du 23 juin 2016 - art. 9
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R224-3-1 (V)
+  - Code des transports - art. L6325-2
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R224-4 (V)
+  - Code de l'aviation civile - art. R224-8 (V)
+
+
+#### CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE.<a id=96></a>
 
 ###### Article R225-1
 
@@ -10041,7 +10206,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R225-4 (V)
 
 
-#### CHAPITRE VI : SANCTIONS ADMINISTRATIVES.<a id=96></a>
+#### CHAPITRE VI : SANCTIONS ADMINISTRATIVES.<a id=97></a>
 
 ###### Article R226-1
 
@@ -10265,9 +10430,9 @@ _Cite_:
   - Code de l'aviation civile - art. R226-5 (V)
 
 
-#### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.<a id=97></a>
+#### CHAPITRE VII : ENVIRONNEMENT DES AERODROMES.<a id=98></a>
 
-##### Section 1 : Autorité de contrôle des nuisances sonores     aéroportuaires (ACNUSA)<a id=98></a>
+##### Section 1 : Autorité de contrôle des nuisances sonores     aéroportuaires (ACNUSA)<a id=99></a>
 
 ###### Article R227-1
 
@@ -10366,7 +10531,7 @@ _Modifié par_:
   - Décret n°2010-405 du 27 avril 2010 - art. 1
 
 
-##### Section 2 : Modification de la circulation aérienne<a id=99></a>
+##### Section 2 : Modification de la circulation aérienne<a id=100></a>
 
 ###### Article R227-7
 
@@ -10405,7 +10570,7 @@ _Cite_:
   - Code de l'aviation civile - art. L227-10 (M)
 
 
-##### Section 3 : Restrictions d'exploitation liées au bruit des aéronefs<a id=100></a>
+##### Section 3 : Restrictions d'exploitation liées au bruit des aéronefs<a id=101></a>
 
 ###### Article R227-8
 
@@ -10741,9 +10906,9 @@ _Cite_:
   - Code de l'aviation civile - art. R227-17
 
 
-### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=101></a>
+### TITRE III : AERODROMES NON OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=102></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=102></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=103></a>
 
 ###### Article R231-1
 
@@ -10768,7 +10933,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-1 (V)
 
 
-#### CHAPITRE II : AERODROMES A USAGE RESTREINT.<a id=103></a>
+#### CHAPITRE II : AERODROMES A USAGE RESTREINT.<a id=104></a>
 
 ###### Article R232-1
 
@@ -10822,9 +10987,9 @@ _Anciens textes_:
   - Code de l'aviation civile - art. R232-1 (T)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=104></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=105></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=105></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=106></a>
 
 ###### Article R241-3
 
@@ -10852,7 +11017,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R242-1 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=106></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=107></a>
 
 ###### Article R242-1
 
@@ -10920,7 +11085,7 @@ _Modifié par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=107></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=108></a>
 
 ###### Article R243-1
 
@@ -10969,7 +11134,7 @@ _Nouveaux textes_:
   - Code des transports - art. L6351-6 (V)
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=108></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=109></a>
 
 ###### Article R244-1
 
@@ -11031,7 +11196,7 @@ _Modifié par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=109></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=110></a>
 
 ###### Article R245-2
 
@@ -11048,7 +11213,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-### TITRE V : AEROPORTS DE PARIS.<a id=110></a>
+### TITRE V : AEROPORTS DE PARIS.<a id=111></a>
 
 ###### Article R251-1
 
@@ -11100,7 +11265,7 @@ _Créé par_:
   - Décret n°2005-828 du 20 juillet 2005 - art. 4 () JORF 22 juillet 2005
 
 
-### TITRE VI : AEROPORT DE BALE-MULHOUSE.<a id=111></a>
+### TITRE VI : AEROPORT DE BALE-MULHOUSE.<a id=112></a>
 
 ###### Article R260-1
 
@@ -11145,9 +11310,9 @@ _Créé par_:
   - Décret n°96-1058 du 2 décembre 1996 - art. 1 () JORF 10 décembre 1996
 
 
-### TITRE VIII : DISPOSITIONS PENALES<a id=112></a>
+### TITRE VIII : DISPOSITIONS PENALES<a id=113></a>
 
-#### CHAPITRE Ier : SERVITUDES AERONAUTIQUES.<a id=113></a>
+#### CHAPITRE Ier : SERVITUDES AERONAUTIQUES.<a id=114></a>
 
 ###### Article R281-1
 
@@ -11233,9 +11398,9 @@ _Cite_:
   - Code de l'aviation civile - art. L281-1 (M)
 
 
-#### CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=114></a>
+#### CHAPITRE II : PROTECTION DES AERODROMES, DES AERONEFS AU SOL ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=115></a>
 
-##### Section 1 : Dispositions communes<a id=115></a>
+##### Section 1 : Dispositions communes<a id=116></a>
 
 ###### Article R282-1
 
@@ -11325,7 +11490,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L2132-13 (V)
 
 
-##### Section 2 : Sécurité<a id=116></a>
+##### Section 2 : Sécurité<a id=117></a>
 
 ###### Article R282-2
 
@@ -11360,7 +11525,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R282-1-2 (V)
 
 
-##### Section 3 : Sûreté<a id=117></a>
+##### Section 3 : Sûreté<a id=118></a>
 
 ###### Article R282-3
 
@@ -11392,11 +11557,11 @@ _Cite_:
   - Code de l'aviation civile - art. R213-1-5 (V)
 
 
-## LIVRE III : TRANSPORT AERIEN<a id=118></a>
+## LIVRE III : TRANSPORT AERIEN<a id=119></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=119></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=120></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES.<a id=120></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES.<a id=121></a>
 
 ###### Article R321-1
 
@@ -11424,7 +11589,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R322-2 (V)
 
 
-#### CHAPITRE II : TRANSPORT DE PERSONNES.<a id=121></a>
+#### CHAPITRE II : TRANSPORT DE PERSONNES.<a id=122></a>
 
 ###### Article R322-1
 
@@ -11588,7 +11753,7 @@ _Créé par_:
   - Décret n°2013-30 du 9 janvier 2013 - art. 4
 
 
-### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.<a id=122></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN.<a id=123></a>
 
 ###### Article R330-1
 
@@ -12785,9 +12950,9 @@ _Cite_:
   - Code de l'aviation civile - art. R330-23 (V)
 
 
-### TITRE IV : SOCIETE AIR FRANCE.<a id=123></a>
+### TITRE IV : SOCIETE AIR FRANCE.<a id=124></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=124></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=125></a>
 
 ###### Article R342-1
 
@@ -12870,9 +13035,9 @@ _Cite_:
   - SPEC_APPLI: Décret n°91-262 1991-03-09 art. 14
 
 
-### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES<a id=125></a>
+### TITRE V : TRANSPORTS SANITAIRES ET TRANSPORTS PAR MOYENS MILITAIRES<a id=126></a>
 
-#### Section 1 : Transports sanitaires.<a id=126></a>
+#### Section 1 : Transports sanitaires.<a id=127></a>
 
 ###### Article R351-1
 
@@ -12915,7 +13080,7 @@ _Créé par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 5 () JORF 21 novembre 1980
 
 
-#### Section 2 : Transports par moyens militaires.<a id=127></a>
+#### Section 2 : Transports par moyens militaires.<a id=128></a>
 
 ###### Article R351-2
 
@@ -12953,7 +13118,7 @@ _Modifié par_:
   - Décret n°2011-2050 du 29 décembre 2011 - art. 1
 
 
-### TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE.<a id=128></a>
+### TITRE VI : ENTREPRISES DE TRANSPORT AERIEN DONT LES TITRES SONT ADMIS AUX NEGOCIATIONS SUR UN MARCHE REGLEMENTE.<a id=129></a>
 
 ###### Article R360-1
 
@@ -13138,9 +13303,9 @@ _Cite_:
   - Code de l'aviation civile - art. L360-4 (M)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=129></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=130></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES<a id=130></a>
+### TITRE Ier : DISPOSITIONS COMMUNES<a id=131></a>
 
 ###### Article R410-1
 
@@ -13515,11 +13680,11 @@ _Créé par_:
   - Décret n°2015-1788 du 28 décembre 2015 - art. 2
 
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=131></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=132></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=132></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=133></a>
 
-##### Section 1 : Catégories.<a id=133></a>
+##### Section 1 : Catégories.<a id=134></a>
 
 ###### Article R421-1
 
@@ -13653,7 +13818,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-1 (VD)
 
 
-##### Section 2 : Conseil du personnel navigant professionnel.<a id=134></a>
+##### Section 2 : Conseil du personnel navigant professionnel.<a id=135></a>
 
 ###### Article R421-7
 
@@ -13945,7 +14110,7 @@ _Modifié par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE.<a id=135></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE.<a id=136></a>
 
 ###### Article R422-1
 
@@ -13994,7 +14159,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### CHAPITRE III : CONTRAT DE TRAVAIL.<a id=136></a>
+#### CHAPITRE III : CONTRAT DE TRAVAIL.<a id=137></a>
 
 ###### Article R423-1
 
@@ -14148,7 +14313,7 @@ _Cite_:
   - Code de l'aviation civile - art. L424-6 (V)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=137></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=138></a>
 
 ###### Article R424-1
 
@@ -14355,7 +14520,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### CHAPITRE V : DISCIPLINE.<a id=138></a>
+#### CHAPITRE V : DISCIPLINE.<a id=139></a>
 
 ###### Article R425-1
 
@@ -14908,7 +15073,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D435-1 (M)
 
 
-#### CHAPITRE VI : RETRAITES.<a id=139></a>
+#### CHAPITRE VI : RETRAITES.<a id=140></a>
 
 ###### Article R426-1
 
@@ -15047,7 +15212,7 @@ _Modifié par_:
   - Décret n°2012-1563 du 31 décembre 2012 - art. 3
 
 
-##### Section 1 : Définitions.<a id=140></a>
+##### Section 1 : Définitions.<a id=141></a>
 
 ###### Article R426-5
 
@@ -15372,7 +15537,7 @@ _Modifié par_:
   - Décret n°2011-1500 du 10 novembre 2011 - art. 1
 
 
-##### Section 2 : Cotisations.<a id=141></a>
+##### Section 2 : Cotisations.<a id=142></a>
 
 ###### Article R426-6
 
@@ -15550,7 +15715,7 @@ _Cite_:
   - Code de l'aviation civile - art. R426-5 (V)
 
 
-##### Section 3 : Constitution du droit à pension.<a id=142></a>
+##### Section 3 : Constitution du droit à pension.<a id=143></a>
 
 ###### Article R426-11
 
@@ -15987,7 +16152,7 @@ _Créé par_:
   - SPEC_APPLI: Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 
-##### Section 4 : Calcul de la pension.<a id=143></a>
+##### Section 4 : Calcul de la pension.<a id=144></a>
 
 ###### Article R426-16-1
 
@@ -16166,7 +16331,7 @@ _Cite_:
   - Code de l'aviation civile - art. R426-11
 
 
-##### Section 5 : Pension de réversion.<a id=144></a>
+##### Section 5 : Pension de réversion.<a id=145></a>
 
 ###### Article R426-19
 
@@ -16336,7 +16501,7 @@ _Cite_:
   - Code de l'aviation civile - art. R426-22
 
 
-##### Section 6 : Dispositions diverses.<a id=145></a>
+##### Section 6 : Dispositions diverses.<a id=146></a>
 
 ###### Article R426-24
 
@@ -16501,7 +16666,7 @@ _Cite_:
   - Code des transports - art. L6527-8
 
 
-##### Section 7 : Dispositions transitoires.<a id=146></a>
+##### Section 7 : Dispositions transitoires.<a id=147></a>
 
 ###### Article R426-28
 
@@ -16528,7 +16693,7 @@ _Cite_:
   - Code de l'aviation civile - art. R426-6 (V)
 
 
-#### CHAPITRE VII : DISPOSITIONS PENALES.<a id=147></a>
+#### CHAPITRE VII : DISPOSITIONS PENALES.<a id=148></a>
 
 ###### Article R427-1
 
@@ -16564,7 +16729,7 @@ _Cite_:
   - Code du travail - art. L212-2 (M)
 
 
-#### CHAPITRE VIII : DISPOSITIONS COMMUNES.<a id=148></a>
+#### CHAPITRE VIII : DISPOSITIONS COMMUNES.<a id=149></a>
 
 ###### Article R428-1
 
@@ -16598,9 +16763,9 @@ _Cité par_:
   - Décret n°97-124 du 6 février 1997 - art. 1 (V)
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=149></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=150></a>
 
-#### CHAPITRE Ier : Discipline<a id=150></a>
+#### CHAPITRE Ier : Discipline<a id=151></a>
 
 ###### Article R431-1
 
@@ -16833,11 +16998,11 @@ _Créé par_:
   - Décret n°2011-484 du 3 mai 2011 - art. 1
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=151></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=152></a>
 
-### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=152></a>
+### TITRE III : FONDS DE PREVOYANCE DES SPORTS AERIENS.<a id=153></a>
 
-#### Section 1 : Organisation et fonctionnement.<a id=153></a>
+#### Section 1 : Organisation et fonctionnement.<a id=154></a>
 
 ###### Article R530-1
 
@@ -16953,7 +17118,7 @@ _Codifié par_:
   - Décret n°67-334 1967-03-30
 
 
-#### Section 2 : Attribution et paiement des indemnités.<a id=154></a>
+#### Section 2 : Attribution et paiement des indemnités.<a id=155></a>
 
 ###### Article R530-5
 
@@ -17152,7 +17317,7 @@ _Modifié par_:
   - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES.<a id=155></a>
+## LIVRE VI : DISPOSITIONS DIVERSES.<a id=156></a>
 
 ###### Article R611-1
 
@@ -17459,9 +17624,9 @@ _Cite_:
   - Code de l'aviation civile - art. R611-3 (V)
 
 
-## LIVRE VII : ENQUETE DE SECURITE RELATIVE AUX ACCIDENTS OU INCIDENTS<a id=156></a>
+## LIVRE VII : ENQUETE DE SECURITE RELATIVE AUX ACCIDENTS OU INCIDENTS<a id=157></a>
 
-### TITRE Ier : DISPOSITIONS GENERALES.<a id=157></a>
+### TITRE Ier : DISPOSITIONS GENERALES.<a id=158></a>
 
 ###### Article R711-3
 
@@ -17549,7 +17714,7 @@ _Nouveaux textes_:
   - Code des transports - art. R1621-4 (V)
 
 
-### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS<a id=158></a>
+### TITRE II : DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS, D'INCIDENTS OU D'EVENEMENTS<a id=159></a>
 
 ###### Article R722-1
 
@@ -17754,7 +17919,7 @@ _Cite_:
   - Code de l'aviation civile - art. R216-1 (V)
 
 
-### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.<a id=159></a>
+### TITRE III : RAPPORTS D'ENQUETE ET RECOMMANDATIONS DE SECURITE.<a id=160></a>
 
 ###### Article R731-3
 
@@ -17771,7 +17936,7 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. L300-1 (V)
 
 
-### TITRE IV : DISPOSITIONS PENALES.<a id=160></a>
+### TITRE IV : DISPOSITIONS PENALES.<a id=161></a>
 
 ###### Article R741-1
 
@@ -17793,13 +17958,13 @@ _Cite_:
   - Code de l'aviation civile - art. R722-1 (V)
 
 
-# Partie réglementaire - Décrets simples<a id=161></a>
+# Partie réglementaire - Décrets simples<a id=162></a>
 
-## LIVRE Ier : AERONEFS.<a id=162></a>
+## LIVRE Ier : AERONEFS.<a id=163></a>
 
-### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=163></a>
+### TITRE II : IMMATRICULATION, NATIONALITE ET PROPRIETE DES AERONEFS.<a id=164></a>
 
-#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=164></a>
+#### CHAPITRE Ier : IMMATRICULATION ET NATIONALITE DES AERONEFS.<a id=165></a>
 
 ###### Article D121-1
 
@@ -18693,7 +18858,7 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
 
 
-#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=165></a>
+#### CHAPITRE II : HYPOTHEQUE ET PRIVILEGES SUR LES AERONEFS.<a id=166></a>
 
 ###### Article D122-1
 
@@ -18911,7 +19076,7 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 2 JORF 5 mars 1971
 
 
-#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=166></a>
+#### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=167></a>
 
 ###### Article D123-1
 
@@ -18948,13 +19113,13 @@ _Modifié par_:
   - Décret n°71-171 1971-02-23 art. 3 JORF 5 mars 1971
 
 
-### TITRE III : CIRCULATION DES AERONEFS.<a id=167></a>
+### TITRE III : CIRCULATION DES AERONEFS.<a id=168></a>
 
-#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=168></a>
+#### CHAPITRE Ier : DROIT DE CIRCULATION<a id=169></a>
 
-##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=169></a>
+##### Section 1 : Règles relatives à la navigation aérienne et à la météorologie<a id=170></a>
 
-##### Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne.<a id=170></a>
+##### Paragraphe 1 : Gestion de l'espace aérien, définition des types et des règles de circulation aérienne.<a id=171></a>
 
 ###### Article D131-1
 
@@ -19263,7 +19428,7 @@ _Modifié par_:
   - Décret n°2010-641 du 10 juin 2010 - art. 1
 
 
-##### Paragraphe 2 : Désignation, attributions et surveillance des prestataires de services de la circulation aérienne.<a id=171></a>
+##### Paragraphe 2 : Désignation, attributions et surveillance des prestataires de services de la circulation aérienne.<a id=172></a>
 
 ###### Article D131-9
 
@@ -19357,7 +19522,7 @@ _Modifié par_:
   - Décret n°2010-641 du 10 juin 2010 - art. 1
 
 
-##### Paragraphe 3 : Météorologie.<a id=172></a>
+##### Paragraphe 3 : Météorologie.<a id=173></a>
 
 ###### Article D131-11
 
@@ -19415,7 +19580,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Aéronefs étrangers.<a id=173></a>
+##### Section 2 : Aéronefs étrangers.<a id=174></a>
 
 ###### Article D131-15
 
@@ -19439,9 +19604,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : ATTERRISSAGE.<a id=174></a>
+#### CHAPITRE II : ATTERRISSAGE.<a id=175></a>
 
-##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=175></a>
+##### Section 1 : Atterrissage et décollage des aéronefs en campagne.<a id=176></a>
 
 ###### Article D132-1
 
@@ -19504,7 +19669,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=176></a>
+##### Section 2 : Atterrissage et décollage en montagne hors d'un aérodrome.<a id=177></a>
 
 ###### Article D132-4
 
@@ -19560,7 +19725,7 @@ _Cite_:
   - Code de l'aviation civile - art. D132-4 (V)
 
 
-##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=177></a>
+##### Section 3 : Atterrissage et décollage des hélicoptères.<a id=178></a>
 
 ###### Article D132-6
 
@@ -19637,7 +19802,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R151-1 (V)
 
 
-##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=178></a>
+##### Section 4 : Atterrissage et décollage des avions, hors d'un aérodrome, pour des opérations de traitement aérien.<a id=179></a>
 
 ###### Article D132-7
 
@@ -19804,11 +19969,11 @@ _Créé par_:
   - Décret n°85-770 1985-07-17 art. 1 JORF 25 juillet 1985
 
 
-#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=179></a>
+#### CHAPITRE III : POLICE ET CIRCULATION DES AERONEFS.<a id=180></a>
 
-##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=180></a>
+##### Section 1 : Contrôle technique des aéronefs, frais de contrôle<a id=181></a>
 
-##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances<a id=181></a>
+##### Paragraphe 1er : Contrôle pour la délivrance des certificats relatifs à la navigabilité et à la limitation des nuisances<a id=182></a>
 
 ###### Article D133-1
 
@@ -19981,7 +20146,7 @@ _Créé par_:
   - Décret n°93-921 1993-07-13 art. 1 JORF 21 juillet 1993
 
 
-##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=182></a>
+##### Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité.<a id=183></a>
 
 ###### Article D133-7
 
@@ -20152,7 +20317,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=183></a>
+##### Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature<a id=184></a>
 
 ###### Article D133-10
 
@@ -20301,7 +20466,7 @@ _Modifié par_:
   - Décret n°2011-1371 du 27 octobre 2011 - art. 30 (VD)
 
 
-##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.<a id=184></a>
+##### Section 3 : Radiocommunications intéressant la circulation des aéronefs.<a id=185></a>
 
 ###### Article D133-19
 
@@ -20593,7 +20758,7 @@ _Cite_:
   - Code de l'aviation civile - art. D133-19-5 (V)
 
 
-##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=185></a>
+##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=186></a>
 
 ###### Article D133-20
 
@@ -20625,11 +20790,11 @@ _Cité par_:
   - Décret n°2018-13 du 8 janvier 2018 (V)
 
 
-## LIVRE II : AERODROMES.<a id=186></a>
+## LIVRE II : AERODROMES.<a id=187></a>
 
-### TITRE Ier : DISPOSITIONS GENERALES.<a id=187></a>
+### TITRE Ier : DISPOSITIONS GENERALES.<a id=188></a>
 
-#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=188></a>
+#### CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE.<a id=189></a>
 
 ###### Article D211-1
 
@@ -20797,7 +20962,7 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=189></a>
+#### CHAPITRE II : RETRAIT D'AUTORISATION ET SANCTIONS.<a id=190></a>
 
 ###### Article D212-1
 
@@ -20908,9 +21073,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=190></a>
+#### CHAPITRE III : POLICE DES AERODROMES ET DES INSTALLATIONS A USAGE AERONAUTIQUE.<a id=191></a>
 
-##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs<a id=191></a>
+##### Section 1 : Service de sauvetage et de lutte contre l'incendie des aéronefs<a id=192></a>
 
 ###### Article D213-1
 
@@ -20963,7 +21128,7 @@ _Cite_:
   - Code de l'aviation civile - art. R221-1 (V)
 
 
-##### Sous-section 1 : Définition des moyens<a id=192></a>
+##### Sous-section 1 : Définition des moyens<a id=193></a>
 
 ###### Article D213-1-1
 
@@ -21123,9 +21288,9 @@ _Cite_:
   - Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 2 : Organisation du service<a id=193></a>
+##### Sous-section 2 : Organisation du service<a id=194></a>
 
-##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs<a id=194></a>
+##### 1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs<a id=195></a>
 
 ###### Article D213-1-4
 
@@ -21243,7 +21408,7 @@ _Cité par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=195></a>
+##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=196></a>
 
 ###### Article D213-1-7
 
@@ -21301,7 +21466,7 @@ _Créé par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### 3. Règles d'intervention<a id=196></a>
+##### 3. Règles d'intervention<a id=197></a>
 
 ###### Article D213-1-9
 
@@ -21348,7 +21513,7 @@ _Cite_:
   - Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 3 : Contrôle de l'Etat<a id=197></a>
+##### Sous-section 3 : Contrôle de l'Etat<a id=198></a>
 
 ###### Article D213-1-10
 
@@ -21440,7 +21605,7 @@ _Créé par_:
   - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
 
 
-##### Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie<a id=198></a>
+##### Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie<a id=199></a>
 
 ###### Article D213-1-13
 
@@ -21468,7 +21633,7 @@ _Cite_:
   - Code de l'aviation civile D213-1 à D213-1-11
 
 
-##### Section 2 : Prévention du péril animalier<a id=199></a>
+##### Section 2 : Prévention du péril animalier<a id=200></a>
 
 ###### Article D213-1-14
 
@@ -21845,7 +22010,7 @@ _Cite_:
   - Code de l'aviation civile D213-1-14 à D213-1-24
 
 
-##### Section 3 : Sûreté de l'aviation civile<a id=200></a>
+##### Section 3 : Sûreté de l'aviation civile<a id=201></a>
 
 ###### Article D213-2
 
@@ -21981,7 +22146,7 @@ _Cite_:
   - Code de l'aviation civile - art. D213-3 (MMN)
 
 
-##### Section 4 : Dispositions financières<a id=201></a>
+##### Section 4 : Dispositions financières<a id=202></a>
 
 ###### Article D213-5
 
@@ -22010,7 +22175,7 @@ _Cite_:
   - Code de l'aviation civile - art. L213-3 (M)
 
 
-#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=202></a>
+#### CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE.<a id=203></a>
 
 ###### Article D216-1
 
@@ -22194,9 +22359,9 @@ _Créé par_:
   - Décret n°98-211 du 23 mars 1998 - art. 1 () JORF 25 mars 1998
 
 
-### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=203></a>
+### TITRE II : AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE.<a id=204></a>
 
-#### CHAPITRE Ier : CREATION.<a id=204></a>
+#### CHAPITRE Ier : CREATION.<a id=205></a>
 
 ###### Article D221-1
 
@@ -22332,7 +22497,7 @@ _Cité par_:
   - Décret n°2017-1490 du 24 octobre 2017 (V)
 
 
-#### CHAPITRE II : CLASSEMENT.<a id=205></a>
+#### CHAPITRE II : CLASSEMENT.<a id=206></a>
 
 ###### Article D222-1
 
@@ -22384,7 +22549,7 @@ _Cite_:
   - Code de l'aviation civile - art. R222-5 (V)
 
 
-#### CHAPITRE IV : REDEVANCES.<a id=206></a>
+#### CHAPITRE IV : REDEVANCES.<a id=207></a>
 
 ###### Article D224-1
 
@@ -22590,7 +22755,7 @@ _Cite_:
   - Code de l'aviation civile - art. R224-4-2 (V)
 
 
-#### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.<a id=207></a>
+#### CHAPITRE VIII : COMMISSION CONSULTATIVE AEROPORTUAIRE.<a id=208></a>
 
 ###### Article D228-1
 
@@ -22729,9 +22894,9 @@ _Créé par_:
   - Décret n°2005-1413 du 16 novembre 2005 - art. 1 () JORF 17 novembre 2005
 
 
-### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=208></a>
+### TITRE III : AERODROMES  NON  OUVERTS A  LA  CIRCULATION  AERIENNE  PUBLIQUE.<a id=209></a>
 
-#### CHAPITRE Ier : DEFINITIONS.<a id=209></a>
+#### CHAPITRE Ier : DEFINITIONS.<a id=210></a>
 
 ###### Article D231-1
 
@@ -22764,7 +22929,7 @@ _Cite_:
   - Code de l'aviation civile - art. D211-2 (V)
 
 
-#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=210></a>
+#### CHAPITRE II : AERODROMES  A  USAGE  RESTREINT.<a id=211></a>
 
 ###### Article D232-1
 
@@ -22987,7 +23152,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-6 (V)
 
 
-#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=211></a>
+#### CHAPITRE III : AERODROMES A USAGE PRIVE.<a id=212></a>
 
 ###### Article D233-1
 
@@ -23132,11 +23297,11 @@ _Cite_:
   - Code de l'aviation civile - art. R131-3 (V)
 
 
-### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=212></a>
+### TITRE IV : SERVITUDES AERONAUTIQUES.<a id=213></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=213></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=214></a>
 
-##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=214></a>
+##### Section 2 : Spécifications servant de base à l'établissement des servitudes aéronautiques.<a id=215></a>
 
 ###### Article D241-4
 
@@ -23160,9 +23325,9 @@ _Cité par_:
   - Code de l'aviation civile - art. D242-7 (V)
 
 
-#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=215></a>
+#### CHAPITRE II : SERVITUDES AERONAUTIQUES DE DEGAGEMENT.<a id=216></a>
 
-##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=216></a>
+##### Section 1 : Etablissement et approbation du plan de dégagement.<a id=217></a>
 
 ###### Article D242-1
 
@@ -23255,7 +23420,7 @@ _Modifié par_:
   - Décret n°2011-1073 du 8 septembre 2011 - art. 4
 
 
-##### Section 2 : Application du plan de dégagement.<a id=217></a>
+##### Section 2 : Application du plan de dégagement.<a id=218></a>
 
 ###### Article D242-6
 
@@ -23477,7 +23642,7 @@ _Créé par_:
   - Décret n°73-309 1973-03-09 art. 2 JORF 20 mars 1973
 
 
-#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=218></a>
+#### CHAPITRE III : SERVITUDES AERONAUTIQUES DE BALISAGE.<a id=219></a>
 
 ###### Article D243-1
 
@@ -23685,7 +23850,7 @@ _Cite_:
   - Code de l'aviation civile - art. D232-5 (V)
 
 
-#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=219></a>
+#### CHAPITRE IV : DISPOSITIONS PARTICULIERES A CERTAINES INSTALLATIONS.<a id=220></a>
 
 ###### Article D244-2
 
@@ -23763,7 +23928,7 @@ _Cité par_:
   - Code de l'urbanisme - art. II (M)
 
 
-#### CHAPITRE V : TERRAINS RESERVES.<a id=220></a>
+#### CHAPITRE V : TERRAINS RESERVES.<a id=221></a>
 
 ###### Article D245-1
 
@@ -23837,9 +24002,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE V : AEROPORTS DE PARIS<a id=221></a>
+### TITRE V : AEROPORTS DE PARIS<a id=222></a>
 
-#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=222></a>
+#### CHAPITRE Ier : DISPOSITIONS GENERALES.<a id=223></a>
 
 ###### Article D251
 
@@ -23860,11 +24025,11 @@ _Créé par_:
   - Décret n°2005-854 du 27 juillet 2005 - art. 1 () JORF 28 juillet 2005
 
 
-## LIVRE III : TRANSPORT AERIEN.<a id=223></a>
+## LIVRE III : TRANSPORT AERIEN.<a id=224></a>
 
-### TITRE II : CONTRAT DE TRANSPORT<a id=224></a>
+### TITRE II : CONTRAT DE TRANSPORT<a id=225></a>
 
-#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=225></a>
+#### CHAPITRE Ier : TRANSPORT DE MARCHANDISES<a id=226></a>
 
 ###### Article D321-1
 
@@ -23903,9 +24068,9 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=226></a>
+### TITRE III : ENTREPRISES DE TRANSPORT AERIEN<a id=227></a>
 
-#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=227></a>
+#### CHAPITRE Ier : CONTROLE TECHNIQUE D'EXPLOITATION<a id=228></a>
 
 ###### Article D330-1
 
@@ -23940,9 +24105,9 @@ _Cite_:
   - Code de l'aviation civile - art. R330-4 (V)
 
 
-### TITRE IV : SOCIETE AIR FRANCE.<a id=228></a>
+### TITRE IV : SOCIETE AIR FRANCE.<a id=229></a>
 
-#### CHAPITRE II : FONCTIONNEMENT.<a id=229></a>
+#### CHAPITRE II : FONCTIONNEMENT.<a id=230></a>
 
 ###### Article D342-1
 
@@ -23963,7 +24128,7 @@ _Modifié par_:
   - Loi n°98-546 1998-07-02 art. 51 JORF 3 juillet 1998
 
 
-### TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE.<a id=230></a>
+### TITRE VII : CONSEIL SUPERIEUR DE L'AVIATION CIVILE.<a id=231></a>
 
 ###### Article D370-1
 
@@ -24313,11 +24478,11 @@ _Anciens textes_:
   - Code de l'aviation civile - art. D360-11 (T)
 
 
-## LIVRE IV : PERSONNEL NAVIGANT<a id=231></a>
+## LIVRE IV : PERSONNEL NAVIGANT<a id=232></a>
 
-### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=232></a>
+### TITRE II : PERSONNEL NAVIGANT PROFESSIONNEL<a id=233></a>
 
-#### CHAPITRE Ier : REGLES GENERALES.<a id=233></a>
+#### CHAPITRE Ier : REGLES GENERALES.<a id=234></a>
 
 ###### Article D421-1
 
@@ -24640,9 +24805,9 @@ _Cite_:
   - Code de l'aviation civile - art. L421-9 (VT)
 
 
-#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=234></a>
+#### CHAPITRE II : COMMANDANT DE BORD ET EQUIPAGE - DUREE DU TRAVAIL DES PERSONNELS NAVIGANTS<a id=235></a>
 
-##### Section 1 : Dispositions générales<a id=235></a>
+##### Section 1 : Dispositions générales<a id=236></a>
 
 ###### Article D422-1
 
@@ -25175,7 +25340,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-4-1 (V)
 
 
-##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=236></a>
+##### Section 2 : Durée du travail du personnel navigant des entreprises exploitant des services réguliers ou non, ou utilisant un ou plusieurs aéronefs d'une masse maximale au décollage supérieure ou égale à dix tonnes ou d'une capacité supérieure ou égale à vingt sièges<a id=237></a>
 
 ###### Article D422-8
 
@@ -25224,7 +25389,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D241-22 (Ab)
 
 
-##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=237></a>
+##### Section 3 : Durée du travail du personnel navigant des entreprises n'exploitant pas des services réguliers, et utilisant exclusivement des aéronefs d'une masse maximale au décollage inférieure à dix tonnes ou d'une capacité inférieure à vingt sièges<a id=238></a>
 
 ###### Article D422-9
 
@@ -25478,7 +25643,7 @@ _Cite_:
   - Code de l'aviation civile - art. D422-11 (V)
 
 
-##### Section 4 : Période de transition<a id=238></a>
+##### Section 4 : Période de transition<a id=239></a>
 
 ###### Article D422-14
 
@@ -25510,7 +25675,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-##### Section 5 : Mesures de contrôle<a id=239></a>
+##### Section 5 : Mesures de contrôle<a id=240></a>
 
 ###### Article D422-15
 
@@ -25561,9 +25726,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-12 (M)
 
 
-#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=240></a>
+#### CHAPITRE IV : INCAPACITES - MALADIES - CONSEIL MEDICAL DE L'AERONAUTIQUE CIVILE.<a id=241></a>
 
-##### Section 2 : Conseil médical<a id=241></a>
+##### Section 2 : Conseil médical<a id=242></a>
 
 ###### Article D424-2
 
@@ -25719,9 +25884,9 @@ _Modifié par_:
   - Décret n°80-910 1980-11-17 art. 5 JORF 21 novembre 1980
 
 
-### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=242></a>
+### TITRE III : PERSONNEL NAVIGANT NON PROFESSIONNEL<a id=243></a>
 
-#### CHAPITRE Ier : Discipline<a id=243></a>
+#### CHAPITRE Ier : Discipline<a id=244></a>
 
 ###### Article D431-3
 
@@ -25749,9 +25914,9 @@ _Cite_:
   - Code de l'aviation civile - art. R431-3
 
 
-## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=244></a>
+## LIVRE V : DISPOSITIONS RELATIVES A LA FORMATION AERONAUTIQUE.<a id=245></a>
 
-### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=245></a>
+### TITRE Ier : AERO-CLUBS ET FEDERATIONS.<a id=246></a>
 
 ###### Article D510-1
 
@@ -26001,9 +26166,9 @@ _Cité par_:
   - Arrêté du 8 janvier 2018 - art. 3 (V)
 
 
-### TITRE II : AIDE AUX JEUNES<a id=246></a>
+### TITRE II : AIDE AUX JEUNES<a id=247></a>
 
-#### Section 1 : Aide aux jeunes.<a id=247></a>
+#### Section 1 : Aide aux jeunes.<a id=248></a>
 
 ###### Article D521-1
 
@@ -26092,7 +26257,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D521-4 (V)
 
 
-#### Section 2 : Aide à la construction amateur.<a id=248></a>
+#### Section 2 : Aide à la construction amateur.<a id=249></a>
 
 ###### Article D521-4
 
@@ -26158,9 +26323,9 @@ _Créé par_:
   - Décret n°82-415 1982-05-18 art. 2 JORF 20 mai 1982
 
 
-## LIVRE VI : DISPOSITIONS DIVERSES<a id=249></a>
+## LIVRE VI : DISPOSITIONS DIVERSES<a id=250></a>
 
-### Section 1 : Avions photographes.<a id=250></a>
+### Section 1 : Avions photographes.<a id=251></a>
 
 ###### Article D611-1
 
@@ -26185,7 +26350,7 @@ _Anciens textes_:
   - Loi n°47-1516 1947-09-28, art. 47, alinéas 1 et 2
 
 
-### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=251></a>
+### Section 2 : Frais de fonctionnement du Conseil supérieur de l'aviation marchande.<a id=252></a>
 
 ###### Article D611-2
 
@@ -26297,11 +26462,11 @@ _Codifié par_:
   - Décret n°67-335 1967-03-30
 
 
-# Annexes<a id=252></a>
+# Annexes<a id=253></a>
 
-## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=253></a>
+## Annexe I à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=254></a>
 
-### REGLES DE l'AIR<a id=254></a>
+### REGLES DE l'AIR<a id=255></a>
 
 ###### Article Annexe I : Appendice 1
 
@@ -29417,9 +29582,9 @@ _Modifié par_:
   - Arrêté du 3 mars 2006, v. init.
 
 
-## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=255></a>
+## Annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=256></a>
 
-### SERVICES DE LA CIRCULATION AERIENNE<a id=256></a>
+### SERVICES DE LA CIRCULATION AERIENNE<a id=257></a>
 
 ###### Article Annexe II : Appendice 1
 
@@ -32939,7 +33104,7 @@ _Créé par_:
   - Arrêté du 3 mars 2006 - art. 1, v. init.
 
 
-## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=257></a>
+## Annexe III à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D131-1 à D131-10)<a id=258></a>
 
 ###### Article Annexe III
 
