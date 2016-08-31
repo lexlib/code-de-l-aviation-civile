@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2016-08-15
+Version Consolidée au 2016-09-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -196,7 +196,7 @@ Version Consolidée au 2016-08-15
             - [Sous-section 1 : Définition des moyens (art. D213-1-1 à D213-1-3)](#193)
             - [Sous-section 2 : Organisation du service (art. D213-1-4 à D213-1-9)](#194)
               - [1. Personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-4 à D213-1-6)](#195)
-              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-7 à D213-1-8)](#196)
+              - [2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs (art. D213-1-8)](#196)
               - [3. Règles d'intervention (art. D213-1-9)](#197)
             - [Sous-section 3 : Contrôle de l'Etat (art. D213-1-10 à D213-1-12)](#198)
             - [Sous-section 4 : Application à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie (art. D213-1-13)](#199)
@@ -21350,41 +21350,6 @@ _Cité par_:
 
 
 ##### 2. Matériels et postes d'incendie concourant au service de sauvetage et de lutte contre l'incendie des aéronefs<a id=196></a>
-
-###### Article D213-1-7
-
-Le ministre chargé de l'aviation civile et le ministre chargé de la sécurité civile déterminent par arrêté conjoint les
-règles techniques relatives aux produits extincteurs, véhicules et équipements affectés sur un aérodrome au service de
-sauvetage et de lutte contre l'incendie des aéronefs, ainsi que les conditions dans lesquelles il est attesté de la
-conformité de ces divers matériels aux règles techniques en vigueur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-334 du 30 mars 1967
-
-_Créé par_:
-
-  - Décret n°2001-26 du 9 janvier 2001 - art. 1 () JORF 11 janvier 2001 en vigueur le 1er juillet 2001
-
-_Cité par_:
-
-  - Arrêté du 9 janvier 2001 - art. 15 (V)
-  - Arrêté du 18 janvier 2007 - art. 15 (VT)
-  - Arrêté du 17 août 2010 - art. 4 (V)
-  - Arrêté du 12 juillet 2012 - art. (VT)
-  - Décret n°2014-1273 du 30 octobre 2014 - art. (V)
-  - Décret n°2016-1061 du 3 août 2016 (V)
-
-_Abrogé par_:
-
-  - Décret n°2016-1061 du 3 août 2016 - art. 1
-
-**Liens**:
-
-  - SPEC_APPLI: Code de l'aviation civile - art. D213-1 (V)
-
 
 ###### Article D213-1-8
 
