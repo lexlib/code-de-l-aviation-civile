@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2016-09-01
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -16747,9 +16747,9 @@ _Cite_:
 ###### Article R427-1
 
 Sera puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe tout
-employeur qui, en ce qui concerne le personnel navigant, aura contrevenu aux dispositions de l'article L. 212-1 du code du
-travail et des décrets mentionnés à l'article L. 212-2 du même code. Les contraventions donneront lieu à autant d'amendes
-qu'il y aura de navigants employés en méconnaissance des dispositions précitées. 
+employeur qui, en ce qui concerne le personnel navigant, aura contrevenu aux dispositions des articles L. 3121-18 et L.
+3121-27 du code du travail et des décrets mentionnés des articles L. 3121-67 et L. 3121-68 du même code. Les contraventions
+donneront lieu à autant d'amendes qu'il y aura de navigants employés en méconnaissance des dispositions précitées. 
 
 Toute infraction à la réglementation relative à la durée du travail du personnel navigant entraîne le retrait de la licence
 du contrevenant, qui est prononcé par le ministre chargé de l'aviation civile en ce qui concerne les catégories Transport
@@ -16758,24 +16758,20 @@ pour une durée qui ne pourra être inférieure à quinze jours ni supérieure �
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ancien code de l'aviation civile 192 alinéas 3 et 4
-  - Loi n°53-285 1953-04-04 art. 47, alinéas 3 et 4
-
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Modifié par_:
 
-  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+  - Décret n°2016-1551 du 18 novembre 2016 - art. 6
 
 _Cite_:
 
-  - Code pénal - art. 131-13 (V)
-  - Code du travail - art. L212-1 (M)
-  - Code du travail - art. L212-2 (M)
+  - Code pénal - art. 131-13
+  - Code du travail - art. L3121-18 (V)
+  - Code du travail - art. L3121-27 (V)
+  - Code du travail - art. L3121-67 (V)
 
 
 #### CHAPITRE VIII : DISPOSITIONS COMMUNES.<a id=149></a>
