@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2017-04-21
+Version Consolidée au 2017-08-24
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -22671,17 +22671,17 @@ _Créé par_:
 
 ###### Article D224-2
 
-I.-Une commission consultative économique unique est créée pour les aérodromes de Paris-Charles-de-Gaulle et de Paris-Orly. 
+I.-Une commission consultative économique unique est créée pour les aérodromes de Paris-Charles-de-Gaulle et de Paris-Orly.
 
-II.-Les membres de la commission sont nommés pour trois ans par le préfet de région. 
+II.-Les membres de la commission sont nommés pour trois ans par le préfet de région.
 
-Le président est choisi en raison de ses compétences en matière économique, financière ou d'aviation civile. 
+Le président est choisi en raison de ses compétences en matière économique, financière ou d'aviation civile.
 
 Les autres membres sont nommés sur proposition de l'organisme qu'ils représentent, à raison de :
 
-- sept représentants de la société Aéroports de Paris ;
+- huit représentants de la société Aéroports de Paris ;
 
-- six représentants d'organisations professionnelles du transport aérien ;
+- sept représentants d'organisations professionnelles du transport aérien ;
 
 - quatre transporteurs aériens, dont l'un au moins a réalisé sur l'aérodrome de Paris-Orly un trafic supérieur à celui qu'il
 a réalisé sur l'aérodrome de Paris-Charles-de-Gaulle et qui, sous réserve que la condition qui précède soit satisfaite, ont
@@ -22690,11 +22690,11 @@ l'application de cette disposition, le trafic est celui réalisé pendant la der
 nomination des membres et est mesuré en milliers de passagers embarqués ou débarqués, augmenté des centaines de tonnes de
 fret embarqué ou débarqué, les deux valeurs étant équivalentes ;
 
-- un représentant d'une organisation professionnelle de l'assistance en escale. 
+- un représentant d'une organisation professionnelle de l'assistance en escale.
 
 A l'exception du président, les membres peuvent se faire suppléer aux réunions de la commission par une personne dûment
 mandatée par eux. Ils peuvent également se faire accompagner par des personnes n'ayant pas voix délibérative et dont le
-nombre maximal est fixé dans le règlement intérieur. 
+nombre maximal est fixé dans le règlement intérieur.
 
 Peuvent en outre siéger sans voix délibérative :
 
@@ -22702,17 +22702,17 @@ Peuvent en outre siéger sans voix délibérative :
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le        contrôleur budgétaire compétent pour Aéroports de Paris ;
+- le contrôleur budgétaire compétent pour Aéroports de Paris ;
 
 - les fonctionnaires et militaires responsables sur les aérodromes des contrôles aux frontières ou de la sûreté ;
 
-- en tant que de besoin, toutes personnalités et tous experts convoqués en raison de leur compétence. 
+- en tant que de besoin, toutes personnalités et tous experts convoqués en raison de leur compétence.
 
-III.-Une commission consultative économique est créée pour l'aérodrome de Paris-Le Bourget. 
+III.-Une commission consultative économique est créée pour l'aérodrome de Paris-Le Bourget.
 
-Ses membres sont nommés pour trois ans par le préfet de région. 
+Ses membres sont nommés pour trois ans par le préfet de région.
 
-Le président est choisi en raison de ses compétences en matière économique, financière ou d'aviation civile. 
+Le président est choisi en raison de ses compétences en matière économique, financière ou d'aviation civile.
 
 Les autres membres sont nommés sur proposition de l'organisme qu'ils représentent, à raison de :
 
@@ -22722,11 +22722,11 @@ Les autres membres sont nommés sur proposition de l'organisme qu'ils représent
 
 - des représentants d'organisations professionnelles du transport aérien ;
 
-- des représentants des entreprises d'assistance en escale ou de leurs organisations professionnelles. 
+- des représentants des entreprises d'assistance en escale ou de leurs organisations professionnelles.
 
 A l'exception du président, les membres peuvent se faire suppléer aux réunions de la commission par une personne dûment
 mandatée par eux. Ils peuvent également se faire accompagner par des personnes n'ayant pas voix délibérative et dont le
-nombre maximal est fixé dans le règlement intérieur. 
+nombre maximal est fixé dans le règlement intérieur.
 
 Peuvent, en outre, siéger sans voix délibérative :
 
@@ -22734,7 +22734,7 @@ Peuvent, en outre, siéger sans voix délibérative :
 
 - le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-- le        contrôleur budgétaire compétent pour Aéroports de Paris ;
+- le contrôleur budgétaire compétent pour Aéroports de Paris ;
 
 - les fonctionnaires et militaires responsables sur l'aérodrome des contrôles aux frontières ou de la sûreté ;
 
@@ -22753,7 +22753,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+  - Décret n°2017-1296 du 22 août 2017 - art. 2
 
 
 ###### Article D224-3
