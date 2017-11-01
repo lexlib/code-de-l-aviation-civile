@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2017-10-26
+Version Consolidée au 2017-11-02
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -9723,27 +9723,28 @@ qu'ils sont non discriminatoires et que leur évolution est modérée ;
 
 - en l'absence de contrat pris en application de l'article L. 6325-2 du code des transports, que l'exploitant d'aérodrome
 reçoit une juste rémunération des capitaux investis, appréciée au regard du coût moyen pondéré de son capital calculé sur le
-périmètre d'activités précisé par l'arrêté mentionné à l'article R. 224-3-1. 
+périmètre d'activités précisé par l'arrêté mentionné à l'article R. 224-3-1.
 
 II.-L'autorité administrative chargée de l'homologation peut demander à l'exploitant d'aérodrome de lui transmettre tout
 élément permettant de justifier sa proposition tarifaire. Toute partie intéressée qui le demande est entendue par cette
-autorité avant qu'elle ne prenne sa décision. 
+autorité avant qu'elle ne prenne sa décision.
 
 III.-Les tarifs, modulations et accords de qualité de service mentionnés au I sont réputés homologués par l'autorité
 administrative et deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3 à moins qu'elle n'y fasse
-opposition dans un délai d'un mois suivant la réception de la notification. 
+opposition dans un délai d'un mois suivant la réception de la notification.
 
 L'exploitant d'aérodrome peut, dans le mois qui suit l'opposition de l'autorité administrative et sans nouvelle consultation
 des usagers, lui notifier, par lettre recommandée avec demande d'avis de réception, de nouveaux tarifs de redevances et, le
-cas échéant, modulations et accords de qualité de service. 
+cas échéant, modulations et accords de qualité de service. Il rend publics, au plus tard le lendemain de leur notification,
+les nouveaux tarifs et, le cas échéant, modulations et accords de qualité de service ainsi notifiés.
 
 Ces tarifs et, le cas échéant, modulations et accords de qualité de service sont alors réputés homologués par l'autorité
 administrative et deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3 à moins qu'elle n'y fasse
-opposition dans un délai de quinze jours suivant la réception de la notification. 
+opposition dans un délai de vingt et un jours suivant la réception de la notification.
 
 Dans le cas où les tarifs des redevances, leurs modulations ou les éventuels accords de qualité de service mentionnés à
 l'article R. 224-3 ne sont pas homologués, ou en l'absence de l'une des notifications prévues à l'article R. 224-3-3, les
-tarifs précédemment en vigueur demeurent applicables. 
+tarifs précédemment en vigueur demeurent applicables.
 
 IV.-Dans le cas où les tarifs des redevances ou leurs modulations ou les éventuels accords de qualité de service mentionnés à
 l'article R. 224-3 ne sont pas homologués pendant deux années consécutives, l'autorité chargée de l'homologation peut, avec
@@ -9753,16 +9754,16 @@ deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 5
+  - Décret n°2017-1516 du 30 octobre 2017 - art. 1
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R224-2 (V)
-  - Code de l'aviation civile - art. R224-3 (V)
-  - Code de l'aviation civile - art. R224-3-1 (V)
-  - Code de l'aviation civile - art. R224-3-3 (V)
+  - Code de l'aviation civile - art. R224-2
+  - Code de l'aviation civile - art. R224-3
+  - Code de l'aviation civile - art. R224-3-1
+  - Code de l'aviation civile - art. R224-3-3
   - Code des transports - art. L6325-2
 
 
@@ -9992,6 +9993,8 @@ _Cité par_:
 ###### Article R224-7
 
 Les dispositions de la présente section s'appliquent aux aérodromes dont le trafic annuel de la dernière année calendaire
+achevée dépasse cinq millions de passagers ainsi qu'aux aérodromes faisant partie d'un système d'aérodromes au sens de
+l'article L. 6325-1 du code des transports comprenant au moins un aérodrome dont le trafic de la dernière année calendaire
 achevée dépasse cinq millions de passagers.
 
 **Liens relatifs à cet article**
@@ -10006,31 +10009,36 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-5 (V)
   - Code de l'aviation civile - art. R224-8 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 9
+  - Décret n°2017-1516 du 30 octobre 2017 - art. 2
+
+_Cite_:
+
+  - Code des transports - art. L6325-1 (M)
 
 
 ###### Article R224-8
 
 Une autorité de supervision indépendante est placée auprès du vice-président du Conseil général de l'environnement et du
-développement durable. 
+développement durable.
 
 Elle est chargée, pour les aérodromes répondant au critère fixé à l'article R. 224-7, de rendre un avis conforme au ministre
 chargé de l'aviation civile sur tout projet de contrat régi par l'article L. 6325-2 du code des transports, dans les
 conditions fixées à l'article R. 224-10 et d'homologuer, dans les conditions fixées aux articles R. 224-3-2 à R. 224-3-4, les
 tarifs des redevances mentionnées à l'article R. 224-2 et, le cas échéant, leurs modulations, ainsi que les éventuels accords
-de qualité de service mentionnés à l'article R. 224-3. 
+de qualité de service mentionnés à l'article R. 224-3.
 
 Dans l'exercice de ces fonctions, elle ne peut recevoir aucune instruction du ministre chargé de l'aviation civile. Elle
 exerce ses compétences d'une manière impartiale et transparente et arrête librement ses décisions selon le règlement
-intérieur qu'elle adopte. 
+intérieur qu'elle adopte.
 
-Elle dispose des services du ministre chargé de l'aviation civile, placés sous son autorité fonctionnelle pour l'instruction
-des affaires dont elle est saisie, selon des modalités précisées par son règlement intérieur. 
+A la demande de l'autorité de supervision indépendante, les services du ministère chargé de l'aviation civile lui
+transmettent tout élément nécessaire à l'instruction des affaires dont elle est saisie, sous réserve des secrets protégés par
+la loi.
 
-Elle dispose des moyens humains, sur lesquels elle a autorité, financiers et matériels suffisants pour le plein exercice de
-ses missions. 
+Elle est dotée des moyens humains, sur lesquels elle a autorité, financiers et matériels suffisants pour le plein exercice de
+ses missions.
 
 Elle publie un rapport annuel sur ses activités.
 
@@ -10044,16 +10052,16 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-3-5 (V)
   - Code de l'aviation civile - art. R224-4 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 9
+  - Décret n°2017-1516 du 30 octobre 2017 - art. 3
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R224-10 (V)
-  - Code de l'aviation civile - art. R224-2 (V)
-  - Code de l'aviation civile - art. R224-3 (V)
-  - Code de l'aviation civile - art. R224-7 (V)
+  - Code de l'aviation civile - art. R224-10
+  - Code de l'aviation civile - art. R224-2
+  - Code de l'aviation civile - art. R224-3
+  - Code de l'aviation civile - art. R224-7
   - Code des transports - art. L6325-2
 
 
@@ -10080,8 +10088,8 @@ durable, ou afin de se conformer aux incompatibilités de fonctions mentionnées
 renouvelé une fois.
 
 Les fonctions de membre de l'autorité de supervision indépendante exercées par des personnalités reconnues pour leur
-expertise dans le domaine de la régulation économique ou du transport aérien donnent lieu à indemnité lorsqu'ils n'ont pas la
-qualité d'agent public.
+expertise dans le domaine de la régulation économique ou du transport aérien donnent lieu à indemnité dont le montant est
+fixé par un arrêté conjoint des ministres chargés de l'aviation civile et du budget.
 
 **Liens relatifs à cet article**
 
@@ -10089,9 +10097,9 @@ _Cite_:
 
   - Loi n°2013-907 du 11 octobre 2013 - art. 2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 9
+  - Décret n°2017-1516 du 30 octobre 2017 - art. 4
 
 
 ###### Article R224-10
