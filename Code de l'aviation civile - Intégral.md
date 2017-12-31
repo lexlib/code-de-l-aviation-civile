@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2017-11-17
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -16858,27 +16858,20 @@ _Cite_:
 
 ###### Article R426-27-1
 
-Les fonds de la caisse de retraite du personnel navigant professionnel de l'aéronautique civile affectés aux réserves des
-risques gérés, à la gestion administrative ou à l'action sociale ainsi que le report à nouveau ne peuvent être placés que
-sous la forme des actifs autorisés et selon les modalités prévues aux articles R. 623-2 à R. 623-10-4 du code de la sécurité
-sociale. 
-
-Un règlement financier est élaboré par la caisse de retraite du personnel navigant professionnel de l'aéronautique civile
-dans les conditions prévues à l'article R. 623-10-3 du code de la sécurité sociale. Ce règlement financier entre en vigueur
-dans un délai de six mois à compter de sa date de transmission au ministre chargé de la sécurité sociale et au ministre
-chargé du budget, à défaut de notification dans ce délai d'une décision de refus motivée dans les conditions prévues audit
-article.
+La section 1 du chapitre III du titre II du livre VI du code de la sécurité sociale est applicable à l'actif de la caisse de
+retraite du personnel navigant professionnel de l'aéronautique civile qui n'est pas directement nécessaire à la gestion
+administrative du régime.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1387 du 11 novembre 2009 - art. 4
+  - Décret n°2017-887 du 9 mai 2017 - art. 2
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. R623-10-3 (V)
-  - Code de la sécurité sociale. - art. R623-2 (V)
+  - Code de la sécurité sociale. - art. R623-10-3 (T)
+  - Code de la sécurité sociale. - art. R623-2 (T)
 
 
 ###### Article R426-27-2
