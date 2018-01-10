@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-11
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -187,7 +187,7 @@ Version Consolidée au 2018-01-01
             - [Paragraphe 2 : Contrôle pour le maintien de la validité des titres de navigabilité. (art. D133-7 à D133-9)](#184)
           - [Section 2 : Usage aérien des appareils photographiques, cinématographiques, de télédétection et d'enregistrement de données de toute nature (art. D133-10 à D133-14)](#185)
           - [Section 3 : Radiocommunications intéressant la circulation des aéronefs. (art. D133-19 à D133-19-10)](#186)
-          - [Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur. (art. D133-20)](#187)
+          - [Section 4 : Autorisation de vol de certains aéronefs étrangers (art. D133-20)](#187)
     - [LIVRE II : AERODROMES. (art. D211-1 à D251)](#188)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. D211-1 à D216-6)](#189)
         - [CHAPITRE Ier : DEFINITIONS ET REGLES GENERALES DE CREATION, D'UTILISATION ET DE CONTROLE. (art. D211-1 à D211-5)](#190)
@@ -20886,36 +20886,31 @@ _Cite_:
   - Code de l'aviation civile - art. D133-19-5 (V)
 
 
-##### Section 4 : Autorisation de vol des aéronefs étrangers de construction amateur.<a id=187></a>
+##### Section 4 : Autorisation de vol de certains aéronefs étrangers<a id=187></a>
 
 ###### Article D133-20
 
-Les aéronefs titulaires d'un document de navigabilité spécifique à la construction amateur et immatriculés dans un des Etats
-définis par arrêtés du ministre chargé de l'aviation civile sont autorisés à survoler le territoire français sans accord
-préalable délivré par les services de navigabilité français.
+Certains aéronefs de nationalité étrangère, définis par arrêtés du ministre chargé de l'aviation civile, dont le certificat
+de navigabilité n'est pas reconnu valable pour la circulation au-dessus du territoire français par convention internationale
+peuvent être autorisés à survoler temporairement le territoire français sans accord préalable délivré par les services de
+navigabilité français.
 
-Le ministre chargé de l'aviation civile peut déterminer par arrêtés les Etats dont les aéronefs ressortissants seront
-titulaires de l'autorisation prévue au premier alinéa du présent article, dès lors que la réglementation servant de base à la
-délivrance du titre de navigabilité :
-
-1. Aura été adressée à l'administration française compétente ;
-
-2. Imposera la réalisation d'épreuves en vol, préalablement à la délivrance.
+Les arrêtés mentionnés au premier aliéna déterminent les conditions qui leur sont applicables.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
-
-_Créé par_:
-
-  - Décret n°85-950 1985-09-02 art. 2 JORF 10 septembre 1985
+  - Décret n°67-335 du 30 mars 1967
 
 _Cité par_:
 
   - Arrêté du 8 janvier 2018 - art. 1 (V)
   - Décret n°2018-13 du 8 janvier 2018 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-13 du 8 janvier 2018 - art. 2
 
 
 ## LIVRE II : AERODROMES.<a id=188></a>
