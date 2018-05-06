@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2018-02-05
+Version Consolidée au 2018-05-07
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -16357,25 +16357,18 @@ anniversaire au cours de la période d'affiliation ayant donné lieu à cotisati
 
 Pour la période de jouissance comprise entre l'âge auquel l'affilié aura atteint le nombre d'annuités nécessaires pour
 l'ouverture du droit à pension, et ce au plus tôt à l'âge mentionné au 1° du A du II de l'article R. 426-11, et l'âge
-mentionné à l'article L. 161-17-2 du code de la sécurité sociale, la pension mensuelle est assortie d'une majoration si
-l'affilié remplit les conditions prévues pour la liquidation d'une pension sans décote dans les conditions prévues aux
-articles R. 426-11, R. 426-15-2, R. 426-15-3 et R. 426-17 dans les conditions suivantes :
+mentionné à l'article L. 161-17-2 du code de la sécurité sociale, la pension mensuelle est assortie d'une majoration, d'un
+montant de 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la
+limite de vingt-cinq, si l'affilié remplit les conditions prévues pour la liquidation d'une pension sans décote dans les
+conditions prévues aux articles R. 426-11, R. 426-15-2, R. 426-15-3 et R. 426-17. 
 
-- pour les affiliés bénéficiant des prestations d'un régime légal obligatoire d'assurance maladie maternité autre que celui
-instauré par la loi n° 99-641 du 27 juillet 1999 portant création d'une couverture maladie universelle, la majoration est
-d'un montant de 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée
-dans la limite de vingt-cinq ;
-
-- pour les affiliés entrant dans le champ d'application de la loi du 27 juillet 1999 mentionnée ci-dessus, la majoration est
-d'un montant comprenant, d'une part, 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur,
-par annuité validée dans la limite de vingt-cinq, et, d'autre part, 5 % de la pension mensuelle calculée conformément aux
-deux premiers alinéas du présent article ;
-
-- pour les affiliés n'entrant dans aucun des deux cas prévus ci-dessus, la majoration est d'un montant de 1,12 % du plafond
-mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la limite de vingt-cinq. 
-
-La majoration prévue aux alinéas précédents n'est pas versée aux affiliés dont la pension prend effet à compter de l'âge
+La majoration prévue à l'alinéa précédent n'est pas versée aux affiliés dont la pension prend effet à compter de l'âge
 mentionné à l'article R. 426-12 et qui ne respectent pas la condition d'annuité prévue au 2° du I de l'article R. 426-11.
+
+**Nota:**
+
+Conformément au I de l'article 2 du décret n° 2018-337 du 4 mai 2018, ces dispositions s'appliquent aux pensions prenant
+effet à compter du lendemain de la date de publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -16387,24 +16380,23 @@ _Cité par_:
 
   - Décret n°97-124 du 6 février 1997 - art. 1 (V)
   - Code de l'aviation civile - art. R426-14 (V)
-  - Code de l'aviation civile - art. R426-19 (M)
+  - Code de l'aviation civile - art. R426-19 (V)
   - Code de l'aviation civile - art. R426-27 (V)
-
-_Cite_:
-
-  - Loi n°99-641 du 27 juillet 1999 (V)
-  - Code de la sécurité sociale. - art. L161-17-2
-  - Code de l'aviation civile - art. R426-11 (V)
-  - Code de l'aviation civile - art. R426-12 (V)
-  - Code de l'aviation civile - art. R426-13 (V)
-  - Code de l'aviation civile - art. R426-15-2 (V)
-  - Code de l'aviation civile - art. R426-16-1-1 (V)
-  - Code de l'aviation civile - art. R426-17 (V)
-  - Code de l'aviation civile - art. R426-5 (V)
 
 _Modifié par_:
 
-  - Décret n°2012-1563 du 31 décembre 2012 - art. 8
+  - Décret n°2018-337 du 4 mai 2018 - art. 1
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L161-17-2
+  - Code de l'aviation civile - art. R426-11
+  - Code de l'aviation civile - art. R426-13
+  - Code de l'aviation civile - art. R426-15-2
+  - Code de l'aviation civile - art. R426-15-3
+  - Code de l'aviation civile - art. R426-16-1-1
+  - Code de l'aviation civile - art. R426-17
+  - Code de l'aviation civile - art. R426-5
 
 
 ###### Article R426-16-1-1
@@ -16545,21 +16537,8 @@ deuxième et troisième alinéas de l'article R. 426-16-1, majorée s'il y a lie
 
 Si l'affilié décédé était en activité ou titulaire d'une pension en cours de jouissance assortie d'une majoration et n'avait
 pas atteint l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale au moment de son décès, la pension de
-l'affilié servant à déterminer la pension de réversion est assortie d'une majoration dans les conditions suivantes : 
-
-1° Si le conjoint survivant bénéficie des prestations d'un régime légal obligatoire d'assurance maladie maternité autre que
-celui instauré par la loi n° 99-641 du 27 juillet 1999 portant création d'une couverture maladie universelle, la majoration
-est d'un montant de 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée
-dans la limite de vingt-cinq ; 
-
-2° Si le conjoint survivant entre dans le champ d'application de la loi du 27 juillet 1999 mentionné ci-dessus, la majoration
-est d'un montant comprenant d'une part 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur,
-par annuité validée dans la limite de vingt-cinq, et, d'autre part, 5 % de la pension mensuelle de l'affilié décédé calculée
-conformément aux deux premiers alinéas de l'article R. 426-16-1 ; 
-
-3° Si le conjoint survivant n'entre dans aucun des deux cas prévus ci-dessus, la majoration est d'un montant de 1,12 % du
-plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la limite de vingt-
-cinq. 
+l'affilié servant à déterminer la pension de réversion est assortie d'une majoration d'un montant de 0,8 % du plafond mensuel
+de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la limite de vingt-cinq. 
 
 Cette majoration est prise en compte, dans le calcul de la pension, jusqu'à la date à laquelle l'affilié décédé aurait
 atteint l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale. 
@@ -16582,19 +16561,7 @@ deuxième et troisième alinéas de l'article R. 426-16-1, majorée s'il y a lie
 
 Si l'affilié décédé était en activité ou titulaire d'une pension en cours de jouissance assortie d'une majoration, s'il
 n'avait pas atteint l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale au moment de son décès, la pension
-de l'affilié servant à déterminer la pension d'orphelin est assortie d'une majoration dans les conditions suivantes : 
-
-1° Si l'orphelin bénéficie des prestations d'un régime légal obligatoire d'assurance maladie maternité autre que celui
-instauré par la loi du 27 juillet 1999 portant création d'une couverture maladie universelle, la majoration est d'un montant
-de 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la limite
-de vingt-cinq ; 
-
-2° Si l'orphelin entre dans le champ d'application de la loi du 27 juillet 1999 mentionné ci-dessus, la majoration est d'un
-montant comprenant d'une part 0,8 % du plafond mensuel de calcul des cotisations de la sécurité sociale en vigueur, par
-annuité validée dans la limite de vingt-cinq, et d'autre part 5 % de la pension mensuelle de l'affilié décédé calculée
-conformément aux deux premiers alinéas de l'article R. 426-16-1 ; 
-
-3° Si l'orphelin n'entre dans aucun des deux cas prévus ci-dessus, la majoration est d'un montant de 1,12 % du plafond
+de l'affilié servant à déterminer la pension d'orphelin est assortie d'une majoration d'un montant de 0,8 % du plafond
 mensuel de calcul des cotisations de la sécurité sociale en vigueur, par annuité validée dans la limite de vingt-cinq. 
 
 Cette majoration est prise en compte, dans le calcul de la pension, jusqu'à la date à laquelle l'affilié décédé aurait
@@ -16602,6 +16569,11 @@ atteint l'âge mentionné à l'article L. 161-17-2 du code de la sécurité soci
 
 IV.-Le total des pensions de réversion et d'orphelins allouées ne peut dépasser 100 % de la pension de l'affilié. S'il y a
 excédent, la pension allouée à chacun des ayants droit est réduite proportionnellement.
+
+**Nota:**
+
+Conformément au I de l'article 2 du décret n° 2018-337 du 4 mai 2018, ces dispositions s'appliquent aux pensions prenant
+effet à compter du lendemain de la date de publication dudit décret.
 
 **Liens relatifs à cet article**
 
@@ -16615,18 +16587,17 @@ _Cité par_:
   - Code de l'aviation civile - art. R426-21 (VD)
   - Code de l'aviation civile - art. R426-27 (VD)
 
+_Modifié par_:
+
+  - Décret n°2018-337 du 4 mai 2018 - art. 1
+
 _Cite_:
 
-  - Loi n°99-641 du 27 juillet 1999
   - Code de la sécurité sociale. - art. L161-17-2
   - Code de l'aviation civile - art. R426-12
   - Code de l'aviation civile - art. R426-16-1 (V)
   - Code de l'aviation civile - art. R426-17
-  - Code de l'aviation civile - art. R426-20 (V)
-
-_Modifié par_:
-
-  - Décret n°2012-1563 du 31 décembre 2012 - art. 10
+  - Code de l'aviation civile - art. R426-20
 
 
 ###### Article R426-20
