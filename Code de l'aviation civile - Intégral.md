@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2018-05-21
+Version Consolidée au 2018-08-02
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -9192,32 +9192,25 @@ _Modifié par_:
 
 ###### Article R223-1
 
-Lorsque la résiliation de la convention a été prononcée en application de l'article L. 223-1 et lorsque, après avis du
-Conseil supérieur de l'aviation marchande, il a été reconnu que l'intérêt général justifie que l'aérodrome reste ouvert à la
-circulation aérienne publique, un décret en Conseil d'Etat peut prescrire le rachat des installations de cet aérodrome aux
-conditions prévues par la convention. 
-
-Sous réserve des droits que peuvent détenir les titulaires de concessions ou d'autorisations accordées antérieurement et non
-inclus dans le rachat, l'aérodrome est exploité soit directement par l'Etat, soit par un tiers désigné par lui.
-
-**Nota:**
-
-Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
-définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
-à compter de cette date (Conseil supérieur de l'aviation marchande).
-
-art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
-décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
+Lorsque la résiliation de la convention a été prononcée en application de l'article L. 6321-4 du code des transports et
+lorsque l'intérêt général justifie que l'aérodrome reste ouvert à la circulation aérienne publique, un décret peut prescrire
+le rachat des installations de cet aérodrome aux conditions prévues par la convention. Sous réserve des droits que peuvent
+détenir les titulaires de concessions ou d'autorisations accordées antérieurement et non inclus dans le rachat, l'aérodrome
+est exploité soit directement par l'Etat, soit par un tiers désigné par lui.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2018-674 du 30 juillet 2018 - art. 1
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L223-1 (V)
+  - Code des transports - art. L6321-4
 
 
 ###### Article R223-2
@@ -11209,9 +11202,12 @@ _Cité par_:
 
 ###### Article R242-1
 
-Il est approuvé et rendu exécutoire par décret en Conseil d'Etat, à moins que les conclusions du rapport d'enquête, les avis
-des services et des collectivités publiques intéressés ne soient favorables, auquel cas il est statué par arrêté du ministre
-chargé de l'aviation civile, en accord s'il y a lieu, avec le ministre des armées.
+Le plan de servitudes aéronautiques de dégagement établi pour les aérodromes d'intérêt national ou international mentionnés à
+l'article L. 6311-1 du code des transports est approuvé et rendu exécutoire par décret en Conseil d'Etat, à moins que les
+conclusions du rapport d'enquête et les avis des collectivités publiques intéressées ne soient favorables, auquel cas il est
+statué par arrêté du ministre chargé de l'aviation civile, en accord, s'il y a lieu, avec le ministre de la défense. Pour les
+autres aérodromes, le plan de servitudes aéronautiques est approuvé et rendu exécutoire par arrêté du ministre chargé de
+l'aviation civile, en accord, s'il y a lieu, avec le ministre de la défense.
 
 La liste des pièces à annexer à la demande est fixée par un arrêté conjoint des ministres chargés de l'aviation civile et de
 la défense nationale.
@@ -11222,12 +11218,6 @@ mois à compter de la date de réception de la demande.
 La déclaration d'utilité publique de tout ou partie des opérations nécessaires à la mise en oeuvre du plan des servitudes
 peut être contenue dans le décret ou l'arrêté rendant celui-ci exécutoire si l'autorité qui statue a elle-même compétence
 pour prononcer cette déclaration.
-
-**Nota:**
-
-Conformément à l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010, à l'article R. 242-1 modifié par l'article 7 de
-ladite ordonnance le 3ème alinéa (" Il est approuvé et rendu exécutoire ...) est maintenu en vigueur jusqu'à l'entrée en
-vigueur des dispositions réglementaires du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -11241,7 +11231,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1073 du 8 septembre 2011 - art. 4
+  - Décret n°2018-674 du 30 juillet 2018 - art. 2
 
 _Cité par_:
 
