@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2018-08-02
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -16368,20 +16368,27 @@ _Modifié par_:
 ###### Article R426-16-3
 
 Lorsque le nombre d'annuités ayant fait l'objet de cotisations ou de rachats, en application de l'article R. 426-14, est au
-moins égal à vingt-cinq, la pension calculée à la date d'effet du droit et avant application d'une décote ne peut être
-inférieure à 2 % du plafond annuel de la sécurité sociale mentionné à l'article L. 241-3 par annuité cotisée ou rachetée en
-application de l'article R. 426-14.
+moins égal à vingt-cinq, la pension résultant de la liquidation de la totalité des droits calculée à la date d'effet du droit
+et avant application d'une décote ne peut être inférieure à un montant annuel de 795 € par annuité cotisée ou rachetée en
+application de l'article R. 426-14. A compter du 1er janvier 2020, ce montant est revalorisé chaque année du coefficient
+d'évolution de l'indice corrigé de variation des salaires appliqué au 1er janvier de l'année correspondante dans les
+conditions prévues au b de l'article R. 426-5.
+
+**Nota:**
+
+Conformément au II de l'article 2 du décret n° 2018-337 du 4 mai 2018, ces dispositions entrent en vigueur le 1er janvier
+2019.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-1500 du 10 novembre 2011 - art. 16
+  - Décret n°2018-337 du 4 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L241-3 (V)
   - Code de l'aviation civile - art. R426-14
+  - Code de l'aviation civile - art. R426-5
 
 
 ###### Article R426-17
