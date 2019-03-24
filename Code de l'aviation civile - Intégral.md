@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -1276,9 +1276,10 @@ II. - Elle se compose :
 
 - d'une personne désignée par le président du Sénat ;
 
-- d'un membre ou ancien membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
+- d'un membre de la juridiction administrative désigné par le vice-président du Conseil d'Etat ;
 
-- d'un membre ou ancien membre de la Cour des comptes désigné par le premier président de la Cour des comptes ;
+- d'un magistrat de la Cour des comptes ou magistrat ou ancien magistrat des chambres régionales des comptes désigné par le
+premier président de la Cour des comptes ;
 
 - de trois personnalités choisies par le ministre chargé de l'aviation civile et par le ministre chargé de l'économie en
 raison de leur compétence en matière de transport aérien et d'aviation civile, dont une au moins est spécialiste de
@@ -1296,19 +1297,18 @@ Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des disposi
 effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
 228-2 (Fin de vigueur : date indéterminée).
 
+Conformément au A du XXIV de l’article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur à
+compter du prochain renouvellement de chaque commission.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-333 1967-03-30
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+  - Décret n°67-333 du 30 mars 1967
 
 _Modifié par_:
 
-  - Loi n°2005-357 2005-04-21 art. 8 JORF 21 avril 2005
+  - Loi n°2019-222 du 23 mars 2019 - art. 102
 
 
 ### TITRE VII : AEROPORTS D'INTERET GENERAL SITUES HORS DU TERRITOIRE DE LA FRANCE MÉTROPOLITAINE.<a id=21></a>
