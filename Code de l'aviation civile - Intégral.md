@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-03-30
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -18315,18 +18315,24 @@ _Cité par_:
 
 Sont inscrits sur le registre les aéronefs dont les propriétaires remplissent les conditions fixées à l'article L. 121-3 ou
 bénéficient, en application du dernier alinéa dudit article, d'une dérogation accordée par arrêté du ministre chargé de
-l'aviation civile. 
-
-Sauf dans le cas, prévu à l'article L. 122-5, d'un aéronef en construction sur lequel une hypothèque doit être prise,
-l'inscription est subordonnée à la délivrance, par les services ou organismes français habilités, soit d'un certificat de
-navigabilité individuel, soit d'un laissez-passer accordé dans les conditions fixées par arrêté du ministre chargé de
 l'aviation civile.
+
+Sauf en ce qui concerne les ballons libres non habités et dans le cas, mentionné à l'article L. 6122-5 du code des
+transports, d'un aéronef en construction sur lequel une hypothèque doit être prise, l'inscription est subordonnée à la
+délivrance, par les services ou organismes français habilités :
+
+- soit d'un certificat de navigabilité individuel ;
+
+- soit, dans les conditions fixées par arrêté du ministre chargé de l'aviation civile, d'un laissez-passer ;
+
+- soit, s'agissant des aéronefs circulant sans personne à bord, d'une autorisation de circuler accordée dans les conditions
+fixées par arrêté du ministre chargé de l'aviation civile pris en application de l'article R. 133-1-2.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
 
 **Liens**:
 
@@ -18343,14 +18349,14 @@ _Cité par_:
   - Code de l'aviation civile - art. D121-21 (V)
   - Code de l'aviation civile - art. D121-30 (V)
 
-_Cite_:
-
-  - Code de l'aviation civile - art. L121-3 (Ab)
-  - Code de l'aviation civile - art. L122-5 (Ab)
-
 _Modifié par_:
 
-  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
+  - Décret n°2019-247 du 27 mars 2019 - art. 2
+
+_Cite_:
+
+  - Code de l'aviation civile - art. L121-3
+  - Code de l'aviation civile - art. L122-5
 
 
 ###### Article D121-4
@@ -18382,21 +18388,22 @@ L'inscription d'un aéronef sur le registre comprend :
 
 5° Les nom, prénoms et domicile du ou des propriétaires ;
 
-6° L'aérodrome d'attache de l'aéronef.
+6° L'aérodrome d'attache de l'aéronef, sauf dans les cas des ballons libres non habités et des aéronefs circulant sans
+personne à bord.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2019-247 du 27 mars 2019 - art. 3
 
 _Cité par_:
 
   - Code de l'aviation civile - art. D121-10 (V)
-
-_Modifié par_:
-
-  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
 
 
 ###### Article D121-6
@@ -18502,25 +18509,6 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
-
-
-###### Article D121-11
-
-Le certificat d'immatriculation doit toujours se trouver à bord de l'aéronef lorsque celui-ci est en service.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°71-171 1971-02-23 art. 1 JORF 5 mars 1971
-
-_Codifié par_:
-
-  - Décret n°67-335 du 30 mars 1967
-
-_Abrogé par_:
-
-  - Décret n°2019-247 du 27 mars 2019 - art. 4
 
 
 ###### Article D121-12
