@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -3761,10 +3761,10 @@ _Cite_:
 
 ###### Article R133-6
 
-Sauf autorisation spéciale, est interdit le transport par aéronefs des explosifs, armes et munitions de guerre, pigeons
-voyageurs, objets de correspondance compris dans le monopole postal.
-
-Le transport et l'usage des appareils photographiques peuvent être interdits par arrêté ministériel.
+Sauf autorisation spéciale, est interdit le transport par aéronefs des produits explosifs mentionnés au  1° de l'article R.
+2352-1 du code de la défense , matériels de guerre, armes, munitions et leurs éléments de la catégorie A2 mentionnée à
+l'article R. 311-2 du code de la sécurité intérieure, pigeons voyageurs, objets de correspondance compris dans le monopole
+postal. Le transport et l'usage des appareils photographiques peuvent être interdits par arrêté ministériel.
 
 **Liens relatifs à cet article**
 
@@ -3774,11 +3774,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Modifié par_:
 
-  - Décret n°73-256 1973-03-06 art. 1 JORF 10 mars 1973
+  - Décret n°2018-1195 du 20 décembre 2018 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. R2352-1
+  - Code de la sécurité intérieure - art. R311-2 (V)
 
 
 ###### Article R133-7
