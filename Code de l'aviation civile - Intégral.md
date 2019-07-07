@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2019-07-01
+Version Consolidée au 2019-07-08
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -17031,20 +17031,15 @@ _Cite_:
 
 ###### Article R426-27-1
 
-La section 1 du chapitre III du titre II du livre VI du code de la sécurité sociale est applicable à l'actif de la caisse de
-retraite du personnel navigant professionnel de l'aéronautique civile qui n'est pas directement nécessaire à la gestion
-administrative du régime.
+Le chapitre 9 du titre 3 du livre 1 du code de la sécurité sociale est applicable à la caisse de retraite du personnel
+navigant professionnel de l'aéronautique civile pour les actifs qui ne sont pas directement nécessaires à la gestion
+administrative du régime au titre duquel cette caisse intervient.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-887 du 9 mai 2017 - art. 2
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. R623-10-3 (T)
-  - Code de la sécurité sociale. - art. R623-2 (T)
+  - Décret n°2019-718 du 5 juillet 2019 - art. 1
 
 
 ###### Article R426-27-2
