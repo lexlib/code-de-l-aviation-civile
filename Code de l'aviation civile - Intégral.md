@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2019-07-08
+Version Consolidée au 2019-10-05
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -93,12 +93,12 @@ Version Consolidée au 2019-07-08
           - [Section 3 : Coordination des aérodromes. (art. R221-12 à R221-15)](#90)
         - [CHAPITRE II : CLASSIFICATION. (art. R222-1 à R222-8)](#91)
         - [CHAPITRE III : EXPLOITATION. (art. R223-1 à R223-7)](#92)
-        - [CHAPITRE IV : REDEVANCES. (art. R224-1 à R224-10)](#93)
+        - [CHAPITRE IV : REDEVANCES. (art. R224-1 à R224-8)](#93)
           - [Section 1 : Dispositions générales (art. R224-1 à R224-2-2)](#94)
           - [Section 2 : Tarification, notification et homologation des redevances (art. R224-3 à R224-3-6)](#95)
           - [Section 3 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris (art. R224-4)](#96)
           - [Section 4 : Dispositions particulières applicables aux autres aérodromes (art. R224-5 à R224-6)](#97)
-          - [Section 5 : Autorité de supervision indépendante (art. R224-7 à R224-10)](#98)
+          - [Section 5 : Autorité de régulation des transports (art. R224-7 à R224-8)](#98)
         - [CHAPITRE V : DISPOSITIONS SPECIALES AUX AERODROMES OUVERTS A LA CIRCULATION AERIENNE PUBLIQUE DESTINES PRINCIPALEMENT A LA FORMATION AERONAUTIQUE. (art. R225-1 à R225-5)](#99)
         - [CHAPITRE VI : SANCTIONS ADMINISTRATIVES. (art. R226-1 à R226-6)](#100)
         - [CHAPITRE VII : ENVIRONNEMENT DES AERODROMES. (art. R227-1 à R227-20)](#101)
@@ -9345,15 +9345,13 @@ _Cite_:
 ###### Article R223-2
 
 Les concessions accordées par l'Etat pour la construction, l'entretien et l'exploitation des aérodromes qui lui appartiennent
-sont soumises aux conditions ci-après : 
+sont soumises aux conditions ci-après :
 
 Les cahiers des charges types des concessions sont approuvés par décret en Conseil d'Etat pris sous le contreseing du
-ministre chargé de l'aviation civile et du ministre de l'économie et des finances. 
+ministre chargé de l'aviation civile et du ministre de l'économie et des finances.
 
 Les concessions qui ne portent pas dérogation au cahier des charges type sont accordées par arrêté interministériel. Les
-concessions qui portent dérogation au cahier des charges type sont accordées par décret en Conseil d'Etat pris sur le rapport
-du ministre chargé de l'aviation civile, du ministre chargé de l'économie et des finances et du ministre chargé de la défense
-lorsqu'il est affectataire principal. 
+concessions qui portent dérogation au cahier des charges type sont accordées par décret en Conseil d'Etat.
 
 Les concessionnaires d'aérodromes ont le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code
 du domaine de l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit
@@ -9363,16 +9361,12 @@ code et de l'article 3 de la loi n° 94-631 du 25 juillet 1994.
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Cite_:
 
-  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
-  - Code du domaine de l'Etat - art. R57-4 (V)
-
-_Modifié par_:
-
-  - Décret n°96-1058 1996-12-02 art. 5 JORF 10 décembre 1996
+  - Loi n°94-631 du 25 juillet 1994 - art. 3
+  - Code du domaine de l'Etat - art. R57-4
 
 _Cité par_:
 
@@ -9380,6 +9374,10 @@ _Cité par_:
   - Décret n°2007-244 du 23 février 2007 - art. 2 (V)
   - Code de l'aviation civile - art. R223-4 (Ab)
   - Code de l'aviation civile - art. R232-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 2
 
 
 ###### Article R223-5
@@ -9456,15 +9454,15 @@ _Créé par_:
 
 Sur les aérodromes ouverts à la circulation aérienne publique et sur les aérodromes mentionnés aux articles R. 231-1 et R.
 232-2, les services publics aéroportuaires donnant lieu à la perception de redevances en application de l'article L. 6325-1
-du code des transports  sont les services rendus aux exploitants d'aéronefs et à leurs prestataires de service à l'occasion
-de l'usage de terrains, d'infrastructures, d'installations, de locaux et d'équipements aéroportuaires fournis par
-l'exploitant d'aérodrome, dans la mesure où cet usage est directement nécessaire, sur l'aérodrome, à l'exploitation des
-aéronefs ou à celle d'un service de transport aérien. 
+du code des transports sont les services rendus aux exploitants d'aéronefs et à leurs prestataires de service à l'occasion de
+l'usage de terrains, d'infrastructures, d'installations, de locaux et d'équipements aéroportuaires fournis par l'exploitant
+d'aérodrome, dans la mesure où cet usage est directement nécessaire, sur l'aérodrome, à l'exploitation des aéronefs ou à
+celle d'un service de transport aérien.
 
-Ces services ne peuvent donner lieu à la perception d'autres sommes, sous quelque forme que ce soit. 
+Ces services ne peuvent donner lieu à la perception d'autres sommes, sous quelque forme que ce soit.
 
-Le ministre chargé de l'aviation civile est l'autorité administrative mentionnée au dernier alinéa de l'article L. 6325-1 du
-code des transports.
+Le ministre chargé de l'aviation civile est l'autorité administrative mentionnée à l'avant-dernier alinéa de l'article L.
+6325-1 du code des transports.
 
 **Liens relatifs à cet article**
 
@@ -9490,7 +9488,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-2 (M)
   - Code de l'aviation civile - art. R224-3 (V)
   - Code de l'aviation civile - art. R224-3-1 (V)
-  - Code de l'aviation civile - art. R224-4 (M)
+  - Code de l'aviation civile - art. R224-4 (V)
   - Code de l'aviation civile - art. R282-9 (An)
 
 _Codifié par_:
@@ -9499,7 +9497,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 1
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 3
 
 _Cite_:
 
@@ -9682,11 +9680,11 @@ I.-Pour les aérodromes mentionnés à l'article L. 6323-2 du code des transport
 l'exploitant fixe les tarifs des redevances suivant les modalités prévues par la présente section et à l'article R. 224-4.
 Pour les autres aérodromes, le signataire de la convention prévue à l'article L. 6321-3 du code des transports peut soit
 fixer lui-même ces tarifs, soit en charger l'exploitant de l'aérodrome, suivant les modalités prévues par la présente section
-et à l'article R. 224-5. 
+et à l'article R. 224-5.
 
 II.-Une consultation des usagers mentionnés au premier alinéa de l'article R. 224-1 est engagée au moins quatre mois avant
 l'entrée en vigueur de nouvelles conditions tarifaires. Elle s'effectue dans le cadre de la commission consultative
-économique de l'aérodrome, lorsque celui-ci en est doté. 
+économique de l'aérodrome, lorsque celui-ci en est doté.
 
 III.-Les aérodromes dont le trafic annuel moyen des trois dernières années a dépassé 200 000 passagers, ou qui ont accueilli,
 pendant cette même période, au moins deux transporteurs aériens représentant en moyenne 50 000 passagers par an chacun, sont
@@ -9694,9 +9692,9 @@ dotés d'une commission consultative économique où sont notamment représenté
 représentants d'organisations professionnelles du transport aérien ; le nombre de représentants de ces deux dernières
 catégories est au moins égal à celui des représentants de l'exploitant. A l'exception des aérodromes mentionnés à l'article
 L. 6323-2 du code des transports, le directeur interrégional de la sécurité de l'aviation civile territorialement compétent
-est invité, comme observateur, aux séances de cette commission. 
+est invité, comme observateur, aux séances de cette commission.
 
-Une même commission peut être commune à plusieurs aérodromes proches dont l'exploitant est identique. 
+Une même commission peut être commune à plusieurs aérodromes proches dont l'exploitant est identique.
 
 La commission est créée selon le cas :
 
@@ -9709,11 +9707,11 @@ aérodromes appartenant à l'Etat, lorsque leur emprise s'étend sur plusieurs d
 compétente à l'égard d'aérodromes situés dans des départements différents ;
 
 - par le préfet de département, sur proposition du directeur interrégional de la sécurité de l'aviation civile, pour les
-aérodromes appartenant à l'Etat, dans les cas autres que ceux prévus à l'alinéa précédent. 
+aérodromes appartenant à l'Etat, dans les cas autres que ceux prévus à l'alinéa précédent.
 
 Les membres de la commission sont désignés et le règlement intérieur est approuvé dans les mêmes conditions. Toutefois, pour
 les aérodromes mentionnés à l'article L. 6323-2 du code des transports, le règlement intérieur est approuvé par le ministre
-chargé de l'aviation civile et les membres sont nommés par le préfet de la région Ile-de-France. 
+chargé de l'aviation civile et les membres sont nommés par le préfet de la région Ile-de-France.
 
 La commission est réunie au moins une fois par an pour émettre un avis sur les modalités d'établissement et d'application,
 sur l'aérodrome considéré, des redevances pour services rendus mentionnées à l'article R. 224-1 ainsi que sur les programmes
@@ -9722,30 +9720,42 @@ publics rendus par l'exploitant d'aérodrome. Ces débats peuvent mener à la co
 l'exploitant d'aérodrome et les représentants d'usagers ou d'organisations professionnelles du transport aérien. Tout accord
 de ce type détermine le niveau de service à fournir par l'exploitant d'aérodrome en tenant compte du système ou du niveau des
 redevances aéroportuaires. Pour les aérodromes ne faisant pas l'objet d'un contrat prévu à l'article L. 6325-2 du code des
-transports, ces accords fixent des objectifs de qualité de service, assortis d'incitations financières. 
+transports, ces accords fixent des objectifs de qualité de service, assortis d'incitations financières. Ces accords sont
+communiqués par l'exploitant au ministre chargé de l'aviation civile ainsi qu'à l'Autorité de régulation des transports,
+lorsqu'elle est compétente, et sont rendus publics par l'exploitant avant leur entrée en vigueur.
 
-Elle peut être consultée sur tout sujet relatif aux services rendus par l'exploitant d'aérodrome. 
+Elle peut être consultée sur tout sujet relatif aux services rendus par l'exploitant d'aérodrome.
 
-Les réunions de la commission donnent lieu à l'établissement d'un procès-verbal. 
+Les réunions de la commission donnent lieu à l'établissement d'un procès-verbal.
 
 IV.-Les informations mentionnées au sixième alinéa du I de l'article L. 6325-7 du code des transports, au dernier alinéa de
 l'article R. 224-2-1 et de l'article R. 224-2-2 sont portées à la connaissance des usagers dans le cadre des consultations
-prévues au II du présent article. 
+prévues au II du présent article.
 
 En outre, pour les aérodromes mentionnés à l'article L. 6323-2 du code des transports et les aérodromes appartenant à l'Etat,
 l'exploitant d'aérodrome transmet aux membres de la commission consultative économique de l'aérodrome, dans des conditions
-précisées par un arrêté du ministre chargé de l'aviation civile, les éléments suivants : 
+précisées par un arrêté du ministre chargé de l'aviation civile, les éléments suivants :
 
-a) Des informations sur les résultats et les prévisions de trafic sur l'aérodrome ou les aérodromes concernés ; 
+a) Des informations sur les résultats et les prévisions de trafic sur l'aérodrome ou les aérodromes concernés ;
 
 b) Des informations sur les éléments servant de base à la détermination des tarifs des redevances sur l'aérodrome ou les
-aérodromes concernés ; 
+aérodromes concernés ;
 
-c) Des éléments sur les résultats et les prévisions d'investissement sur l'aérodrome ou les aérodromes concernés. 
+c) Des éléments sur les résultats et les prévisions d'investissement sur l'aérodrome ou les aérodromes concernés.
 
 V.-Sans préjudice des dispositions des articles R. 224-3-3, R. 224-3-4 et R. 224-5, les tarifs des redevances sont rendus
 publics par l'exploitant de l'aérodrome et sont exécutoires au plus tôt, à l'exception des tarifs fixés par contrat dans les
 conditions du troisième alinéa du 2° de l'article R. 224-2, un mois après cette publication.
+
+VI. - Pour les aérodromes appartenant à l'Etat et concédés, l'exploitant consulte les usagers sur tout projet
+d'investissement devant faire l'objet d'une approbation du ministre chargé de l'aviation civile en vertu du cahier des
+charges applicables à l'aérodrome au sens de l'article R. 223-2. A cette fin, l'exploitant d'aérodrome soumet aux usagers un
+dossier précisant la nature et la consistance du projet, sa localisation, les objectifs poursuivis, son impact sur
+l'exploitation de l'aérodrome et une estimation de son coût. L'exploitant transmet un procès-verbal de cette consultation au
+ministre chargé de l'aviation civile lors de la notification du projet.
+
+Cette consultation s'effectue dans le cadre de la commission consultative économique de l'aérodrome lorsque celui-ci en est
+doté.
 
 **Liens relatifs à cet article**
 
@@ -9764,6 +9774,7 @@ _Cité par_:
   - Code de l'aviation civile - art. D224-4 (V)
   - Code de l'aviation civile - art. R224-2 (V)
   - Code de l'aviation civile - art. R224-3-2 (V)
+  - Code de l'aviation civile - art. R224-3-3 (V)
   - Code de l'aviation civile - art. R224-3-4 (V)
   - Code de l'aviation civile - art. R224-4 (M)
   - Code de l'aviation civile - art. R224-4-1 (V)
@@ -9775,19 +9786,14 @@ _Codifié par_:
 
   - Décret n°67-334 du 30 mars 1967
 
-**Liens**:
-
-  - DEPLACE: Décret n°2016-825 du 23 juin 2016 - art. 2
-
 _Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 3
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 4
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R224-1 (V)
-  - Code de l'aviation civile - art. R224-2-1 (V)
-  - Code de l'aviation civile - art. R224-3-3 (V)
+  - Code de l'aviation civile - art. R224-1
+  - Code de l'aviation civile - art. R224-2-1
   - Code des transports - art. L6321-3
   - Code des transports - art. L6323-2
   - Code des transports - art. L6325-2
@@ -9804,16 +9810,27 @@ usagers et de celle de la productivité de l'exploitant ;
 
 - les prévisions d'évolution des recettes ;
 
-- les programmes d'investissements et leur financement. 
+- les programmes d'investissements et leur financement.
 
 Il peut être aussi tenu compte des profits dégagés par des activités de l'exploitant autres que les services mentionnés à
-l'article R. 224-1. 
+l'article R. 224-1.
 
-L'exploitant d'aérodrome reçoit, compte tenu de ces éléments, une juste rémunération des capitaux investis, appréciée au
-regard du coût moyen pondéré de son capital calculé sur le périmètre d'activités mentionné à l'alinéa suivant. 
+L'exploitant d'aérodrome reçoit, compte tenu de ces éléments, une juste rémunération des capitaux investis sur le périmètre
+d'activités mentionné à l'article L. 6325-1 du code des transports, appréciée au regard du coût moyen pondéré de son capital
+calculé sur ce périmètre.
 
-Un arrêté             du ministre chargé de l'aviation civile  précise les conditions d'application du présent article,
-notamment pour la définition du périmètre des activités et services pris en compte.
+Pour les aérodromes mentionnés à l'article L. 6323-2 du code des transports et pour chaque aérodrome appartenant à l'Etat, le
+ministre chargé de l'aviation civile fixe par arrêté le périmètre des activités pris en compte, ainsi que, le cas échéant,
+les modalités de prise en compte des profits dégagés par des activités de l'exploitant extérieures à ce périmètre.
+
+Pour les autres aérodromes, le signataire de la convention prévue à l'article L. 6321-3 du code des transports fixe le
+périmètre des activités pris en compte, ainsi que, le cas échéant, les modalités de prise en compte des profits dégagés par
+des activités de l'exploitant extérieures à ce périmètre.
+
+Le ministre chargé de l'aviation civile précise par arrêté les autres conditions d'application du présent article. Cet arrêté
+précise notamment, pour les aérodromes mentionnés à l'article L. 6323-2 du code des transports et pour les aérodromes
+appartenant à l'Etat, les modalités selon lesquelles le ministre chargé de l'aviation civile approuve les règles d'allocation
+des actifs, des produits et des charges au périmètre mentionné ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -9828,7 +9845,7 @@ _Cité par_:
   - Arrêté du 16 septembre 2005 - art. 3 (V)
   - Arrêté du 16 septembre 2005 - art. 4 (V)
   - Arrêté du 16 janvier 2012 - art. 2 (V)
-  - Décret n°2016-825 du 23 juin 2016 - art. 11 (M)
+  - Décret n°2016-825 du 23 juin 2016 - art. 11 (V)
   - Arrêté du 12 juillet 2018 - art. 2
   - Arrêté du 12 juillet 2018 - art. 3 (Ab)
   - Décret n°2019-832 du 6 août 2019 - art. (V)
@@ -9839,9 +9856,9 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-4 (V)
   - Code de l'aviation civile - art. R224-4-1 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-825 du 23 juin 2016 - art. 2
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 5
 
 _Cite_:
 
@@ -9851,13 +9868,13 @@ _Cite_:
 ###### Article R224-3-2
 
 Pour les aérodromes mentionnés à l'article L. 6323-2 du code des transports, les aérodromes appartenant à l'Etat ainsi que
-tout aérodrome répondant au critère fixé à l'article R. 224-7, les tarifs des redevances perçues en application de l'article
-R. 224-2, hormis celles mentionnées au troisième alinéa du 2° de cet article, et, le cas échéant, leurs modulations, ainsi
-que les éventuels accords de qualité de service mentionnés à l'article R. 224-3, sont notifiés et homologués dans les
-conditions fixées aux articles R. 224-3-3 à R. 224-3-6. 
+tout aérodrome répondant au critère fixé à l'article L. 6327-1 du même code, les tarifs des redevances perçues en application
+de l'article R. 224-2, hormis celles mentionnées au troisième alinéa du 2° de cet article, et, le cas échéant, leurs
+modulations, sont notifiés et homologués dans les conditions fixées aux articles R. 224-3-3 à R. 224-3-6 sous réserve du III
+de l'article R. 224-4.
 
-Pour tout aérodrome répondant au critère fixé à l'article R. 224-7, l'autorité administrative chargée de l'homologation est
-l'autorité de supervision indépendante mentionnée à l'article R. 224-8. 
+Pour tout aérodrome répondant au critère fixé à l'article L. 6327-1 du code des transports, l'autorité administrative chargée
+de l'homologation est l'Autorité de régulation des transports.
 
 Dans les autres cas, l'autorité administrative chargée de l'homologation est le ministre chargé de l'aviation civile.
 
@@ -9871,14 +9888,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 4
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 1 (V)
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 6
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R224-2 (V)
-  - Code de l'aviation civile - art. R224-3 (V)
-  - Code de l'aviation civile - art. R224-3-3 (V)
-  - Code de l'aviation civile - art. R224-7 (V)
+  - Code de l'aviation civile - art. R224-2
+  - Code de l'aviation civile - art. R224-3
+  - Code de l'aviation civile - art. R224-3-3
+  - Code de l'aviation civile - art. R224-7
   - Code des transports - art. L6323-2
 
 
@@ -9886,22 +9904,20 @@ _Cite_:
 
 En vue de leur homologation, l'exploitant ou, le cas échéant, le signataire de la convention prévue à l'article L. 6321-3 du
 code des transports, notifie les tarifs des redevances mentionnées à l'article R. 224-2, hormis celles mentionnées au
-troisième alinéa du 2° de cet article, et, le cas échéant, leurs modulations, ainsi que les éventuels accords de qualité de
-service mentionnés à l'article R. 224-3 au ministre chargé de l'aviation civile et à la direction générale de la concurrence,
-de la consommation et de la répression des fraudes, ainsi qu'à l'autorité de supervision indépendante mentionnée à l'article
-R. 224-8 lorsqu'elle est compétente en application de l'article R. 224-7. 
+troisième alinéa du 2° de cet article, et, le cas échéant, leurs modulations, au ministre chargé de l'aviation civile et à la
+direction générale de la concurrence, de la consommation et de la répression des fraudes, ainsi qu'à l'Autorité de régulation
+des transports lorsqu'elle est compétente en application de l'article L. 6327-1 du code des transports.
 
 La notification est effectuée par lettre recommandée avec demande d'avis de réception, quatre mois au moins avant le début de
 chaque période tarifaire annuelle. Ce délai est ramené à deux mois lorsqu'un contrat a été conclu en application de l'article
-R. 224-4. 
+R. 224-4.
 
 Cette notification est accompagnée des éléments mentionnés à l'article R. 224-3-1 et au IV de l'article R. 224-3, de l'avis
 de la commission consultative économique de l'aérodrome, ainsi que, lorsqu'un contrat a été conclu en application de
-l'article R. 224-4, des éléments permettant de vérifier le respect du contrat. 
+l'article R. 224-4, des éléments permettant de vérifier le respect du contrat.
 
-Les tarifs des redevances ainsi notifiés et, le cas échéant, leurs modulations, ainsi que les éventuels accords de qualité de
-service mentionnés à l'article R. 224-3, sont rendus publics par l'exploitant au moins deux mois avant le début de chaque
-période tarifaire. 
+Les tarifs des redevances ainsi notifiés et, le cas échéant, leurs modulations, sont rendus publics par l'exploitant au moins
+deux mois avant le début de chaque période tarifaire.
 
 Dans un délai de quinze jours à compter de la réception de la notification, la direction générale de la concurrence, de la
 consommation et de la répression des fraudes transmet à l'autorité administrative chargée de leur homologation un avis motivé
@@ -9914,72 +9930,81 @@ _Cité par_:
 
   - Arrêté du 16 septembre 2005 - art. 2 (V)
   - Arrêté du 12 juillet 2018 - art. 3 (Ab)
-  - Code de l'aviation civile - art. R224-3 (V)
   - Code de l'aviation civile - art. R224-3-2 (V)
   - Code de l'aviation civile - art. R224-3-4 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 5
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 1 (V)
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 7
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R224-2 (V)
-  - Code de l'aviation civile - art. R224-3-1 (V)
-  - Code de l'aviation civile - art. R224-4 (V)
-  - Code de l'aviation civile - art. R224-7 (V)
+  - Code de l'aviation civile - art. R224-2
+  - Code de l'aviation civile - art. R224-3 (V)
+  - Code de l'aviation civile - art. R224-3-1
+  - Code de l'aviation civile - art. R224-4
+  - Code de l'aviation civile - art. R224-7
   - Code de l'aviation civile - art. R224-8 (V)
   - Code des transports - art. L6321-3
 
 
 ###### Article R224-3-4
 
-I.-Lorsque l'autorité administrative homologue les tarifs des redevances mentionnées à l'article R. 224-2 et, le cas échéant,
-leurs modulations, ainsi que les éventuels accords de qualité de service mentionnés à l'article R. 224-3, elle s'assure :
+I.-Lorsque le ministre chargé de l'aviation civile homologue les tarifs des redevances mentionnées à l'article R. 224-2 et,
+le cas échéant, leurs modulations, il s'assure :
 
 - du respect de la procédure de consultation prévue au II de l'article R. 224-3 ;
 
 - que les tarifs précités et le cas échéant leurs modulations respectent les règles générales applicables aux redevances,
-qu'ils sont non discriminatoires et que leur évolution est modérée ;
+qu'ils sont non discriminatoires et que leur évolution, par rapport aux tarifs en vigueur, est modérée ;
 
-- lorsqu'un contrat a été conclu en application de l'article L. 6325-2 du code des transports, du respect du contrat ;
+- lorsqu'un contrat a été conclu en application de l'article L. 6325-2 du code des transports, du respect des conditions de
+l'évolution des tarifs prévues par le contrat ;
 
 - en l'absence de contrat pris en application de l'article L. 6325-2 du code des transports, que l'exploitant d'aérodrome
-reçoit une juste rémunération des capitaux investis, appréciée au regard du coût moyen pondéré de son capital calculé sur le
-périmètre d'activités précisé par l'arrêté mentionné à l'article R. 224-3-1.
+reçoit une juste rémunération des capitaux investis sur le périmètre d'activités mentionné à l'article R. 224-3-1, appréciée
+au regard du coût moyen pondéré du capital calculé sur ce périmètre et que le produit global des redevances n'excède pas le
+coût des services rendus.
 
 II.-L'autorité administrative chargée de l'homologation peut demander à l'exploitant d'aérodrome de lui transmettre tout
-élément permettant de justifier sa proposition tarifaire. Toute partie intéressée qui le demande est entendue par cette
-autorité avant qu'elle ne prenne sa décision.
+élément permettant de justifier sa proposition tarifaire. Elle est notamment fondée à demander à l'exploitant tout élément
+permettant de vérifier la bonne application des règles d'allocation des actifs, des produits et des charges mentionnées à
+l'article R. 224-3-1.Toute partie intéressée qui le demande est entendue par cette autorité avant qu'elle ne prenne sa
+décision.
 
-III.-Les tarifs, modulations et accords de qualité de service mentionnés au I sont réputés homologués par l'autorité
-administrative et deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3 à moins qu'elle n'y fasse
-opposition dans un délai d'un mois suivant la réception de la notification.
+III.-Les tarifs et leurs modulations sont réputés homologués par l'autorité administrative et deviennent exécutoires dans les
+conditions fixées au V de l'article R. 224-3 à moins qu'elle n'y fasse opposition dans un délai d'un mois suivant la
+réception de la notification.
 
 L'exploitant d'aérodrome peut, dans le mois qui suit l'opposition de l'autorité administrative et sans nouvelle consultation
 des usagers, lui notifier, par lettre recommandée avec demande d'avis de réception, de nouveaux tarifs de redevances et, le
 cas échéant, modulations et accords de qualité de service. Il rend publics, au plus tard le lendemain de leur notification,
-les nouveaux tarifs et, le cas échéant, modulations et accords de qualité de service ainsi notifiés.
+les nouveaux tarifs et, le cas échéant, leurs modulations ainsi notifiés.
 
-Ces tarifs et, le cas échéant, modulations et accords de qualité de service sont alors réputés homologués par l'autorité
-administrative et deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3 à moins qu'elle n'y fasse
-opposition dans un délai de vingt et un jours suivant la réception de la notification.
+Ces tarifs et, le cas échéant, leurs modulations sont alors réputés homologués par l'autorité administrative et deviennent
+exécutoires dans les conditions fixées au V de l'article R. 224-3 à moins qu'elle n'y fasse opposition dans un délai de vingt
+et un jours suivant la réception de la notification.
 
-Dans le cas où les tarifs des redevances, leurs modulations ou les éventuels accords de qualité de service mentionnés à
-l'article R. 224-3 ne sont pas homologués, ou en l'absence de l'une des notifications prévues à l'article R. 224-3-3, les
-tarifs précédemment en vigueur demeurent applicables.
+Dans le cas où les tarifs des redevances ou leurs modulations ne sont pas homologués, ou en l'absence de l'une des
+notifications prévues à l'article R. 224-3-3, les tarifs précédemment en vigueur demeurent applicables.
 
-IV.-Dans le cas où les tarifs des redevances ou leurs modulations ou les éventuels accords de qualité de service mentionnés à
-l'article R. 224-3 ne sont pas homologués pendant deux années consécutives, l'autorité chargée de l'homologation peut, avec
-un préavis d'au moins quarante-cinq jours, fixer les tarifs des redevances et, le cas échéant, en encadrer les modulations.
-La décision est rendue publique. L'exploitant d'aérodrome met en œuvre les tarifs des redevances et leurs modulations, qui
-deviennent exécutoires dans les conditions fixées au V de l'article R. 224-3.
+IV. - Si la dernière homologation date de plus de vingt-quatre mois, l'autorité administrative chargée de l'homologation peut
+fixer les tarifs des redevances et leurs modulations. L'autorité administrative notifie les tarifs et leurs modulations à
+l'exploitant d'aérodrome et les rend publics. Les tarifs et leurs modulations sont exécutoires au plus tôt quarante-cinq
+jours après leur publication par l'autorité administrative.
+
+L'exploitant d'aérodrome publie pour information les tarifs et leurs modulations au plus tard quinze jours après leur
+notification par l'autorité administrative.
+
+La fixation des tarifs et de leurs modulations par l'autorité administrative vaut homologation de ces tarifs et de ces
+modulations.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-1516 du 30 octobre 2017 - art. 1
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 8
 
 _Cite_:
 
@@ -9993,10 +10018,10 @@ _Cite_:
 ###### Article R224-3-5
 
 Sur demande motivée présentée par un tiers au moins des membres de la commission consultative économique d'un aérodrome, par
-l'autorité de supervision indépendante mentionnée à l'article R. 224-8 lorsqu'elle est compétente en application de l'article
-R. 224-7, ou de sa propre initiative, le ministre chargé de l'aviation civile peut saisir pour avis la commission
+l'Autorité de régulation des transports lorsqu'elle est compétente en application de l'article L. 6327-1 du code des
+transports, ou de sa propre initiative, le ministre chargé de l'aviation civile peut saisir pour avis la commission
 consultative aéroportuaire en cas de différends opposant l'exploitant de l'aérodrome et ses usagers sur la politique de
-tarification des redevances. 
+tarification des redevances.
 
 Le ministre peut en outre saisir cette commission, quand un contrat a été conclu en application de l'article L. 6325-2 du
 code des transports, sur le respect des dispositions du contrat ou sur les circonstances pouvant motiver sa révision ou sa
@@ -10004,31 +10029,32 @@ fin anticipée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 5
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 1 (V)
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R224-7 (V)
-  - Code de l'aviation civile - art. R224-8 (V)
+  - Code de l'aviation civile - art. R224-7
+  - Code de l'aviation civile - art. R224-8
   - Code des transports - art. L6325-2
 
 
 ###### Article R224-3-6
 
-L'application  par un exploitant d'aérodrome de tarifs de redevances non homologués  dans les conditions fixées par la
-présente section est passible d'une  sanction pécuniaire, prononcée par le ministre chargé de l'aviation  civile après avis
-de la commission consultative aéroportuaire, dont le  montant est égal à 120 % de la différence entre le chiffre d'affaires
-annuel résultant des tarifs pratiqués par l'exploitant et des tarifs  homologués, sans pouvoir excéder 1 % du chiffre
-d'affaires hors taxes du  dernier exercice clos de l'exploitant. Préalablement à son avis, la  commission consultative
-aéroportuaire entend les observations de  l'exploitant.
+Pour les aérodromes ne répondant pas au critère fixé à l'article L. 6327-1 du code des transports, l'application par
+l'exploitant de tarifs de redevances non homologués dans les conditions fixées par la présente section est passible d'une
+sanction pécuniaire, prononcée par le ministre chargé de l'aviation civile après avis de la commission consultative
+aéroportuaire, dont le montant est égal à 120 % de la différence entre le chiffre d'affaires annuel résultant des tarifs
+pratiqués par l'exploitant et des tarifs homologués, sans pouvoir excéder 1 % du chiffre d'affaires hors taxes du dernier
+exercice clos de l'exploitant. Préalablement à son avis, la commission consultative aéroportuaire entend les observations de
+l'exploitant.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 5
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 9
 
 
 ##### Section 3 : Dispositions applicables aux aérodromes de l'Etat et d'Aéroports de Paris<a id=96></a>
@@ -10049,74 +10075,118 @@ susmentionnées correspondent au début de chacune de ces périodes ;
 
 - le plafond du taux moyen d'évolution de ces redevances pour chaque période tarifaire ;
 
-- l'ajustement de ce plafond en cas d'écart avec les éléments prévisionnels pris en compte en matière de trafic et
-d'investissements et en cas d'introduction de nouvelles redevances. 
+- l'ajustement de ce plafond en cas d'écart avec les éléments prévisionnels pris en compte en matière de trafic,
+d'investissements et de charges et en cas d'introduction de nouvelles redevances ;
+
+- le coût moyen pondéré du capital évalué, pour la période couverte par le contrat, sur le périmètre d'activités mentionné à
+l'article R. 224-3-1.
 
 Ces contrats prévoient les conditions dans lesquelles est vérifié le caractère proportionné des redevances par rapport aux
-coûts correspondants. 
+coûts correspondants.
 
-Ces contrats déterminent également, en tant que de besoin, les limites à l'amplitude et à la durée des modulations
-mentionnées à l'article R. 224-2-2. Toutefois, les contrats ne peuvent fixer de limites particulières aux possibilités
-prévues au deuxième alinéa de l'article R. 224-2-2 de modulation visant à réduire ou à compenser les atteintes à
-l'environnement. 
+Ils fixent les objectifs de qualité de service, assortis de mécanismes d'incitation financière.
 
-Ils fixent les objectifs de qualité de service, assortis de mécanismes d'incitation financière. 
+Ils précisent en outre le montant des investissements et les principales opérations d'équipement prévus et leur calendrier.
 
-Ils précisent en outre le montant des investissements et les principales opérations d'équipement prévus. 
+Les contrats prévoient les règles d'allocation des actifs, des produits et des charges au périmètre d'activités mentionné à
+l'article R. 224-3-1. La signature des contrats par le ministre chargé de l'aviation civile vaut approbation de ces règles.
+
+Les contrats peuvent prévoir les tarifs et leurs modulations applicables sur leur première période tarifaire.
+
+Les contrats peuvent prévoir des modulations de redevances mentionnées à l'article R. 224-2-2, en précisant, le cas échéant,
+leur amplitude et leur durée. Toutefois, les contrats ne peuvent fixer de limites particulières aux possibilités prévues au
+deuxième alinéa de l'article R. 224-2-2 de modulation visant à réduire ou à compenser les atteintes à l'environnement. Toute
+modulation prévue par le contrat reste par ailleurs soumise à l'homologation annuelle des tarifs de redevances mentionnée à
+l'article R. 224-3-2.
 
 Ils prévoient les conditions de leur révision ou de leur fin anticipée sur demande du ministre et après avis conforme de la
 commission consultative aéroportuaire, notamment lorsque des circonstances exceptionnelles et imprévisibles affectent les
 éléments prévisionnels pris en compte en matière de trafic et d'investissements, dans une mesure telle qu'elles se traduisent
-par un bouleversement de l'économie du contrat. 
+par un bouleversement de l'économie du contrat.
 
 Ils peuvent prévoir que les redevances sont perçues, sur les aérodromes d'Aéroports de Paris, par les tiers auxquels cette
-société a délégué l'exécution de certaines de ses missions en application de l'article L. 6323-4 du code des transports. 
+société a délégué l'exécution de certaines de ses missions en application de l'article L. 6323-4 du code des transports.
 
-Un arrêté du ministre chargé de l'aviation civile précise les conditions d'application du présent paragraphe. 
+Un arrêté du ministre chargé de l'aviation civile précise les conditions d'application du présent I.
 
-II.-L'élaboration de tels contrats inclut les phases successives suivantes : 
+II. - L'élaboration de tels contrats inclut les phases successives suivantes :
 
-a) L'exploitant rend public un dossier, relatif au périmètre d'activités mentionné à l'article R. 224-3-1, qui comprend
+a) L'exploitant rend public un dossier relatif au périmètre d'activités mentionné à l'article R. 224-3-1, qui comprend
 notamment :
 
 - un bilan de l'exécution du contrat pluriannuel en cours ou, lorsqu'un tel contrat n'a pas été conclu, une étude décrivant
 sur les années précédentes les évolutions du trafic, des capacités aéroportuaires, de la nature et de la qualité des services
-rendus, des tarifs des redevances ainsi que des éléments économiques et financiers se rapportant au périmètre précité ;
+rendus, des tarifs des redevances ainsi que des éléments économiques et financiers se rapportant au périmètre concerné ;
 
 - une présentation des hypothèses de l'exploitant pour le contrat à venir, notamment en matière d'évolution du trafic sur
 l'aérodrome ou les aérodromes qu'il exploite, d'évolution des capacités aéroportuaires, de programmes d'investissements et,
-le cas échéant, du préfinancement de ceux-ci, d'adéquation des services publics aux besoins des usagers, de qualité desdits
+le cas échéant, du préfinancement de ceux-ci, d'adéquation des services publics aux besoins des usagers, de qualité de ces
 services, d'évolution des tarifs des redevances et, le cas échéant, de modulations de celles-ci ;
 
-- une évaluation de l'impact économique et financier de ces hypothèses et, le cas échéant, d'hypothèses alternatives ; 
+- une évaluation de l'impact économique et financier de ces hypothèses et, le cas échéant, d'hypothèses alternatives ;
 
-Le contenu de ce dossier est précisé par arrêté du ministre chargé de l'aviation civile ; 
+- les hypothèses détaillées du calcul du coût moyen pondéré du capital évalué, pour la période couverte par le contrat, sur
+le périmètre d'activités mentionné à l'article R. 224-3-1 ; l'exploitant estime ce coût au regard de ses données financières
+et des données de marché disponibles comparables à la date de saisine. Les entreprises comparables sont celles dont les
+caractéristiques sont les plus proches de celles de l'exploitant en termes notamment de taille, de nature et de localisation
+géographique des activités et de cycle d'investissements ;
 
-b) Dans un délai d'un mois suivant la publication de ce dossier, pouvant être étendu de quinze jours par décision du ministre
-chargé de l'aviation civile, les usagers et les autres parties intéressées adressent leurs observations au ministre chargé de
-l'aviation civile, et à la direction générale de la concurrence, de la consommation et de la répression des fraudes. Le
-ministre chargé de l'aviation civile communique ces observations à l'exploitant d'aérodrome ; 
+- le cas échéant, les règles comptables d'allocation des actifs, des produits et des charges au périmètre mentionné à
+l'article R. 224-3-1 ;
 
-c) Le ministre chargé de l'aviation civile saisit la commission consultative aéroportuaire mentionnée à l'article L. 228-1 ;
+Le contenu de ce dossier est précisé par arrêté du ministre chargé de l'aviation civile ;
+
+L'exploitant informe sans délai le ministre chargé de l'aviation civile de la publication du dossier ;
+
+b) A compter de la publication du dossier mentionné au a, le ministre chargé de l'aviation civile peut saisir, lorsqu'elle
+est compétente, l'Autorité de régulation des transports pour solliciter un avis de cadrage sur le coût moyen pondéré du
+capital figurant dans le dossier et évalué, pour la période couverte par le contrat, sur le périmètre d'activités mentionné à
+l'article R. 224-3-1. Cette autorité rend son avis dans les conditions prévues à l'article L. 6327-1 du code des transports ;
+
+c) Dans un délai de six semaines suivant la publication du dossier mentionné au a, les usagers et les autres parties
+intéressées adressent leurs observations au ministre chargé de l'aviation civile et à la direction générale de la
+concurrence, de la consommation et de la répression des fraudes. Le ministre chargé de l'aviation civile communique ces
+observations à l'exploitant d'aérodrome ;
+
+d) Au plus tard douze semaines suivant la publication du dossier mentionné au a, l'exploitant rend public un document par
+lequel il récapitule les observations des usagers et des autres parties intéressées, justifie la manière dont il envisage
+d'en tenir compte et en précise le cas échéant les conséquences sur les propositions qu'il avait initialement formulées dans
+le dossier ;
+
+e) Le ministre chargé de l'aviation civile saisit la commission consultative aéroportuaire mentionnée à l'article L. 228-1 ;
 la commission consultative aéroportuaire auditionne notamment la direction générale de la concurrence, de la consommation et
-de la répression des fraudes ; l'avis de la commission est rendu public par ce même ministre ; 
+de la répression des fraudes ; l'avis de la commission est rendu public par ce même ministre ;
 
-d) Sur la base des éléments ci-dessus, le contrat est négocié entre le ministre chargé de l'aviation civile et l'exploitant
-d'aérodrome ; 
+f) Sur la base des éléments ci-dessus, le contrat est négocié entre le ministre chargé de l'aviation civile et l'exploitant
+d'aérodrome.
 
 Dans le cadre de la préparation des contrats, l'exploitant d'aérodrome transmet au ministre chargé de l'aviation civile et au
 président de la commission consultative aéroportuaire, à leur demande, tout élément permettant d'évaluer l'impact économique
-et financier susmentionné, y compris le plan d'affaires, sous format électronique modifiable avec accès aux formules et aux
-données, permettant à l'exploitant d'aérodrome d'établir sa proposition d'évolution des tarifs des redevances. Dans le cas où
-des instruments financiers émis par l'exploitant sont admis aux négociations sur un marché réglementé et où ces éléments
-d'évaluation constituent des informations privilégiées au sens de l'article 621-1 du règlement général de l'Autorité des
-marchés financiers, ceux-ci ne peuvent être communiqués à des tiers ; 
+et financier des hypothèses retenues pour le contrat à venir, y compris le plan d'affaires, sous format électronique
+modifiable avec accès aux formules et aux données, permettant à l'exploitant d'aérodrome d'établir sa proposition d'évolution
+des tarifs des redevances. Dans le cas où des instruments financiers émis par l'exploitant sont admis aux négociations sur un
+marché réglementé et où ces éléments d'évaluation constituent des informations privilégiées au sens de l'article 7 du
+règlement (UE) n° 596/2014 du 16 avril 2014, ceux-ci ne peuvent être communiqués à des tiers.
 
-e) Lorsque l'autorité de supervision indépendante mentionnée à l'article R. 224-8 est compétente en application de l'article
-R. 224-7, le ministre chargé de l'aviation civile signe le contrat après son avis conforme. L'autorité de supervision
-indépendante est saisie et rend son avis dans les conditions prévues par l'article R. 224-10 ; 
+Lorsque le ministre chargé de l'aviation civile est l'autorité chargée de l'homologation et le projet de contrat prévoit les
+tarifs et leurs modulations applicables sur la première période tarifaire couverte par le contrat, le ministre chargé de
+l'aviation civile vérifie les conditions prévues au I de l'article R. 224-3-4 ;
 
-f) Une fois conclu, le contrat est rendu public ainsi que, le cas échéant, l'avis de l'autorité de supervision indépendante.
+g) Lorsque l'Autorité de régulation des transports est compétente en application de l'article L. 6327-1 du code des
+transports, le ministre chargé de l'aviation civile signe le contrat après son avis conforme. L'autorité est saisie dans les
+conditions prévues à l'article R. 224-8 et rend son avis dans les conditions prévues à l'article L. 6327-3 du code des
+transports. L'autorité rend public le projet de contrat dont elle est saisie ;
+
+h) Une fois conclu, le contrat est rendu public ainsi que, le cas échéant, l'avis de l'Autorité de régulation des transports.
+
+III. - Par exception aux articles R. 224-3-3 et R. 224-3-4, lorsque le contrat prévoit les tarifs et leurs modulations
+applicables sur la première période tarifaire couverte par le contrat, ceux-ci sont réputés homologués à la signature du
+contrat. Ils deviennent exécutoires au plus tôt un mois après la publication du contrat et un mois après la publication des
+tarifs par l'exploitant.
+
+**Nota:**
+
+Se reporter aux conditions d'application prévues à l'article 16 du décret n° 2019-1016 du 3 octobre 2019.
 
 **Liens relatifs à cet article**
 
@@ -10137,19 +10207,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 6
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 1 (V)
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 10
 
 _Cite_:
 
   - Code de l'aviation civile - art. L228-1
-  - Code de l'aviation civile - art. R224-1
+  - Code de l'aviation civile - art. R224-1 (V)
   - Code de l'aviation civile - art. R224-2
   - Code de l'aviation civile - art. R224-2-2
   - Code de l'aviation civile - art. R224-3-1
   - Code de l'aviation civile - art. R224-7 (V)
-  - Code de l'aviation civile - art. R224-8 (V)
-  - Code des transports - art. L6323-4 (V)
-  - Code des transports - art. L6325-2 (V)
+  - Code de l'aviation civile - art. R224-8
+  - Code des transports - art. L6323-4
+  - Code des transports - art. L6325-2
 
 
 ##### Section 4 : Dispositions particulières applicables aux autres aérodromes<a id=97></a>
@@ -10157,11 +10228,12 @@ _Cite_:
 ###### Article R224-5
 
 Pour les aérodromes qui n'appartiennent pas à l'Etat et qui ne relèvent pas de l'article L. 6323-2 du code des transports, à
-l'exception des aérodromes répondant au critère fixé à l'article R. 224-7, les tarifs des redevances mentionnées au 1° de
-l'article R. 224-2 et, le cas échéant, leurs modulations, sont notifiés par la personne chargée de leur fixation au
-représentant de l'Etat dans le département au moins deux mois avant leur entrée en vigueur. Cette notification, communiquée
-par lettre recommandée avec avis de réception, est accompagnée de l'avis de la commission consultative économique ou, à
-défaut, du compte rendu de la consultation des usagers, ainsi que des informations mentionnées au IV de l'article R. 224-3.
+l'exception des aérodromes répondant au critère fixé à l'article L. 6327-1 du code des transports, les tarifs des redevances
+mentionnées au 1° de l'article R. 224-2 et, le cas échéant, leurs modulations, sont notifiés par la personne chargée de leur
+fixation au représentant de l'Etat dans le département au moins deux mois avant leur entrée en vigueur. Cette notification,
+communiquée par lettre recommandée avec avis de réception, est accompagnée de l'avis de la commission consultative économique
+ou, à défaut, du compte rendu de la consultation des usagers, ainsi que des informations mentionnées au IV de l'article R.
+224-3.
 
 **Liens relatifs à cet article**
 
@@ -10171,12 +10243,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-825 du 23 juin 2016 - art. 7
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 1 (V)
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R224-2 (V)
-  - Code de l'aviation civile - art. R224-7 (V)
+  - Code de l'aviation civile - art. R224-2
+  - Code de l'aviation civile - art. R224-7
   - Code des transports - art. L6323-2
 
 _Cité par_:
@@ -10212,14 +10284,18 @@ _Cité par_:
   - Code de l'aviation civile - art. R260-1 (V)
 
 
-##### Section 5 : Autorité de supervision indépendante<a id=98></a>
+##### Section 5 : Autorité de régulation des transports<a id=98></a>
 
 ###### Article R224-7
 
-Les dispositions de la présente section s'appliquent aux aérodromes dont le trafic annuel de la dernière année calendaire
-achevée dépasse cinq millions de passagers ainsi qu'aux aérodromes faisant partie d'un système d'aérodromes au sens de
-l'article L. 6325-1 du code des transports comprenant au moins un aérodrome dont le trafic de la dernière année calendaire
-achevée dépasse cinq millions de passagers.
+L'Autorité de régulation des transports rend un avis de cadrage au plus tard deux mois après avoir été saisie, en application
+du b du II de l'article R. 224-4, sur le coût moyen pondéré du capital évalué, pour la période couverte par le contrat, sur
+le périmètre d'activités mentionné à l'article R. 224-3-1.
+
+L'autorité peut consulter toute partie intéressée avant de rendre son avis. Toute partie intéressée peut demander à être
+entendue par cette autorité avant qu'elle ne rende son avis.
+
+Cet avis indique le coût moyen pondéré du capital avec une valeur minimale et une valeur maximale.
 
 **Liens relatifs à cet article**
 
@@ -10230,42 +10306,39 @@ _Cité par_:
   - Code de l'aviation civile - art. R224-3-2 (V)
   - Code de l'aviation civile - art. R224-3-3 (V)
   - Code de l'aviation civile - art. R224-3-5 (V)
-  - Code de l'aviation civile - art. R224-4 (M)
+  - Code de l'aviation civile - art. R224-4 (V)
   - Code de l'aviation civile - art. R224-5 (V)
   - Code de l'aviation civile - art. R224-8 (M)
 
 _Modifié par_:
 
-  - Décret n°2017-1516 du 30 octobre 2017 - art. 2
-
-_Cite_:
-
-  - Code des transports - art. L6325-1 (M)
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 12
 
 
 ###### Article R224-8
 
-Une autorité de supervision indépendante est placée auprès du vice-président du Conseil général de l'environnement et du
-développement durable.
+I.-L'Autorité de régulation des transports rend un avis conforme au ministre chargé de l'aviation civile au plus tard deux
+mois après avoir été saisie, en application du g du II de l'article R. 224-4, d'un projet de contrat régi par l'article L.
+6325-2 du code des transports. L'autorité peut prolonger ce délai de deux mois dans des cas exceptionnels et dûment motivés.
 
-Elle est chargée, pour les aérodromes répondant au critère fixé à l'article R. 224-7, de rendre un avis conforme au ministre
-chargé de l'aviation civile sur tout projet de contrat régi par l'article L. 6325-2 du code des transports, dans les
-conditions fixées à l'article R. 224-10 et d'homologuer, dans les conditions fixées aux articles R. 224-3-2 à R. 224-3-4, les
-tarifs des redevances mentionnées à l'article R. 224-2 et, le cas échéant, leurs modulations, ainsi que les éventuels accords
-de qualité de service mentionnés à l'article R. 224-3.
+II.-Lorsqu'il saisit l'autorité en application du g du II de l'article R. 224-4, le ministre chargé de l'aviation civile lui
+transmet, outre le projet de contrat :
 
-Dans l'exercice de ces fonctions, elle ne peut recevoir aucune instruction du ministre chargé de l'aviation civile. Elle
-exerce ses compétences d'une manière impartiale et transparente et arrête librement ses décisions selon le règlement
-intérieur qu'elle adopte.
+- le dossier et le document établis par l'exploitant aéroportuaire, mentionnés aux a et d du II de l'article R. 224-4 ;
 
-A la demande de l'autorité de supervision indépendante, les services du ministère chargé de l'aviation civile lui
-transmettent tout élément nécessaire à l'instruction des affaires dont elle est saisie, sous réserve des secrets protégés par
-la loi.
+- les observations des usagers et des autres parties intéressées recueillies en application du c du II de l'article R.
+224-4 ;
 
-Elle est dotée des moyens humains, sur lesquels elle a autorité, financiers et matériels suffisants pour le plein exercice de
-ses missions.
+- l'avis de la commission consultative aéroportuaire rendu en application du e du II de l'article R. 224-4 ;
 
-Elle publie un rapport annuel sur ses activités.
+- les éléments recueillis en application du deuxième alinéa du f du II de l'article R. 224-4, y compris ceux ne pouvant pas
+être communiqués à des tiers.
+
+A la demande de l'autorité, le ministre chargé de l'aviation civile et l'exploitant d'aérodrome lui transmettent tout élément
+permettant de justifier leur proposition de contrat.
+
+L'autorité peut consulter toute partie intéressée avant de rendre son avis. Toute partie intéressée peut demander à être
+entendue par cette autorité avant qu'elle ne rende son avis.
 
 **Liens relatifs à cet article**
 
@@ -10273,121 +10346,16 @@ _Cité par_:
 
   - Décret n°2016-825 du 23 juin 2016 - art. 11 (V)
   - Code de l'aviation civile - art. R224-3-2 (V)
-  - Code de l'aviation civile - art. R224-3-3 (M)
+  - Code de l'aviation civile - art. R224-3-3 (V)
   - Code de l'aviation civile - art. R224-3-5 (V)
   - Code de l'aviation civile - art. R224-4 (V)
 
 _Modifié par_:
 
-  - Décret n°2017-1516 du 30 octobre 2017 - art. 3
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 13
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R224-10
-  - Code de l'aviation civile - art. R224-2
-  - Code de l'aviation civile - art. R224-3
-  - Code de l'aviation civile - art. R224-7
-  - Code des transports - art. L6325-2
-
-
-###### Article R224-9
-
-L'autorité de supervision indépendante est composée de cinq membres. Son président et deux autres de ses membres sont choisis
-parmi les membres permanents du Conseil général de l'environnement et du développement durable. Les deux autres membres sont
-des personnalités reconnues pour leur expertise dans le domaine de la régulation économique ou du transport aérien. Le
-président et les membres de l'autorité sont désignés pour une durée de cinq ans par le ministre présidant le Conseil général
-de l'environnement et du développement durable, sur proposition du vice-président.
-
-Aucun membre de l'autorité de supervision indépendante ne peut exercer de fonction liée à la propriété, au contrôle ou à la
-direction d'aéroports, d'entités gestionnaires d'aéroports ou de transporteurs aériens. Aucun membre ne peut participer à une
-décision de l'autorité de supervision indépendante s'il se trouve en situation de conflit d'intérêts au sens des dispositions
-de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, à raison d'un intérêt
-public ou privé détenu au cours des trois années précédant la décision.
-
-Les dispositions de l'article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique
-s'appliquent aux membres de l'autorité de supervision indépendante.
-
-Il ne peut être mis fin à leurs fonctions avant l'expiration de leur mandat que sur leur demande, en cas d'empêchement
-permanent, de cessation de leur qualité de membre permanent du Conseil général de l'environnement et du développement
-durable, ou afin de se conformer aux incompatibilités de fonctions mentionnées au deuxième alinéa. Leur mandat peut être
-renouvelé une fois.
-
-Les fonctions de membre de l'autorité de supervision indépendante exercées par des personnalités reconnues pour leur
-expertise dans le domaine de la régulation économique ou du transport aérien donnent lieu à indemnité dont le montant est
-fixé par un arrêté conjoint des ministres chargés de l'aviation civile et du budget.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2013-907 du 11 octobre 2013 - art. 2
-
-_Modifié par_:
-
-  - Décret n°2017-1516 du 30 octobre 2017 - art. 4
-
-_Abrogé par_:
-
-  - Décret n°2019-1016 du 3 octobre 2019 - art. 14
-
-
-###### Article R224-10
-
-I.-L'autorité de supervision indépendante rend un avis conforme au ministre chargé de l'aviation civile dans les meilleurs
-délais et au plus tard deux mois après avoir été saisie, en application du e du II de l'article R. 224-4, d'un projet de
-contrat régi par l'article L. 6325-2 du code des transports. A la demande de l'autorité de supervision indépendante, le
-ministre chargé de l'aviation civile peut prolonger ce délai de deux mois dans des cas exceptionnels et dûment motivés. 
-
-II.-Lorsqu'il saisit l'autorité de supervision indépendante en application du e du II de l'article R. 224-4, le ministre
-chargé de l'aviation civile lui transmet, outre le projet de contrat :
-
-- le dossier de l'exploitant aéroportuaire mentionné au a du II de l'article R. 224-4 ;
-
-- les observations des usagers et des autres parties intéressées recueillies en application du b du II de l'article R.
-224-4 ;
-
-- l'avis de la commission consultative aéroportuaire rendu en application du c du II de l'article R. 224-4 ;
-
-- les éléments recueillis en application du deuxième alinéa du d, y compris ceux ne pouvant pas être communiqués à des
-tiers. 
-
-A la demande de l'autorité de supervision indépendante, le ministre chargé de l'aviation civile et l'exploitant d'aérodrome
-lui transmettent tout élément permettant de justifier leur proposition de contrat. 
-
-L'autorité de supervision indépendante peut consulter toute partie intéressée avant de rendre son avis. Toute partie
-intéressée peut demander à être entendue par cette autorité avant qu'elle ne rende son avis. 
-
-III.-Dans son avis, l'autorité de supervision indépendante se prononce sur l'application de la procédure prévue au II de
-l'article R. 224-4. 
-
-Sur la base des dispositions du projet de contrat relatives au taux moyen d'évolution des redevances, à l'ajustement de ce
-plafond, aux limites à l'amplitude et à la durée des modulations et aux incitations financières liées aux objectifs de
-qualité de service, l'autorité de supervision indépendante se prononce également sur :
-
-- la juste rémunération des capitaux investis par l'exploitant d'aérodrome, appréciée au regard du coût moyen pondéré de son
-capital calculé sur le périmètre d'activités précisé par l'arrêté mentionné à l'article R. 224-3-1 ;
-
-- l'absence de discrimination et la modération de l'évolution des tarifs.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-825 du 23 juin 2016 - art. 9
-
-_Abrogé par_:
-
-  - Décret n°2019-1016 du 3 octobre 2019 - art. 14
-
-_Cité par_:
-
-  - Décret n°2019-1016 du 3 octobre 2019 - art. 16 (V)
-  - Code de l'aviation civile - art. R224-4 (V)
-  - Code de l'aviation civile - art. R224-8 (M)
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R224-3-1
   - Code des transports - art. L6325-2
 
 
@@ -11133,28 +11101,30 @@ _Créé par_:
 
 ###### Article R227-15
 
-La décision du ministre chargé de l'aviation civile prononçant une mesure de restriction d'exploitation en application de
-l'article R. 227-8, accompagnée de l'exposé des motifs ayant présidé à son introduction si elle procède au retrait des
-aéronefs présentant une faible marge de conformité, est publiée au moins deux mois avant la tenue de la conférence
-internationale de planification des mouvements d'aéronefs relative à la période de planification horaire pertinente.
+En ce qui concerne les aérodromes qualifiés d'aéroports coordonnés en application de l'article R. 221-12, la décision du
+ministre chargé de l'aviation civile prononçant une mesure de restriction d'exploitation en application de l'article R.
+227-8, accompagnée de l'exposé des motifs ayant présidé à son introduction si elle procède au retrait des aéronefs présentant
+une faible marge de conformité, est publiée au moins deux mois avant la tenue de la conférence internationale de
+planification des mouvements d'aéronefs relative à la période de planification horaire pertinente.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
-
-_Créé par_:
-
-  - Décret n°2004-1051 du 28 septembre 2004 - art. 1 () JORF 5 octobre 2004
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
   - Décret n°2019-1016 du 3 octobre 2019 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-1016 du 3 octobre 2019 - art. 15
+
 _Cite_:
 
-  - Code de l'aviation civile - art. R227-8 (V)
+  - Code de l'aviation civile - art. R221-12
+  - Code de l'aviation civile - art. R227-8
 
 
 ###### Article R227-16
