@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2019-10-05
+Version Consolidée au 2019-10-07
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -19615,25 +19615,29 @@ _Créé par_:
 ###### Article D131-1-3
 
 L'espace aérien national et les espaces aériens placés sous juridiction française sont divisés en portions d'espace aérien
-qui sont créées, modifiées ou supprimées : 
+qui sont créées, modifiées ou supprimées :
 
 - à titre permanent, après avis du directoire de l'espace aérien, par arrêté conjoint du ministre chargé de l'aviation civile
-et du ministre de la défense ; 
+et du ministre de la défense ;
 
 - à titre temporaire, par décision du ministre chargé de l'aviation civile ou du ministre de la défense selon que la portion
-d'espace aérien considérée relève de l'une ou de l'autre autorité. 
+d'espace aérien considérée relève de l'une ou de l'autre autorité.
 
 Dans les deux cas précités, la catégorie, les limites géographiques latérales et verticales de la portion d'espace aérien,
 ainsi que les dispositions relatives à son utilisation pendant des périodes définies, sont portées à la connaissance des
-usagers aériens par la voie de l'information aéronautique. 
+usagers aériens par la voie de l'information aéronautique.
 
-Ces portions d'espace aérien comprennent les régions d'information de vol et, à l'intérieur de celles-ci : 
+Ces portions d'espace aérien comprennent les régions d'information de vol et, à l'intérieur de celles-ci :
 
-- les espaces aériens contrôlés ; 
+- les espaces aériens contrôlés ;
 
-- les zones réglementées ; 
+- les zones réglementées ;
 
-- les zones dangereuses. 
+- les zones dangereuses ;
+
+- les zones à utilisation obligatoire de radio ;
+
+- les zones à utilisation obligatoire de transpondeur.
 
 Elles comprennent également les espaces aériens réservés à des usagers spécifiques pendant une durée déterminée, dénommés
 zones réservées temporairement (TRA), zones de ségrégation temporaire (TSA), ou zones de ségrégation temporaire
@@ -19641,13 +19645,13 @@ transfrontalières (CBA) lorsque celles-ci sont établies au-dessus de frontièr
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2010-641 du 10 juin 2010 - art. 1
-
 _Cité par_:
 
   - Décret n°2019-1020 du 4 octobre 2019 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1020 du 4 octobre 2019 - art. 1
 
 
 ###### Article D131-1-4
