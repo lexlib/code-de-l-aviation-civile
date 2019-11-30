@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2019-10-07
+Version Consolidée au 2019-12-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -66,7 +66,7 @@ Version Consolidée au 2019-10-07
       - [TITRE IV : DOMMAGES ET RESPONSABILITES. (art. R141-1 à R142-4)](#63)
         - [CHAPITRE Ier : RESPONSABILITE DES EQUIPAGES ET DES EXPLOITANTS. (art. R141-1 à R141-2)](#64)
         - [CHAPITRE II : ASSISTANCE, SAUVETAGE, DECOUVERTE D'EPAVES ET DECLARATIONS D'ACCIDENTS OU D'INCIDENTS. (art. R142-4)](#65)
-      - [TITRE V : DISPOSITIONS PENALES. (art. R151-1 à R151-8)](#66)
+      - [TITRE V : DISPOSITIONS PENALES. (art. R151-1 à R151-9)](#66)
       - [TITRE VI : SANCTIONS ADMINISTRATIVES. (art. R160-1 à R160-15)](#67)
     - [LIVRE II : AERODROMES. (art. R211-2-1 à R282-3)](#68)
       - [TITRE Ier : DISPOSITIONS GENERALES. (art. R211-2-1 à R217-5-3)](#69)
@@ -4865,6 +4865,92 @@ _Cite_:
   - Code de l'aviation civile - art. R131-5
 
 
+###### Article R151-2
+
+I.-Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un télépilote, de faire circuler
+à des fins de loisir un aéronef civil sans personne à bord dont la masse est comprise dans les limites fixées par l'article
+D. 136-7, sans avoir obtenu l'attestation de suivi de formation mentionnée à l'article D. 136-8, ou le certificat ou
+l'attestation de suivi d'une formation reconnue comme équivalente mentionnés aux articles D. 136-9 et D. 136-10.
+
+II.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour un télépilote, de faire circuler
+à des fins autres que le loisir un aéronef civil sans personne à bord sans avoir obtenu le certificat d'aptitude théorique de
+télépilote délivré par le ministre chargé de l'aviation civile ainsi que l'attestation de suivi de formation délivrée par
+l'exploitant en charge de la formation, mentionnés à l'article D. 136-2, ou sans avoir obtenu l'attestation d'aptitude aux
+fonctions de télépilote dans le cadre du ou des scénarios opérationnels pour lesquels il opère, mentionnée à l'article D.
+136-2-2, ou tout autre justificatif équivalent mentionné à l'article D. 136-5.
+
+III.-Est puni de l'amende prévue pour les contraventions de la première classe le fait, pour un télépilote faisant circuler
+un aéronef civil sans personne à bord, de ne pas présenter immédiatement aux fonctionnaires et agents compétents pour la
+constatation des infractions aux dispositions du présent livre, l'un des documents mentionnés aux I et II attestant du suivi
+de la formation exigée pour l'activité qu'il exerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°67-334 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2019-1253 du 28 novembre 2019 - art. 1
+
+_Cité par_:
+
+  - Décret n°2019-1253 du 28 novembre 2019 - art. 2
+
+_Cite_:
+
+  - Code pénal
+  - Code de l'aviation civile - art. R133-1
+
+
+###### Article R151-3
+
+I.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait de faire circuler un aéronef civil sans
+personne à bord d'une masse supérieure ou égale au seuil défini par l'article D. 124-1 sans qu'il ait été procédé à
+l'enregistrement de cet aéronef conformément aux articles R. 124-1 et R. 124-2. 
+
+II.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait, pour le propriétaire ou le
+copropriétaire ayant réalisé l'enregistrement ou leur représentant légal, de fournir, lors de l'enregistrement de l'aéronef
+par voie électronique mentionné aux articles R. 124-1 et R. 124-2, des informations erronées sur son identité ou sur son
+adresse ou sur l'identifiant du dispositif de signalement électronique ou numérique lorsqu'un tel dispositif est obligatoire
+ou sur les caractéristiques principales de l'aéronef, ou de ne pas mettre à jour ces informations dans les conditions prévues
+à l'article R. 124-3. 
+
+III.-Est puni de l'amende prévue pour les contraventions de la première classe le fait, pour tout télépilote faisant circuler
+un aéronef civil sans personne à bord, de ne pas présenter immédiatement aux fonctionnaires et agents compétents pour la
+constatation des infractions aux dispositions du présent livre, l'un des documents attestant de l'enregistrement de cet
+aéronef mentionné au II. 
+
+IV.-Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait de faire circuler un aéronef civil
+sans personne à bord sans que son numéro d'enregistrement ait été apposé dans les conditions prévues aux articles R. 124-2 et
+R. 124-4.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ancien code de l'aviation civile 41 , alinéa 1 2e phrase
+  - Loi n°1924-05-31, art. 58, al. 1 2e phrase
+
+_Codifié par_:
+
+  - Décret n°67-334 du 30 mars 1967
+
+_Cité par_:
+
+  - Décret n°2001-1043 du 8 novembre 2001 - art. 5 (V)
+  - Décret n°2019-1253 du 28 novembre 2019 - art. 2
+
+_Modifié par_:
+
+  - Décret n°2019-1253 du 28 novembre 2019 - art. 1
+
+_Cite_:
+
+  - Code de l'aviation civile - art. D124-1
+
+
 ###### Article R151-5
 
 La commission prévue par l'article L. 150-13 est délivrée par le ministre chargé de l'aviation civile ou, pour le personnel
@@ -4989,6 +5075,29 @@ _Cite_:
 _Cité par_:
 
   - Code de l'aviation civile - art. R330-18 (V)
+
+
+###### Article R151-9
+
+Les dispositions de l'article R. 151-2, dans leur rédaction résultant du décret n° 2019-1253 du 28 novembre 2019 relatif aux
+sanctions pénales applicables en cas de manquements aux obligations destinées à renforcer la sécurité de l'usage des aéronefs
+civils circulant sans personne à bord, sont applicables dans les îles Wallis et Futuna, en Polynésie française et dans les
+Terres australes et antarctiques françaises.
+
+Les dispositions de l'article R. 151-3, dans leur rédaction résultant du décret n° 2019-1253 du 28 novembre 2019 relatif aux
+sanctions pénales applicables en cas de manquements aux obligations destinées à renforcer la sécurité de l'usage des aéronefs
+civils circulant sans personne à bord, sont applicables dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-
+Calédonie et dans les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2019-1253 du 28 novembre 2019
+
+_Créé par_:
+
+  - Décret n°2019-1253 du 28 novembre 2019 - art. 3
 
 
 ### TITRE VI : SANCTIONS ADMINISTRATIVES.<a id=67></a>
