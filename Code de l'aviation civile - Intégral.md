@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2019-07-08
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -15309,8 +15309,14 @@ _Cité par_:
 
 ###### Article R425-17
 
-L'intéressé peut récuser les membres du conseil dans les conditions prévues par les articles L. 731-1 et suivants du code de
+L'intéressé peut récuser les membres du conseil dans les conditions prévues par les articles L. 111-6 et suivants du code de
 l'organisation judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -15321,15 +15327,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Modifié par_:
 
-  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+  - Décret n°2019-913 du 30 août 2019 - art. 5
 
 _Cité par_:
 
   - Code de l'aviation civile - art. D435-1 (M)
+
+_Cite_:
+
+  - articles L. 111-6 et suivants du code de l'organisation judiciaire
 
 
 ###### Article R425-18
