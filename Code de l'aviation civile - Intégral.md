@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2019-12-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -2522,12 +2522,17 @@ titre présenté. Ils indiquent :
 5. Le type de l'aéronef, son numéro de série, son numéro dans la série et ses marques d'immatriculation ou la déclaration
 prévue à l'article L. 122-5 (alinéa 3) ;
 
-6. L'élection de domicile, par le créancier, dans le ressort du tribunal de grande instance dans lequel se trouve le bureau
+6. L'élection de domicile, par le créancier, dans le ressort du tribunal judiciaire dans lequel se trouve le bureau
 d'immatriculation des aéronefs.
 
 L'inscription de l'hypothèque est mentionnée sur les bordereaux. Si le titre constitutif d'hypothèque est authentique,
 l'expédition en est remise au requérant, ainsi que l'un des bordereaux, au bas duquel certificat est donné que l'inscription
 a été faite.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2537,11 +2542,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
-
-_Modifié par_:
-
-  - Décret n°2003-230 du 13 mars 2003 - art. 1 () JORF 16 mars 2003
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -2551,6 +2552,10 @@ _Cité par_:
   - Code de l'aviation civile - art. D122-4 (V)
   - Code de l'aviation civile - art. D122-6 (V)
   - Code de l'aviation civile - art. D122-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R122-2
@@ -2577,19 +2582,23 @@ _Cité par_:
 
 L'acquéreur d'un aéronef ou de pièces de rechange qui veut se garantir contre les poursuites autorisées par l'article R.
 123-2 est tenu avant la poursuite ou dans le délai de quinzaine de la notification du procès-verbal de saisie, de notifier à
-tous les créanciers inscrits au registre d'immatriculation, au domicile élu par eux dans leurs inscriptions : 
+tous les créanciers inscrits au registre d'immatriculation, au domicile élu par eux dans leurs inscriptions :
 
 1° Un extrait de son titre d'acquisition indiquant la date et la nature du titre, le type de l'aéronef, son numéro de série,
-son numéro dans la série et ses marques d'immatriculation, ainsi que le prix, charges comprises ; 
+son numéro dans la série et ses marques d'immatriculation, ainsi que le prix, charges comprises ;
 
-2° Un état indiquant la date des inscriptions, le nom des créanciers, le montant des créances inscrites ; 
+2° Un état indiquant la date des inscriptions, le nom des créanciers, le montant des créances inscrites ;
 
 3° La déclaration qu'il est prêt à acquitter sur-le-champ les dettes hypothécaires jusqu'à concurrence du prix, sans
-distinction des dettes exigibles ou non ; 
+distinction des dettes exigibles ou non ;
 
-4° Constitution d'un avocat près le tribunal de grande instance dans le ressort duquel se trouve soit l'aéronef, soit son
-port d'attache, soit le lieu où il est immatriculé, ou recours à toute procédure correspondante dans les territoires d'outre-
-mer.
+4° Constitution d'un avocat près le tribunal judiciaire dans le ressort duquel se trouve soit l'aéronef, soit son port
+d'attache, soit le lieu où il est immatriculé, ou recours à toute procédure correspondante dans les territoires d'outre-mer.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2603,11 +2612,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-634 du 3 mai 2012 - art. 19
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R123-2 (V)
+  - Code de l'aviation civile - art. R123-2
 
 
 #### CHAPITRE III : SAISIE ET VENTE FORCEE DES AERONEFS.<a id=51></a>
@@ -2615,15 +2624,20 @@ _Cite_:
 ###### Article R123-1
 
 Tout créancier inscrit peut requérir la mise aux enchères de l'aéronef en offrant de porter le prix à un dixième en sus et de
-donner caution pour le paiement du prix et des charges. 
+donner caution pour le paiement du prix et des charges.
 
 La réquisition de mise aux enchères doit être signée du créancier et signifiée à l'acquéreur dans le délai de cinq jours de
-la notification augmenté des délais de distance. Elle contient assignation devant le tribunal de grande instance auprès
-duquel l'acquéreur a constitué avocat, pour voir ordonner qu'il sera procédé aux enchères requises. Dans les territoires
-d'outre-mer, l'assignation sera faite devant l'autorité judiciaire correspondante. 
+la notification augmenté des délais de distance. Elle contient assignation devant le tribunal judiciaire auprès duquel
+l'acquéreur a constitué avocat, pour voir ordonner qu'il sera procédé aux enchères requises. Dans les territoires d'outre-
+mer, l'assignation sera faite devant l'autorité judiciaire correspondante.
 
 La vente aux enchères a lieu à la diligence soit du créancier qui l'a requise soit de l'acquéreur, dans les formes établies
 pour les ventes sur saisies.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2637,7 +2651,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-634 du 3 mai 2012 - art. 19
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R123-2
@@ -2671,9 +2685,14 @@ _Cité par_:
 ###### Article R123-3
 
 Le créancier saisissant doit dans un délai de cinq jours francs augmenté des délais de distance, notifier au propriétaire
-copie du procès-verbal de saisie et le faire citer devant le tribunal de grande instance du lieu où la vente est poursuivie,
-pour dire qu'il sera procédé à la vente. Si le propriétaire n'est pas domicilié en France et n'y a pas de représentant
-habilité, les significations et citations peuvent être délivrées en la personne du commandant de bord.
+copie du procès-verbal de saisie et le faire citer devant le   tribunal judiciaire du lieu où la vente est poursuivie, pour
+dire qu'il sera procédé à la vente. Si le propriétaire n'est pas domicilié en France et n'y a pas de représentant habilité,
+les significations et citations peuvent être délivrées en la personne du commandant de bord.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2683,20 +2702,28 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R123-4
 
-Le procès- verbal de saisie est transcrit au bureau chargé de la tenue du registre d' immatriculation dans le délai de cinq
-jours francs augmenté des délais de distance. 
+Le procès-verbal de saisie est transcrit au bureau chargé de la tenue du registre d'immatriculation dans le délai de cinq
+jours francs augmenté des délais de distance.
 
-Dans la huitaine, le fonctionnaire chargé de la tenue du registre d' immatriculation délivre sur demande écrite du requérant
-un état des inscriptions et, dans les trois jours qui suivent, la saisie est dénoncée par exploit d' huissier ou par lettre
+Dans la huitaine, le fonctionnaire chargé de la tenue du registre d'immatriculation délivre sur demande écrite du requérant
+un état des inscriptions et, dans les trois jours qui suivent, la saisie est dénoncée par exploit d'huissier ou par lettre
 recommandée avec accusé de réception aux créanciers inscrits aux domiciles élus dans leurs inscriptions, avec indication du
-jour de la comparution devant le tribunal de grande instance. Le délai de comparution est de huit jours, si le propriétaire
-est domicilié en France. Dans le cas contraire, les délais sont ceux prévus aux articles 644 et 645 du code de procédure
-civile.
+jour de la comparution devant le tribunal judiciaire. Le délai de comparution est de huit jours, si le propriétaire est
+domicilié en France. Dans le cas contraire, les délais sont ceux prévus aux articles 644 et 645 du code de procédure civile.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2706,11 +2733,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de procédure civile - art. 644 (V)
+  - Code de procédure civile - art. 644
 
 _Cité par_:
 
@@ -2719,21 +2746,26 @@ _Cité par_:
 
 ###### Article R123-5
 
-Le tribunal de grande instance fixe par son jugement la mise à prix et les conditions de la vente. Si au jour fixé pour la
-vente il n'est pas fait d'offre, le tribunal indique par jugement le jour auquel les enchères auront lieu sur une nouvelle
-mise à prix inférieure à la première et fixée par lui.
+Le tribunal judiciaire fixe par son jugement la mise à prix et les conditions de la vente. Si au jour fixé pour la vente il
+n'est pas fait d'offre, le tribunal indique par jugement le jour auquel les enchères auront lieu sur une nouvelle mise à prix
+inférieure à la première et fixée par lui.
 
-La vente sur saisie se fait à l'audience des criées du tribunal de grande instance trois semaines après une apposition
-d'affiches et une insertion de cette affiche :
+La vente sur saisie se fait à l'audience des criées du tribunal judiciaire trois semaines après une apposition d'affiches et
+une insertion de cette affiche :
 
 1° Dans l'un des journaux désignés pour recevoir les annonces judiciaires du ressort du tribunal ;
 
 2° Dans le Bulletin officiel des Annonces commerciales. Néanmoins, le tribunal peut ordonner que la vente soit faite ou
-devant un autre tribunal de grande instance ou en l'étude et par ministère soit d'un notaire, soit d'un autre officier
-public, au lieu où se trouve l'aéronef saisi. Le jugement détermine la publicité locale complémentaire qui doit être faite.
+devant un autre tribunal judiciaire ou en l'étude et par ministère soit d'un notaire, soit d'un autre officier public, au
+lieu où se trouve l'aéronef saisi. Le jugement détermine la publicité locale complémentaire qui doit être faite.
 
-Les affiches sont apposées sur la partie la plus apparente de l'aéronef saisi à la porte principale du tribunal de grande
-instance devant lequel on doit procéder, au lieu où se trouve l'aéronef ainsi qu'à la porte du bureau d'immatriculation.
+Les affiches sont apposées sur la partie la plus apparente de l'aéronef saisi à la porte principale du tribunal judiciaire
+devant lequel on doit procéder, au lieu où se trouve l'aéronef ainsi qu'à la porte du bureau d'immatriculation.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2743,30 +2775,34 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Modifié par_:
 
-  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R123-6
 
 Les annonces et affiches doivent indiquer les nom, prénoms, profession et domicile du poursuivant, les titres en vertu
-desquels il agit, la somme qui lui est due, l'élection de domicile par lui faite dans le lieu où siège le tribunal de grande
-instance et dans le lieu où l'aéronef saisi doit rester, les nom, prénoms, profession et domicile du propriétaire de
-l'aéronef saisi, les marques d'immatriculation de l'aéronef ainsi que les caractéristiques portées au certificat
-d'immatriculation, le lieu où se trouve l'aéronef, la mise à prix et les conditions de la vente, les jour, heure et lieu de
-l'adjudication.
+desquels il agit, la somme qui lui est due, l'élection de domicile par lui faite dans le lieu où siège le tribunal judiciaire
+et dans le lieu où l'aéronef saisi doit rester, les nom, prénoms, profession et domicile du propriétaire de l'aéronef saisi,
+les marques d'immatriculation de l'aéronef ainsi que les caractéristiques portées au certificat d'immatriculation, le lieu où
+se trouve l'aéronef, la mise à prix et les conditions de la vente, les jour, heure et lieu de l'adjudication.
 
 L'adjudicataire est tenu de verser son prix, sans frais à la Caisse des dépôts et consignations, dans les trois jours de
 l'adjudication, à peine de folle enchère. Il doit, dans les cinq jours suivants, présenter requête au président du tribunal
-de grande instance pour faire commettre un juge devant lequel il citera les créanciers, par acte signifié aux domiciles élus,
-à l'effet de s'entendre à l'amiable sur la distribution du prix.
+judiciaire pour faire commettre un juge devant lequel il citera les créanciers, par acte signifié aux domiciles élus, à
+l'effet de s'entendre à l'amiable sur la distribution du prix.
 
-L'acte de convocation est affiché dans l'auditoire du tribunal de grande instance et inséré dans l'un des journaux désignés
-pour recevoir les annonces judiciaires dans le ressort du tribunal et dans le Bulletin officiel des Annonces commerciales, le
+L'acte de convocation est affiché dans l'auditoire du tribunal judiciaire et inséré dans l'un des journaux désignés pour
+recevoir les annonces judiciaires dans le ressort du tribunal et dans le Bulletin officiel des Annonces commerciales, le
 délai de convocation est de quinzaine sans augmentation à raison de la distance.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2776,33 +2812,43 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R123-7
 
 Dans le cas où les créanciers ne s'entendraient pas sur la distribution du prix, il sera dressé procès-verbal de leurs
-prétentions et contredits. Dans la huitaine, chacun des créanciers doit déposer au greffe du tribunal de grande instance une
-demande de collocation contenant constitution d'avocat avec titres à l'appui. A la requête du plus diligent, les créanciers
-sont, par simple acte d'avocat à avocat, appelés devant le tribunal, qui statue à l'égard de tous, même des créanciers
-priviligiés. 
+prétentions et contredits. Dans la huitaine, chacun des créanciers doit déposer au greffe du tribunal judiciaire une demande
+de collocation contenant constitution d'avocat avec titres à l'appui. A la requête du plus diligent, les créanciers sont, par
+simple acte d'avocat à avocat, appelés devant le tribunal, qui statue à l'égard de tous, même des créanciers priviligiés.
 
 Le jugement est signifié dans les trente jours de sa date, à avocat seulement pour les parties présentes et aux domiciles
 élus pour les parties défaillantes ; le jugement n'est pas susceptible d'opposition. Le délai d'appel est de dix jours à
 compter de la signification du jugement sous réserve des dispositions des articles 644 et 645 du code de procédure civile. 
 
-L'acte d'appel contient assignation et énonciation des griefs à peine de nullité. La disposition finale de l'article 762 du
-code de procédure civile est appliquée, ainsi que les articles 761, 763 et 764 du même code. Dans les huit jours qui suivent
-l'expiration du délai d'appel et, s'il y a appel, dans les huit jours de la signification de l'arrêt le juge déjà désigné
-dresse l'état des créances colloquées en principal, intérêt et frais. Les intérêts des créances utilement colloquées cessent
-de courir à l'égard de la partie saisie. 
+L'acte d'appel contient assignation et énonciation des griefs à peine de nullité. Les articles 779, 780 et 781 du code de
+procédure civile sont applicables. Dans les huit jours qui suivent l'expiration du délai d'appel et, s'il y a appel, dans les
+huit jours de la signification de l'arrêt le juge déjà désigné dresse l'état des créances colloquées en principal, intérêt et
+frais. Les intérêts des créances utilement colloquées cessent de courir à l'égard de la partie saisie.
 
-Les dépens des contestations ne peuvent être pris sur les deniers à distribuer, sauf les frais de l'avocat le plus ancien. 
+Les dépens des contestations ne peuvent être pris sur les deniers à distribuer, sauf les frais de l'avocat le plus ancien.
 
-Sur l'ordonnance du juge commis, le greffier du tribunal de grande instance délivre les bordereaux de collocation exécutoire
-contre la Caisse des dépôts et consignations dans les termes de l'article 770 du code de procédure civile (ancien). La même
+Sur l'ordonnance du juge commis, le greffier du tribunal judiciaire délivre les bordereaux de collocation exécutoire contre
+la Caisse des dépôts et consignations dans les termes de l'article 770 du code de procédure civile (ancien). La même
 ordonnance autorisé la radiation par le fonctionnaire chargé de la tenue du registre d'immatriculation des inscriptions des
 créanciers non colloqués. Il est procédé à cette radiation sur la demande de toute partie intéressée.
+
+**Nota:**
+
+<font color="black">Conformément au I de l’article 55 du décret n° 2019-1333, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicable aux instances en cours.</font>
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2812,21 +2858,29 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2012-634 du 3 mai 2012 - art. 19
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 15
 
 _Cite_:
 
-  - Code de procédure civile (1807) - art. 770
   - Code de procédure civile - art. 644
-  - Code de procédure civile - art. 761
-  - Code de procédure civile - art. 762
+  - Code de procédure civile - art. 645
+  - Code de procédure civile - art. 770
+  - Code de procédure civile - art. 779
+  - Code de procédure civile - art. 780
+  - Code de procédure civile - art. 781
 
 
 ###### Article R123-8
 
 En cas de saisie pour contrefaçon d'un brevet, dessin ou modèle, le propriétaire d'un aéronef étranger ou son représentant
 peut obtenir mainlevée de la saisie moyennant le dépôt d'un cautionnement dont le montant à défaut d'accord amiable, est fixé
-dans le plus bref délai possible par le juge d'instance du lieu de la saisie.
+dans le plus bref délai possible par le   juge du tribunal judiciaire du lieu de la saisie.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2837,29 +2891,39 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
   - Décret n°2019-914 du 30 août 2019 - art.
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 
 ###### Article R123-9
 
 Lorsque le propriétaire de l'aéronef n'est pas domicilié en France ou que l'aéronef est de nationalité étrangère, tout
-créancier a le droit de pratiquer une saisie conservatoire avec l'autorisation du juge d'instance du lieu où l'appareil a
-atterri.
+créancier a le droit de pratiquer une saisie conservatoire avec l'autorisation du   juge du tribunal judiciaire du lieu où
+l'appareil a atterri. 
 
 Le juge saisi doit donner mainlevée de la saisie si le propriétaire offre de déposer un cautionnement égal au montant de la
 créance réclamée et il peut ordonner cette mainlevée en fixant le montant du cautionnement à fournir au cas de contestation
-sur l'étendue de la créance. Ce cautionnement sera déposé à la Caisse des dépôts et consignations.
+sur l'étendue de la créance. Ce cautionnement sera déposé à la Caisse des dépôts et consignations. 
 
 En cas de dommages causés à la surface par la chute d'un aéronef étranger ou dont le propriétaire est domicilié à l'étranger,
 comme aussi en cas d'infraction à la présente loi par un étranger, tous les agents chargés par l'article L. 150-13 de
 l'exécution des dispositions législatives et réglementaires du livre Ier et du titre II du livre III, et spécialement le
 maire de la commune d'atterrissage peuvent faire appel à la force publique pour retenir l'aéronef pendant quarante-huit
-heures, afin de permettre au juge d'instance de se rendre sur les lieux et d'arbitrer le montant des dommages causés, montant
-qui devra faire état non seulement des dommages causés, mais aussi, en cas d'infraction des amendes et frais encourus.
+heures, afin de permettre au   juge du tribunal judiciaire de se rendre sur les lieux et d'arbitrer le montant des dommages
+causés, montant qui devra faire état non seulement des dommages causés, mais aussi, en cas d'infraction des amendes et frais
+encourus.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2870,7 +2934,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -2878,9 +2942,13 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
   - Code de l'aviation civile - art. R132-2 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
 _Cite_:
 
-  - Code de l'aviation civile - art. L150-13 (M)
+  - Code de l'aviation civile - art. L150-13
 
 
 #### CHAPITRE IV : ENREGISTREMENT DES AERONEFS CIVILS CIRCULANT SANS PERSONNE A BORD<a id=52></a>
@@ -4994,26 +5062,27 @@ _Cite_:
 
 ###### Article R151-6
 
-Les agents commissionnés en application de l'article R. 151-5 prêtent serment devant le tribunal de grande instance de leur
+Les agents commissionnés en application de l'article R. 151-5 prêtent serment devant le   tribunal judiciaire de leur
 résidence administrative.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
-
-_Créé par_:
-
-  - Décret n°91-262 du 4 mars 1991 - art. 5 () JORF 9 mars 1991
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R151-5 (V)
+  - Code de l'aviation civile - art. R151-5
 
 
 ###### Article R151-7
@@ -6951,11 +7020,16 @@ décrire les modalités dans le programme de sûreté prévu par la législation
 européenne et nationale. 
 
 III.-L'agrément visé au II de l'article L. 6342-4 du code des transports est délivré, refusé et retiré par le préfet
-compétent sur l'aérodrome dans lequel l'agent accomplit ses fonctions et par le procureur de la République près le tribunal
-de grande instance dans le ressort duquel est situé cet aérodrome. 
+compétent sur l'aérodrome dans lequel l'agent accomplit ses fonctions et par le procureur de la République près le   tribunal
+judiciaire dans le ressort duquel est situé cet aérodrome. 
 
 L'agrément est valable sur l'ensemble du territoire national. L'agrément est valable pour une durée qui ne peut excéder cinq
 ans.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -6971,12 +7045,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-832 du 29 juin 2012 - art. 5
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code des transports - art. L6342-4 (V)
-  - Code de la sécurité intérieure - art. L612-9 (V)
+  - Code des transports - art. L6342-4
+  - Code de la sécurité intérieure - art. L612-9
 
 
 ###### Article R213-5-1
@@ -11792,26 +11866,27 @@ _Cité par_:
 
 ###### Article R281-2
 
-Les agents commissionnés en application de l'article R. 281-1 prêtent serment devant le tribunal de grande instance de leur
+Les agents commissionnés en application de l'article R. 281-1 prêtent serment devant le   tribunal judiciaire de leur
 résidence administrative.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°91-262 1991-03-04 art. 13
-
-_Créé par_:
-
-  - Décret n°91-262 du 4 mars 1991 - art. 7 () JORF 9 mars 1991
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R281-1 (V)
+  - Code de l'aviation civile - art. R281-1
 
 
 ###### Article R281-3
@@ -11880,18 +11955,23 @@ _Cité par_:
 
 ###### Article R282-1-1
 
-Les agents habilités en application de l'article R. 282-1 prêtent serment devant le tribunal de grande instance de leur
-résidence administrative.
+Les agents habilités en application de l'article R. 282-1 prêtent serment devant le   tribunal judiciaire de leur résidence
+administrative.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-832 du 29 juin 2012 - art. 11
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R282-1 (V)
+  - Code de l'aviation civile - art. R282-1
 
 
 ###### Article R282-1-2
@@ -13411,22 +13491,27 @@ _Cité par_:
 
 ###### Article R330-24
 
-Les agents habilités en application de l'article R. 330-23 prêtent serment devant le tribunal de grande instance de leur
-résidence administrative.
+Les agents habilités en application de l'article R. 330-23 prêtent serment devant le   tribunal judiciaire de leur résidence
+administrative.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-863 du 14 mai 2007 - art. 9 () JORF 15 mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R330-23 (V)
+  - Code de l'aviation civile - art. R330-23
 
 
 ### TITRE IV : SOCIETE AIR FRANCE.<a id=127></a>
@@ -13719,30 +13804,35 @@ _Cité par_:
 
 ###### Article R360-4
 
-La saisine du président du tribunal de grande instance de Paris mentionnée à l' article L. 360- 3 est effectuée par voie d'
-assignation en référé selon la procédure prévue au deuxième alinéa de l' article 485 du code de procédure civile. L'
-assignation est valablement délivrée à l' adresse du ou des actionnaires intéressés inscrite au registre nominatif ou, le cas
-échéant, à laquelle il a été fait élection de domicile conformément à l' article L. 360- 1. Elle doit être accompagnée d' une
-copie des avis mentionnés à l' article R. 360- 2, de la ou des mises en demeure effectuées conformément à l' article R. 360-
-3, ainsi que d' une copie certifiée conforme des extraits du registre nominatif de la société faisant apparaître que les
-titres en cause n' ont pas été cédés à l' issue du délai de deux mois prévu à l' article L. 360- 3.
+La saisine du président du tribunal judiciaire de Paris mentionnée à l'article L. 360-3 est effectuée par voie d'assignation
+en référé selon la procédure prévue au deuxième alinéa de l'article 485 du code de procédure civile. L'assignation est
+valablement délivrée à l'adresse du ou des actionnaires intéressés inscrite au registre nominatif ou, le cas échéant, à
+laquelle il a été fait élection de domicile conformément à l'article L. 360-1. Elle doit être accompagnée d'une copie des
+avis mentionnés à l'article R. 360-2, de la ou des mises en demeure effectuées conformément à l'article R. 360-3, ainsi que
+d'une copie certifiée conforme des extraits du registre nominatif de la société faisant apparaître que les titres en cause
+n'ont pas été cédés à l'issue du délai de deux mois prévu à l'article L. 360-3. 
 
-L' ordonnance emportant désignation de l' organisme mentionné à l' article L. 360- 3 est exécutoire de plein droit. Elle
-indique pour chaque actionnaire le nombre de titres à céder par l' organisme.
+L'ordonnance emportant désignation de l'organisme mentionné à l'article L. 360-3 est exécutoire de plein droit. Elle indique
+pour chaque actionnaire le nombre de titres à céder par l'organisme.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de procédure civile - art. 485 (V)
-  - Code de l'aviation civile - art. L360-1 (V)
-  - Code de l'aviation civile - art. L360-3 (V)
-  - Code de l'aviation civile - art. R360-2 (V)
-  - Code de l'aviation civile - art. R360-3 (V)
+  - Code de procédure civile - art. 485
+  - Code de l'aviation civile - art. L360-1
+  - Code de l'aviation civile - art. L360-3
+  - Code de l'aviation civile - art. R360-2
+  - Code de l'aviation civile - art. R360-3
 
 
 ###### Article R360-5
@@ -15493,8 +15583,14 @@ _Cité par_:
 
 ###### Article R425-17
 
-L'intéressé peut récuser les membres du conseil dans les conditions prévues par les articles L. 731-1 et suivants du code de
+L'intéressé peut récuser les membres du conseil dans les conditions prévues par les articles L. 111-6 et suivants du code de
 l'organisation judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -15505,15 +15601,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
 _Modifié par_:
 
-  - Décret n°80-909 du 17 novembre 1980 - art. 7 () JORF 21 novembre 1980
+  - Décret n°2019-913 du 30 août 2019 - art. 5
 
 _Cité par_:
 
   - Code de l'aviation civile - art. D435-1 (M)
+
+_Cite_:
+
+  - articles L. 111-6 et suivants du code de l'organisation judiciaire
 
 
 ###### Article R425-18
@@ -24906,7 +25006,12 @@ _Codifié par_:
 ###### Article D243-5
 
 Les indemnités qui pourraient être dues à raison des servitudes aéronautiques de balisage seront, à défaut d'accord amiable,
-réglées en premier ressort par le tribunal d'instance du lieu de situation des biens grevés.
+réglées en premier ressort par le   tribunal judiciaire du lieu de situation des biens grevés.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -24916,11 +25021,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°67-335 1967-03-30
+  - Décret n°67-335 du 30 mars 1967
 
 _Cité par_:
 
   - Décret n°2019-914 du 30 août 2019 - art.
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article D243-6
