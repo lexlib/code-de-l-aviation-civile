@@ -1,5 +1,5 @@
 # Code de l'aviation civile  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L121-2 à L731-5)](#1)
     - [LIVRE Ier : AERONEFS (art. L121-2 à L150-16)](#2)
@@ -79,7 +79,7 @@ Version Consolidée au 2020-01-01
           - [Section 5 : Mise en œuvre des mesures de sûreté (art. R213-5 à R213-5-6)](#76)
           - [Section 6 : Opérations d'enlèvement (art. R213-6 à R213-6-1)](#77)
           - [Section 7 : Mesures de sûreté applicables aux entreprises de transport aérien desservant le territoire national au départ d'aérodromes étrangers, en cas de menace pour la sécurité nationale (art. R213-7)](#78)
-        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. Annexe art. R216-1 à R216-16)](#79)
+        - [CHAPITRE VI : SERVICES D'ASSISTANCE EN ESCALE. (art. Annexe art. R216-1 à R216-18)](#79)
         - [CHAPITRE VII : SANCTIONS ADMINISTRATIVES (art. R217-1 à R217-5-3)](#80)
           - [Section 1 : Dispositions communes (art. R217-1)](#81)
           - [Section 2 : Sécurité (art. R217-2 à R217-2-1)](#82)
@@ -7476,15 +7476,17 @@ ou
 
 2° Si une même entité détient dans chacun d'eux une participation majoritaire.
 
+III. - Le prestataire de services d'assistance en escale est toute personne fournissant à des tiers une ou plusieurs
+catégories de services d'assistance en escale.
+
+IV. - Le trafic de passagers annuel comprend les passagers commerciaux locaux au départ, les passagers commerciaux locaux à
+l'arrivée ainsi que les passagers commerciaux en transit ou en correspondance comptés une seule fois.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -7496,62 +7498,17 @@ _Cité par_:
   - Code de l'aviation civile - art. R216-2 (VT)
   - Code de l'aviation civile - art. R722-7 (V)
 
+_Modifié par_:
 
-###### Article R216-2
-
-A compter du 1er janvier 1998, les transporteurs aériens peuvent pratiquer librement l'auto-assistance en escale : 
-
-1° Sur tout aérodrome dont le trafic annuel est supérieur ou égal à un million de mouvements de passagers ou 25 000 tonnes de
-fret transporté par avion, pour l'ensemble des services mentionnés au I de l'article R. 216-1 ; 
-
-2° Sur les autres aérodromes, pour les services ou catégories de services autres que : 
-
-a) Assistance bagages ; 
-
-b) Assistance opérations en piste ; 
-
-c) Assistance carburant et huile ; 
-
-d) Transport du fret et de la poste sur les aires de trafic.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°67-334 1967-03-30
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
-
-_Abrogé par_:
-
-  - Décret n°2020-1077 du 19 août 2020 - art. 3
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. D216-2 (V)
-  - Code de l'aviation civile - art. D216-5 (V)
-  - Code de l'aviation civile - art. R216-11 (VD)
-  - Code de l'aviation civile - art. R216-6 (VD)
-  - Code de l'aviation civile - art. R216-7 (VD)
-  - Code de l'aviation civile - art. R216-8 (V)
-
-_Cite_:
-
-  - Code de l'aviation civile - art. R216-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
+  - Décret n°2020-1077 du 19 août 2020 - art. 2
 
 
 ###### Article R216-3
 
-Sur les aérodromes dont le trafic annuel est supérieur ou égal à un million de mouvements de passagers ou 25 000 tonnes de
-fret transporté par avion, le ministre chargé de l'aviation civile peut, sur proposition du gestionnaire de l'aérodrome,
-limiter le nombre de transporteurs aériens autorisés à pratiquer l'auto-assistance pour des services relevant d'une ou
-plusieurs des catégories suivantes :
+Sur les aérodromes dont le trafic annuel est supérieur ou égal à un million de passagers ou 25 000 tonnes de fret transporté
+par avion, le ministre chargé de l'aviation civile peut, sur proposition de l'exploitant d'aérodrome, limiter le nombre de
+transporteurs aériens autorisés à pratiquer l'auto-assistance pour des services relevant d'une ou plusieurs des catégories
+suivantes :
 
 a) Assistance bagages ;
 
@@ -7561,13 +7518,16 @@ c) Assistance carburant et huile ;
 
 d) Transport du fret et de la poste sur les aires de trafic.
 
+Au sein de chaque catégorie, les services concernés par la limitation sont précisés par décision du ministre chargé de
+l'aviation civile.
+
 II. - La limitation prévue au I doit être justifiée :
 
 1° Soit par l'espace disponible ou la capacité des installations de l'aérodrome ;
 
 2° Soit par la sécurité ou la sûreté des personnes, des aéronefs, des installations et des équipements.
 
-III. - Le nombre des transporteurs aériens autorisés ne peut être inférieur à deux par service.
+III. - Le nombre des transporteurs aériens autorisés ne peut être inférieur à deux par catégorie de services.
 
 Sont retenus les transporteurs aériens demandant à pratiquer l'auto-assistance qui réalisent le nombre de mouvements
 commerciaux le plus important sur l'aérodrome concerné.
@@ -7579,11 +7539,7 @@ transportant que du fret et de la poste.
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -7595,38 +7551,27 @@ _Cité par_:
   - Code de l'aviation civile - art. R216-7 (VD)
   - Code de l'aviation civile - art. R216-8 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
+  - Décret n°2020-1077 du 19 août 2020 - art. 4
 
 
 ###### Article R216-4
 
-Toute personne physique ou morale établie sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie
-à l'accord sur l'Espace économique européen, et titulaire de l'agrément prévu à l'article R. 216-14, peut fournir un ou
-plusieurs services d'assistance en escale à un transporteur aérien : 
-
-1° A compter du 1er janvier 1999, sur tout aérodrome dont le trafic annuel est supérieur ou égal à trois millions de
-mouvements de passagers ou 75 000 tonnes de fret transporté par avion, ou ayant enregistré un trafic supérieur ou égal à deux
-millions de mouvements de passagers ou 50 000 tonnes de fret transporté par avion au cours de la période de six mois
-précédant le 1er avril ou le 1er octobre de l'année antérieure ; 
-
-2° A compter du 1er janvier 2001, sur tout aérodrome dont le trafic annuel est supérieur ou égal à deux millions de
-mouvements de passagers ou cinquante mille tonnes de fret transporté par avion.
+Toute personne établie sur le territoire d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace
+économique européen ou de la Confédération suisse, et titulaire de l'agrément prévu à l'article R. 216-14, est libre de
+fournir un ou plusieurs services d'assistance en escale à un transporteur aérien sur tout aérodrome dont le trafic annuel est
+supérieur ou égal à deux millions de passagers ou cinquante mille tonnes de fret transporté par avion.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°2020-1077 du 19 août 2020 - art. 5
 
 _Cité par_:
 
@@ -7637,36 +7582,43 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R216-14 (V)
+  - Code de l'aviation civile - art. R216-14 (VD)
 
 
 ###### Article R216-5
 
-I.-Le ministre chargé de l'aviation civile peut, à la demande du gestionnaire de l'aérodrome, décider de limiter le nombre de
+I.-Le ministre chargé de l'aviation civile peut, à la demande de l'exploitant d'aérodrome, décider de limiter le nombre de
 prestataires autorisés à fournir, conformément à l'article R. 216-4, des services relevant d'une ou plusieurs catégories
-suivantes : 
+suivantes :
 
-a) Assistance bagages ; 
+a) Assistance bagages ;
 
-b) Assistance opérations en piste ; 
+b) Assistance opérations en piste ;
 
-c) Assistance carburant et huile ; 
+c) Assistance carburant et huile ;
 
-d) Transport du fret et de la poste sur les aires de trafic. 
+d) Transport du fret et de la poste sur les aires de trafic.
 
-II.-La limitation prévue au I doit être justifiée : 
+Au sein de chaque catégorie, les services concernés par la limitation sont précisés par décision du ministre chargé de
+l'aviation civile.
 
-1° Soit par l'espace disponible ou la capacité des installations de l'aérodrome ; 
+II.-La limitation prévue au I doit être justifiée :
 
-2° Soit par la sécurité ou la sûreté des personnes, des aéronefs, des installations et des équipements. 
+1° Soit par l'espace disponible ou la capacité des installations de l'aérodrome ;
 
-III.-Le nombre des prestataires autorisés ne peut être inférieur à deux par service.
+2° Soit par la sécurité ou la sûreté des personnes, des aéronefs, des installations et des équipements.
+
+III.-Le nombre des prestataires autorisés ne peut être inférieur à deux par catégorie de services.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
+
+_Modifié par_:
+
+  - Décret n°2020-1077 du 19 août 2020 - art. 6
 
 _Cité par_:
 
@@ -7678,40 +7630,28 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R216-4 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Code de l'aviation civile - art. R216-4
 
 
 ###### Article R216-6
 
-Nonobstant les dispositions des articles R. 216-2 à R. 216-5, le ministre chargé de l'aviation civile peut confier au
-gestionnaire de l'aérodrome la gestion des infrastructures servant à la fourniture des services d'assistance en escale dont
-la complexité, les conditions techniques d'exploitation, le coût ou l'impact sur l'environnement ne permettent pas, sur cet
-aérodrome, la division ou la duplication. Le gestionnaire peut rendre obligatoire l'usage des infrastructures considérées
-pour les prestataires de services et pour les transporteurs aériens. 
+Nonobstant les dispositions des articles R. 216-2 à R. 216-5, le ministre chargé de l'aviation civile peut confier à
+l'exploitant d'aérodrome la gestion des infrastructures servant à la fourniture des services d'assistance en escale dont la
+complexité, les conditions techniques d'exploitation, le coût ou l'impact sur l'environnement ne permettent pas, sur cet
+aérodrome, la division ou la duplication. L'exploitant peut rendre obligatoire l'usage des infrastructures considérées pour
+les sociétés prestataires de services et pour les transporteurs aériens.
 
-La liste des infrastructures entrant dans le champ d'application du présent article est définie par décret. 
+La liste des infrastructures entrant dans le champ d'application du présent article est définie par décret.
 
-Les dispositions du présent article ne font pas obstacle à ce que le gestionnaire de l'aérodrome délègue la gestion de tout
-ou partie de ces infrastructures à un tiers, conformément aux dispositions en vertu desquelles il assure la gestion du
-domaine public.
+Les dispositions du présent article ne font pas obstacle à ce que l'exploitant d'aérodrome délègue la gestion de tout ou
+partie de ces infrastructures à un tiers, conformément aux dispositions en vertu desquelles il assure la gestion du domaine
+public.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -7724,68 +7664,67 @@ _Cité par_:
   - Décret n°2019-832 du 6 août 2019 - art. (V)
   - Code de l'aviation civile - art. D216-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-1077 du 19 août 2020 - art. 7
+
 _Cite_:
 
-  - CODE DE L'AVIATION CIVILE R216-2 à R216-5
-  - Code de l'aviation civile - art. R216-2 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
+  - Code de l'aviation civile
+  - Code de l'aviation civile - art. R216-2
 
 
 ###### Article R216-7
 
 I.-Lorsque, sur un aérodrome ou une partie d'aérodrome, des contraintes particulières en matière d'espace ou de capacité des
 installations ne permettent pas l'exercice des services d'assistance dans les conditions prévues aux articles R. 216-2 à R.
-216-5, le ministre chargé de l'aviation civile peut, à la demande du gestionnaire de l'aérodrome, décider, pour une durée
-limitée : 
+216-5, le ministre chargé de l'aviation civile peut, à la demande de l'exploitant d'aérodrome, décider, pour une durée
+limitée :
 
 1° De réserver l'exercice de l'auto-assistance à un nombre limité de transporteurs aériens pour un ou plusieurs services ne
-relevant pas des catégories mentionnées au I de l'article R. 216-3 ; 
+relevant pas des catégories mentionnées au I de l'article R. 216-3 ;
 
 2° D'interdire ou de limiter à un seul transporteur aérien l'exercice de l'auto-assistance pour un ou plusieurs services
-relevant des catégories mentionnées au I de l'article R. 216-3 ; 
+relevant des catégories mentionnées au I de l'article R. 216-3 ;
 
 3° De limiter le nombre de prestataires pour un ou plusieurs services ne relevant pas des catégories mentionnées au I de
-l'article R. 216-5 ; 
+l'article R. 216-5 ;
 
-4° De réserver à un seul prestataire un ou plusieurs services relevant des catégories mentionnées au I de l'article R.
-216-5. 
+4° De réserver à un seul prestataire un ou plusieurs services relevant des catégories mentionnées au I de l'article R. 216-5.
 
-II.-1° Toute décision prise en application du I doit : 
+II.-1° Toute décision prise en application du I doit :
 
 a) Préciser la ou les catégories de services pour lesquelles une dérogation est accordée ainsi que les contraintes
-spécifiques d'espace ou de capacité disponibles qui la justifient ; 
+spécifiques d'espace ou de capacité disponibles qui la justifient ;
 
-b) Etre accompagnée d'un plan de mesures appropriées visant à surmonter ces contraintes. 
+b) Etre accompagnée d'un plan de mesures appropriées visant à surmonter ces contraintes.
 
-2° Le ministre chargé de l'aviation civile informe la Commission européenne ainsi que le gestionnaire de l'aérodrome de toute
+2° Le ministre chargé de l'aviation civile informe la Commission européenne ainsi que l'exploitant d'aérodrome de toute
 décision qu'il entend prendre sur la base du présent article ainsi que des motifs qui la justifient. A l'issue d'un délai de
-trois mois, le ministre notifie sa décision au gestionnaire ou son sursis à statuer dûment motivé. Cette décision ne peut
-être favorable si la Commission européenne a notifié son désaccord. 
+trois mois, le ministre notifie sa décision à l'exploitant ou son sursis à statuer dûment motivé. Cette décision ne peut être
+favorable si la Commission européenne a notifié son désaccord.
 
 Les décisions prises doivent se limiter aux seules parties d'un aérodrome où les contraintes invoquées sont effectivement
-vérifiées. 
+vérifiées.
 
 3° La durée des dérogations consenties en application des 1°, 2° et 3° du I ne peut excéder trois années. Au plus tard trois
 mois avant l'expiration de cette période, toute nouvelle demande de dérogation doit faire l'objet d'une nouvelle décision,
-laquelle sera également soumise à la procédure prévue par le présent article. 
+laquelle sera également soumise à la procédure prévue par le présent article.
 
 La durée des dérogations accordées en application du I, 4°, ne peut excéder deux années. Cependant, après accord de la
 Commission européenne, le ministre chargé de l'aviation civile peut prolonger cette période une seule fois d'au plus deux
-années supplémentaires. 
+années supplémentaires.
 
-III.-Lorsque est prise une décision en application du I, 1° ou 2°, le gestionnaire de l'aérodrome autorise le ou les
-transporteurs aériens demandant à pratiquer l'auto-assistance qui réalisent le nombre de mouvements commerciaux le plus
-important sur l'aérodrome concerné. 
+III.-Lorsque est prise une décision en application du I, 1° ou 2°, l'exploitant d'aérodrome autorise le ou les transporteurs
+aériens demandant à pratiquer l'auto-assistance qui réalisent le nombre de mouvements commerciaux le plus important sur
+l'aérodrome concerné.
 
-Toutefois pour la catégorie " assistance passagers ", le gestionnaire de l'aérodrome autorise le ou les transporteurs aériens
-demandant à pratiquer l'auto-assistance qui réalisent le trafic de passagers commerciaux le plus important sur l'aérodrome. 
+Toutefois pour la catégorie " assistance passagers ", l'exploitant d'aérodrome autorise le ou les transporteurs aériens
+demandant à pratiquer l'auto-assistance qui réalisent le trafic de passagers commerciaux le plus important sur l'aérodrome.
 
 Pour l'assistance fret et l'assistance poste, à l'exclusion du transport sur les aires de trafic, le ou les transporteurs
 autorisés à pratiquer l'auto-assistance sur leur demande sont ceux qui réalisent le tonnage le plus important de fret ou de
-poste embarqué ou débarqué. 
+poste embarqué ou débarqué.
 
 Lorsqu'en application du I, 2°, un seul transporteur aérien est autorisé à pratiquer l'auto-assistance dans une zone de fret,
 il s'agit de celui réalisant le plus grand nombre de mouvements d'avions ne transportant que du fret et de la poste, parmi
@@ -7795,18 +7734,18 @@ ceux qui le demandent.
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°2020-1077 du 19 août 2020 - art. 8
 
 _Cite_:
 
-  - CODE DE L'AVIATION CIVILE R216-2 à R216-5, R216-3
-  - Code de l'aviation civile - art. R216-2 (V)
-  - Code de l'aviation civile - art. R216-3 (V)
-  - Code de l'aviation civile - art. R216-5 (V)
+  - Code de l'aviation civile
+  - Code de l'aviation civile - art. R216-2
+  - Code de l'aviation civile - art. R216-3
+  - Code de l'aviation civile - art. R216-5
 
 _Cité par_:
 
@@ -7815,65 +7754,54 @@ _Cité par_:
   - Code de l'aviation civile - art. R216-16 (VD)
   - Code de l'aviation civile - art. R216-8 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
-
 
 ###### Article R216-8
 
-I.-Lorsqu'il est fait application sur un aérodrome des dispositions du I de l'article R. 216-3, du I de l'article R. 216-5,
-du I de l'article R. 216-7 ou du 1° de l'article R. 216-11, un comité des usagers est créé sur cet aérodrome. 
+I.-Un comité des usagers est créé sur tout aérodrome dont le trafic annuel est supérieur ou égal à deux millions de passagers
+ou 50 000 tonnes de fret transporté par avion.
 
-Le comité est créé :
+Le comité des usagers est créé par l'exploitant d'aérodrome auprès duquel il est placé.
 
-- pour les aérodromes mentionnés à l'article L. 251-2, par décret ;
+Le comité des usagers est saisi pour avis préalablement à toute décision :
 
-- pour les aérodromes appartenant à l'Etat, par arrêté du préfet y exerçant les pouvoirs de police ;
-
-- pour les aérodromes faisant l'objet de la convention prévue à l'article L. 221-1, par le signataire de la convention autre
-que le ministre chargé de l'aviation civile. 
-
-Le comité est consulté préalablement à toute décision : 
-
-1° De limitation du nombre de prestataires ou du nombre de transporteurs aériens autorisés à effectuer de l'auto-assistance
-en escale prise en application des articles R. 216-3, R. 216-5 ou R. 216-7 ; 
+1° De désignation du titulaire de la mission de permanence des services d'assistance en escale en application du 1° de
+l'article R. 216-11 ;
 
 2° D'adoption d'un cahier des charges ou de spécifications techniques pour la sélection des prestataires et de sélection de
-prestataires en application de l'article R. 216-16 ; 
+prestataires en application des dispositions de l'article R. 21616.
 
-3° De désignation du titulaire de la mission de permanence des services d'assistance en escale en application du 1° de
-l'article R. 216-11. 
+II.-Le comité est composé des transporteurs aériens usagers de l'aérodrome et des organisations professionnelles de
+transporteurs aériens lorsqu'elles sont mandatées par au moins un transporteur pour le représenter.
 
-II.-Le comité est composé des transporteurs aériens usagers de l'aérodrome et, le cas échéant, des organisations
-professionnelles de transporteurs désignées par les transporteurs pour les représenter dans le comité. 
+Lorsqu'elles ne sont pas mandatées par un transporteur aérien, les organisations professionnelles de transporteurs aériens,
+dont au moins un des membres dessert la plateforme considérée, assistent aux réunions du comité des usagers en qualité
+d'observateur.
 
-Son président est élu par les membres du comité. Tout membre du comité peut se faire représenter par un autre membre qu'il
-mandate à cet effet. Le nombre de mandats que peut détenir un membre n'est pas limité. 
+Le représentant du ministre chargé de l'aviation civile assiste aux réunions du comité des usagers en qualité d'observateur.
+
+Le président du comité, membre de ce comité, est élu par ses membres. Tout membre du comité peut se faire représenter par un
+autre membre qu'il mandate à cet effet. Le nombre de mandats que peut détenir un membre n'est pas limité.
 
 Par dérogation aux articles R. 133-10 et R. 133-11 du code des relations entre le public et l'administration, le quorum est
-atteint lorsque le quart au moins des membres sont présents ou représentés. Pour le calcul du quorum, les organisations
-professionnelles sont décomptées en fonction du nombre de mandats de représentation qu'elles détiennent. Le nombre des voix
-de chaque membre est égal au nombre des unités de trafic embarqué ou débarqué sur l'aérodrome par ce membre lors de la
+atteint lorsque les membres présents ou représentés détiennent ensemble la majorité des voix des membres du comité. Le nombre
+de voix de chaque membre est égal au nombre d'unités de trafic embarqué ou débarqué sur l'aérodrome par ce membre lors de la
 dernière année civile pour laquelle le trafic de l'aérodrome est connu. Les organisations professionnelles auxquelles des
-transporteurs ont confié le soin de les représenter ont un nombre de voix égal à la somme des unités de trafic détenues par
-chacun de leurs mandants. 
+transporteurs ont confié le soin de les représenter détiennent un nombre de voix égal à la somme des unités de trafic de
+chacun de leurs mandants.
 
-Aux fins du présent article, on entend par unité de trafic le nombre entier de milliers de passagers embarqués ou débarqués
-par le transporteur aérien sur l'aérodrome, additionné du nombre entier de centaines de tonnes de fret embarqué à bord
-d'aéronefs, ou débarqué d'aéronefs par ce même transporteur. On entend par transporteur aérien le transporteur aérien
-contractuel au sens de l'article 39 du chapitre V de la convention pour l'unification de certaines règles relatives au
-transport aérien international faite à Montréal le 28 mai 1999. 
+Le nombre des unités de trafic attribué à un transporteur aérien est égal au nombre entier de milliers de passagers embarqués
+ou débarqués par le transporteur aérien sur l'aérodrome, additionné au nombre entier de centaines de tonnes de fret embarqué
+à bord d'aéronefs ou débarqué d'aéronefs par ce même transporteur.
 
 Les membres qui ne détiennent pas au moins une unité de trafic en application des alinéas précédents disposent chacun d'une
-voix. 
+voix.
 
-III.-Le règlement intérieur du comité des usagers est arrêté par le comité sur proposition de son président. Il précise les
-modalités d'adoption des comptes rendus des réunions. Il est notifié à la personne compétente pour créer le comité. 
+III.-Le fonctionnement du comité des usagers est régi par un règlement intérieur arrêté à la majorité des membres de ce
+comité.
 
-IV.-Le secrétariat du comité est assuré par le gestionnaire de l'aérodrome. Les frais de fonctionnement du comité ainsi que
-la mise à disposition des lieux de réunion sont à la charge du gestionnaire de l'aérodrome. Ces frais sont inclus dans le
-montant des redevances dues pour l'utilisation des installations aéroportuaires par les transporteurs aériens.
+Le secrétariat du comité est assuré par l'exploitant d'aérodrome. Les frais de fonctionnement du comité ainsi que la mise à
+disposition des lieux de réunion sont à la charge de l'exploitant d'aérodrome. Ces frais sont inclus dans le montant des
+redevances dues pour l'utilisation des installations aéroportuaires par les transporteurs aériens.
 
 **Nota:**
 
@@ -7902,46 +7830,37 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+  - Décret n°2020-1077 du 19 août 2020 - art. 9
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L221-1 (V)
-  - Code de l'aviation civile - art. L251-2 (V)
-  - Code de l'aviation civile - art. R216-11 (V)
-  - Code de l'aviation civile - art. R216-3 (V)
-  - Code de l'aviation civile - art. R216-5 (V)
-  - Code de l'aviation civile - art. R216-7 (V)
-  - Code des relations entre le public et l'adminis... - art. R133-10 (V)
+  - Code des relations entre le public et l'administration - art. R133-10
+  - Code des relations entre le public et l'administration - art. R133-11
 
 
 ###### Article R216-9
 
-Les transporteurs aériens et les prestataires exercent les services d'assistance en escale dans le respect des règles de
-gestion et de police du domaine public. Cet exercice est subordonné à la délivrance, par le gestionnaire de l'aérodrome,
-d'une autorisation et, le cas échéant, à la signature d'une convention d'occupation du domaine public.
+Les services d'assistance et d'auto-assistance en escale sont assurés dans le respect des règles de gestion et de police du
+domaine public. L'exercice de ces services est subordonné à la délivrance, par l'exploitant de l'aérodrome, d'une
+autorisation et, le cas échéant, à la signature d'une convention d'occupation du domaine public.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°2020-1077 du 19 août 2020 - art. 10
 
 
 ###### Article R216-10
 
 Lorsqu'il entend appliquer sur un aérodrome les dispositions prévues aux articles R. 216-3, R. 216-5 ou R. 216-7 limitant le
-nombre d'intervenants pour un ou plusieurs services d'assistance en escale, le ministre chargé de l'aviation civile le
-notifie aux transporteurs aériens ou aux prestataires exerçant de tels services sur l'aérodrome, ainsi qu'au gestionnaire
-d'aérodrome. 
+nombre d'intervenants pour un ou plusieurs services d'assistance en escale relevant d'une ou plusieurs catégories mentionnées
+dans ces articles, le ministre chargé de l'aviation civile le notifie aux transporteurs aériens et aux prestataires exerçant
+de tels services sur l'aérodrome, ainsi qu'à l'exploitant d'aérodrome.
 
 Les autorisations en cours expirent lorsque sont désignés les transporteurs aériens ou les prestataires de services retenus
 selon les règles fixées par les articles susmentionnés.
@@ -7950,68 +7869,61 @@ selon les règles fixées par les articles susmentionnés.
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°2020-1077 du 19 août 2020 - art. 11
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R216-3 (V)
-  - Code de l'aviation civile - art. R216-5 (V)
-  - Code de l'aviation civile - art. R216-7 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
+  - Code de l'aviation civile - art. R216-3
+  - Code de l'aviation civile - art. R216-5
+  - Code de l'aviation civile - art. R216-7
 
 
 ###### Article R216-11
 
-1° Sur les aérodromes de Paris-Orly et Charles-de-Gaulle, le ministre chargé de l'aviation civile peut confier au
-gestionnaire de l'aérodrome ou à un prestataire de services la mission d'assurer la permanence des services d'assistance en
-escale. Sur tout autre aérodrome mentionné au 1° de l'article R. 216-2, cette même faculté échoit au préfet qui y exerce les
-pouvoirs de police. 
+I.-Sur les aérodromes de Paris-Orly et Paris-Charles de Gaulle, le ministre chargé de l'aviation civile peut confier à
+l'exploitant d'aérodrome ou à un prestataire de services la mission d'assurer la permanence des services d'assistance en
+escale. Sur tout autre aérodrome, cette même faculté échoit à l'autorité administrative qui y exerce les pouvoirs de police.
 
-2° Lorsqu'elle envisage de désigner un prestataire de services ou le gestionnaire de l'aérodrome pour cette mission,
-l'autorité prévue au 1° consulte au préalable, soixante jours à l'avance au moins, le Comité des usagers, le gestionnaire de
-l'aérodrome et, le cas échéant, le prestataire concerné sur l'étendue des services à assurer, et sur les conditions de prix. 
+II.-Lorsqu'elle envisage de désigner un prestataire de services ou l'exploitant d'aérodrome pour cette mission, l'autorité
+mentionnée au I consulte au préalable, soixante jours à l'avance au moins, le comité des usagers, l'exploitant d'aérodrome
+et, le cas échéant, le prestataire concerné sur l'étendue des services à assurer, et sur les conditions de prix.
 
-Le choix de l'autorité compétente doit reposer sur les conditions matérielles et financières dans lesquelles seront rendus
-les services. 
+Le choix de l'autorité compétente repose sur les conditions matérielles et financières dans lesquelles seront rendus les
+services.
 
-3° Le prestataire désigné tient une comptabilité séparée du coût net des services de permanence et la soumet à ses frais à un
-auditeur indépendant dont le choix doit recevoir l'accord de l'autorité prévue au 1°. 
+Lorsque les modalités de la permanence sont reconduites sans changement, tant sur l'étendue des services à assurer que sur
+les conditions de prix, le comité des usagers en est informé à la réunion suivante.
 
-Le responsable des services de permanence est rémunéré chaque année par un versement des autres prestataires, en proportion
-du chiffre d'affaires réalisé sur l'aérodrome par chacun de ces prestataires. A cet effet, ces prestataires communiquent
-chaque année leur chiffre d'affaires d'assistance en escale réalisé sur l'aérodrome, au prestataire désigné, ou au
-gestionnaire de l'aérodrome, et à l'autorité ayant délivré leur agrément. Ces derniers sont tenus à la confidentialité de
-cette information.
+III.-Le prestataire désigné tient une comptabilité séparée du coût net des services de permanence et la soumet à ses frais à
+un auditeur indépendant dont le choix doit recevoir l'accord de l'autorité mentionnée au I.
+
+Le responsable des services de permanence est rémunéré chaque année par un versement des autres prestataires, à hauteur
+cumulée des coûts qu'il a exposés, déduction faite du montant de sa propre participation. Cette participation et le versement
+des autres prestataires sont calculés en proportion des unités de trafic embarqué et débarqué des transporteurs aériens que
+chacun assiste sur l'aérodrome. L'exploitant d'aérodrome, détenteur de ces informations, procède à ce calcul.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
   - Décret n°2019-832 du 6 août 2019 - art. (V)
   - Code de l'aviation civile - art. R216-8 (V)
 
+_Modifié par_:
+
+  - Décret n°2020-1077 du 19 août 2020 - art. 12
+
 _Cite_:
 
-  - Code de l'aviation civile - art. R216-2 (V)
+  - Code de l'aviation civile - art. R216-2
 
 
 ###### Article R216-12
@@ -8038,32 +7950,31 @@ _Créé par_:
 
 ###### Article R216-13
 
-Le gestionnaire d'un aérodrome, le transporteur aérien ou le prestataire de services, qui fournissent des services
-d'assistance en escale sur les aérodromes mentionnés au 2° de l'article R. 216-4, doivent, à compter de leur premier exercice
-comptable clos postérieurement au 30 juin 1999, opérer une stricte séparation comptable entre les activités liées à la
-fourniture de ces services et leurs autres activités. Cette séparation est effectuée suivant des règles définies à cet effet
-par un arrêté du ministre chargé de l'aviation civile et du ministre chargé du budget. 
+Tout prestataire qui fournit des services d'assistance en escale sur les aérodromes mentionnés à l'article R. 216-4, doit
+opérer une stricte séparation comptable entre les activités liées à la fourniture de ces services et  ses autres activités.
+Cette séparation est effectuée suivant des règles définies à cet effet par un arrêté du ministre chargé de l'aviation civile
+et du ministre chargé du budget.
 
 L'existence de cette séparation comptable et la régularité des comptes font l'objet, chaque année, d'une vérification
 spécifique par le ou les commissaires aux comptes. Lorsqu'il s'agit d'un établissement public doté d'un agent comptable,
-celui-ci peut effectuer lui-même cette vérification. La vérification donne lieu à l'établissement d'un rapport. 
+celui-ci peut effectuer lui-même cette vérification. La vérification donne lieu à l'établissement d'un rapport.
 
-Dans le cas d'un gestionnaire d'aérodrome, le ou les commissaires aux comptes, ou l'agent comptable, doivent également
-vérifier que le produit des redevances perçues auprès des transporteurs aériens pour l'usage des installations aéronautiques
-ne contribue pas au financement de son activité d'assistance en escale. 
+Dans le cas d'un exploitant d'aérodrome, le ou les commissaires aux comptes, ou l'agent comptable, doivent également vérifier
+que le produit des redevances perçues auprès des transporteurs aériens pour l'usage des installations aéronautiques ne
+contribue pas au financement de son activité d'assistance en escale.
 
-Dans le cas d'un transporteur aérien, le ou les commissaires aux comptes précisent si cette comptabilité englobe ou non la
-part d'activité de ce transporteur aérien consacrée à l'auto-assistance.
+Si le prestataire d'assistance en escale est un transporteur aérien, le ou les commissaires aux comptes précisent si cette
+comptabilité englobe ou non la part d'activité de ce transporteur aérien consacrée à l'auto-assistance.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°2020-1077 du 19 août 2020 - art. 13
 
 _Cité par_:
 
@@ -8072,84 +7983,136 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'aviation civile - art. R216-4 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
+  - Code de l'aviation civile - art. R216-4
 
 
 ###### Article R216-14
 
-1° A compter du 1er juillet 1998, sur les aérodromes dont le trafic annuel est supérieur à 200 000 passagers embarqués et
-débarqués ou 20 000 tonnes de fret, l'activité d'un prestataire de services d'assistance en escale, de même que celle de ses
-sous-traitants, est subordonnée à l'obtention d'un agrément délivré par l'autorité préfectorale assurant la police de
-l'aérodrome en application de l'article L. 213-2 du code de l'aviation civile. Un agrément ne vaut que pour un aérodrome. 
+I.-Sur les aérodromes dont le trafic annuel est supérieur ou égal à deux millions de passagers ou 50 000 tonnes de fret
+transporté par avion, l'activité d'un prestataire de services d'assistance en escale, de même que celle de ses sous-
+traitants, est subordonnée à l'obtention d'un agrément délivré par le ministre chargé de l'aviation civile.
 
-2° Cet agrément est délivré dès lors que le demandeur d'une part, satisfait aux critères suivants : 
+L'agrément précise la liste des aérodromes mentionnés au premier alinéa sur lesquels le prestataire exerce, les catégories de
+services ainsi que les services rendus et la zone d'activité dédiée sur l'aérodrome.
 
-a) Justifier des couvertures d'assurances pertinentes pour l'activité exercée, notamment en termes de responsabilité
-civile ; 
+II.-Cet agrément est délivré dès lors que le demandeur remplit les conditions suivantes :
 
-b) Justifier d'une situation financière saine, 
+1° Il répond aux critères suivants :
 
-et, d'autre part, souscrit les engagements suivants : 
+a) Justifier des couvertures d'assurances pertinentes pour l'activité exercée, notamment en termes de responsabilité civile ;
 
-c) Respecter les règlements et les consignes particulières à l'aérodrome en matière de sûreté ; 
+b) Justifier d'une situation financière saine, notamment au regard des dispositions prévues à l'article L. 223-42 et à
+l'article L. 225-248 du code de commerce ;
 
-d) Respecter les règlements et les consignes particulières à l'aérodrome en matière de sécurité des installations, des
-équipements, des aéronefs ou des personnes, et notamment les dispositions prises en application de l'article R. 213-4 ; 
+c) Justifier d'une situation fiscale et sociale régulière ;
 
-e) Respecter la législation et la réglementation applicables en matière de droit du travail et des conventions collectives
-correspondant aux activités d'assistance en escale exercées ; 
+d) Justifier de son inscription au répertoire national des entreprises et de leurs établissements mentionné à l'article R.
+123-220 du code de commerce ;
 
-f) Respecter les réglementations en vigueur et les consignes particulières à l'aérodrome relatives à la protection de
-l'environnement ; 
+2° Il prend les engagements suivants :
 
-g) Respecter la réglementation technique édictée pour la sécurité du transport aérien ; 
+a) Respecter la législation et la réglementation applicables en matière de droit du travail et les conventions collectives
+correspondant aux activités d'assistance en escale exercées ;
 
-h) Pour les prestataires de services, participer d'une manière équitable à l'organisation ou à la couverture des frais de la
-permanence des services offerts aux transporteurs aériens sur l'aérodrome ; 
+b) Respecter la réglementation technique édictée pour la sécurité du transport aérien ;
 
-i) Pour les prestataires de services, respecter l'obligation de séparation comptable prévue à l'article R. 216-13. 
+c) Respecter l'obligation de séparation comptable prévue à l'article R. 216-13 ;
 
-Les engagements souscrits au titre des c, d, f et g devront porter, le cas échéant, sur une formation adaptée des
-personnels. 
+d) Pour chaque aérodrome sur lequel le prestataire exerce, respecter les règlements et les consignes particulières en
+matière :
 
-A défaut de réponse dans les deux mois suivant la réception de la demande, l'agrément est réputé acquis. 
+- de protection de l'environnement ;
 
-3° Le titulaire d'un agrément doit notifier à l'autorité qui le lui a délivré toute modification apportée à sa raison
-sociale, à son nom ou à la répartition du capital. Il doit en outre demander un nouvel agrément pour toute modification
-souhaitée concernant la zone d'activité sur l'aérodrome ou la nature des services rendus. 
+- d'utilisation et d'exploitation des infrastructures et installations aéroportuaires édictées par l'exploitant de
+l'aérodrome ou par l'autorité administrative ;
 
-4° L'agrément est délivré pour une durée de cinq ans renouvelable. 
+- de sûreté et de sécurité des installations, des équipements, des aéronefs ou des personnes, notamment les dispositions
+relatives à la police de la conservation et de l'exploitation des aérodromes et des installations à usage aéronautique prises
+en application des articles R. 213-1 et suivants ;
 
-5° Si, pour des raisons qui lui sont imputables, le titulaire de l'agrément ne satisfait plus aux critères et aux engagements
-énoncés au 2°, le préfet adresse à l'intéressé, le cas échéant sur saisine du gestionnaire de l'aéroport ou du comité des
-usagers, une mise en demeure d'apporter les mesures correctives nécessaires aux manquements constatés. 
+e) Pour chaque aérodrome sur lequel le prestataire exerce, soit honorer ses obligations de permanence soit participer à la
+couverture des frais afférents à la permanence des services offerts aux transporteurs aériens sur l'aérodrome.
 
-En cas de carence persistante, à l'expiration d'un délai de trois mois suivant la mise en demeure, le préfet suspend
-l'agrément pour une durée maximale de six mois. Préalablement à cette suspension, l'intéressé est mis en mesure de présenter
-ses observations. 
+Les engagements pris au titre des b et d devront porter, le cas échéant, sur une formation adaptée des personnels.
 
-A l'issue de la période de suspension, et si les corrections nécessaires n'ont pas été apportées, l'agrément est retiré par
-l'autorité l'ayant délivré. 
+L'autorité administrative assurant la police de l'aérodrome en application de l'article L. 6332-2 du code des transportsest
+tenue informée des agréments délivrés.
 
-En cas de risque grave pour la sécurité ou à la sûreté des aéronefs, des personnes et des biens, l'agrément peut faire
-l'objet d'une suspension immédiate pour une durée maximale de six mois. 
+III.-Le titulaire d'un agrément notifie au ministre chargé de l'aviation civile toute modification apportée à sa raison
+sociale, à son objet social ou à la répartition du capital, toute extension d'exercice d'activité sur un nouvel aérodrome ou
+toute cessation d'exercice d'activité sur un aérodrome mentionné au I du présent article. Il demande en outre une
+modification de l'agrément pour toute extension souhaitée concernant la zone d'activité sur l'aérodrome ou la nature des
+services rendus.
 
-L'autorité préfectorale notifie tout retrait et toute suspension d'agrément à l'intéressé et en informe l'entité
-gestionnaire, le comité des usagers et le ministre chargé de l'aviation civile.
+IV.-L'agrément est délivré pour une durée de cinq ans renouvelable.
+
+V.-Si, pour des raisons qui lui sont imputables, le titulaire de l'agrément ne satisfait plus aux critères et aux engagements
+énoncés au II, le ministre chargé de l'aviation civile adresse à l'intéressé une mise en demeure d'apporter les mesures
+correctives nécessaires aux manquements constatés dans un délai de trois mois.
+
+En cas de carence persistante à l'expiration du délai précisé à l'alinéa précédent, le ministre chargé de l'aviation civile
+peut, compte tenu de la gravité des manquements constatés :
+
+1° Imposer, après consultation du ou des exploitants d'aérodrome concernés, des mesures de restriction d'exploitation pour
+une durée qu'il fixe, qui ne peut excéder trois mois.
+
+Le ministre peut décider, dans les mêmes conditions, de la prorogation de ces mesures pour une nouvelle période n'excédant
+pas trois mois. La période d'effet des mesures de restriction d'exploitation ne dépasse pas le terme de la période
+d'agrément ;
+
+2° Suspendre l'agrément pour une durée maximale de six mois, pour un ou plusieurs aérodromes ;
+
+3° Prononcer le retrait de l'agrément, pour un ou plusieurs aérodromes.
+
+Les mesures de restriction d'exploitation peuvent porter sur la nature des services rendus sur un ou plusieurs aérodromes sur
+lesquels le titulaire de l'agrément exerce ou sur les aérodromes sur lesquels le titulaire de l'agrément peut exercer.
+
+Le titulaire de l'agrément est préalablement avisé de la mesure de restriction d'exploitation, de la suspension ou du retrait
+total ou partiel de l'agrément et dispose d'un délai de quinze jours pour présenter ses observations écrites ou orales.
+
+En cas de risque grave pour la sécurité ou la sûreté des aéronefs, des personnes et des biens ou lorsque le ministre chargé
+de l'aviation civile a connaissance d'un procès-verbal relevant un manquement à des dispositions énumérées aux articles R.
+217-2 et R. 217-3 ou constatant l'une des infractions prévues aux 1° et 3° de l'article L. 8211-1 du code du travail, il
+peut, eu égard à la gravité des faits constatés, décider la suspension immédiate de l'agrément pour un ou plusieurs
+aérodromes et pour une durée maximale de six mois.
+
+Le ministre chargé de l'aviation civile notifie toute mesure restrictive d'exploitation, toute suspension et tout retrait
+d'agrément à l'intéressé et en informe chaque exploitant d'aérodrome concerné ainsi que l'autorité administrative assurant la
+police de l'aérodrome en application de l'article L. 6332-2 du code des transports. L'exploitant d'aérodrome tient les
+usagers de la plateforme informés.
+
+VI.-Si des mesures de restriction d'exploitation prévues au V sont applicables lors du dépôt de la demande de modification de
+l'agrément et si les corrections nécessaires n'ont pas alors été apportées, le ministre chargé de l'aviation civile peut
+refuser la demande de modification ou décider d'accorder la modification de l'agrément et conserver les mesures de
+restriction d'exploitation.
+
+VII.-La demande de renouvellement de l'agrément est déposée au plus tard six mois avant le terme de la période d'agrément.
+
+Si des mesures de restriction d'exploitation prévues au V sont applicables jusqu'au terme de la période d'agrément et si les
+corrections nécessaires n'ont pas alors été apportées, le ministre chargé de l'aviation civile peut décider du non-
+renouvellement de l'agrément ou assortir le renouvellement de l'agrément de la prorogation de ces mesures pour une durée
+qu'il fixe et qui ne peut excéder trois mois.
+
+**Nota:**
+
+Conformément à l'article 18 du décret n° 2020-1077 du 19 août 2020 :
+
+A titre transitoire, les agréments délivrés avant l'entrée en vigueur du présent décret pour un des aérodromes mentionnés au
+premier alinéa du I de l'article R. 216-14 du code de l'aviation civile prennent fin au terme de la période d'agrément
+associée sous réserve des dispositions de l'alinéa suivant.
+
+Le renouvellement des agréments mentionnés à l'alinéa précédent et les demandes de nouvel agrément prévues au III de
+l'article R. 216-14 du code de l'aviation civile dans sa rédaction antérieure au présent décret sont instruits selon les
+dispositions prévues à l'article R. 216-14 dans sa rédaction issue du présent décret.
+
+Les dispositions du V de l'article R. 216-14 dans sa rédaction issue du présent décret s'appliquent aux agréments délivrés
+avant l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°67-334 du 30 mars 1967
 
 _Cité par_:
 
@@ -8161,105 +8124,86 @@ _Cité par_:
   - Décret n°2017-567 du 19 avril 2017 - art. 10 (V)
   - Décret n°2020-1077 du 19 août 2020 - art. 18 (VD)
   - Code de l'aviation civile - art. R216-18 (VD)
-  - Code de l'aviation civile - art. R216-4 (V)
+  - Code de l'aviation civile - art. R216-4 (VD)
+
+_Modifié par_:
+
+  - Décret n°2020-1077 du 19 août 2020 - art. 14
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L213-2 (VT)
-  - Code de l'aviation civile - art. R213-4 (M)
-  - Code de l'aviation civile - art. R216-13 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
+  - Code de commerce - art. L225-248
+  - Code de commerce - art. R123-220
+  - Code du travail - art. L8211-1
+  - Code des transports - art. L6332-2
 
 
 ###### Article R216-15
 
-La demande d'agrément, présentée sur un modèle défini par arrêté du ministre chargé de l'aviation civile, doit être
-accompagnée des documents suivants :
-
-a) Un extrait des statuts de la société ;
-
-b) Une copie de la police d'assurance couvrant les risques de l'activité exercée sur l'aérodrome ;
-
-c) Une copie du bilan certifié du dernier exercice ;
-
-d) Les attestations de paiement des cotisations sociales et des impôts et taxes pour le dernier exercice exigible.
-
-Les pièces mentionnées au c et au d ne sont exigées que si le demandeur a exercé une activité professionnelle antérieurement
-à sa demande.
+Un arrêté du ministre chargé de l'aviation civile précise les documents qui accompagnent la demande d'agrément et la demande
+de modification ou de renouvellement de l'agrément.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°67-334 1967-03-30
+  - Décret n°67-334 du 30 mars 1967
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°98-7 1998-01-07 art. 2
-
-_Créé par_:
-
-  - Décret n°98-7 du 5 janvier 1998 - art. 1 () JORF 7 janvier 1998
+  - Décret n°2020-1077 du 19 août 2020 - art. 15
 
 
 ###### Article R216-16
 
 1° Les prestataires autorisés à fournir des services d'assistance en escale sur un aérodrome sont soumis à une sélection
 lorsque leur nombre est limité dans les cas prévus à l'article R. 216-5 ou au I, 3° et 4°, de l'article R. 216-7. Cette
-procédure de sélection n'est pas applicable au gestionnaire de l'aérodrome ni à toute entreprise qu'il contrôle directement
-ou indirectement ou qui le contrôle directement ou indirectement. 
+procédure de sélection n'est pas applicable à l'exploitant d'aérodrome ni à toute entreprise qu'il contrôle directement ou
+indirectement ou qui le contrôle directement ou indirectement.
 
-La sélection des prestataires est opérée dans les conditions suivantes : 
+La sélection des prestataires est opérée dans les conditions suivantes :
 
 a) Le cahier des charges ou les spécifications techniques auxquels ces prestataires doivent répondre sont établis par
 l'entité procédant à la sélection après consultation du comité des usagers prévu à l'article R. 216-8 ainsi, le cas échéant,
-que du gestionnaire de l'aérodrome. Ce cahier des charges fait notamment référence à la législation et à la réglementation
+que de l'exploitant d'aérodrome. Ce cahier des charges fait notamment référence à la législation et à la réglementation
 applicables en matière de droit du travail ainsi qu'aux conventions collectives correspondant aux activités d'assistance en
-escale exercées ; 
+escale exercées ;
 
-b) L'entité procédant à la sélection doit lancer un appel d'offres, publié au Journal officiel des Communautés européennes,
-auquel tout prestataire intéressé peut répondre ; 
+b) L'entité procédant à la sélection doit lancer un appel d'offres, publié au Journal officiel de l'Union européenne, auquel
+tout prestataire intéressé peut répondre ;
 
-c) Les prestataires sont retenus, après consultation du comité des usagers : 
+c) Les prestataires sont retenus, après consultation du comité des usagers :
 
-I.-Par le gestionnaire, si celui-ci ne fournit pas de services similaires d'assistance en escale et ne contrôle, directement
-ou indirectement, aucune entreprise fournissant de tels services, et ne détient aucune participation dans une telle
-entreprise ; 
+I.-Par l'exploitant d'aérodrome, si celui-ci ne fournit pas de services similaires d'assistance en escale et ne contrôle,
+directement ou indirectement, aucune entreprise fournissant de tels services, et ne détient aucune participation dans une
+telle entreprise ;
 
 II.-Dans les autres cas :
 
-- pour les aérodromes de Paris-Charles-de-Gaulle et de Paris-Orly, par le ministre chargé de l'aviation civile après
-consultation du gestionnaire ;
+- pour les aérodromes de Paris-Charles de Gaulle et de Paris-Orly, par le ministre chargé de l'aviation civile après
+consultation de l'exploitant d'aérodrome ;
 
-- pour les aérodromes autres que Paris-Charles-de-Gaulle et Paris-Orly, par le préfet exerçant les pouvoirs de police sur
-l'aérodrome, après consultation du gestionnaire et, le cas échéant, du signataire de la convention prévue à l'article L.
-221-1 ; le préfet informe de son choix le gestionnaire, le ministre chargé de l'aviation civile et, le cas échéant, le
-signataire de la convention prévue à l'article L. 221-1. 
+- pour les aérodromes autres que Paris-Charles de Gaulle et Paris-Orly, par le préfet exerçant les pouvoirs de police sur
+l'aérodrome, après consultation de l'exploitant d'aérodrome et, le cas échéant, du signataire de la convention prévue à
+l'article L. 6321-3 ; le préfet informe de son choix l'exploitant d'aérodrome, le ministre chargé de l'aviation civile et, le
+cas échéant, le signataire de la convention prévue à l'article L. 6321-3.
 
-Le comité des usagers émet un avis lot par lot sur le choix des prestataires. Chaque membre du comité peut désigner autant de
-prestataires que d'autorisations à attribuer par lot regroupant un ensemble de services soumis à limitation. L'avis fait
-mention par ordre décroissant du nombre de voix obtenues par chaque prestataire. 
+d) Les prestataires retenus doivent détenir un agrément ;
 
-d) Les prestataires retenus doivent détenir un agrément ; 
-
-e) Les prestataires sont retenus pour une durée maximale de sept années ; 
+e) Les prestataires sont retenus pour une durée maximale de sept années ;
 
 f) Lorsqu'un prestataire cesse son activité avant l'expiration de la période pour laquelle il a été sélectionné, il est
-procédé à son remplacement suivant la même procédure ; 
+procédé à son remplacement suivant la même procédure ;
 
-g) A compter du 1er janvier 2001, l'un au moins des prestataires sélectionnés ne peut être contrôlé directement ou
-indirectement :
+g) L'un au moins des prestataires sélectionnés ne peut être contrôlé directement ou indirectement :
 
-- ni par le gestionnaire de l'aérodrome ;
+- ni par l'exploitant d'aérodrome ;
 
 - ni par un transporteur aérien ayant transporté plus de 25 % des passagers ou du fret enregistrés dans l'aérodrome au cours
 de l'année précédant celle où s'opère la sélection de ces prestataires ;
 
-- ni par une entité contrôlant ou étant contrôlée directement ou indirectement par ce gestionnaire ou par un tel transporteur
-aérien. 
+- ni par une entité contrôlant ou étant contrôlée directement ou indirectement par cet exploitant ou par un tel transporteur
+aérien.
 
 2° Le gestionnaire de l'aérodrome informe le comité des usagers des décisions prises en application du présent article.
 
@@ -8267,7 +8211,7 @@ aérien.
 
 _Modifié par_:
 
-  - Décret n°2009-551 du 19 mai 2009 - art. 2
+  - Décret n°2020-1077 du 19 août 2020 - art. 16
 
 _Cité par_:
 
@@ -8278,8 +8222,61 @@ _Cité par_:
 _Cite_:
 
   - Code de l'aviation civile - art. L221-1
-  - Code de l'aviation civile - art. R216-5 (V)
-  - Code de l'aviation civile - art. R216-7 (V)
+  - Code de l'aviation civile - art. R216-5
+  - Code de l'aviation civile - art. R216-7
+
+
+###### Article R216-17
+
+Sur les aérodromes dont le trafic annuel est supérieur ou égal à deux millions de passagers ou 50 000 tonnes de fret
+transporté par avion, l'exploitant d'aérodrome tient à jour un système d'information sur le marché de l'assistance en escale
+comprenant pour chaque service d'assistance en escale :
+
+1° La liste des prestataires d'assistance en escale autorisés avec les conditions de ces autorisations ;
+
+2° La liste des prestataires d'assistance en escale exerçant effectivement une activité, en distinguant les prestataires
+contractants avec un transporteur aérien et les prestataires agissant en qualité de sous-traitants de prestataires
+contractants avec un transporteur aérien ;
+
+3° La liste des transporteurs aériens assistés par chaque prestataire d'assistance en escale ;
+
+4° La liste des transporteurs aériens pratiquant l'auto-assistance en escale.
+
+L'exploitant d'aérodrome communique chaque année ces éléments au ministre chargé de l'aviation civile dans un délai de trois
+mois après la fin de la saison aéronautique d'été.
+
+L'exploitant d'aérodrome présente annuellement au comité des usagers un état des lieux du marché de l'assistance en escale
+sur l'aérodrome issu du système d'information tenu en application du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-1077 du 19 août 2020 - art. 17
+
+
+###### Article R216-18
+
+Sur les aérodromes dont le trafic annuel est supérieur ou égal à deux millions de passagers ou 50 000 tonnes de fret
+transporté par avion, les prestataires de services d'assistance en escale communiquent, chaque année, au ministre chargé de
+l'aviation civile un rapport portant sur l'exercice comptable échu comprenant : 
+
+1° Les comptes sociaux et consolidés et leurs annexes ainsi que le rapport du commissaire aux comptes ; 
+
+2° Les attestations de paiement des cotisations sociales et des impôts et taxes ; 
+
+3° L'attestation d'assurance couvrant les risques de l'activité exercée au titre de l'agrément mentionné à l'article R.
+216-14.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-1077 du 19 août 2020 - art. 17
+
+_Cite_:
+
+  - Code de l'aviation civile - art. R216-14
 
 
 #### CHAPITRE VII : SANCTIONS ADMINISTRATIVES<a id=80></a>
